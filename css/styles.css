@@ -8,7 +8,10 @@ body {
 	line-height: 1.7em;
 	color: #061324;
 }
-
+.responsive{
+	max-width: 100%;
+	height: auto;
+}
 #container {
 	width: 70%;
 	margin: 10px auto;
