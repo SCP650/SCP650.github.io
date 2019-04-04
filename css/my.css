@@ -25,6 +25,7 @@ header,
 }
 
 
+
 @media (max-width: 740px) {
   html,
   body,
@@ -38,7 +39,7 @@ header,
 
 @media (max-width: 991px) {
   .navbar:not(.top-nav-collapse) {
-    background: rgba(255, 255, 255, 0.6) !important;
+    background: rgba(155, 149, 149, 0.69) !important;
   }
 }
 

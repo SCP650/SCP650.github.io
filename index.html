@@ -133,7 +133,7 @@
 	             <h1 class="text-center scroUp">About</h1>
               </div>
               
-              <div class="col-6 mt-3 scroUp d-sm-none d-md-block">
+              <div class="col-6 mt-3 scroUp d-none d-md-block">
 	              <img src="images/placeholder.png" width="400" class="rounded float-right" >
               </div>
               
@@ -172,7 +172,7 @@
                  </a>
               </div>
               
-              <div class="col mt-3 scroUp d-sm-none d-md-block">
+              <div class="col mt-3 scroUp d-none d-md-block">
 	              <img src="images/placeholder.png" width="400" class="rounded float-center" >
               </div>
               <!--Grid column-->
@@ -187,9 +187,9 @@
           
         </main>
         <!--Main Layout-->
-			<!-- Footer Modified base on https://mdbootstrap.com/docs/jquery/navigation/footer/-->
+	
 
-		 <div w3-include-html="footer.html"></div> 
+		 <div include-html="footer.html"></div> 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -209,11 +209,7 @@
 		};
 		ScrollReveal().reveal('.scroUp',slideUp);
 	</script>
-	<script> 
-	$(function(){
-	  $("#footer").load("footer.html"); 
-	});
-	</script> 
+
 	
 	 <script>
 	includeHTML();
