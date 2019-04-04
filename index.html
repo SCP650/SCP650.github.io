@@ -11,6 +11,8 @@
     <!-- Material Design Bootstrap -->
 	<link href="css/mdb.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="css/my.css">
+	
+	
     <title>Sebastian Yang</title>
   </head>
 	<body>
@@ -186,105 +188,13 @@
         </main>
         <!--Main Layout-->
 			<!-- Footer Modified base on https://mdbootstrap.com/docs/jquery/navigation/footer/-->
-<footer class="page-footer font-small bg-dark scroUp">
 
-
-    <!-- Footer Links -->
-    <div class="container text-center text-md-left">
-		<div class="row md-5"></div>
-      <!-- Grid row -->
-      <div class="row mt-4">
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-4 col-xl-3 mx-auto mb-4 d-sm-none d-md-block">
-
-          <!-- Content -->
-          <h6 class="text-uppercase font-weight-bold">Mailing Address</h6>
-          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>Carnegie Mellon University<br><br>
-			 5032 Forbes Avenue <br><br>
-			 SMC 1160 <br><br>
-			 Pittsburgh, PA 15289<br>
-			 </p>
-
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
-
-          <!-- Links -->
-          <h6 class="text-uppercase font-weight-bold">Contact</h6>
-          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>
-	        杨毓恺<br>
-            Sebastian Yang
-          </p>
-          <p>
-            Email: yukaiy@andrew.cmu.edu
-          </p>
-          <p>
-            Linkedin: <br>
-            <a href="http://linkedin.com/in/sebastian-yang-528805170" target="_blank"> Please introduce yourself with a custom note</a>
-          </p>
-
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-sm-none d-md-block">
-
-          <!-- Links -->
-          <h6 class="text-uppercase font-weight-bold">Useful links</h6>
-          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
-          <p>
-            <a href="#!">Home</a>
-          </p>
-          <p>
-            <a href="#!">About Me</a>
-          </p>
-          <p>
-            <a href="#!">Profolio</a>
-          </p>
-          <p>
-            <a href="#!">Contact</a>
-          </p>
-
-        </div>
-        <!-- Grid column -->
-
-        <!-- Grid column -->
-        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
-
-          <!-- Links -->
-          <h6 class="text-uppercase font-weight-bold">Wechat</h6>
-          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"><br>
-          <img src="images/placeholder.png" class="w-75"/>
-
-        </div>
-        <!-- Grid column -->
-		
-      </div>
-      <!-- Grid row -->
-	 
-    </div>
-    <!-- Footer Links -->
-	 
-    <!-- Copyright -->
-    <div class="footer-copyright text-center mt-2 py-3">© 2019 Copyright:
-      <a href="#"> Sebastian Yang</a>
-      <p> Yukai Presents</p>
-      
-    </div>
-    <!-- Copyright -->
-
-  </footer>
-  <!-- Footer -->
-
+		 <div w3-include-html="footer.html"></div> 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    
     <!-- MDB core JavaScript -->
 	<script type="text/javascript" src="js/mdb.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
@@ -299,7 +209,15 @@
 		};
 		ScrollReveal().reveal('.scroUp',slideUp);
 	</script>
-   
-   
+	<script> 
+	$(function(){
+	  $("#footer").load("footer.html"); 
+	});
+	</script> 
+	
+	 <script>
+	includeHTML();
+	</script> 
+	
   </body>
 </html>
