@@ -3,8 +3,18 @@
 	background-color: rgba(10, 11, 11, 0.64);
 }
 
+.bg-lighter{
+	background-color: rgba(248, 248, 248, 1);
+}
+
 .dropdown-item{
 	font-size: 15px;
+}
+
+.missionWords{
+	font-size: large;
+	font: bolder;
+	font-family:sans-serif;
 }
 
 html,
@@ -14,6 +24,7 @@ header,
   height: 100%;
 }
 
+
 @media (max-width: 740px) {
   html,
   body,
@@ -21,6 +32,8 @@ header,
   .view {
     height: 100vh;
   }
+
+ 
 }
 
 @media (max-width: 991px) {
