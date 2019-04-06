@@ -32,6 +32,10 @@ header,
 	object-fit: cover;
 }
 
+footer {
+  overflow: hidden;
+}
+
 
 @media (max-width: 740px) {
   html,
