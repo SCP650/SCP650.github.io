@@ -3,6 +3,7 @@
 	background-color: rgba(10, 11, 11, 0.64);
 }
 
+
 .bg-lighter{
 	background-color: rgba(248, 248, 248, 1);
 }
@@ -24,6 +25,12 @@ header,
   height: 100%;
 }
 
+/*corp off over flow image from both side*/
+.carousel-item img{
+	height: 100%;
+	object-position: center; 
+	object-fit: cover;
+}
 
 
 @media (max-width: 740px) {
@@ -43,9 +50,56 @@ header,
   }
 }
 
-.rgba-gradient {
-  background: -moz-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
-  background: -webkit-linear-gradient(45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
-  background: linear-gradient(to 45deg, rgba(213, 15, 61, 0.6), rgba(13, 17, 198, 0.69) 100%);
+
+.gallery-title
+{
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.86);
+    text-align: center;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.gallery-title:after {
+    content: "";
+    position: absolute;
+    width: 7.5%;
+    left: 46.5%;
+    height: 45px;
+    border-bottom: 1px solid #5e5e5e;
+}
+
+
+
+.filter-button
+{
+    font-size: 18px;
+    border-radius: 5px;
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.filter-button:hover
+{
+    font-size: 19px;
+    text-align: center;
+    color: #ffffff;
+    background-color: #42B32F;
+
+}
+.btn-default:active .filter-button:active
+{
+    background-color: #42B32F;
+    color: white;
+}
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{	
+	width: 100%;
+    margin-bottom: 30px;
 }
 

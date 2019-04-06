@@ -36,10 +36,10 @@
       <li class="nav-item">
         <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="aboutMe.html">About me</a>
       </li>
-      <li class="nav-item dropdown">
+      <li class="nav-item dropdown active">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
           Profolio
         </a>
@@ -121,28 +121,87 @@
     <main>
           <div class="container-fluid bg-lighter" >
 	 
-	        <div class="container w-75 mb-4">
-            <!--Grid row-->
-            <div class=" row">
-              <!--Grid column-->
-              <div class="col-12">
-	             <h1 class="text-center  mt-4 scroUp">Hi, I'm Sebastian</h1>
-              </div>
-              
-              
-              
-              <div class="col ml-2  mt-3 scroUp">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur </p>
-			
-              
-              </div>
-              <!--Grid column-->
+	    <div class="container mt-4">
+        <div class="row">
+        <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            <h1 class="gallery-title">Gallery</h1>
+            <p class="text-center mb-4">The stuff I have done/am working on</p>
+        </div>
+		<!-- refer from https://www.bootply.com/L5H5B8zbqB -->
+        <div align="center">
+            <button class="btn btn-dark filter-button text-capitalize" data-filter="all">All</button>
+            <button class="btn btn-dark  filter-button text-capitalize" data-filter="hdpe">HDPE Pipes</button>
+            <button class="btn btn-dark  filter-button text-capitalize" data-filter="sprinkle">Sprinkle Pipes</button>
+            <button class="btn btn-dark  filter-button text-capitalize" data-filter="spray">Spray Nozzle</button>
+            <button class="btn btn-dark  filter-button text-capitalize" data-filter="irrigation">Irrigation Pipes</button>
+        </div>
+        <br>
+
+
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
             </div>
-            <!--Grid row-->
-            
-          </div>
-          <!--End container-->
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                 <div class="view overlay">
+			    	<img src="http://fakeimg.pl/365x365/" class="img-fluid" alt="smaple image">
+				    <div class="mask flex-center rgba-black-light">
+				        <p class="white-text font-weight-bold">Light overlay</p>
+				    </div>
+				</div>
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+              
+                <div class="view overlay"><a href="index.html">
+			    	<img src="http://fakeimg.pl/365x365/" class="img-fluid" alt="smaple image">
+				    <div class="mask flex-center rgba-black-light">
+				        <p class="white-text font-weight-bold text-center">Project Name<br><br>Leadership<br>Design</p>
+				    
+				    </div>
+				</a></div>
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter irrigation">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter hdpe">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter spray">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter sprinkle">
+                <img src="http://fakeimg.pl/365x365/" class="img-fluid">
+            </div>
+        </div>
+    </div>
+ <!--End container-->
+
              
           </div>
            <!--End container-fluid-->
@@ -176,6 +235,35 @@
 	 <script>
 	includeHTML();
 	</script> 
+	
+	<script type="text/javascript">
+	$(document).ready(function(){
+
+    $(".filter-button").click(function(){
+        var value = $(this).attr('data-filter');
+        
+        if(value == "all")
+        {
+            //$('.filter').removeClass('hidden');
+            $('.filter').show('1000');
+        }
+        else
+        {
+//            $('.filter[filter-item="'+value+'"]').removeClass('hidden');
+//            $(".filter").not('.filter[filter-item="'+value+'"]').addClass('hidden');
+            $(".filter").not('.'+value).hide('3000');
+            $('.filter').filter('.'+value).show('3000');
+            
+        }
+    });
+    
+    if ($(".filter-button").removeClass("active")) {
+$(this).removeClass("active");
+}
+$(this).addClass("active");
+
+});
+	</script>
 	
   </body>
 </html>
