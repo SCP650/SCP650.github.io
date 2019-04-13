@@ -12,9 +12,9 @@
 	font-size: 15px;
 }
 
-.missionWords{
-	font-size: large;
-	font: bolder;
+.missionWords p{
+	font-size: larger;
+	
 	font-family:sans-serif;
 }
 
