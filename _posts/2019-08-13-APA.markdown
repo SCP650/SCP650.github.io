@@ -24,7 +24,7 @@ From my perspective, animals should be treated ethically.<br><br> Not being an e
 Throughout our campaign, I organized charity sales and class presentations. At the peak of our campaign, we argued with local government representatives to stop school trips to a local animal circus and we held charity show at 5 different public areas in my city at the same time with over 120 student volunteers, donating all the money we raised to PETA Hong Kong.
 
 This is our story:
-{% include image.html img="sign.jpg" caption=" \"I promise I will never visit animal circuses.\" "%}
+{% include image.html img="sign.JPG" caption=" \"I promise I will never visit animal circuses.\" "%}
 
 ## Table of Contents
 {:.no_toc}
@@ -79,8 +79,8 @@ In the end, we educated many pedestrians and received more than 500 signatures. 
 
 <table class="text-center" >
 <tr><td><a href="/images/projects/APA/poster3.jpg"> <img src="/images/projects/APA/poster3.jpg" class="w-100"></a></td>
-  <td><a href="/images/projects/APA/posts1.PNG"> <img src="/images/projects/APA/posts1.png"  class="w-75"></a></td>
-  <td><a href="/images/projects/APA/posts2.PNG"> <img src="/images/projects/APA/posts2.PNG"  class="w-100"></a></td>
+  <td><a href="/images/projects/APA/posts1.PNG"> <img src="/images/projects/APA/posts1.PNG"  class="w-75"></a></td>
+  <td><a href="/images/projects/APA/posts2.png"> <img src="/images/projects/APA/posts2.png"  class="w-100"></a></td>
 </tr>
 
 <tr><td><a href="/images/projects/APA/sales.JPG"> <img src="/images/projects/APA/sales.JPG" class="w-100"></a></td>
