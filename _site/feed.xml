@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-13T20:34:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
+
+&lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/Ad.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/Ad.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Big Skinny's Ad&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#background&quot; id=&quot;markdown-toc-background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#problems&quot; id=&quot;markdown-toc-problems&quot;&gt;Problems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#our-proposal&quot; id=&quot;markdown-toc-our-proposal&quot;&gt;Our Proposal&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#marketing&quot; id=&quot;markdown-toc-marketing&quot;&gt;Marketing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#new-website&quot; id=&quot;markdown-toc-new-website&quot;&gt;New website&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#interactive-wallet-selection-guide&quot; id=&quot;markdown-toc-interactive-wallet-selection-guide&quot;&gt;Interactive Wallet Selection Guide&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-user-story&quot; id=&quot;markdown-toc-a-user-story&quot;&gt;A User Story&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot; id=&quot;markdown-toc-credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
+
+&lt;p&gt;Big Skinny is an e-commerce wallet company that sells thin wallets. Because of the unique material it uses, the company can produce surprisingly thin and lightweight wallets that are also water resistant and can be machine washed.&lt;/p&gt;
+
+&lt;p&gt;This seems like a great product, but in reality, this company is facing plummeting sales and its yelp page is filled with negative one-star reviews.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/Bad_Reviews.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/Bad_Reviews.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, what went wrong?&lt;/p&gt;
+&lt;h2 id=&quot;problems&quot;&gt;Problems&lt;/h2&gt;
+&lt;p&gt;Upon reviewing the company, my team and I concluded three major problems.&lt;/p&gt;
+
+&lt;p&gt;The first one is its bad website design. It’s hard to navigate and includes too much text and options. You can expereince it first-hand &lt;a href=&quot;https://www.bigskinny.net&quot;&gt;here&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.bigskinny.net&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/BigSkinny/index.jpeg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Home Page of Big Skinny&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;This is their front page when we took over. As you can see, different components were not aligned, tags and buttons are confusing (what does “CARD CASES + $ CLIPS” even means??). I hate to say this but the whole site left me with an impression of a high school project done at the last minute. Because of the bad user interface design, the conversion rate for somebody redirected to this website through online ads is guaranteed to be low.&lt;/p&gt;
+
+&lt;p&gt;The second problem is its lack of a target customer group. In its website, it tries to target men, women, travelers, police officers, teenagers, businessmen, and women, as well as random customer group with products like “Paper watch” and “Stainless Steel Mesh Wallet Comb” that doesn’t make any sense for a wallet company to sell.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/page.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/page.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;Big Skinny is the textbook classic company that tries to fit all markets. By providing more than 40+ Wallets for people to choose and tons of unnecessary accessories, the company try to please everyone and got no one in the end.&lt;/p&gt;
+
+&lt;p&gt;The third one is poor database management. In the yelp page, many people left a negative review because of an incident in 2010. In this incident, more than 4000 people ordered wallets through Big Skinny’s website. But because of a “glitch in an online promotion” as Big Skinny CEO Kiril Alexandrov put it, most of the wallets were given for free. Technical difficulties with promotion coupons appeared multiple times ever since, as can be seen in 2013 and 2017. This can be attributed to bad database structure and management.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h2&gt;
+
+&lt;p&gt;To improve Big Skinny’s sales, we first need to rebrand the company. Thus, we identified a target customer group: young travelers. This is because big skinny’s waterproof thin wallet fit the need of travelers and hikers. Then, we identified three major problems with its current website: lengthy words, disorganized layout, too many choices to narrow down to one product. And by deploying online marketing campaigns directly targeting young travelers and redesigning our website to provide a youth-centered user experience that can attract and assist young travelers in buying and selecting wallets. Finally, we come up with a new database relationship system that can hopefully avoid further coupon problems.&lt;/p&gt;
+&lt;h3 id=&quot;marketing&quot;&gt;Marketing&lt;/h3&gt;
+&lt;p&gt;To target young gen Z travelers, we initiated the “Built for the Courageous” online marketing campaign. As a part of this campaign, Big Skinny will need at least one person dedicated solely to consistently creating new content and synthesizing customer testimonials for future advertisements. Part of this campaign will include new media for all platforms, such as a Facebook video ad to target and draw in the young traveler demographic.&lt;/p&gt;
+
+&lt;h3 id=&quot;new-website&quot;&gt;New website&lt;/h3&gt;
+&lt;p&gt;After we allured customer with ads to our website, we need to provide an easy-to-use user experience. Thus, we first re-designed the website by organizing its information architecture in a clean and easy to follow manner. We designed a clear navigation bar and cut down words in the index page from 200 words to around 50 words while keeping essential information. By accompanied them with images, we can make them more readable for the customer.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/New_Index.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/New_Index.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;interactive-wallet-selection-guide&quot;&gt;Interactive Wallet Selection Guide&lt;/h3&gt;
+&lt;p&gt;Moreover, to help customers narrow their choices from 40+ wallet designs to one wallet, we designed an interactive wallet selection guide.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/Selection_Guide.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/Selection_Guide.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;a-user-story&quot;&gt;A User Story&lt;/h2&gt;
+
+&lt;p&gt;Say Jack is a 20-year-old college graduate, While browsing Facebook one day, he saw a short video about this amazingly slim wallet. This video is actually a Facebook ad we bought in the online marketing campaign. By the end of the video, he saw a line says “Build for the courageous”. As a traveler, he was inspired to click the link to go to our website.&lt;/p&gt;
+
+&lt;p&gt;Upon visiting our website, the first thing he saw is this inspiring image and as he scrolled down he saw all the advantages of Big Skinny wallets. Just as he was about to buy one, he saw the wallet selection guide and clicked it. There, he can select his preferences and the site will provide recommendations.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/question.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/question.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;“Wow, these recommendations seem great. let me check out this wallet”&lt;/p&gt;
+
+&lt;p&gt;In the product info page, we simplified all the product information. So, customers can learn more about the wallet quickly and place an order quickly.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/BigSkinny/recommand.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/BigSkinny/recommand.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;
+“This looks great. I will take it!”&lt;/p&gt;
+
+&lt;p&gt;This is the end of one transaction, but not the end of our relationship with this customer. Using our database system, a week after Jack bought the first wallet, we will recommend a second category of wallet, such as a leather wallet different from the one customer originally purchased, and advertise it in an email saying, “One for outdoors and one for indoors.”&lt;/p&gt;
+
+&lt;p&gt;In conclusion, by integrating market research, database design, and website design, this solution will emphasize Big Skinny’s strengths and improved customer experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Throughout the two weeks of our term project, my role is sort of like the “scrum master” in the team. I set up the overall goal and communicate with each individual about their design, provide them with feedback, make sure the production timeline is working and keep track of the scope of our term project.&lt;/p&gt;
+
+&lt;p&gt;Since the four of us cannot meet frequently, I coordinate the team to make sure we are all on the same page and the Executive summary, web prototype, ERD and our presentation are tightly integrated. On the other hand, my friend Christine, Megan and Jonathan are responsible for the actual work. Thank you for all the good work!&lt;/p&gt;</content><author><name></name></author><category term="Leadership" /><category term="Web_Design" /><category term="All" /><summary type="html">This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.</summary></entry><entry><title type="html">APA</title><link href="http://localhost:4000/projects/2015/fall/APA" rel="alternate" type="text/html" title="APA" /><published>2019-08-13T14:41:23-04:00</published><updated>2019-08-13T14:41:23-04:00</updated><id>http://localhost:4000/projects/2015/fall/APA</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/APA">&lt;p&gt;From my perspective, animals should be treated ethically.&lt;br /&gt;&lt;br /&gt; Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.&lt;/p&gt;
+
+&lt;p&gt;Throughout our campaign, I organized charity sales and class presentations. At the peak of our campaign, we argued with local government representatives to stop school trips to a local animal circus and we held charity show at 5 different public areas in my city at the same time with over 120 student volunteers, donating all the money we raised to PETA Hong Kong.&lt;/p&gt;
+
+&lt;p&gt;This is our story:
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/APA/sign.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/APA/sign.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt; &quot;I promise I will never visit animal circuses.&quot; &lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#phase-1-in-classrooms&quot; id=&quot;markdown-toc-phase-1-in-classrooms&quot;&gt;Phase 1: In Classrooms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#phase-2-on-campus&quot; id=&quot;markdown-toc-phase-2-on-campus&quot;&gt;Phase 2: On Campus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#phase-3-in-society&quot; id=&quot;markdown-toc-phase-3-in-society&quot;&gt;Phase 3: In Society&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;phase-1-in-classrooms&quot;&gt;Phase 1: In Classrooms&lt;/h2&gt;
+&lt;p&gt;It is my firm belief that people’s joy should not be based on animals’ suffering. Thus, I was never fond of the idea of animal acrobatics. So I felt very uncomfortable when I learned my local government decided to invest about 100 million RMB (15 million USD) in building the largest animal circus in the world at my city, the “Ling Ling International Circus City” (厦门灵玲国际马戏城).&lt;/p&gt;
+
+&lt;p&gt;The decision has already been made by the government. Since demonstrations and appeals were not an option in my city, I focused on dissuading the public to visit. The easiest group of people I could reach was my schoolmates.&lt;/p&gt;
+
+&lt;p&gt;As a result, I wrote a speech and taught my teammates at the APA how to present. Then we talked to the school officials and presented our speed at each classroom. In the end, we received more than 100 signatures from students who vowed they would never visit animal circuses.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/APA/sign2.JPG&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/APA/sign2.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Signatures from students&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;phase-2-on-campus&quot;&gt;Phase 2: On Campus&lt;/h2&gt;
+&lt;p&gt;A few months after our initial campaign, our local government’s education department decided to make Ling Ling circus as the destination of many public schools’ school trip.&lt;/p&gt;
+
+&lt;p&gt;Saying we were not happy would be an understatement. We were furious.&lt;/p&gt;
+
+&lt;p&gt;I split my team into two groups. One group focus on reaching out to school and government officials to try to change the destination. But we knew the chances were slim since the local government was one of the investors of the circus. The other group focused on campus-wide charity sales to raise awareness.&lt;/p&gt;
+
+&lt;p&gt;We designed many merchandises and sold them at our on-campus charity sale. And we went back to the classroom again to pitch our idea and dissuade students from participating. But since there were only 2 school trips in our 3 years in high school, it was hard to dissuade students. Thus, I reframed the talk from “No Circus” to “My Last Trip to Circus”. We asked students to think what how do they feel if they were the animals and ask them to make this their first and final trip to animal circuses.&lt;/p&gt;
+
+&lt;div class=&quot;row text-center&quot;&gt;
+  &lt;div class=&quot;col-4&quot;&gt;
+    &lt;a href=&quot;/images/projects/APA/merch1.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch1.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+    Designed by Us
+  &lt;/div&gt;
+  &lt;div class=&quot;col-4&quot;&gt;
+    &lt;a href=&quot;/images/projects/APA/merch2.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch2.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+    Charity sale
+  &lt;/div&gt;
+  &lt;div class=&quot;col-4&quot;&gt;
+    &lt;a href=&quot;/images/projects/APA/merch3.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch3.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+    Yep, that's me
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;phase-3-in-society&quot;&gt;Phase 3: In Society&lt;/h2&gt;
+
+&lt;p&gt;Sadly, we did not manage to change the destination for our school trip. Many people, including myself, ended up going to the circus. This should be the end of our campaign, but, as you may have known, giving up is never an option for me. I wanted to raise more people’s awareness.&lt;/p&gt;
+
+&lt;p&gt;During that time, I was also one of the chief organizers of the 2017 Amoy Youth Elite Summit. Bridging the gap between different organizations have always been my thing. Thus, I wanted to motivate the participants of the Summit to help us with our campaign.&lt;/p&gt;
+
+&lt;p&gt;During the summit, I gave 50 RMB(7.4 USD) to each team as their initial fund. Each team has 3 days to plan out an executable plan to advocate for the rejecting animal circuses. And they would act out their plan on the fourth day. The participation was, of course, voluntary.&lt;/p&gt;
+
+&lt;p&gt;This was like a little experiment because I had no idea what they can come up within 3 days and how many people will even show up. But it turned out to be a great success. On the day of the event, about 120 students joined our event as organizers. We held charity sales and charity shows at two shopping districts (ZhongShang Road中山路, ShaPoWei沙坡尾), a shopping mall (SM), a public park (WuYi Squar五一广场) and our school at the same time.&lt;/p&gt;
+
+&lt;p&gt;In the end, we educated many pedestrians and received more than 500 signatures. We raised about 3600 RMB in four hours. And the budget for the whole event was only 550 RMB.&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/poster3.jpg&quot;&gt; &lt;img src=&quot;/images/projects/APA/poster3.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts1.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts1.png&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts2.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts2.PNG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/sales.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/sales.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/cert.jpg&quot;&gt; &lt;img src=&quot;/images/projects/APA/cert.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/signitures.png&quot;&gt; &lt;img src=&quot;/images/projects/APA/signitures.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+
+&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="Leadership" /><category term="All" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry><entry><title type="html">SSDCXI</title><link href="http://localhost:4000/projects/2015/fall/SSDCXI" rel="alternate" type="text/html" title="SSDCXI" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/SSDCXI</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/SSDCXI">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
+
+&lt;p&gt;SSDCXI stands for Space Settlement Design Club in Xiamen No.1 High School. It is a club I founded in my 10th grade to participate in the International Space Settlement Design Competition which was sponsored by NASA.&lt;/p&gt;
+
+&lt;p&gt;I started the club with nothing but passion. But after my 2 years of leading and advising the club, our club won the first prize in China qualifying round three times, won the gold medal in China final once, the runner-up prize in world semi-final in New Delhi, India twice and the Dick Edwards Award for Outstanding Leadership twice.&lt;/p&gt;
+
+&lt;p&gt;This is our story:
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;table class=&quot;text-center&quot;&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/1-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/1-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/2-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/2-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/3-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/3-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/4-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/4-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/5.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/5.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/6-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/6-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/7-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/7-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/8-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/8-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/9-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/9-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-1-the-founding&quot; id=&quot;markdown-toc-chapter-1-the-founding&quot;&gt;Chapter 1: The Founding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-2-try-fail-learn-repeat&quot; id=&quot;markdown-toc-chapter-2-try-fail-learn-repeat&quot;&gt;Chapter 2: Try, Fail, Learn, Repeat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-3-the-firsts&quot; id=&quot;markdown-toc-chapter-3-the-firsts&quot;&gt;Chapter 3: The Firsts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-4-growth&quot; id=&quot;markdown-toc-chapter-4-growth&quot;&gt;Chapter 4: Growth&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#web-design&quot; id=&quot;markdown-toc-web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#video-editing&quot; id=&quot;markdown-toc-video-editing&quot;&gt;Video Editing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sponsorship-negotiation&quot; id=&quot;markdown-toc-sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#event-planning&quot; id=&quot;markdown-toc-event-planning&quot;&gt;Event Planning&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chapter-1-the-founding&quot;&gt;Chapter 1: The Founding&lt;/h2&gt;
+&lt;p&gt;After recruiting 12 members, I founded the club in the spring of 2016. We have the same goal: to design a space settlement. But the problem was nobody knew what the heck we should do. I mean, it is a freaking space settlement.&lt;/p&gt;
+
+&lt;p&gt;The competition required us to design a space settlement orbiting Mercury. Basically, we need to write a 40-page proposal with 3D rendered graphs describing the settlement’s outer structural design(material, dimension, etc), inner city layout(road placement, apartment floor plan, etc), daily operation(food, water,etc) and automation design(contingency plan, industrial robots, etc).&lt;/p&gt;
+
+&lt;p&gt;My job, as the founder and president, is to lead my team to make something out of nothing.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/ssdcxi/team.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/ssdcxi/team.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Meet the Team&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;chapter-2-try-fail-learn-repeat&quot;&gt;Chapter 2: Try, Fail, Learn, Repeat&lt;/h2&gt;
+&lt;p&gt;As a high school freshman, I have no idea about how to lead an engineering design team so I just followed my hunch. Before the competition starts, in order to train my teammates how to use 3D modeling softwares, I invited professors from local university to gave lectures. To inform my teammate about how to design, I read through several space settlement proposals and gave talks about physics and design every week. &lt;/p&gt;
+
+&lt;p&gt;After about 2 months preparation, the 12 of us received our first RFP(Request For Proposal), requesting us to design a sun-facing polar space settlement orbiting Mercury. To achieve our goal, I deployed a quick weekly iteration cycle in my team by organizing my team into multiple smaller task teams. Through each iteration, I can provide quick feedback to my teammates. As a result, my team and I managed to design multiple versions of the same system quickly, each time better than the last.&lt;/p&gt;
+
+&lt;div class=&quot;row text-center&quot;&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall1.JPG&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall1.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V1.0
+    &lt;/div&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall2.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V2.0
+    &lt;/div&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall3.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall3.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V3.0
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sometimes I needed to work with my teammates to repeatedly revise their designs, like how we revised the outer structure of our settlement more than eleven times to better accommodate Mercury’s extreme environment. Other times, I facilitated brainstorming sessions for my club members in front of a blackboard for an entire afternoon.&lt;/p&gt;
+
+&lt;p&gt;After 4 months of hard work, we made it: A 70-page proposal for a space settlement designed by us.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that I studied at a regular public high school in China, meaning our class started at 7:15 am and finished at 9:45 pm. So I am very grateful that my teammates were willing to follow me to accomplish this almost impossible task on top of our heavy curriculum. Working with you guys under high pressure is one of the best experience in my life. Thank you!&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/old.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/old.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/new.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/new.png&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Outer Structure V1.0&lt;/td&gt;&lt;td&gt;Outer Structure V2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-3-the-firsts&quot;&gt;Chapter 3: The Firsts&lt;/h2&gt;
+&lt;p&gt;After submitting our proposal in August, I thought this would be the end of our journey. I mean, after all, we were an inexperienced team participating in this competition for the first time. Finishing the proposal on time was a miracle in and of itself, there is no way we can be in the China Final.&lt;/p&gt;
+
+&lt;p&gt;Little did I know, this was just the start of a fulfilling two-year journey.&lt;/p&gt;
+
+&lt;p&gt;As you may have guessed, we became the first team from my province/state winning the first prize in qualifying round. In China final, I was elected President to lead a simulated aerospace company Vulture which consisted of 48 students to design a new space settlement. But this time, I only have 24 hours and 36 of the 48 students were people I have never met before. By coordinating between departments, I lead the design of an underground settlement on the surface of Mercury in 24 hours. Sadly, my company only won the runner-up prize, meaning my school was not qualified for the world semi-final in India.&lt;/p&gt;
+
+&lt;p&gt;But giving up was never an option for my team and I. So after the competition, my team and I spent one month designed and redesigned a new proposal based on the initial one. Those were some of the darkest hours in my high school life, because my ACT test, my mid-terms for 5 subjects in school and the deadline for submission were less than 10 days apart. But we made it.&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/robo2.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/robo2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/HF.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/HF.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/structure.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/structure.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Automation&lt;/td&gt;&lt;td&gt;Human Factor&lt;/td&gt;&lt;td&gt;Structure&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may have guessed, we became the first team from my province/state participating in world semi-final in New Delhi, India and I was the only Chinese elected as President during the competition. This time, I need to lead a 54-student company consists of students from 3 different countries.&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/800 (1).jpeg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/800 (1).jpeg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/0412_1.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/0412_1.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/IMG_0816.JPG&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/IMG_0816.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;First Club Meeting&lt;/td&gt;&lt;td&gt;Medals&lt;/td&gt;&lt;td&gt;Yep,that's me&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-4-growth&quot;&gt;Chapter 4: Growth&lt;/h2&gt;
+&lt;p&gt;Winning or losing one match is normal, but what’s hard is how to transfer the knowledge we learned and make SSDCXI a bigger and better club. So here is what I did to expand my club from 12 members to 40 members in two years.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-design&quot;&gt;Web Design&lt;/h3&gt;
+&lt;p&gt;We are a tech club. Naturally, we need a website, preferably, a cool one. But the problem was nobody in my team knew how to design a website. So naturally, we taught ourselves how to do so. I spent the summer of 2017 working on this website. This is the first website I have ever designed: &lt;a href=&quot;http://ssdcxi.space&quot;&gt;ssdcxi.space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is designed with the goals of introducing our club to prospective members and recording our club’s history. It is now maintained by my successors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;http://ssdcxi.space&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/ssdcxi/site.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
+&lt;p&gt;It was hard to describe what we do in one poster, (even though we designed multiple ones), so I wanted to shot a promotional video for my club to recruit new members. But the problem was, again, nobody in my team knew how to do that. So naturally, we taught ourselves how to do so. My friends helped me with the footage and I spent about 2 days editing this video. Keep in mind this was made by a guy with zero editing background, so it may not be the best promotional video you’ve seen. You can check out the full video here:&lt;/p&gt;
+
+&lt;p&gt;If you are in China, you can check it out &lt;a href=&quot;https://v.qq.com/x/page/c0386c9vi4t.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;iframe class=&quot;w-100&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/5vjjPYgHHZM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/h3&gt;
+&lt;p&gt;During the competition, we needed to travel to Beijing and India. Thus, we need some kind of sponsorship to cover our cost. Since my school had no tradition of sponsoring external competitions, I had many meetings with my school’s officials and education head to persuade them to reimburse some of our cost. Mr.Chen, our club advisor, helped me a lot during the process. I also traveled to the other side of the city multiple times to negotiate and secure corporate sponsorship from EIC(启德教育集团). In the end, our hotels and dining were reimbursed by my school and plane tickets were sponsored by EIC, saving about 30,000 RMB for my team.&lt;/p&gt;
+
+&lt;h3 id=&quot;event-planning&quot;&gt;Event Planning&lt;/h3&gt;
+&lt;p&gt;In the second year of my club, I wanted to introduce more people to experience the joy of working in an engineering design team. So, we held the XYSSDC(Xiamen Youth Space Settlement Developer Conference) in the winter of 2018. It was a 5-day winter camp where we trained 60 high school students coming from across the province about how to design space settlement. This is a story worth its own page. You can check it out here:(TBD)&lt;/p&gt;</content><author><name></name></author><category term="Highlight" /><category term="All" /><category term="Event_Planning" /><category term="Leadership" /><category term="Marketing" /><category term="Negotiation" /><category term="Video_Editing" /><category term="Web_Design" /><summary type="html">If I could only choose one project to represent my entire high school life, this will be the one.</summary></entry><entry><title type="html">15112</title><link href="http://localhost:4000/projects/2018/fall/15112" rel="alternate" type="text/html" title="15112" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2018/fall/15112</id><content type="html" xml:base="http://localhost:4000/projects/2018/fall/15112">&lt;p&gt;This project is dedicated to Scott Chen For being my “sametable” in high school&lt;/p&gt;
+
+&lt;p&gt;This is the term project for CMU 15-112: Fundamentals of Programming and Computer Science. This is the first video game I ever developed. It is programmed in Python with pygame package and is a recreation of the flash game Tank Trouble. I chose to recreate Tank Trouble because I used to play this game a lot with my friends in high school.&lt;/p&gt;
+
+&lt;p&gt;This page serves as a breakdown of the game so future 15112 students can refer to without going over the boring codes I wrote.&lt;/p&gt;
+
+&lt;p&gt;You can see a 3 mins snapshot of the game here:&lt;/p&gt;
+&lt;div class=&quot;text-center&quot;&gt; &lt;iframe width=&quot;866&quot; height=&quot;487&quot; src=&quot;https://www.youtube.com/embed/qkijJCenGDE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#overall-structure&quot; id=&quot;markdown-toc-overall-structure&quot;&gt;Overall Structure&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#multiplayer-mode&quot; id=&quot;markdown-toc-multiplayer-mode&quot;&gt;Multiplayer Mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#game-ai-mode&quot; id=&quot;markdown-toc-game-ai-mode&quot;&gt;Game AI Mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#easter-mode&quot; id=&quot;markdown-toc-easter-mode&quot;&gt;Easter Mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#areas-for-improvement&quot; id=&quot;markdown-toc-areas-for-improvement&quot;&gt;Areas for Improvement&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;overall-structure&quot;&gt;Overall Structure&lt;/h2&gt;
+
+&lt;p&gt;This game has 7 different scenes: StartScreen, SinglePlayerMode, TwoPlayerMode, ThreePlayerMode, InstructionsScreen, RankScreen, and EasterMode.&lt;/p&gt;
+
+&lt;p&gt;Because pygame doesn’t support scenes switching like the ones in Unity, I wrote some scene switching codes that basically calls to different redrawAll or timerFired when in a different mode. I think this method is covered in class as well so I will not elaborate further here. You can learn more here:&lt;a href=&quot;http://www.krivers.net/15112-s18/notes/notes-animations-demos.html&quot;&gt; Mode Demo &lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/15112/Mode_Demo.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/15112/Mode_Demo.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Mode Demo&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;multiplayer-mode&quot;&gt;Multiplayer Mode&lt;/h2&gt;
+
+&lt;p&gt;Local two-player multiplayer mode is the MVP for this game. The tricky part is how to check collision between tanks and the map as well as bullets and the map. The map is generated as a png image with walls as black pixels and passage as transparent background (zero alpha channel). The tank is just a sprite image of a cartoon tank.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/15112/Two_Player_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/15112/Two_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Two Player Mode&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;Many friends of mine, who are in spring 2019 112 class, try to use &lt;code class=&quot;highlighter-rouge&quot;&gt;
+pygame.sprite.collide(self,map)&lt;/code&gt;
+in their games. This may not work because sprite.collide treats the map as a sprite aka as a whole image. Since the map is below your game object (tanks in my case), your game object will always collide with the map.&lt;/p&gt;
+
+&lt;p&gt;Instead, there is a neat function called &lt;code class=&quot;highlighter-rouge&quot;&gt;pygame.sprite.collide_mask(self,map)&lt;/code&gt;. This would work properly because this function creates a “mask” for the map. Namely, it creates a new “image” with the pixels that are of non-zero alpha channels only. Hence, in my case, only the black walls will be considered for collision, but the transparent passage will not.&lt;/p&gt;
+
+&lt;p&gt;Another thing you might want to look out for in MVP is the frame rate. In my first prototype, the bullets speed per second is faster than the frame rate per second. Due to high speed, it can move to pass the width of the wall before the next collision check. Hence, the bouncy wall effect I wanted cannot be achieved. At first, I thought this was a programming problem, so I kept trying to tweak the collision method. So just beware that frame rate can mess with your collision test.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/15112/Three_Player_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/15112/Three_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Three Player Mode&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;I finished one tank without AI in the first iteration. After finishing the two-player mode in the second iteration, I added a three-player mode in the third iteration. The third player will use a mouse to navigate and right click to shoot bullets. This is not very hard to implement once you got all the base code ready.&lt;/p&gt;
+
+&lt;h2 id=&quot;game-ai-mode&quot;&gt;Game AI Mode&lt;/h2&gt;
+
+&lt;p&gt;Oh boy, this is the hardest part of the game. I need to program an AI tank that can navigate, shoot and avoid bullets. Theoretically, if I have the map stored in a 2D list, I can just use a backtrack function and update AI’s path periodically. The algorithms would not be very hard to write. The problem, though, is that I did not store the map in a 2D list.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/15112/AI_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/15112/AI_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;AI Mode&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;In order to simplify my MVP, I initially used a photoshopped image of the map. During my second iteration, I cannot think of an efficient way to generate a map using backtracking. This is because I need to avoid close containment of any size so that the tanks will not be trapped in one area.&lt;/p&gt;
+
+&lt;p&gt;In order to keep the project moving, I chose to avoid this path. In my second iteration, I simply make the AI tank simple turn right every time it hits a wall. This will make the AI tank appears to be moving around. As you may have guessed, the downside is the tank sometimes will be trap in a circle.&lt;/p&gt;
+
+&lt;p&gt;In my third iteration, I write a “ray casting” function. Basically, I will send out 8 different bullets to 8 direction periodically. These bullets will not be drawn. This ray cast can let the tank know which direction has more space and which direction is a dead end. The tank can then make a decision about turning base on this information.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/15112/Ray_Casting.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/15112/Ray_Casting.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Ray Casting&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;After fine-tuning for a long time, the game AI works pretty well. I feel like you can always try to come up with creative ways to implement game AI.&lt;/p&gt;
+&lt;h2 id=&quot;easter-mode&quot;&gt;Easter Mode&lt;/h2&gt;
+
+&lt;p&gt;In the fourth iteration, I added some powerups that change tank size and speed, a ranking screen that stores past scores locally, as well as an Easter mode. You can trigger the Easter mode by messing around in the starter screen. Feel free to play around and try to break the game  :)&lt;/p&gt;
+
+&lt;h2 id=&quot;areas-for-improvement&quot;&gt;Areas for Improvement&lt;/h2&gt;
+
+&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry></feed>
