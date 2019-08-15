@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-13T20:34:58-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-15T08:05:35-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
 
-&lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.
+&lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that we were not formally employed by Big Skinny. All the information about Big Skinny in this article are public knowledge available on the internet.
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
@@ -187,9 +189,9 @@
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
-      &lt;a href=&quot; /images/projects/APA/sign.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      &lt;a href=&quot; /images/projects/APA/sign.JPG&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
     
-        &lt;img src=&quot; /images/projects/APA/sign.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+        &lt;img src=&quot; /images/projects/APA/sign.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
 
@@ -269,8 +271,8 @@
 
 &lt;table class=&quot;text-center&quot;&gt;
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/poster3.jpg&quot;&gt; &lt;img src=&quot;/images/projects/APA/poster3.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts1.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts1.png&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts2.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts2.PNG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts1.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts1.PNG&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts2.png&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 
 &lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/sales.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/sales.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;

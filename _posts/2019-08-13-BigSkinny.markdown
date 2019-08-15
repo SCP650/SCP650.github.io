@@ -19,6 +19,8 @@ carousel:
 This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.
 
 After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.
+
+It is worth noting that we were not formally employed by Big Skinny. All the information about Big Skinny in this article are public knowledge available on the internet.
 {% include image.html img="Ad.png" caption="Big Skinny's Ad"%}
 
 ## Table of Contents
