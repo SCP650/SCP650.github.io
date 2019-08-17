@@ -1,0 +1,400 @@
+<!doctype html>
+<html lang="en" class="full-height">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	   <meta name="keywords" content="Sebastian Yang, CMU, Yukai, 杨毓恺">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Material Design Bootstrap -->
+	<link href="/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/my.css">
+
+  
+  <title>Transease | Sebastian Yang</title>
+  
+
+  </head>
+
+	<body>
+
+    
+<!--nav bar -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-darklight fixed-top scrolling-navbar">
+<div class="container">
+
+<a class="navbar-brand" href="/index"><img src="/images/static/seb.png" width="80" height="30"  class="d-inline-block align-top" alt="">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/index">Home</a>
+          </li>
+          <li class="nav-item ">
+              <a class="nav-link" href="/about">About me</a>
+          </li>
+          <li class="nav-item dropdown  active ">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Portfolio
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dumbSeb">Borning Stuff</a>
+                  <a class="dropdown-item" href="/smartSeb">Interesting Stuff</a>
+              </div>
+          </li>
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/contact ">Contact</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="https://yangyukai.com/projects/2018/spring/Transease">中文</a>
+          </li>
+
+      </ul>
+</div>
+</div>
+</nav>
+
+    
+    <div>
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+<!--Indicators-->
+
+<!--/.Indicators-->
+<!--Slides-->
+
+<div class="carousel-inner" role="listbox">
+  
+ <div class="carousel-item   active ">
+    <div class="view">
+      <img class="d-block w-100"  src="/images/projects/Transease//bg1.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
+      <div class="mask rgba-black-light"></div>
+    </div>
+  </div>
+  
+</div>
+<!--/.Slides-->
+
+<!--Controls-->
+
+<!--/.Controls-->
+
+</div>
+<!--/.Carousel Wrapper-->
+</div>
+
+    
+
+    <body class="bg-lighter ">
+<h1 class="text-center  mt-4 scroUp"> Transease </h1>
+
+<div class="mainText">
+<div class="container w-75 mb-4">
+<h3>Overview</h3>
+<p>2018 Spring </p>
+   <p>In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.</p>
+
+<p>This got me thinking. Wouldn’t it be so nice if every time people need translation, somebody can just magically show up and help them?</p>
+
+<p>Being inspired by Uber, I come up with a real-time human translation app that can achieve just that at a low price. By working with my friends Tony Lian and Yujie Wang, we came up with a prototype and won the world top 50 in the 2018 Microsoft Imagine Cup Big Idea Challenge. We are also the only team from mainland China that receive such prize in 2018.</p>
+
+<p><br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/award.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/award.png" alt="" class="w-100" />
+
+    </a>
+
+    
+        <p class="text-center">Don't ask my why they put my last name first. I have no idea.</p>
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h2 class="no_toc" id="table-of-contents">Table of Contents</h2>
+
+<ul id="markdown-toc">
+  <li><a href="#problem" id="markdown-toc-problem">Problem</a></li>
+  <li><a href="#solution" id="markdown-toc-solution">Solution</a>    <ul>
+      <li><a href="#one-user-story" id="markdown-toc-one-user-story">One User Story</a></li>
+      <li><a href="#prototype" id="markdown-toc-prototype">Prototype</a></li>
+    </ul>
+  </li>
+  <li><a href="#potential-development" id="markdown-toc-potential-development">Potential Development</a></li>
+  <li><a href="#credits" id="markdown-toc-credits">Credits</a></li>
+</ul>
+
+<h2 id="problem">Problem</h2>
+
+<p>I have been to 17 different countries, but I can only speak two languages. Hence, trying to communicate across different languages have always been a problem I wanted to solve. Currently, people tend to use free online translation apps like Google translate or hire an expensive translator. The problem is these translation apps are inaccurate. Here is one example. Even though the Chinese “能穿多少穿多少” is the same, it actually has totally different meanings in different settings. In the following case, it actually means “It’s hot, wear as little clothes as you can.”
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/Translation_Error.jpg" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/Translation_Error.jpg" alt="" class="w-100" />
+
+    </a>
+
+    
+        <p class="text-center">Translation Error</p>
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<p>As for hiring translators, well, it’s way too expensive. So, I want to see if there is a middle ground that can make a translation by human affordable.</p>
+<h2 id="solution">Solution</h2>
+
+<p>Uber fascinates me because its core idea is so simple, yet it solves a huge problem in our society. If Uber can connect available drivers with people who need rides, why couldn’t we connect available translators with people who need translation service?</p>
+
+<h3 id="one-user-story">One User Story</h3>
+
+<p>Jieke is a Chinese traveler visiting the US. He wanted to talk to a local shop owner for about 10 minutes about their business, but he cannot speak English. So, he opens our app Transease in his phone and clicks “Translate”.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/1.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/1.png" alt="" class="w-100" />
+
+    </a>
+
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+<p><br /></p>
+
+<p>Our system will search for whoever is available and connect them with Jieke</p>
+
+<p>Let’s say on the other side of the globe, an American exchange student Jack just finishes his class in a Chinese university. He can speak English and Chinese and have about 10 minutes available. He can open our app and click “start receiving jobs”.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/2.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/2.png" alt="" class="w-100" />
+
+    </a>
+
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+<p><br /></p>
+
+<p>Our system will then connect Jack with Jieke, and let Jack translate for Jieke via voice call. After the service, Jack will receive a small fee from Jieke. And , Jieke can rate his experience with Jack and continue his travel until he needs translation service again.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/3.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/3.png" alt="" class="w-100" />
+
+    </a>
+
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+<p><br /></p>
+
+<h3 id="prototype">Prototype</h3>
+
+<p>To make sure this will actually work, I came up with an MVP. I asked 6 friends who can speak Chinese and English to help out. I put their contact info in a table showing their available timeslots. I also recruited two foreign teachers who cannot speak Chinese very well to be our test subjects. Basically, in the MVP, whenever the subjects need translation service, he or she can look up the table and call the number that is available during that timeslot. The person who is available will translate for them via the phone call.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/Call_Table.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/Call_Table.png" alt="" class="w-100" />
+
+    </a>
+
+    
+        <p class="text-center">Call Table</p>
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+<p><br />
+This MVP is like a proof of concept to show translation over voice call actually works. We received many feedbacks. And we try to address most of the problem in our first prototype.</p>
+
+<p>To avoid the high costs of developing apps for different platforms, our first prototype is a website that is optimized for mobile users. It has login and voice calling features. We added more features such as ratings and video chat as we went. This prototype helped us win the Big Idea Challenge In 2018 Microsoft Imagine Cup.</p>
+
+<h2 id="potential-development">Potential Development</h2>
+
+<p>In the middle stage of our project, I realize a more significant problem. Our app can easily be replaced if the translation algorithm is good enough. And since people are used to using free translation apps, how can we encourage them to spend a few more bucks to use a human translator?</p>
+
+<p>If I have more time, these are the areas I would try to improve. First, I would like to hold another user testing this time asking people to actually pay for the service. Then, through more iterations, I would like to improve our app’s UI design and a better payment system. Moreover, in the future, if the app does work, we will have the recording of millions of minutes of translation. This amount of data may help us train an algorithm that can outperform most of the free translation service.</p>
+
+<p>But sadly, we stop the project after we parted ways to different colleges.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/Transease/bg1.png" title="" target="_blank">
+    
+        <img src=" /images/projects/Transease/bg1.png" alt="" class="w-100" />
+
+    </a>
+
+    
+
+</div>
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+<p><br /></p>
+
+<h2 id="credits">Credits</h2>
+
+<p>The actual app development is all done by my friend Tony Lian and Yujie Wang. Tony is responsible for back end and Yujie for front end.</p>
+
+<p>Other than coming up with the idea, my role in this project is providing feedbacks across iterations and making sure the scope of our project is working. I am also responsible for user testing, market research, surveys, and pitching the idea to Microsoft.</p>
+
+
+</div>
+<div class="mx-auto pb-3 text-center" style="width: 200px;">
+<a href="/contact" target="_blank" class="btn btn-rounded btn-dark">
+              <i class="fas fa-home"></i> Contact Me
+           </a>
+</div>
+
+</div>
+</body>
+
+
+    <footer class="page-footer font-small bg-dark" style="overflow: hidden;">
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left">
+		<div class="row"><p>  </p></div>
+      <!-- Grid row -->
+      <div class="row mt-5">
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Content -->
+          <h6 class="text-uppercase font-weight-bold">Mailing Address</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">Carnegie Mellon University<br><br>
+			 5032 Forbes Avenue <br><br>
+			 SMC 1005                 <br><br>
+			 Pittsburgh, PA 15289<br>
+			 </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-3 col-xl-3 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Contact</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">
+	        杨毓恺<br>
+            Sebastian Yang
+          </p>
+          <p class="text-white">
+            Email: SebastianYang@outlook.com
+          </p>
+          <p class="text-white">
+            Linkedin: <br>
+            <a href="http://linkedin.com/in/sebastian-yang-528805170" target="_blank"> Please introduce yourself with a custom note</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="/index">Home</a>
+          </p>
+          <p>
+            <a href="/about">About Me</a>
+          </p>
+          <p>
+            <a href="/smartSeb">Portfolio</a>
+          </p>
+          <p>
+            <a href="/contact">Contact</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Wechat 公众号</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"><br>
+          <a href="/images/static/qr.JPG" target="_blank"><img src="/images/static/qr.JPG" class="w-75"/></a>
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center mt-2 py-3">© 2019 Copyright:
+      <a href="/index"> Sebastian Yang</a>
+      <p class="text-white"> Yukai Presents</p>
+
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+
+  </body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="/js/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+	<script type="/text/javascript" src="js/mdb.min.js"></script>
+    <script src="/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/js/scrollreveal.js"></script>
+	<script src="/js/my.js"></script>
+	<script>
+		var slideUp = {
+	    distance: '150%',
+	    origin: 'bottom',
+	    opacity: null,
+	    duration: 700,
+		};
+		ScrollReveal().reveal('.scroUp',slideUp);
+	</script>
+
+
+
+
+</html>

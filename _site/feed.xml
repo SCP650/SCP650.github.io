@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-17T09:46:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-17T11:20:50-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
 
 &lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.&lt;/p&gt;
 
@@ -413,7 +413,167 @@ in their games. This may not work because sprite.collide treats the map as a spr
 &lt;/tr&gt;
 
 
-&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="Leadership" /><category term="All" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry><entry><title type="html">SSDCXI</title><link href="http://localhost:4000/projects/2015/fall/SSDCXI" rel="alternate" type="text/html" title="SSDCXI" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/SSDCXI</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/SSDCXI">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="Leadership" /><category term="All" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
+
+&lt;p&gt;This got me thinking. Wouldn’t it be so nice if every time people need translation, somebody can just magically show up and help them?&lt;/p&gt;
+
+&lt;p&gt;Being inspired by Uber, I come up with a real-time human translation app that can achieve just that at a low price. By working with my friends Tony Lian and Yujie Wang, we came up with a prototype and won the world top 50 in the 2018 Microsoft Imagine Cup Big Idea Challenge. We are also the only team from mainland China that receive such prize in 2018.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/award.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/award.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Don't ask my why they put my last name first. I have no idea.&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#problem&quot; id=&quot;markdown-toc-problem&quot;&gt;Problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#solution&quot; id=&quot;markdown-toc-solution&quot;&gt;Solution&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#one-user-story&quot; id=&quot;markdown-toc-one-user-story&quot;&gt;One User Story&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prototype&quot; id=&quot;markdown-toc-prototype&quot;&gt;Prototype&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#potential-development&quot; id=&quot;markdown-toc-potential-development&quot;&gt;Potential Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot; id=&quot;markdown-toc-credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;I have been to 17 different countries, but I can only speak two languages. Hence, trying to communicate across different languages have always been a problem I wanted to solve. Currently, people tend to use free online translation apps like Google translate or hire an expensive translator. The problem is these translation apps are inaccurate. Here is one example. Even though the Chinese “能穿多少穿多少” is the same, it actually has totally different meanings in different settings. In the following case, it actually means “It’s hot, wear as little clothes as you can.”
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/Translation_Error.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/Translation_Error.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Translation Error&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;As for hiring translators, well, it’s way too expensive. So, I want to see if there is a middle ground that can make a translation by human affordable.&lt;/p&gt;
+&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
+
+&lt;p&gt;Uber fascinates me because its core idea is so simple, yet it solves a huge problem in our society. If Uber can connect available drivers with people who need rides, why couldn’t we connect available translators with people who need translation service?&lt;/p&gt;
+
+&lt;h3 id=&quot;one-user-story&quot;&gt;One User Story&lt;/h3&gt;
+
+&lt;p&gt;Jieke is a Chinese traveler visiting the US. He wanted to talk to a local shop owner for about 10 minutes about their business, but he cannot speak English. So, he opens our app Transease in his phone and clicks “Translate”.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our system will search for whoever is available and connect them with Jieke&lt;/p&gt;
+
+&lt;p&gt;Let’s say on the other side of the globe, an American exchange student Jack just finishes his class in a Chinese university. He can speak English and Chinese and have about 10 minutes available. He can open our app and click “start receiving jobs”.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/2.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/2.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our system will then connect Jack with Jieke, and let Jack translate for Jieke via voice call. After the service, Jack will receive a small fee from Jieke. And , Jieke can rate his experience with Jack and continue his travel until he needs translation service again.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/3.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/3.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prototype&quot;&gt;Prototype&lt;/h3&gt;
+
+&lt;p&gt;To make sure this will actually work, I came up with an MVP. I asked 6 friends who can speak Chinese and English to help out. I put their contact info in a table showing their available timeslots. I also recruited two foreign teachers who cannot speak Chinese very well to be our test subjects. Basically, in the MVP, whenever the subjects need translation service, he or she can look up the table and call the number that is available during that timeslot. The person who is available will translate for them via the phone call.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/Call_Table.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/Call_Table.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+        &lt;p class=&quot;text-center&quot;&gt;Call Table&lt;/p&gt;
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;
+This MVP is like a proof of concept to show translation over voice call actually works. We received many feedbacks. And we try to address most of the problem in our first prototype.&lt;/p&gt;
+
+&lt;p&gt;To avoid the high costs of developing apps for different platforms, our first prototype is a website that is optimized for mobile users. It has login and voice calling features. We added more features such as ratings and video chat as we went. This prototype helped us win the Big Idea Challenge In 2018 Microsoft Imagine Cup.&lt;/p&gt;
+
+&lt;h2 id=&quot;potential-development&quot;&gt;Potential Development&lt;/h2&gt;
+
+&lt;p&gt;In the middle stage of our project, I realize a more significant problem. Our app can easily be replaced if the translation algorithm is good enough. And since people are used to using free translation apps, how can we encourage them to spend a few more bucks to use a human translator?&lt;/p&gt;
+
+&lt;p&gt;If I have more time, these are the areas I would try to improve. First, I would like to hold another user testing this time asking people to actually pay for the service. Then, through more iterations, I would like to improve our app’s UI design and a better payment system. Moreover, in the future, if the app does work, we will have the recording of millions of minutes of translation. This amount of data may help us train an algorithm that can outperform most of the free translation service.&lt;/p&gt;
+
+&lt;p&gt;But sadly, we stop the project after we parted ways to different colleges.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Transease/bg1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Transease/bg1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+
+    
+
+&lt;/div&gt;
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;The actual app development is all done by my friend Tony Lian and Yujie Wang. Tony is responsible for back end and Yujie for front end.&lt;/p&gt;
+
+&lt;p&gt;Other than coming up with the idea, my role in this project is providing feedbacks across iterations and making sure the scope of our project is working. I am also responsible for user testing, market research, surveys, and pitching the idea to Microsoft.&lt;/p&gt;</content><author><name></name></author><category term="Highlight" /><category term="All" /><category term="Event_Planning" /><category term="Leadership" /><category term="Marketing" /><category term="Negotiation" /><category term="Video_Editing" /><category term="Web_Design" /><summary type="html">In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.</summary></entry><entry><title type="html">SSDCXI</title><link href="http://localhost:4000/projects/2015/fall/SSDCXI" rel="alternate" type="text/html" title="SSDCXI" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/SSDCXI</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/SSDCXI">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
 
 &lt;p&gt;SSDCXI stands for Space Settlement Design Club in Xiamen No.1 High School. It is a club I founded in my 10th grade to participate in the International Space Settlement Design Competition which was sponsored by NASA.&lt;/p&gt;
 
