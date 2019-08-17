@@ -95,13 +95,6 @@ a { color:rgb(61,124,229);}
 
 }
 
-
-.btn-default:active .filter-button:active
-{
-    background-color: #42B32F;
-    color: white;
-}
-
 .port-image
 {
     width: 100%;

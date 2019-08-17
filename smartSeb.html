@@ -24,7 +24,7 @@ carousel:
             <!-- refer from https://www.bootply.com/L5H5B8zbqB -->
             <div align="center">
               {% for tag in site.project_tags %}
-                <button class="btn btn-dark filter-button text-capitalize" data-filter="{{tag}}">{{tag | replace:"_"," "}}</button>
+              <button class="btn btn-elegant filter-button text-capitalize {% if tag =="All" %} active {% endif %}" data-filter="{{tag}}">{{tag | replace:"_"," "}}</button>
                 {% endfor %}
             </div>
             <br>

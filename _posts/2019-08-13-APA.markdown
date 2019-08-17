@@ -1,7 +1,7 @@
 ---
 title:  APA
 title2: Aminal Protection Association #title shown in first line
-date:   2019-08-13 14:41:23 -0400 #date this page is written
+date:   2019-08-13 13:37:52 -0400 #date this page is written
 
 categories: projects 2015 fall #project folder, beginning year and season
 tags: Event_Planning Leadership All
@@ -15,7 +15,7 @@ coverPic: /square.png
 carousel:
   - image: /bg1.png
   - image: /bg2.jpg
-  - image: /bg3.jpg
+  - image: /bg3.JPG
   - image: /bg4.jpg
 
 ---
