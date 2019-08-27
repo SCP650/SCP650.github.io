@@ -4,8 +4,8 @@ title:  SSDCXI
 date:   2019-08-10 13:37:52 -0400 #date this page is written
 
 categories: projects 2015 fall #project folder, beginning year and season
-tags: Highlight All Event_Planning Leadership Marketing Negotiation Video_Editing Web_Design
-#tags options: Highlight Event_Planning Entrepreneurship Leadership Game_Design Marketing Negotiation Video_Editing Web_Design
+tags: Highlights All Event_Planning Product_Project_Management Marketing Negotiation Video_Editing Web_Design
+#tags options: Highlights Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design
 
 start-season: "2015 Fall"
 end-season: "2018 Spring"

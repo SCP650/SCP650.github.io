@@ -36,8 +36,8 @@ defaults:
       permalink: /:categories/:title
 
 project_tags: [
-    "Highlight","All","Event_Planning", "Entrepreneurship",
-    "Leadership", "Game_Design", "Marketing", "Negotiation", "Video_Editing",
+    "Highlights","All","Event_Planning",
+    "Product_Project_Management","Entrepreneurship", "Game_Design", "Marketing", "Negotiation", "Video_Editing",
     "Web_Design"
 ]
 

@@ -4,8 +4,8 @@ title2: Consulting for Big Skinny #title shown in first line
 date:   2019-08-13 16:00:23 -0400 #date this page is written
 
 categories: projects 2019 spring #project folder, beginning year and season
-tags: Leadership Web_Design All
-#tags options: Highlight Event_Planning Entrepreneurship Leadership Game_Design Marketing Negotiation Video_Editing Web_Design
+tags: Product_Project_Management Web_Design All
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design
 
 start-season: "2019 Spring"
 
