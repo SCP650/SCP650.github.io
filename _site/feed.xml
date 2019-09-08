@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-26T20:09:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-08T00:17:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
 
 &lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.&lt;/p&gt;
 
@@ -11,12 +11,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/Ad.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Big Skinny's Ad&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
@@ -47,10 +48,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/Bad_Reviews.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -67,12 +71,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/index.jpeg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Home Page of Big Skinny&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;This is their front page when we took over. As you can see, different components were not aligned, tags and buttons are confusing (what does “CARD CASES + $ CLIPS” even means??). I hate to say this but the whole site left me with an impression of a high school project done at the last minute. Because of the bad user interface design, the conversion rate for somebody redirected to this website through online ads is guaranteed to be low.&lt;/p&gt;
@@ -86,10 +91,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/page.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;Big Skinny is the textbook classic company that tries to fit all markets. By providing more than 40+ Wallets for people to choose and tons of unnecessary accessories, the company try to please everyone and got no one in the end.&lt;/p&gt;
@@ -112,10 +120,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/New_Index.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;h3 id=&quot;interactive-wallet-selection-guide&quot;&gt;Interactive Wallet Selection Guide&lt;/h3&gt;
@@ -128,10 +139,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/Selection_Guide.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -148,10 +162,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/question.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;“Wow, these recommendations seem great. let me check out this wallet”&lt;/p&gt;
@@ -165,10 +182,13 @@
         &lt;img src=&quot; /images/projects/BigSkinny/recommand.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;
 “This looks great. I will take it!”&lt;/p&gt;
@@ -214,12 +234,13 @@
         &lt;img src=&quot; /images/projects/15112/Mode_Demo.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Mode Demo&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 id=&quot;multiplayer-mode&quot;&gt;Multiplayer Mode&lt;/h2&gt;
@@ -233,12 +254,13 @@
         &lt;img src=&quot; /images/projects/15112/Two_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Two Player Mode&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;Many friends of mine, who are in spring 2019 112 class, try to use &lt;code class=&quot;highlighter-rouge&quot;&gt;
@@ -256,12 +278,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/15112/Three_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Three Player Mode&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;I finished one tank without AI in the first iteration. After finishing the two-player mode in the second iteration, I added a three-player mode in the third iteration. The third player will use a mouse to navigate and right click to shoot bullets. This is not very hard to implement once you got all the base code ready.&lt;/p&gt;
@@ -277,12 +300,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/15112/AI_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;AI Mode&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;In order to simplify my MVP, I initially used a photoshopped image of the map. During my second iteration, I cannot think of an efficient way to generate a map using backtracking. This is because I need to avoid close containment of any size so that the tanks will not be trapped in one area.&lt;/p&gt;
@@ -298,12 +322,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/15112/Ray_Casting.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Ray Casting&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;After fine-tuning for a long time, the game AI works pretty well. I feel like you can always try to come up with creative ways to implement game AI.&lt;/p&gt;
@@ -327,12 +352,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/award.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Don't ask my why they put my last name first. I have no idea.&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
@@ -359,12 +385,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/Translation_Error.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Translation Error&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;p&gt;As for hiring translators, well, it’s way too expensive. So, I want to see if there is a middle ground that can make a translation by human affordable.&lt;/p&gt;
@@ -383,10 +410,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -401,10 +431,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/2.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -417,10 +450,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/3.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -435,12 +471,13 @@ in their games. This may not work because sprite.collide treats the map as a spr
         &lt;img src=&quot; /images/projects/Transease/Call_Table.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Call Table&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;
 This MVP is like a proof of concept to show translation over voice call actually works. We received many feedbacks. And we try to address most of the problem in our first prototype.&lt;/p&gt;
@@ -462,10 +499,13 @@ This MVP is like a proof of concept to show translation over voice call actually
         &lt;img src=&quot; /images/projects/Transease/bg1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
@@ -486,12 +526,13 @@ This MVP is like a proof of concept to show translation over voice call actually
         &lt;img src=&quot; /images/projects/APA/sign.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt; &quot;I promise I will never visit animal circuses.&quot; &lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
@@ -516,12 +557,13 @@ This MVP is like a proof of concept to show translation over voice call actually
         &lt;img src=&quot; /images/projects/APA/sign2.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Signatures from students&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 id=&quot;phase-2-on-campus&quot;&gt;Phase 2: On Campus&lt;/h2&gt;
@@ -573,7 +615,7 @@ This MVP is like a proof of concept to show translation over voice call actually
 &lt;/tr&gt;
 
 
-&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="All" /><category term="Product_Project_Management" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry><entry><title type="html">SSDCXI</title><link href="http://localhost:4000/projects/2015/fall/SSDCXI" rel="alternate" type="text/html" title="SSDCXI" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/SSDCXI</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/SSDCXI">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
+&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="All" /><category term="Product_Project_Management" /><category term="Non_Profits" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry><entry><title type="html">SSDCXI</title><link href="http://localhost:4000/projects/2015/fall/SSDCXI" rel="alternate" type="text/html" title="SSDCXI" /><published>2019-08-10T13:37:52-04:00</published><updated>2019-08-10T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/SSDCXI</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/SSDCXI">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
 
 &lt;p&gt;SSDCXI stands for Space Settlement Design Club in Xiamen No.1 High School. It is a club I founded in my 10th grade to participate in the International Space Settlement Design Competition which was sponsored by NASA.&lt;/p&gt;
 
@@ -632,12 +674,13 @@ This MVP is like a proof of concept to show translation over voice call actually
         &lt;img src=&quot; /images/projects/ssdcxi/team.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
     
         &lt;p class=&quot;text-center&quot;&gt;Meet the Team&lt;/p&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 id=&quot;chapter-2-try-fail-learn-repeat&quot;&gt;Chapter 2: Try, Fail, Learn, Repeat&lt;/h2&gt;
@@ -722,10 +765,13 @@ This MVP is like a proof of concept to show translation over voice call actually
         &lt;img src=&quot; /images/projects/ssdcxi/site.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
-
+    
+    &lt;br /&gt;
     
 
+
 &lt;/div&gt;
+
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
@@ -738,4 +784,300 @@ This MVP is like a proof of concept to show translation over voice call actually
 &lt;p&gt;During the competition, we needed to travel to Beijing and India. Thus, we need some kind of sponsorship to cover our cost. Since my school had no tradition of sponsoring external competitions, I had many meetings with my school’s officials and education head to persuade them to reimburse some of our cost. Mr.Chen, our club advisor, helped me a lot during the process. I also traveled to the other side of the city multiple times to negotiate and secure corporate sponsorship from EIC(启德教育集团). In the end, our hotels and dining were reimbursed by my school and plane tickets were sponsored by EIC, saving about 30,000 RMB for my team.&lt;/p&gt;
 
 &lt;h3 id=&quot;event-planning&quot;&gt;Event Planning&lt;/h3&gt;
-&lt;p&gt;In the second year of my club, I wanted to introduce more people to experience the joy of working in an engineering design team. So, we held the XYSSDC(Xiamen Youth Space Settlement Developer Conference) in the winter of 2018. It was a 5-day winter camp where we trained 60 high school students coming from across the province about how to design space settlement. This is a story worth its own page. You can check it out here:(TBD)&lt;/p&gt;</content><author><name></name></author><category term="Highlights" /><category term="All" /><category term="Event_Planning" /><category term="Product_Project_Management" /><category term="Marketing" /><category term="Negotiation" /><category term="Video_Editing" /><category term="Web_Design" /><summary type="html">If I could only choose one project to represent my entire high school life, this will be the one.</summary></entry></feed>
+&lt;p&gt;In the second year of my club, I wanted to introduce more people to experience the joy of working in an engineering design team. So, we held the XYSSDC(Xiamen Youth Space Settlement Developer Conference) in the winter of 2018. It was a 5-day winter camp where we trained 60 high school students coming from across the province about how to design space settlement. This is a story worth its own page. You can check it out here:(TBD)&lt;/p&gt;</content><author><name></name></author><category term="Highlights" /><category term="All" /><category term="Event_Planning" /><category term="Product_Project_Management" /><category term="Marketing" /><category term="Negotiation" /><category term="Web_Design" /><summary type="html">If I could only choose one project to represent my entire high school life, this will be the one.</summary></entry><entry><title type="html">AYES</title><link href="http://localhost:4000/projects/2016/spring/AYES" rel="alternate" type="text/html" title="AYES" /><published>2019-08-09T13:57:52-04:00</published><updated>2019-08-09T13:57:52-04:00</updated><id>http://localhost:4000/projects/2016/spring/AYES</id><content type="html" xml:base="http://localhost:4000/projects/2016/spring/AYES">&lt;p&gt;I joined the ‘Practice Department’ of the Student Union in Xiamen No.1 High School in the fall of 2015. The biggest event we hold every year is a five-day non-profit summer camp called Amoy Youth Elite Summit.&lt;/p&gt;
+
+&lt;p&gt;This camp is designed with the idea of bringing entrepreneurial high school students across Fujian Province together. The admission is highly competitive so applicants need to go through one round of written test and two rounds of interview to be admitted. We usually received 500-700 applicants per year in 2017 and 2018 and we only enrolled 108 students each year.&lt;/p&gt;
+
+&lt;p&gt;Me and my team’s job in this summit were to organize every aspect of the whole 5-day event from planning to executing, from marketing to financing, from finding speakers to media relations. We spent the countless sleepless night so that we could present an interesting and educational experience for all the participants.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that all the pictures used in this article were taken by the hard-working student photographers in our department. I do not claim any credit to them.&lt;/p&gt;
+
+&lt;p&gt;This is our story:&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#what-is-ayes&quot; id=&quot;markdown-toc-what-is-ayes&quot;&gt;What is AYES?&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#for-participants&quot; id=&quot;markdown-toc-for-participants&quot;&gt;For Participants&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#for-organizers&quot; id=&quot;markdown-toc-for-organizers&quot;&gt;For Organizers&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ayes-2016--building-your-brand&quot; id=&quot;markdown-toc-ayes-2016--building-your-brand&quot;&gt;AYES 2016 – “Building Your Brand”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ayes-2017--marketing--commercials&quot; id=&quot;markdown-toc-ayes-2017--marketing--commercials&quot;&gt;AYES 2017 – “Marketing &amp;amp; Commercials”&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#making-of-a-fake-company&quot; id=&quot;markdown-toc-making-of-a-fake-company&quot;&gt;Making of a Fake company&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#a-fake-mobile-app&quot; id=&quot;markdown-toc-a-fake-mobile-app&quot;&gt;A Fake Mobile App&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#apa-x-ayes&quot; id=&quot;markdown-toc-apa-x-ayes&quot;&gt;APA X AYES&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ayes-2019--artificial-intelligence&quot; id=&quot;markdown-toc-ayes-2019--artificial-intelligence&quot;&gt;AYES 2019 – “Artificial Intelligence”&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#solving-pain-points-with-ai&quot; id=&quot;markdown-toc-solving-pain-points-with-ai&quot;&gt;Solving Pain Points with AI&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conclusion&quot; id=&quot;markdown-toc-conclusion&quot;&gt;Conclusion&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;what-is-ayes&quot;&gt;What is AYES?&lt;/h2&gt;
+&lt;p&gt;AYES stands for Amoy Youth Elite Summit. It is a summer camp that is planned, organized and implemented entirely by high school students in the Practice Department of Student Union in Xiamen No.1 High School.&lt;/p&gt;
+
+&lt;p&gt;(PS: People in China usually do not associate the word “Elite” with elitism or the societal elites. It is a common term people use to describe the top among their peers.)&lt;/p&gt;
+
+&lt;h3 id=&quot;for-participants&quot;&gt;For Participants&lt;/h3&gt;
+&lt;p&gt;Participants first need to go through a rigorous screening process so that they can stand out among the 500-700 applicants each year. Once they are admitted, the five-day summit would consist of two parts. The first part is team building activities which take about one day and a half. Participants will work as a team to play through various role-playing, team building, and alternate reality game. This includes solving puzzles, piecing stories lines together and detecting minute clues.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;!--Carousel Wrapper--&gt;
+&lt;div id=&quot;carousel-example-2&quot; class=&quot;carousel slide carousel-fade&quot; data-interval=&quot;3000&quot; data-ride=&quot;carousel&quot;&gt;
+
+&lt;!--Slides--&gt;
+
+&lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+  
+ &lt;div class=&quot;carousel-item   active &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2016-WangShiPark.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-TeamActivity.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2016-Beach2.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES/2017-ARG.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES/2016-tour.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+&lt;!--/.Slides--&gt;
+
+
+&lt;/div&gt;
+&lt;!--/.Carousel Wrapper--&gt;
+
+
+    &lt;p class=&quot;text-center&quot;&gt;Participants playing Alternate Reality Games&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;The second part is what we call Theme activity which takes up the rest of the event. Each year the summit will pick a different theme. Participants will attend talks from professionals, entrepreneurs, and professors in that field. The team will work together to come up with a solution to solve a specific problem related to that field. In the last day, they will present their ideas to a panel of judges. In the past, we have participants getting an internship offer from the judges because of their performance.&lt;/p&gt;
+
+&lt;p&gt;Other than these two major parts, participants can join many small activities that are sprinkled throughout the event. For example, they can learn how to dance in the dance lesson we offered. They can also participate in company tours, volunteering activities and the ballroom dance in the closing ceremony.&lt;/p&gt;
+
+&lt;p&gt;All these activities are compacted in five days.&lt;/p&gt;
+
+&lt;h3 id=&quot;for-organizers&quot;&gt;For Organizers&lt;/h3&gt;
+&lt;p&gt;As organizers, our role is to make sure all the aforementioned stuff happen. We usually started planning the summit in February. Our team consisted of 20+ students. We would meet weekly to work on different tasks and make sure everything went smoothly during the event. This included negotiating with corporate sponsors, designing and play-testing alternate reality games, finding keynote speakers, coming up with marketing materials, and most importantly coming up with the theme for each year.&lt;/p&gt;
+
+&lt;p&gt;I am responsible to design the Theme activity. So I lead a team to come up with the theme for each year. We are responsible for implementing the theme, finding speakers, reaching out to the company for tours and organizing volunteering activity. I also help out other departments in areas of sponsorship negotiation and designs.&lt;/p&gt;
+
+&lt;h2 id=&quot;ayes-2016--building-your-brand&quot;&gt;AYES 2016 – “Building Your Brand”&lt;/h2&gt;
+&lt;p&gt;This year’s theme was Building Your Brand, namely, we wanted to cultivate participants entrepreneurial mindset. To implement this idea, my team worked on writing the request for proposal for the participants. In order to introduce the idea of a business plan, I also lead my team to come up with three companies so that the participants could draw an analogy in terms of scope and structure.&lt;/p&gt;
+
+&lt;p&gt;During the summit, I had the honor to give the opening remarks for the event. The 5-day summit went smooth(-ish). In the last day of the summit, the 12 teams all presented their start-up companies and their plan to brand and advertise their products. It was a great success.&lt;/p&gt;
+
+&lt;p&gt;After the summit, it is customary to elect the next leadership board for the department. Since I have founded &lt;a href=&quot;/projects/2015/fall/SSDCXI&quot;&gt;my club&lt;/a&gt; and I was also the president of the school &lt;a href=&quot;/projects/2015/fall/APA&quot;&gt;Animal Protection Association&lt;/a&gt;, I declined to run for the leadership position. Therefore, I was really humbled when the department appointed me as the Department Advisor and added a fourth position in the leadership board for me.&lt;/p&gt;
+
+&lt;p&gt;Since this is my first year in the department, I did not try any bold ideas.&lt;/p&gt;
+
+&lt;p&gt;But that’s about to change real quick.&lt;/p&gt;
+
+&lt;h2 id=&quot;ayes-2017--marketing--commercials&quot;&gt;AYES 2017 – “Marketing &amp;amp; Commercials”&lt;/h2&gt;
+&lt;p&gt;This was my second year organizing the summit. As a kid who grew up watching TV, I wanted to teach participants how companies market their products and more specifically, how do they shoot commercials?&lt;/p&gt;
+
+&lt;p&gt;To make the summit more immersive, I lead my team to come up with a fake company Overlap.Inc and product lines. So in this summit, us organizers would become a company that called for tender. And participants would form teams to bid their commercial and marketing ideas to us. In the end, the judges will be representatives from our company, the team that won the contract wins.&lt;/p&gt;
+&lt;h3 id=&quot;making-of-a-fake-company&quot;&gt;Making of a Fake company&lt;/h3&gt;
+&lt;p&gt;To make this company realistic, we came up with a 9-page document detailing the company’s history and product lines. We asked participants to shoot commercials for our latest product: Overcup II, which was a smart IoT drinking cup that was transparent and could track your drinking habit. If you are interested, you can read to whole RFP &lt;a href=&quot;/images/projects/AYES/2017RFP.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We gave each team a silicon cup for their project. But since the cup was supposed to be an IoT device, we needed to design an app to build the atmosphere. The problem was nobody knew how to build an app. Naturally, we taught ourselves how to do just that.&lt;/p&gt;
+
+&lt;h3 id=&quot;a-fake-mobile-app&quot;&gt;A Fake Mobile App&lt;/h3&gt;
+&lt;p&gt;It was a fake mobile app in the sense that it couldn’t really connect to the cup we gave participants. But it had all the major features: menu, login screen, and drinking data visualization, so it was good enough for creating the atmosphere and shooting commercials.&lt;/p&gt;
+
+&lt;p&gt;Because we wanted to accommodate all devices, we designed a web app instead of an IOS or Android app. As of the writing of this article, the server that hosted the app is still running. So you can check it out by scanning the QR code in the bottom of the RFP &lt;a href=&quot;/images/projects/AYES/2017RFP.pdf&quot;&gt;here&lt;/a&gt;.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/AYES//app.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/AYES//app.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The fake web app we designed&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h3 id=&quot;apa-x-ayes&quot;&gt;APA X AYES&lt;/h3&gt;
+&lt;p&gt;I always felt AYES should be more than just a 5-day summit where students can have fun and learn. I felt like when we gather the top 108 students from across Fujian province, we could achieve something great and have a social impact. With that belief, I experimented with this project.&lt;/p&gt;
+
+&lt;p&gt;At that time, I was also the president of the school &lt;a href=&quot;/projects/2015/fall/APA&quot;&gt;Animal Protection Association&lt;/a&gt;. I really like the idea of bridging two organizations together to achieve something great. So that’s exactly what we did. In this voluntary activity, we gave each team who wish to participate 50 CNY as their initial fund. They needed to come up with an executable plan within three days. On the fourth day of the summit, they would head out and raise funds for animal protection cause.&lt;/p&gt;
+
+&lt;p&gt;I really had no idea how many people would even show up, but the event turned out to be a great success. More than 120 students volunteered and we held charity events at 5 different public space in Xiamen at the same time.&lt;/p&gt;
+
+&lt;p&gt;If you wish to learn more about the experiment and the &lt;a href=&quot;/projects/2015/fall/APA&quot;&gt;Animal Protection Association&lt;/a&gt; in general, please click the blueish thingy.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;!--Carousel Wrapper--&gt;
+&lt;div id=&quot;carousel-example-2&quot; class=&quot;carousel slide carousel-fade&quot; data-interval=&quot;3000&quot; data-ride=&quot;carousel&quot;&gt;
+
+&lt;!--Slides--&gt;
+
+&lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+  
+ &lt;div class=&quot;carousel-item   active &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-APA3.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-APA2.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-APA1.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-APA4.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2017-APA5.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+&lt;!--/.Slides--&gt;
+
+
+&lt;/div&gt;
+&lt;!--/.Carousel Wrapper--&gt;
+
+
+    &lt;p class=&quot;text-center&quot;&gt;Pictures of some teams&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;ayes-2019--artificial-intelligence&quot;&gt;AYES 2019 – “Artificial Intelligence”&lt;/h2&gt;
+&lt;p&gt;Even though I officially “retired” in 2017, to my surprise, two years later the current members of Student Union still reached out to me for advice for the 2019 AYES. So if you participated in the AYES 2019, you can probably see traces of me in the event.&lt;/p&gt;
+
+&lt;p&gt;I finished my freshman year at CMU in June 2019. About a week or so after I got back to China, the current organizers called me up and asked me to join the team.&lt;/p&gt;
+
+&lt;h3 id=&quot;solving-pain-points-with-ai&quot;&gt;Solving Pain Points with AI&lt;/h3&gt;
+&lt;p&gt;The theme for this year is Artificial Intelligence. This was a hard topic. One hand we couldn’t make the event too technical since many participants didn’t know how to code. On the other hand, the event couldn’t be too business oriented or else technical students who came to the summit just for the theme would be disappointed.&lt;/p&gt;
+
+&lt;p&gt;It was really tough since I basically worked with them to re-plan the whole event and we had less than a month to achieve that before the summit took place in July.&lt;/p&gt;
+
+&lt;p&gt;But eventually, we came up with a very balanced approach that satisfied both technical and non-technical students. Want to know what it was? Join the 2017 AYES and experience it yourself!&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;I have spent a great amount of my high school years in AYES and the practice department. The people I have met there and the things we achieved together will always be one of my fondest memory.&lt;/p&gt;
+
+&lt;p&gt;It’s an honor to be a part of this team.&lt;/p&gt;
+
+&lt;p&gt;Thank you!&lt;/p&gt;
+&lt;div&gt;
+&lt;!--Carousel Wrapper--&gt;
+&lt;div id=&quot;carousel-example-2&quot; class=&quot;carousel slide carousel-fade&quot; data-interval=&quot;3000&quot; data-ride=&quot;carousel&quot;&gt;
+
+&lt;!--Slides--&gt;
+
+&lt;div class=&quot;carousel-inner&quot; role=&quot;listbox&quot;&gt;
+  
+ &lt;div class=&quot;carousel-item   active &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2016-organizers.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//shot.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//2016-Balldance.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//interview.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//DSC_0010-min.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//ballroom.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+ &lt;div class=&quot;carousel-item  &quot;&gt;
+    &lt;div class=&quot;view&quot;&gt;
+      &lt;img class=&quot;d-block w-100&quot; src=&quot;/images/projects/AYES//cover0.JPG&quot; alt=&quot; Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this &quot; /&gt;
+      &lt;div class=&quot;mask rgba-black-light&quot;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  
+&lt;/div&gt;
+&lt;!--/.Slides--&gt;
+
+
+&lt;/div&gt;
+&lt;!--/.Carousel Wrapper--&gt;
+
+
+&lt;br /&gt;
+
+&lt;/div&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="All" /><category term="Product_Project_Management" /><category term="Negotiation" /><category term="Non_Profits" /><summary type="html">I joined the ‘Practice Department’ of the Student Union in Xiamen No.1 High School in the fall of 2015. The biggest event we hold every year is a five-day non-profit summer camp called Amoy Youth Elite Summit.</summary></entry></feed>

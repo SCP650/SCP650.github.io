@@ -129,9 +129,9 @@
                 
               <button class="btn btn-elegant filter-button text-capitalize " data-filter="Marketing">Marketing</button>
                 
-              <button class="btn btn-elegant filter-button text-capitalize " data-filter="Negotiation">Negotiation</button>
+              <button class="btn btn-elegant filter-button text-capitalize " data-filter="Non_Profits">Non Profits</button>
                 
-              <button class="btn btn-elegant filter-button text-capitalize " data-filter="Video_Editing">Video Editing</button>
+              <button class="btn btn-elegant filter-button text-capitalize " data-filter="Negotiation">Negotiation</button>
                 
               <button class="btn btn-elegant filter-button text-capitalize " data-filter="Web_Design">Web Design</button>
                 
@@ -177,7 +177,7 @@
                 </div>
             </div>
             
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter  Event_Planning  All  Product_Project_Management ">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter  Event_Planning  All  Product_Project_Management  Non_Profits ">
 
                 <div class="view overlay h-100">
                     <a href="/projects/2015/fall/APA">
@@ -189,13 +189,25 @@
                 </div>
             </div>
             
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter  Highlights  All  Event_Planning  Product_Project_Management  Marketing  Negotiation  Video_Editing  Web_Design ">
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter  Highlights  All  Event_Planning  Product_Project_Management  Marketing  Negotiation  Web_Design ">
 
                 <div class="view overlay h-100">
                     <a href="/projects/2015/fall/SSDCXI">
                         <img src="/images/projects/ssdcxi//fm/5.png" class="img-fluid" style="width:365px;" alt="SSDCXI">
                         <div class="mask flex-center rgba-black-light">
                             <h1 class="white-text font-weight-bold text-center">SSDCXI</h1>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter  Event_Planning  All  Product_Project_Management  Negotiation  Non_Profits ">
+
+                <div class="view overlay h-100">
+                    <a href="/projects/2016/spring/AYES">
+                        <img src="/images/projects/AYES//square.png" class="img-fluid" style="width:365px;" alt="AYES">
+                        <div class="mask flex-center rgba-black-light">
+                            <h1 class="white-text font-weight-bold text-center">AYES</h1>
                         </div>
                     </a>
                 </div>
@@ -356,7 +368,9 @@ $(document).ready(function(){
     }
     $(this).addClass("active");
   });
-
+  // Below: show Highlights by default 
+  //$(".filter").not('.Highlights').hide('3000');
+  //$('.filter').filter('.Highlights').show('3000');
 
 
 });

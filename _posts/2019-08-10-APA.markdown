@@ -4,8 +4,8 @@ title2: Aminal Protection Association #title shown in first line
 date:   2019-08-10 13:57:52 -0400 #date this page is written
 
 categories: projects 2015 fall #project folder, beginning year and season
-tags: Event_Planning All Product_Project_Management
-#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design
+tags: Event_Planning All Product_Project_Management Non_Profits
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design Non_Profits
 
 start-season: "2015 Fall"
 end-season: "2017 Summer"
