@@ -21,8 +21,8 @@ slidesShow1:
   - image: /2016-WangShiPark.JPG
   - image: /2017-TeamActivity.JPG
   - image: /2016-Beach2.JPG
-  - image:  2017-ARG.JPG
-  - image: 2016-tour.JPG
+  - image: /2017-ARG.JPG
+  - image:  /2016-tour.JPG
 slidesShow2:
     - image: /2017-APA3.JPG
     - image: /2017-APA2.JPG
