@@ -4,7 +4,7 @@ title:  Transease
 date:   2019-08-10 14:37:52 -0400 #date this page is written
 
 categories: projects 2018 spring #project folder, beginning year and season
-tags: All Entrepreneurship Product_Project_Management
+tags: All Entrepreneurship Product_Project_Management Marketing
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design
 
 start-season: "2018 Spring"

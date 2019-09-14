@@ -45,7 +45,7 @@ This camp is designed with the idea of bringing entrepreneurial high school stud
 
 Me and my team’s job in this summit were to organize every aspect of the whole 5-day event from planning to executing, from marketing to financing, from finding speakers to media relations. We spent the countless sleepless night so that we could present an interesting and educational experience for all the participants.
 
-It is worth noting that all the pictures used in this article were taken by the hard-working student photographers in our department. I do not claim any credit to them.
+It is worth noting that all the pictures used in this article were taken by the hard-working student photographers in our department. Thank you!
 
 This is our story:
 
@@ -61,7 +61,7 @@ AYES stands for Amoy Youth Elite Summit. It is a summer camp that is planned, or
 (PS: People in China usually do not associate the word "Elite" with elitism or the societal elites. It is a common term people use to describe the top among their peers.)
 
 ### For Participants
-Participants first need to go through a rigorous screening process so that they can stand out among the 500-700 applicants each year. Once they are admitted, the five-day summit would consist of two parts. The first part is team building activities which take about one day and a half. Participants will work as a team to play through various role-playing, team building, and alternate reality game. This includes solving puzzles, piecing stories lines together and detecting minute clues.
+Participants first need to go through a rigorous screening process so that they can stand out among the 500-700 applicants each year. Once they are admitted, they would see the five-day summit would consist of two parts. The first part is team building activities which take about one day and a half. Participants will work as a team to play through various role-playing, team building, and alternate reality game. This includes solving puzzles, piecing stories lines together and detecting minute clues.
 
 {% include imagesSlide.html carousel=page.slidesShow1 caption = "Participants playing Alternate Reality Games"%}
 
@@ -77,21 +77,21 @@ As organizers, our role is to make sure all the aforementioned stuff happen. We 
 I am responsible to design the Theme activity. So I lead a team to come up with the theme for each year. We are responsible for implementing the theme, finding speakers, reaching out to the company for tours and organizing volunteering activity. I also help out other departments in areas of sponsorship negotiation and designs.
 
 ## AYES 2016 -- "Building Your Brand"
-This year's theme was Building Your Brand, namely, we wanted to cultivate participants entrepreneurial mindset. To implement this idea, my team worked on writing the request for proposal for the participants. In order to introduce the idea of a business plan, I also lead my team to come up with three companies so that the participants could draw an analogy in terms of scope and structure.
+This year's theme was Building Your Brand, namely, we wanted to cultivate participants entrepreneurial mindset and taught them basic entrepreneurial tools like branding, product/market fit, user research etc. To implement this idea, my team worked on writing the request for proposal for the participants. In order to introduce the idea of a business plan, I also lead my team to come up with three companies so that the participants could draw an analogy in terms of scope and structure.
 
 During the summit, I had the honor to give the opening remarks for the event. The 5-day summit went smooth(-ish). In the last day of the summit, the 12 teams all presented their start-up companies and their plan to brand and advertise their products. It was a great success.
 
-After the summit, it is customary to elect the next leadership board for the department. Since I have founded [my club](/projects/2015/fall/SSDCXI) and I was also the president of the school [Animal Protection Association](/projects/2015/fall/APA), I declined to run for the leadership position. Therefore, I was really humbled when the department appointed me as the Department Advisor and added a fourth position in the leadership board for me.
+After the summit, it is customary to elect the next leadership board for the department. Since I have founded [my club](/projects/2015/fall/SSDCXI) and I was also the president of the school [Animal Protection Association](/projects/2015/fall/APA), I declined to run for the leadership position. To my surprise, the previous leadership appointed me as the Department Advisor and added a fourth position in the leadership board for me. I felt grateful for their trust in me.
 
-Since this is my first year in the department, I did not try any bold ideas.
+Since this is my first year in the department, I did not try my bold ideas.
 
 But that's about to change real quick.
 
 ## AYES 2017 -- "Marketing & Commercials"
 This was my second year organizing the summit. As a kid who grew up watching TV, I wanted to teach participants how companies market their products and more specifically, how do they shoot commercials?
 
-To make the summit more immersive, I lead my team to come up with a fake company Overlap.Inc and product lines. So in this summit, us organizers would become a company that called for tender. And participants would form teams to bid their commercial and marketing ideas to us. In the end, the judges will be representatives from our company, the team that won the contract wins.
-### Making of a Fake company
+To make the summit more immersive, I lead my team to come up with a fake company Overlap.Inc and its product lines. So in this summit, we organizers would become a company that called for tender. And participants would form teams to bid their commercial and marketing ideas to us. In the end, the judges will be representatives from our company, the team that won the contract wins.
+### Overlap.Inc
 To make this company realistic, we came up with a 9-page document detailing the company's history and product lines. We asked participants to shoot commercials for our latest product: Overcup II, which was a smart IoT drinking cup that was transparent and could track your drinking habit. If you are interested, you can read to whole RFP [here](/images/projects/AYES/2017RFP.pdf)
 
 We gave each team a silicon cup for their project. But since the cup was supposed to be an IoT device, we needed to design an app to build the atmosphere. The problem was nobody knew how to build an app. Naturally, we taught ourselves how to do just that.
@@ -106,11 +106,11 @@ I always felt AYES should be more than just a 5-day summit where students can ha
 
 At that time, I was also the president of the school [Animal Protection Association](/projects/2015/fall/APA). I really like the idea of bridging two organizations together to achieve something great. So that's exactly what we did. In this voluntary activity, we gave each team who wish to participate 50 CNY as their initial fund. They needed to come up with an executable plan within three days. On the fourth day of the summit, they would head out and raise funds for animal protection cause.
 
-I really had no idea how many people would even show up, but the event turned out to be a great success. More than 120 students volunteered and we held charity events at 5 different public space in Xiamen at the same time.
+Before the event, I really had no idea how many people would even show up, but the event turned out to be a great success. More than 120 students volunteered and we held charity events at 5 different public space in Xiamen at the same time.
 
 If you wish to learn more about the experiment and the [Animal Protection Association](/projects/2015/fall/APA) in general, please click the blueish thingy.
 
-{% include imagesSlide.html carousel=page.slidesShow2 caption = "Pictures of some teams"%}
+{% include imagesSlide.html carousel=page.slidesShow2 caption = "Pictures of some participants volunteering"%}
 
 ## AYES 2019 -- "Artificial Intelligence"
 Even though I officially "retired" in 2017, to my surprise, two years later the current members of Student Union still reached out to me for advice for the 2019 AYES. So if you participated in the AYES 2019, you can probably see traces of me in the event.
@@ -122,7 +122,7 @@ The theme for this year is Artificial Intelligence. This was a hard topic. One h
 
 It was really tough since I basically worked with them to re-plan the whole event and we had less than a month to achieve that before the summit took place in July.
 
-But eventually, we came up with a very balanced approach that satisfied both technical and non-technical students. Want to know what it was? Join the 2017 AYES and experience it yourself!
+But eventually, we came up with a very balanced approach that satisfied both technical and non-technical students. Want to know what it was? Join the 2019 AYES and experience it yourself!
 
 ## Conclusion
 I have spent a great amount of my high school years in AYES and the practice department. The people I have met there and the things we achieved together will always be one of my fondest memory.
