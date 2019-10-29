@@ -1,4 +1,313 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-09-15T08:12:39-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-10-29T09:18:13-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">PuttPlot</title><link href="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR" rel="alternate" type="text/html" title="PuttPlot" /><published>2019-09-21T20:40:23-04:00</published><updated>2019-09-21T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR">&lt;p&gt;Published on Oct 29, 2019.&lt;/p&gt;
+
+&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
+
+&lt;p&gt;In this project, we designed a golf-dating-sim called PuttPlot. Essentially, it is a Japanese-style dating sim but you choose your response by golfing the ball to the corresponding holes. This is both challenging and fun in that we need to simulate the 3D golfing gestures and physics in VR but at the same time tell an interesting story through 2D animations.&lt;/p&gt;
+
+&lt;p&gt;In this 6-week project, I was the producer/programmer in the team. We will go through 6 iterations for the game, developing a prototype for each week and presenting a demo on every Friday.&lt;/p&gt;
+
+&lt;p&gt;This is our story.&lt;/p&gt;
+
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-1---brain-storming&quot; id=&quot;markdown-toc-week-1---brain-storming&quot;&gt;Week 1 - Brain Storming&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing&quot; id=&quot;markdown-toc-producing&quot;&gt;Producing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming&quot; id=&quot;markdown-toc-programming&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-2---pre-production&quot; id=&quot;markdown-toc-week-2---pre-production&quot;&gt;Week 2 - Pre-Production&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing-1&quot; id=&quot;markdown-toc-producing-1&quot;&gt;Producing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming-1&quot; id=&quot;markdown-toc-programming-1&quot;&gt;Programming&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#feedback-for-this-week&quot; id=&quot;markdown-toc-feedback-for-this-week&quot;&gt;Feedback for this week&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-3---a-rough-week-&quot; id=&quot;markdown-toc-week-3---a-rough-week-&quot;&gt;Week 3 - A Rough Week :(&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing-2&quot; id=&quot;markdown-toc-producing-2&quot;&gt;Producing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming---a-ramp-is-built&quot; id=&quot;markdown-toc-programming---a-ramp-is-built&quot;&gt;Programming - A Ramp is Built&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-4---play-testing&quot; id=&quot;markdown-toc-week-4---play-testing&quot;&gt;Week 4 - Play-Testing&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing---a-small-bug&quot; id=&quot;markdown-toc-producing---a-small-bug&quot;&gt;Producing - A “Small” Bug&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing-cont&quot; id=&quot;markdown-toc-producing-cont&quot;&gt;Producing (CONT)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming---the-ramp-is-on-fire&quot; id=&quot;markdown-toc-programming---the-ramp-is-on-fire&quot;&gt;Programming - The Ramp Is on Fire&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#lesson-learned&quot; id=&quot;markdown-toc-lesson-learned&quot;&gt;Lesson Learned&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-5---things-are-finally-coming-together&quot; id=&quot;markdown-toc-week-5---things-are-finally-coming-together&quot;&gt;Week 5 - Things Are Finally Coming Together&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing-3&quot; id=&quot;markdown-toc-producing-3&quot;&gt;Producing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming---the-ramp-is-never-on&quot; id=&quot;markdown-toc-programming---the-ramp-is-never-on&quot;&gt;Programming - The Ramp is Never On&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#lesson-learned-1&quot; id=&quot;markdown-toc-lesson-learned-1&quot;&gt;Lesson Learned&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#week-6---release&quot; id=&quot;markdown-toc-week-6---release&quot;&gt;Week 6 - Release&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#producing-4&quot; id=&quot;markdown-toc-producing-4&quot;&gt;Producing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#programming---the-ramp-broke-again&quot; id=&quot;markdown-toc-programming---the-ramp-broke-again&quot;&gt;Programming - The Ramp Broke, Again&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#lesson-learned-2&quot; id=&quot;markdown-toc-lesson-learned-2&quot;&gt;Lesson Learned&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot; id=&quot;markdown-toc-credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;week-1---brain-storming&quot;&gt;Week 1 - Brain Storming&lt;/h2&gt;
+&lt;p&gt;We have a lot of freedom in our project. The only requirement was that it needed to be a playable VR game inspired by any picnic game. And, of course, it needed to be developed within 6-week by a team of 5-6 people.&lt;/p&gt;
+
+&lt;p&gt;We formed our team on Friday, Aug 30th. On the next day, we had our first meeting. In the meeting, we spend about 4 hours talking about game ideas. Our discussion ranged from a technical-challenged beat-saber-style &lt;em&gt;Hall Ball&lt;/em&gt; to an Americano dark-humor game called &lt;em&gt;Catch With Dad&lt;/em&gt;. The game idea I proposed was an environmental-educational sandbox game called &lt;em&gt;Tree&lt;/em&gt; where you grow and destroy tress to impact global temperature. Sadly, it is a bit out of scope for a 6-week project so we didn’t end up running it.&lt;/p&gt;
+
+&lt;p&gt;After several rounds of voting, we ended up with the idea of a dating simulation golf game: &lt;em&gt;PuttPlot&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;producing&quot;&gt;Producing&lt;/h3&gt;
+&lt;p&gt;After we decided the game idea, we need to present a playable demo that following Friday. We cooperated by assigning tasks to each individual in the team. These were tasks like demo-board design, 2D arts and hitting mechanics. All individual task would be due by Wednesday night. And we would use Thursday night to integrate all the individual parts into a full game.&lt;/p&gt;
+&lt;h3 id=&quot;programming&quot;&gt;Programming&lt;/h3&gt;
+&lt;p&gt;In our first demo, we just used rigid-body on the ball and added a collider on the golf club. We would add a force on the ball to the direction of the club whenever the ball was hit. So Unity physics will handle the collision and how golf ball would fly.&lt;/p&gt;
+
+&lt;p&gt;We did pretty well for our first week. Our demo is working and the class seems to like it. We also received a lot of constructive feedback.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Concept Art for the game&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;week-2---pre-production&quot;&gt;Week 2 - Pre-Production&lt;/h2&gt;
+&lt;p&gt;To get things going, we did a lot of pre-production work this week.&lt;/p&gt;
+&lt;h3 id=&quot;producing-1&quot;&gt;Producing&lt;/h3&gt;
+&lt;p&gt;Firstly, we decided on the three pillars of the game:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Laughter: the game should be very very funny / subverted expectations&lt;/li&gt;
+  &lt;li&gt;Engaging stories: player’s decisions matter&lt;/li&gt;
+  &lt;li&gt;Board configuration connect to dialogue options&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Our game mainly consisted of two parts: a golfing mechanics and an intriguing story. So for the second week, our writer Gus worked on the story and ended up with a bunch of index card full of funny stories he wrote. Our artiest Angelina worked on more concepts and character art. Our programmer Carter and Ann worked on driving golf. And I worked on the board design and producing work.&lt;/p&gt;
+
+&lt;p&gt;We still used the integrate-on-Thursday-present-on-Friday approach. Since a lot of the work we did is preproduction, the final demo we presented on Friday for this week isn’t that much different from the previous week.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week2-story.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week2-story.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Draft story tree for the game&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h3 id=&quot;programming-1&quot;&gt;Programming&lt;/h3&gt;
+&lt;p&gt;This week we try to mimic how golf ball in the real world works. In real life, the golf ball will not fly away immediately after contact with the club, but will instead be lifted a bit by the club and the fly away.&lt;/p&gt;
+
+&lt;p&gt;Thus, we try to do that in the game by adding the ball to be a child object of the club immediately after contact so that it would stick to the club. After the ball move up to the direction of the swing for a few milliseconds, we will release the ball and adding a force to make it fly.&lt;/p&gt;
+
+&lt;p&gt;This concept is good but the final result wasn’t as successful as we would want it to be. The ball still moves too fast and didn’t land on the location you would expect it to land.&lt;/p&gt;
+
+&lt;h3 id=&quot;feedback-for-this-week&quot;&gt;Feedback for this week&lt;/h3&gt;
+&lt;p&gt;Same as last week, we received a lot of feedback after our demo on Friday and we boiled down to four points:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ball was too fast/not visible enough&lt;/li&gt;
+  &lt;li&gt;Text looked bad&lt;/li&gt;
+  &lt;li&gt;Board UI needed work&lt;/li&gt;
+  &lt;li&gt;Driving doesn’t feel good. Need a RAMP&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sadly, we forget to record gameplay video in the first two iterations so you won’t be able to see them.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week2-game.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week2-game.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The second iteration&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;week-3---a-rough-week-&quot;&gt;Week 3 - A Rough Week :(&lt;/h2&gt;
+&lt;p&gt;In our third iteration of the game, things started to get a bit difficult. We had the Technical Opportunities Conference this week, which is the biggest career fair on CMU each year. Many teammates spent all their free time on Monday, Tuesday, and Wednesday in that event.&lt;/p&gt;
+&lt;h3 id=&quot;producing-2&quot;&gt;Producing&lt;/h3&gt;
+&lt;p&gt;This essentially meant our Wednesday checkpoint was not met. So we ended up trying to scramble everything together at the last minute. Carter, Gus and I stayed at Hunt Library basement until after midnight. Even after that, the version we submitted was still very buggy.&lt;/p&gt;
+
+&lt;p&gt;I designed several levels(boards) for the game. But because we failed to get the dialogue transition working in time. We never got a chance to transit to the new levels. Therefore, our demo on Friday was not ideal.&lt;/p&gt;
+
+&lt;h3 id=&quot;programming---a-ramp-is-built&quot;&gt;Programming - A Ramp is Built&lt;/h3&gt;
+&lt;p&gt;The good thing was we got a working ramp. One of the feedback that we received was that just driving the ball to the board did’t feel good. We solved this by adding an acceleration ramp. In this case, the player only needs to putt the ball to the ramp and ball will fly up to the board.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, we will do better next week.&lt;/p&gt;
+
+&lt;p&gt;Written on Sep 28, 2019.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week3-ramp.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week3-ramp.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The ramp&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;week-4---play-testing&quot;&gt;Week 4 - Play-Testing&lt;/h2&gt;
+&lt;p&gt;We are officially passing the halfway point of our project but we still haven’t got the core game loop ready. So there is only one goal this week: nail down the game loop.&lt;/p&gt;
+
+&lt;h3 id=&quot;producing---a-small-bug&quot;&gt;Producing - A “Small” Bug&lt;/h3&gt;
+&lt;p&gt;Learning from last week’s experience, we tried to add more checkpoints and iterations throughout the week. Instead of only integrating on Thursday night, we integrated and play-test on Tuesday night and integrated again on Wednesday and Thursday nights. This meant we could at least iterate two times in one week: one for play-testing on Tuesday and one for the demo on Friday.&lt;/p&gt;
+
+&lt;p&gt;On Tuesday, we were fixing bugs while inviting people to play-test. Near the end of the play-test session, we fixed all the bugs that are left from last week, especially a bug that will prevent the dialogue from moving to the next board and options.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week4-environment.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week4-environment.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Week4 the environment behind the player&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;Then we found a smaller bug. Instead of creating a new ball and destroy old ones, we cycled through golf balls. This meant there are only 10 golf balls in total in the game. We created these ball at the beginning of the game and when you hit the ball with index 9, the ball with index 0 will come back.&lt;/p&gt;
+
+&lt;p&gt;But since we only changed its transform.location, there were still forces on the ball if the player went through all the balls very quickly. Since we were play-testing, there was no time to rewrite the script, we just changed the number of balls from 10 to 100000000 in the editor, thinking there is no way a player could go through 100000000 balls that quickly.&lt;/p&gt;
+
+&lt;p&gt;We hit the play button, without thinking twice. But apparently, initializing 100000000 game objects in a for-loop at the beginning of the game is a bad idea …&lt;/p&gt;
+
+&lt;p&gt;Unity stopped responding.&lt;/p&gt;
+
+&lt;p&gt;We were thinking: “Cool, I’ll just have to reopen Unity and change the number back.”&lt;/p&gt;
+
+&lt;p&gt;But we forgot to save the scene before entering that huge number…&lt;/p&gt;
+
+&lt;p&gt;So all the modifications we made that night in the scene was gone…&lt;/p&gt;
+&lt;h3 id=&quot;producing-cont&quot;&gt;Producing (CONT)&lt;/h3&gt;
+&lt;p&gt;All was not lost. We integrated again on Wednesday to revert all the changes we made on Tuesday. And we also integrated on Thursday to add more features like background, voice and more dialogue. At around 11:20 pm on Thursday, when we tried to integrate all the dialogue scriptable objects and voice to our main game, the game broke again because my teammates were using the older version of the event system (the one from last week) and we changed the system since then…&lt;/p&gt;
+
+&lt;p&gt;We spent 10-20 mins trying to fix this issue. This meant we only have 20 mins left to integrate. We have to make a hard choice, either we could put all the dialogue in so the player can play a full game without voice acting, or we could put the dialogue and voice acting for the first scene so the player can experience a shorter but complete game loop.&lt;/p&gt;
+
+&lt;p&gt;As the producer, it was a hard choice for me to make. Because both sides have spent a lot of time tonight working and both would like their stuff in the game. But I decided to go with the latter because a short snapshot of our game can provide people a better understanding of the game and what the game would look like once it is finished.&lt;/p&gt;
+
+&lt;h3 id=&quot;programming---the-ramp-is-on-fire&quot;&gt;Programming - The Ramp Is on Fire&lt;/h3&gt;
+&lt;p&gt;We moved the golf ball’s location around and didn’t have time to recalibrate the boosting ramp. So in our demo on Friday, when our TA Adrian tested the game, the ramp boosted too much and he overshot the ball a lot.&lt;/p&gt;
+&lt;h3 id=&quot;lesson-learned&quot;&gt;Lesson Learned&lt;/h3&gt;
+&lt;p&gt;If something can go wrong, it will go wrong… So save files periodically.&lt;/p&gt;
+
+&lt;p&gt;Written on Oct 5, 2019.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week4-player-view.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week4-player-view.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Week4 Player's View&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;week-5---things-are-finally-coming-together&quot;&gt;Week 5 - Things Are Finally Coming Together&lt;/h2&gt;
+&lt;p&gt;With two weeks to go, we finally nailed down our core game loop. This week we got all the major elements integrated: story, putting, environment and some voice acting in the game.&lt;/p&gt;
+&lt;h3 id=&quot;producing-3&quot;&gt;Producing&lt;/h3&gt;
+&lt;p&gt;Since the organizational changes, we made last week worked, we again play-tested our game on Tuesday night and integrate it on Wednesday and Thursday night.&lt;/p&gt;
+
+&lt;p&gt;Because our game is dialogue-focused, once we got the dialogue system set up the game would work decently. So this week we saw all the previous debugging and coding efforts finally paid off (special thanks to our lead programmer Carter). We also added a chat history on the sides of the player, so that the player can see the previous chat.&lt;/p&gt;
+
+&lt;h3 id=&quot;programming---the-ramp-is-never-on&quot;&gt;Programming - The Ramp is Never On&lt;/h3&gt;
+&lt;p&gt;Remember that in week 3 we added a ramp？And in week 4 the ramp makes the player overshot a lot? This was actually kind of wired because in week 3 the ramp would not cause as much overshooting as it did in week 4. So this week we try to solve that problem by recalibrating the ramp and the ball’s landing location on the board.&lt;/p&gt;
+
+&lt;p&gt;I spent the entire evening with a headset on in our VR game while Carter tweaked parameters for the ramp. Each time he tweaked something, I would the ramp and see where the ball lands. And each time we do that, we would convince ourselves that we are almost there, just a few more tweaks to go.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/PuttPlot/week5-recalibrate.gif&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/PuttPlot/week5-recalibrate.gif&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Recalibrating the Ramp&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;After a while, we were a bit frustrated because no matter how we tweak the parameters, the ramp would always overshoot. Wait a minute, no matter how we change the parameters … the outcome would not change… it could only be … but that’s impossible …&lt;/p&gt;
+
+&lt;p&gt;Yep, the ramp’s collider was never turned on. The collider that was supposed to detect and boost the ball, the collider that we thought we were changing was never on. We must have turned it off during some testing and forgot to turn it back on. Because it was off, it had absolutely no effects in the game. And we just spent about an hour trying to “fix” it…&lt;/p&gt;
+
+&lt;p&gt;When we turn the collider on, everything worked decently. In our demo on Friday, our guest, a naive play-tester, seemed impressed by our game, especially how easy the putting feels.&lt;/p&gt;
+
+&lt;h3 id=&quot;lesson-learned-1&quot;&gt;Lesson Learned&lt;/h3&gt;
+&lt;p&gt;Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.&lt;/p&gt;
+
+&lt;p&gt;Written on Oct 11, 2019.&lt;/p&gt;
+
+&lt;h2 id=&quot;week-6---release&quot;&gt;Week 6 - Release&lt;/h2&gt;
+&lt;p&gt;This is our final week to work on the game.&lt;/p&gt;
+&lt;h3 id=&quot;producing-4&quot;&gt;Producing&lt;/h3&gt;
+&lt;p&gt;After play-testing the game on Tuesday, we listed 10-12 additional features and improvements we wanted to add to the game. Our biggest challenge this week was getting all the voice and dialogue lines in. As I have said before, once we got the main dialogue system working, it would just be a matter of click and drag all the files in. But since we were trying to create a funny dating simulator, we have a long story (consisted of 7 short stories with branches). It took us a long time to put all the dialogue lines and its’ corresponding voice acting in.&lt;/p&gt;
+
+&lt;p&gt;At around 9:30 pm on Thursday, we managed to get the whole game working (without voice acting). I play-tested the entire game while our writer Gus was putting voices into the scriptable objects for each dialogue. Surprisingly, because we had too many jokes and stories, it took me a good 20-30 minutes to finish the entire game. The version we had right now would be our last-known-good in case things went south.&lt;/p&gt;
+
+&lt;p&gt;We finished adding all the voices acting in at around 10:50 - 11:00 pm, about one hour before the deadline. Then, things went south.&lt;/p&gt;
+&lt;h3 id=&quot;programming---the-ramp-broke-again&quot;&gt;Programming - The Ramp Broke, Again&lt;/h3&gt;
+&lt;p&gt;The programming section of this article was created to talk about the technical challenges we faced during the game development. But I just realized almost all of them are actually about the ramp.&lt;/p&gt;
+
+&lt;p&gt;At around 11:00 pm, one hour before the deadline, we decided to recalibrate the ramp (again). This was because we added a tutorial to this game. The tutorial would ask the player to shoot the far left and far right of the board, so that players would know how to control the putting. But, currently, shooting to the side would cause a bug on the ramp, making the golf ball never land on the board. We never notice this problem last week because we did not add the tutorial until this week. So with one hour to go, we started debugging.&lt;/p&gt;
+
+&lt;p&gt;Carter and I started our classic duel: He would tweak different parameters on the ramp and I would be in the headset hitting the golf ball and giving him feedback. But we encountered the same problem: no matter how we tweak the parameters, the boosting effect would not be activated for all the balls landing on the far sides of the ramp.&lt;/p&gt;
+
+&lt;p&gt;We checked the collider, yes, it was on.&lt;/p&gt;
+
+&lt;p&gt;At around 11:45 pm, the atmosphere was tense. On the one hand, hitting the ball up through the ramp was our core game mechanics, we have an obligation to make it work. On the other hand, we had no idea whether we could solve this bug or not.&lt;/p&gt;
+
+&lt;p&gt;At 11:50 pm, we found the bug. It was one line of code in the ramp’s script that narrowed the range of checking collision. After we simply commented it out, things worked beautifully.&lt;/p&gt;
+
+&lt;p&gt;On Friday, we presented our game to the whole class. Even though we still had some problems with the putting, the play-test went well.&lt;/p&gt;
+
+&lt;p&gt;In hindsight, I made a mistake here. I should have built the game after we added all the voice acting and before we started debugging the ramp. This is because our last-know-good was the version built around 9:30 pm. It did not have all the voice acting in. Had the debugging effort failed, and the game fails to compile before midnight, all the effort of recording the voice acting and adding it to the game would be lost.&lt;/p&gt;
+
+&lt;h3 id=&quot;lesson-learned-2&quot;&gt;Lesson Learned&lt;/h3&gt;
+&lt;p&gt;Last-Known-Good is your friend.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+&lt;p&gt;This is my first time working on a game as producer. It is really a learning experience for me. I am very grateful to have a supportive team. I’d really like to give a shout-out to our programmer Carter Williams, our writer Gus Saalfeld and our artiest Angelina Shi. This game would not be possible without their’s and all our teammates contribution.&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Game_Design" /><category term="All" /><summary type="html">Published on Oct 29, 2019.</summary></entry><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
 
 &lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.&lt;/p&gt;
 
@@ -338,7 +647,176 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 &lt;h2 id=&quot;areas-for-improvement&quot;&gt;Areas for Improvement&lt;/h2&gt;
 
-&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
+&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry><entry><title type="html">XYSSDC</title><link href="http://localhost:4000/projects/2015/fall/XYSSDC" rel="alternate" type="text/html" title="XYSSDC" /><published>2019-08-11T13:37:52-04:00</published><updated>2019-08-11T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/XYSSDC</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/XYSSDC">&lt;p&gt;If I could only choose one project to represent my entire high school life, this will be the one.&lt;/p&gt;
+
+&lt;p&gt;SSDCXI stands for Space Settlement Design Club in Xiamen No.1 High School. It is a club I founded in my 10th grade to participate in the International Space Settlement Design Competition which was sponsored by NASA.&lt;/p&gt;
+
+&lt;p&gt;I started the club with nothing but passion. But after my 2 years of leading and advising the club, our club won the first prize in China qualifying round three times, won the gold medal in China final once, the runner-up prize in world semi-final in New Delhi, India twice and the Dick Edwards Award for Outstanding Leadership twice.&lt;/p&gt;
+
+&lt;p&gt;This is our story:
+&lt;!--break--&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    &lt;table class=&quot;text-center&quot;&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/1-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/1-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/2-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/2-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/3-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/3-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/4-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/4-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/5.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/5.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/6-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/6-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/7-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/7-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/8-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/8-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+            &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/fm/9-min.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/fm/9-min.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;/tr&gt;
+
+    &lt;/table&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;/p&gt;
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-1-the-founding&quot; id=&quot;markdown-toc-chapter-1-the-founding&quot;&gt;Chapter 1: The Founding&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-2-try-fail-learn-repeat&quot; id=&quot;markdown-toc-chapter-2-try-fail-learn-repeat&quot;&gt;Chapter 2: Try, Fail, Learn, Repeat&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-3-the-firsts&quot; id=&quot;markdown-toc-chapter-3-the-firsts&quot;&gt;Chapter 3: The Firsts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#chapter-4-growth&quot; id=&quot;markdown-toc-chapter-4-growth&quot;&gt;Chapter 4: Growth&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#web-design&quot; id=&quot;markdown-toc-web-design&quot;&gt;Web Design&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#video-editing&quot; id=&quot;markdown-toc-video-editing&quot;&gt;Video Editing&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#sponsorship-negotiation&quot; id=&quot;markdown-toc-sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#event-planning&quot; id=&quot;markdown-toc-event-planning&quot;&gt;Event Planning&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;chapter-1-the-founding&quot;&gt;Chapter 1: The Founding&lt;/h2&gt;
+&lt;p&gt;After recruiting 12 members, I founded the club in the spring of 2016. We have the same goal: to design a space settlement. But the problem was nobody knew what the heck we should do. I mean, it is a freaking space settlement.&lt;/p&gt;
+
+&lt;p&gt;The competition required us to design a space settlement orbiting Mercury. Basically, we need to write a 40-page proposal with 3D rendered graphs describing the settlement’s outer structural design(material, dimension, etc), inner city layout(road placement, apartment floor plan, etc), daily operation(food, water,etc) and automation design(contingency plan, industrial robots, etc).&lt;/p&gt;
+
+&lt;p&gt;My job, as the founder and president, is to lead my team to make something out of nothing.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/ssdcxi/team.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/ssdcxi/team.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Meet the Team&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;chapter-2-try-fail-learn-repeat&quot;&gt;Chapter 2: Try, Fail, Learn, Repeat&lt;/h2&gt;
+&lt;p&gt;As a high school freshman, I have no idea about how to lead an engineering design team so I just followed my hunch. Before the competition starts, in order to train my teammates how to use 3D modeling softwares, I invited professors from local university to gave lectures. To inform my teammate about how to design, I read through several space settlement proposals and gave talks about physics and design every week. &lt;/p&gt;
+
+&lt;p&gt;After about 2 months preparation, the 12 of us received our first RFP(Request For Proposal), requesting us to design a sun-facing polar space settlement orbiting Mercury. To achieve our goal, I deployed a quick weekly iteration cycle in my team by organizing my team into multiple smaller task teams. Through each iteration, I can provide quick feedback to my teammates. As a result, my team and I managed to design multiple versions of the same system quickly, each time better than the last.&lt;/p&gt;
+
+&lt;div class=&quot;row text-center&quot;&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall1.JPG&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall1.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V1.0
+    &lt;/div&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall2.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V2.0
+    &lt;/div&gt;
+    &lt;div class=&quot;col-4&quot;&gt;
+        &lt;a href=&quot;/images/projects/ssdcxi/overall3.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/overall3.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
+        V3.0
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Sometimes I needed to work with my teammates to repeatedly revise their designs, like how we revised the outer structure of our settlement more than eleven times to better accommodate Mercury’s extreme environment. Other times, I facilitated brainstorming sessions for my club members in front of a blackboard for an entire afternoon.&lt;/p&gt;
+
+&lt;p&gt;After 4 months of hard work, we made it: A 70-page proposal for a space settlement designed by us.&lt;/p&gt;
+
+&lt;p&gt;It is worth noting that I studied at a regular public high school in China, meaning our class started at 7:15 am and finished at 9:45 pm. So I am very grateful that my teammates were willing to follow me to accomplish this almost impossible task on top of our heavy curriculum. Working with you guys under high pressure is one of the best experience in my life. Thank you!&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/old.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/old.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/new.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/new.png&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Outer Structure V1.0&lt;/td&gt;&lt;td&gt;Outer Structure V2.0&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-3-the-firsts&quot;&gt;Chapter 3: The Firsts&lt;/h2&gt;
+&lt;p&gt;After submitting our proposal in August, I thought this would be the end of our journey. I mean, after all, we were an inexperienced team participating in this competition for the first time. Finishing the proposal on time was a miracle in and of itself, there is no way we can be in the China Final.&lt;/p&gt;
+
+&lt;p&gt;Little did I know, this was just the start of a fulfilling two-year journey.&lt;/p&gt;
+
+&lt;p&gt;As you may have guessed, we became the first team from my province/state winning the first prize in qualifying round. In China final, I was elected President to lead a simulated aerospace company Vulture which consisted of 48 students to design a new space settlement. But this time, I only have 24 hours and 36 of the 48 students were people I have never met before. By coordinating between departments, I lead the design of an underground settlement on the surface of Mercury in 24 hours. Sadly, my company only won the runner-up prize, meaning my school was not qualified for the world semi-final in India.&lt;/p&gt;
+
+&lt;p&gt;But giving up was never an option for my team and I. So after the competition, my team and I spent one month designed and redesigned a new proposal based on the initial one. Those were some of the darkest hours in my high school life, because my ACT test, my mid-terms for 5 subjects in school and the deadline for submission were less than 10 days apart. But we made it.&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/robo2.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/robo2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/HF.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/HF.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/structure.png&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/structure.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;Automation&lt;/td&gt;&lt;td&gt;Human Factor&lt;/td&gt;&lt;td&gt;Structure&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As you may have guessed, we became the first team from my province/state participating in world semi-final in New Delhi, India and I was the only Chinese elected as President during the competition. This time, I need to lead a 54-student company consists of students from 3 different countries.&lt;/p&gt;
+
+&lt;table class=&quot;text-center&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/800 (1).jpeg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/800 (1).jpeg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/0412_1.jpg&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/0412_1.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+        &lt;td&gt;&lt;a href=&quot;/images/projects/ssdcxi/IMG_0816.JPG&quot;&gt; &lt;img src=&quot;/images/projects/ssdcxi/IMG_0816.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;&lt;td&gt;First Club Meeting&lt;/td&gt;&lt;td&gt;Medals&lt;/td&gt;&lt;td&gt;Yep,that's me&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;chapter-4-growth&quot;&gt;Chapter 4: Growth&lt;/h2&gt;
+&lt;p&gt;Winning or losing one match is normal, but what’s hard is how to transfer the knowledge we learned and make SSDCXI a bigger and better club. So here is what I did to expand my club from 12 members to 40 members in two years.&lt;/p&gt;
+
+&lt;h3 id=&quot;web-design&quot;&gt;Web Design&lt;/h3&gt;
+&lt;p&gt;We are a tech club. Naturally, we need a website, preferably, a cool one. But the problem was nobody in my team knew how to design a website. So naturally, we taught ourselves how to do so. I spent the summer of 2017 working on this website. This is the first website I have ever designed: &lt;a href=&quot;http://ssdcxi.space&quot;&gt;ssdcxi.space&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;It is designed with the goals of introducing our club to prospective members and recording our club’s history. It is now maintained by my successors.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;http://ssdcxi.space&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/ssdcxi/site.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
+&lt;p&gt;It was hard to describe what we do in one poster, (even though we designed multiple ones), so I wanted to shot a promotional video for my club to recruit new members. But the problem was, again, nobody in my team knew how to do that. So naturally, we taught ourselves how to do so. My friends helped me with the footage and I spent about 2 days editing this video. Keep in mind this was made by a guy with zero editing background, so it may not be the best promotional video you’ve seen. You can check out the full video here:&lt;/p&gt;
+
+&lt;p&gt;If you are in China, you can check it out &lt;a href=&quot;https://v.qq.com/x/page/c0386c9vi4t.html&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;iframe class=&quot;w-100&quot; height=&quot;600&quot; src=&quot;https://www.youtube.com/embed/5vjjPYgHHZM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/h3&gt;
+&lt;p&gt;During the competition, we needed to travel to Beijing and India. Thus, we need some kind of sponsorship to cover our cost. Since my school had no tradition of sponsoring external competitions, I had many meetings with my school’s officials and education head to persuade them to reimburse some of our cost. Mr.Chen, our club advisor, helped me a lot during the process. I also traveled to the other side of the city multiple times to negotiate and secure corporate sponsorship from EIC(启德教育集团). In the end, our hotels and dining were reimbursed by my school and plane tickets were sponsored by EIC, saving about 30,000 RMB for my team.&lt;/p&gt;
+
+&lt;h3 id=&quot;event-planning&quot;&gt;Event Planning&lt;/h3&gt;
+&lt;p&gt;In the second year of my club, I wanted to introduce more people to experience the joy of working in an engineering design team. So, we held the XYSSDC(Xiamen Youth Space Settlement Developer Conference) in the winter of 2018. It was a 5-day winter camp where we trained 60 high school students coming from across the province about how to design space settlement. This is a story worth its own page. You can check it out here:(TBD)&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Event_Planning" /><category term="Product_Project_Management" /><category term="Marketing" /><category term="Negotiation" /><summary type="html">If I could only choose one project to represent my entire high school life, this will be the one.</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
 
 &lt;p&gt;This got me thinking. Wouldn’t it be so nice if every time people need translation, somebody can just magically show up and help them?&lt;/p&gt;
 

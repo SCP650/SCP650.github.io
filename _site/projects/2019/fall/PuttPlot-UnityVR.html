@@ -1,0 +1,549 @@
+<!doctype html>
+<html lang="en" class="full-height">
+
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	   <meta name="keywords" content="Sebastian Yang, CMU, Yukai, 杨毓恺">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Material Design Bootstrap -->
+	<link href="/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/my.css">
+
+  
+  <title>PuttPlot | Sebastian Yang</title>
+  
+
+  </head>
+
+	<body>
+
+    
+<!--nav bar -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-darklight fixed-top scrolling-navbar">
+<div class="container">
+
+<a class="navbar-brand" href="/index"><img src="/images/static/seb.png" width="80" height="30"  class="d-inline-block align-top" alt="">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/index">Home</a>
+          </li>
+          <li class="nav-item ">
+              <a class="nav-link" href="/about">About me</a>
+          </li>
+          <li class="nav-item dropdown  active ">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Portfolio
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dumbSeb">Borning Stuff</a>
+                  <a class="dropdown-item" href="/smartSeb">Interesting Stuff</a>
+              </div>
+          </li>
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/contact ">Contact</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="https://yangyukai.com/projects/2019/fall/PuttPlot-UnityVR">中文</a>
+          </li>
+
+      </ul>
+</div>
+</div>
+</nav>
+
+    
+    <div>
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+<!--Indicators-->
+
+<!--/.Indicators-->
+<!--Slides-->
+
+<div class="carousel-inner" role="listbox">
+  
+ <div class="carousel-item   active ">
+    <div class="view">
+      <img class="d-block w-100"  src="/images/projects/PuttPlot//cover.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
+      <div class="mask rgba-black-light"></div>
+    </div>
+  </div>
+  
+</div>
+<!--/.Slides-->
+
+<!--Controls-->
+
+<!--/.Controls-->
+
+</div>
+<!--/.Carousel Wrapper-->
+</div>
+
+    
+
+    <body class="bg-lighter ">
+<h1 class="text-center  mt-4 scroUp"> PuttPlot </h1>
+
+<div class="mainText">
+<div class="container w-75 mb-4">
+<h3>Overview</h3>
+<p>2019 Fall </p>
+   <p>Published on Oct 29, 2019.</p>
+
+<p>This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.</p>
+
+<p>In this project, we designed a golf-dating-sim called PuttPlot. Essentially, it is a Japanese-style dating sim but you choose your response by golfing the ball to the corresponding holes. This is both challenging and fun in that we need to simulate the 3D golfing gestures and physics in VR but at the same time tell an interesting story through 2D animations.</p>
+
+<p>In this 6-week project, I was the producer/programmer in the team. We will go through 6 iterations for the game, developing a prototype for each week and presenting a demo on every Friday.</p>
+
+<p>This is our story.</p>
+
+<h2 class="no_toc" id="table-of-contents">Table of Contents</h2>
+
+<ul id="markdown-toc">
+  <li><a href="#week-1---brain-storming" id="markdown-toc-week-1---brain-storming">Week 1 - Brain Storming</a>    <ul>
+      <li><a href="#producing" id="markdown-toc-producing">Producing</a></li>
+      <li><a href="#programming" id="markdown-toc-programming">Programming</a></li>
+    </ul>
+  </li>
+  <li><a href="#week-2---pre-production" id="markdown-toc-week-2---pre-production">Week 2 - Pre-Production</a>    <ul>
+      <li><a href="#producing-1" id="markdown-toc-producing-1">Producing</a></li>
+      <li><a href="#programming-1" id="markdown-toc-programming-1">Programming</a></li>
+      <li><a href="#feedback-for-this-week" id="markdown-toc-feedback-for-this-week">Feedback for this week</a></li>
+    </ul>
+  </li>
+  <li><a href="#week-3---a-rough-week-" id="markdown-toc-week-3---a-rough-week-">Week 3 - A Rough Week :(</a>    <ul>
+      <li><a href="#producing-2" id="markdown-toc-producing-2">Producing</a></li>
+      <li><a href="#programming---a-ramp-is-built" id="markdown-toc-programming---a-ramp-is-built">Programming - A Ramp is Built</a></li>
+    </ul>
+  </li>
+  <li><a href="#week-4---play-testing" id="markdown-toc-week-4---play-testing">Week 4 - Play-Testing</a>    <ul>
+      <li><a href="#producing---a-small-bug" id="markdown-toc-producing---a-small-bug">Producing - A “Small” Bug</a></li>
+      <li><a href="#producing-cont" id="markdown-toc-producing-cont">Producing (CONT)</a></li>
+      <li><a href="#programming---the-ramp-is-on-fire" id="markdown-toc-programming---the-ramp-is-on-fire">Programming - The Ramp Is on Fire</a></li>
+      <li><a href="#lesson-learned" id="markdown-toc-lesson-learned">Lesson Learned</a></li>
+    </ul>
+  </li>
+  <li><a href="#week-5---things-are-finally-coming-together" id="markdown-toc-week-5---things-are-finally-coming-together">Week 5 - Things Are Finally Coming Together</a>    <ul>
+      <li><a href="#producing-3" id="markdown-toc-producing-3">Producing</a></li>
+      <li><a href="#programming---the-ramp-is-never-on" id="markdown-toc-programming---the-ramp-is-never-on">Programming - The Ramp is Never On</a></li>
+      <li><a href="#lesson-learned-1" id="markdown-toc-lesson-learned-1">Lesson Learned</a></li>
+    </ul>
+  </li>
+  <li><a href="#week-6---release" id="markdown-toc-week-6---release">Week 6 - Release</a>    <ul>
+      <li><a href="#producing-4" id="markdown-toc-producing-4">Producing</a></li>
+      <li><a href="#programming---the-ramp-broke-again" id="markdown-toc-programming---the-ramp-broke-again">Programming - The Ramp Broke, Again</a></li>
+      <li><a href="#lesson-learned-2" id="markdown-toc-lesson-learned-2">Lesson Learned</a></li>
+    </ul>
+  </li>
+  <li><a href="#credits" id="markdown-toc-credits">Credits</a></li>
+</ul>
+
+<h2 id="week-1---brain-storming">Week 1 - Brain Storming</h2>
+<p>We have a lot of freedom in our project. The only requirement was that it needed to be a playable VR game inspired by any picnic game. And, of course, it needed to be developed within 6-week by a team of 5-6 people.</p>
+
+<p>We formed our team on Friday, Aug 30th. On the next day, we had our first meeting. In the meeting, we spend about 4 hours talking about game ideas. Our discussion ranged from a technical-challenged beat-saber-style <em>Hall Ball</em> to an Americano dark-humor game called <em>Catch With Dad</em>. The game idea I proposed was an environmental-educational sandbox game called <em>Tree</em> where you grow and destroy tress to impact global temperature. Sadly, it is a bit out of scope for a 6-week project so we didn’t end up running it.</p>
+
+<p>After several rounds of voting, we ended up with the idea of a dating simulation golf game: <em>PuttPlot</em>.</p>
+<h3 id="producing">Producing</h3>
+<p>After we decided the game idea, we need to present a playable demo that following Friday. We cooperated by assigning tasks to each individual in the team. These were tasks like demo-board design, 2D arts and hitting mechanics. All individual task would be due by Wednesday night. And we would use Thursday night to integrate all the individual parts into a full game.</p>
+<h3 id="programming">Programming</h3>
+<p>In our first demo, we just used rigid-body on the ball and added a collider on the golf club. We would add a force on the ball to the direction of the club whenever the ball was hit. So Unity physics will handle the collision and how golf ball would fly.</p>
+
+<p>We did pretty well for our first week. Our demo is working and the class seems to like it. We also received a lot of constructive feedback.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week1.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week1.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Concept Art for the game</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h2 id="week-2---pre-production">Week 2 - Pre-Production</h2>
+<p>To get things going, we did a lot of pre-production work this week.</p>
+<h3 id="producing-1">Producing</h3>
+<p>Firstly, we decided on the three pillars of the game:</p>
+<ol>
+  <li>Laughter: the game should be very very funny / subverted expectations</li>
+  <li>Engaging stories: player’s decisions matter</li>
+  <li>Board configuration connect to dialogue options</li>
+</ol>
+
+<p>Our game mainly consisted of two parts: a golfing mechanics and an intriguing story. So for the second week, our writer Gus worked on the story and ended up with a bunch of index card full of funny stories he wrote. Our artiest Angelina worked on more concepts and character art. Our programmer Carter and Ann worked on driving golf. And I worked on the board design and producing work.</p>
+
+<p>We still used the integrate-on-Thursday-present-on-Friday approach. Since a lot of the work we did is preproduction, the final demo we presented on Friday for this week isn’t that much different from the previous week.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week2-story.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week2-story.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Draft story tree for the game</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h3 id="programming-1">Programming</h3>
+<p>This week we try to mimic how golf ball in the real world works. In real life, the golf ball will not fly away immediately after contact with the club, but will instead be lifted a bit by the club and the fly away.</p>
+
+<p>Thus, we try to do that in the game by adding the ball to be a child object of the club immediately after contact so that it would stick to the club. After the ball move up to the direction of the swing for a few milliseconds, we will release the ball and adding a force to make it fly.</p>
+
+<p>This concept is good but the final result wasn’t as successful as we would want it to be. The ball still moves too fast and didn’t land on the location you would expect it to land.</p>
+
+<h3 id="feedback-for-this-week">Feedback for this week</h3>
+<p>Same as last week, we received a lot of feedback after our demo on Friday and we boiled down to four points:</p>
+<ul>
+  <li>Ball was too fast/not visible enough</li>
+  <li>Text looked bad</li>
+  <li>Board UI needed work</li>
+  <li>Driving doesn’t feel good. Need a RAMP</li>
+</ul>
+
+<p>Sadly, we forget to record gameplay video in the first two iterations so you won’t be able to see them.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week2-game.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week2-game.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">The second iteration</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h2 id="week-3---a-rough-week-">Week 3 - A Rough Week :(</h2>
+<p>In our third iteration of the game, things started to get a bit difficult. We had the Technical Opportunities Conference this week, which is the biggest career fair on CMU each year. Many teammates spent all their free time on Monday, Tuesday, and Wednesday in that event.</p>
+<h3 id="producing-2">Producing</h3>
+<p>This essentially meant our Wednesday checkpoint was not met. So we ended up trying to scramble everything together at the last minute. Carter, Gus and I stayed at Hunt Library basement until after midnight. Even after that, the version we submitted was still very buggy.</p>
+
+<p>I designed several levels(boards) for the game. But because we failed to get the dialogue transition working in time. We never got a chance to transit to the new levels. Therefore, our demo on Friday was not ideal.</p>
+
+<h3 id="programming---a-ramp-is-built">Programming - A Ramp is Built</h3>
+<p>The good thing was we got a working ramp. One of the feedback that we received was that just driving the ball to the board did’t feel good. We solved this by adding an acceleration ramp. In this case, the player only needs to putt the ball to the ramp and ball will fly up to the board.</p>
+
+<p>Hopefully, we will do better next week.</p>
+
+<p>Written on Sep 28, 2019.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week3-ramp.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week3-ramp.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">The ramp</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h2 id="week-4---play-testing">Week 4 - Play-Testing</h2>
+<p>We are officially passing the halfway point of our project but we still haven’t got the core game loop ready. So there is only one goal this week: nail down the game loop.</p>
+
+<h3 id="producing---a-small-bug">Producing - A “Small” Bug</h3>
+<p>Learning from last week’s experience, we tried to add more checkpoints and iterations throughout the week. Instead of only integrating on Thursday night, we integrated and play-test on Tuesday night and integrated again on Wednesday and Thursday nights. This meant we could at least iterate two times in one week: one for play-testing on Tuesday and one for the demo on Friday.</p>
+
+<p>On Tuesday, we were fixing bugs while inviting people to play-test. Near the end of the play-test session, we fixed all the bugs that are left from last week, especially a bug that will prevent the dialogue from moving to the next board and options.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week4-environment.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week4-environment.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Week4 the environment behind the player</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<p>Then we found a smaller bug. Instead of creating a new ball and destroy old ones, we cycled through golf balls. This meant there are only 10 golf balls in total in the game. We created these ball at the beginning of the game and when you hit the ball with index 9, the ball with index 0 will come back.</p>
+
+<p>But since we only changed its transform.location, there were still forces on the ball if the player went through all the balls very quickly. Since we were play-testing, there was no time to rewrite the script, we just changed the number of balls from 10 to 100000000 in the editor, thinking there is no way a player could go through 100000000 balls that quickly.</p>
+
+<p>We hit the play button, without thinking twice. But apparently, initializing 100000000 game objects in a for-loop at the beginning of the game is a bad idea …</p>
+
+<p>Unity stopped responding.</p>
+
+<p>We were thinking: “Cool, I’ll just have to reopen Unity and change the number back.”</p>
+
+<p>But we forgot to save the scene before entering that huge number…</p>
+
+<p>So all the modifications we made that night in the scene was gone…</p>
+<h3 id="producing-cont">Producing (CONT)</h3>
+<p>All was not lost. We integrated again on Wednesday to revert all the changes we made on Tuesday. And we also integrated on Thursday to add more features like background, voice and more dialogue. At around 11:20 pm on Thursday, when we tried to integrate all the dialogue scriptable objects and voice to our main game, the game broke again because my teammates were using the older version of the event system (the one from last week) and we changed the system since then…</p>
+
+<p>We spent 10-20 mins trying to fix this issue. This meant we only have 20 mins left to integrate. We have to make a hard choice, either we could put all the dialogue in so the player can play a full game without voice acting, or we could put the dialogue and voice acting for the first scene so the player can experience a shorter but complete game loop.</p>
+
+<p>As the producer, it was a hard choice for me to make. Because both sides have spent a lot of time tonight working and both would like their stuff in the game. But I decided to go with the latter because a short snapshot of our game can provide people a better understanding of the game and what the game would look like once it is finished.</p>
+
+<h3 id="programming---the-ramp-is-on-fire">Programming - The Ramp Is on Fire</h3>
+<p>We moved the golf ball’s location around and didn’t have time to recalibrate the boosting ramp. So in our demo on Friday, when our TA Adrian tested the game, the ramp boosted too much and he overshot the ball a lot.</p>
+<h3 id="lesson-learned">Lesson Learned</h3>
+<p>If something can go wrong, it will go wrong… So save files periodically.</p>
+
+<p>Written on Oct 5, 2019.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week4-player-view.png" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week4-player-view.png" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Week4 Player's View</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h2 id="week-5---things-are-finally-coming-together">Week 5 - Things Are Finally Coming Together</h2>
+<p>With two weeks to go, we finally nailed down our core game loop. This week we got all the major elements integrated: story, putting, environment and some voice acting in the game.</p>
+<h3 id="producing-3">Producing</h3>
+<p>Since the organizational changes, we made last week worked, we again play-tested our game on Tuesday night and integrate it on Wednesday and Thursday night.</p>
+
+<p>Because our game is dialogue-focused, once we got the dialogue system set up the game would work decently. So this week we saw all the previous debugging and coding efforts finally paid off (special thanks to our lead programmer Carter). We also added a chat history on the sides of the player, so that the player can see the previous chat.</p>
+
+<h3 id="programming---the-ramp-is-never-on">Programming - The Ramp is Never On</h3>
+<p>Remember that in week 3 we added a ramp？And in week 4 the ramp makes the player overshot a lot? This was actually kind of wired because in week 3 the ramp would not cause as much overshooting as it did in week 4. So this week we try to solve that problem by recalibrating the ramp and the ball’s landing location on the board.</p>
+
+<p>I spent the entire evening with a headset on in our VR game while Carter tweaked parameters for the ramp. Each time he tweaked something, I would the ramp and see where the ball lands. And each time we do that, we would convince ourselves that we are almost there, just a few more tweaks to go.
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/PuttPlot/week5-recalibrate.gif" title="" target="_blank">
+    
+        <img src=" /images/projects/PuttPlot/week5-recalibrate.gif" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Recalibrating the Ramp</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<p>After a while, we were a bit frustrated because no matter how we tweak the parameters, the ramp would always overshoot. Wait a minute, no matter how we change the parameters … the outcome would not change… it could only be … but that’s impossible …</p>
+
+<p>Yep, the ramp’s collider was never turned on. The collider that was supposed to detect and boost the ball, the collider that we thought we were changing was never on. We must have turned it off during some testing and forgot to turn it back on. Because it was off, it had absolutely no effects in the game. And we just spent about an hour trying to “fix” it…</p>
+
+<p>When we turn the collider on, everything worked decently. In our demo on Friday, our guest, a naive play-tester, seemed impressed by our game, especially how easy the putting feels.</p>
+
+<h3 id="lesson-learned-1">Lesson Learned</h3>
+<p>Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth.</p>
+
+<p>Written on Oct 11, 2019.</p>
+
+<h2 id="week-6---release">Week 6 - Release</h2>
+<p>This is our final week to work on the game.</p>
+<h3 id="producing-4">Producing</h3>
+<p>After play-testing the game on Tuesday, we listed 10-12 additional features and improvements we wanted to add to the game. Our biggest challenge this week was getting all the voice and dialogue lines in. As I have said before, once we got the main dialogue system working, it would just be a matter of click and drag all the files in. But since we were trying to create a funny dating simulator, we have a long story (consisted of 7 short stories with branches). It took us a long time to put all the dialogue lines and its’ corresponding voice acting in.</p>
+
+<p>At around 9:30 pm on Thursday, we managed to get the whole game working (without voice acting). I play-tested the entire game while our writer Gus was putting voices into the scriptable objects for each dialogue. Surprisingly, because we had too many jokes and stories, it took me a good 20-30 minutes to finish the entire game. The version we had right now would be our last-known-good in case things went south.</p>
+
+<p>We finished adding all the voices acting in at around 10:50 - 11:00 pm, about one hour before the deadline. Then, things went south.</p>
+<h3 id="programming---the-ramp-broke-again">Programming - The Ramp Broke, Again</h3>
+<p>The programming section of this article was created to talk about the technical challenges we faced during the game development. But I just realized almost all of them are actually about the ramp.</p>
+
+<p>At around 11:00 pm, one hour before the deadline, we decided to recalibrate the ramp (again). This was because we added a tutorial to this game. The tutorial would ask the player to shoot the far left and far right of the board, so that players would know how to control the putting. But, currently, shooting to the side would cause a bug on the ramp, making the golf ball never land on the board. We never notice this problem last week because we did not add the tutorial until this week. So with one hour to go, we started debugging.</p>
+
+<p>Carter and I started our classic duel: He would tweak different parameters on the ramp and I would be in the headset hitting the golf ball and giving him feedback. But we encountered the same problem: no matter how we tweak the parameters, the boosting effect would not be activated for all the balls landing on the far sides of the ramp.</p>
+
+<p>We checked the collider, yes, it was on.</p>
+
+<p>At around 11:45 pm, the atmosphere was tense. On the one hand, hitting the ball up through the ramp was our core game mechanics, we have an obligation to make it work. On the other hand, we had no idea whether we could solve this bug or not.</p>
+
+<p>At 11:50 pm, we found the bug. It was one line of code in the ramp’s script that narrowed the range of checking collision. After we simply commented it out, things worked beautifully.</p>
+
+<p>On Friday, we presented our game to the whole class. Even though we still had some problems with the putting, the play-test went well.</p>
+
+<p>In hindsight, I made a mistake here. I should have built the game after we added all the voice acting and before we started debugging the ramp. This is because our last-know-good was the version built around 9:30 pm. It did not have all the voice acting in. Had the debugging effort failed, and the game fails to compile before midnight, all the effort of recording the voice acting and adding it to the game would be lost.</p>
+
+<h3 id="lesson-learned-2">Lesson Learned</h3>
+<p>Last-Known-Good is your friend.</p>
+
+<h2 id="credits">Credits</h2>
+<p>This is my first time working on a game as producer. It is really a learning experience for me. I am very grateful to have a supportive team. I’d really like to give a shout-out to our programmer Carter Williams, our writer Gus Saalfeld and our artiest Angelina Shi. This game would not be possible without their’s and all our teammates contribution.</p>
+
+
+</div>
+<div class="mx-auto pb-3 text-center" style="width: 200px;">
+<a href="/contact" target="_blank" class="btn btn-rounded btn-dark">
+              <i class="fas fa-home"></i> Contact Me
+           </a>
+</div>
+
+</div>
+</body>
+
+
+    <footer class="page-footer font-small bg-dark" style="overflow: hidden;">
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left">
+		<div class="row"><p>  </p></div>
+      <!-- Grid row -->
+      <div class="row mt-5">
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Content -->
+          <h6 class="text-uppercase font-weight-bold">Mailing Address</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">Carnegie Mellon University<br><br>
+			 5032 Forbes Avenue <br><br>
+			 SMC 1005                 <br><br>
+			 Pittsburgh, PA 15289<br>
+			 </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-3 col-xl-3 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Contact</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">
+	        杨毓恺<br>
+            Sebastian Yang
+          </p>
+          <p class="text-white">
+            Email: SebastianYang@outlook.com
+          </p>
+          <p class="text-white">
+            Linkedin: <br>
+            <a href="http://linkedin.com/in/sebastian-yang-528805170" target="_blank"> Please introduce yourself with a custom note</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="/index">Home</a>
+          </p>
+          <p>
+            <a href="/about">About Me</a>
+          </p>
+          <p>
+            <a href="/smartSeb">Portfolio</a>
+          </p>
+          <p>
+            <a href="/contact">Contact</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Wechat 公众号</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"><br>
+          <a href="/images/static/qr.JPG" target="_blank"><img src="/images/static/qr.JPG" class="w-75"/></a>
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center mt-2 py-3">© 2019 Copyright:
+      <a href="/index"> Sebastian Yang</a>
+      <p class="text-white"> Yukai Presents</p>
+
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+
+  </body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="/js/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+	<script type="/text/javascript" src="js/mdb.min.js"></script>
+    <script src="/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/js/scrollreveal.js"></script>
+	<script src="/js/my.js"></script>
+	<script>
+		var slideUp = {
+	    distance: '150%',
+	    origin: 'bottom',
+	    opacity: null,
+	    duration: 700,
+		};
+		ScrollReveal().reveal('.scroUp',slideUp);
+	</script>
+
+
+
+
+</html>
