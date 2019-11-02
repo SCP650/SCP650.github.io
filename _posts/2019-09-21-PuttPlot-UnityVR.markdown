@@ -177,5 +177,7 @@ In hindsight, I made a mistake here. I should have built the game after we added
 ### Lesson Learned
 Last-Known-Good is your friend.
 
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/nhujQxwyqC4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
 ## Credits
 This is my first time working on a game as producer. It is really a learning experience for me. I am very grateful to have a supportive team. I'd really like to give a shout-out to our programmer Carter Williams, our writer Gus Saalfeld and our artiest Angelina Shi. This game would not be possible without their's and all our teammates contribution.

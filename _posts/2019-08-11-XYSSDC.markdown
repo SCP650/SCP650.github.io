@@ -1,14 +1,13 @@
 ---
-title:  SSDCXI
+title:  XYSSDC
 
-date:   2019-08-10 13:37:52 -0400 #date this page is written
+date:   2019-08-11 13:37:52 -0400 #date this page is written
 
 categories: projects 2015 fall #project folder, beginning year and season
-tags: Highlights All Event_Planning Product_Project_Management Marketing Negotiation Web_Design
+tags: All Event_Planning Product_Project_Management Marketing Negotiation
 #tags options: Highlights Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation Video_Editing Web_Design Non_Profits
 
-start-season: "2015 Fall"
-end-season: "2018 Spring"
+start-season: "2018 Winter"
 
 assetLoco: /images/projects/ssdcxi
 coverPic: /fm/5.png
@@ -146,8 +145,7 @@ It is designed with the goals of introducing our club to prospective members and
 It was hard to describe what we do in one poster, (even though we designed multiple ones), so I wanted to shot a promotional video for my club to recruit new members. But the problem was, again, nobody in my team knew how to do that. So naturally, we taught ourselves how to do so. My friends helped me with the footage and I spent about 2 days editing this video. Keep in mind this was made by a guy with zero editing background, so it may not be the best promotional video you've seen. You can check out the full video here:  
 
 If you are in China, you can check it out [here]( https://v.qq.com/x/page/c0386c9vi4t.html)
-<div class="iframe-container">
-<iframe src="https://www.youtube.com/embed/5vjjPYgHHZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+<iframe class="w-100" height="600" src="https://www.youtube.com/embed/5vjjPYgHHZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
