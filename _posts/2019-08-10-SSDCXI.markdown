@@ -11,7 +11,7 @@ start-season: "2015 Fall"
 end-season: "2018 Spring"
 
 assetLoco: /images/projects/ssdcxi
-coverPic: /fm/5.png
+coverPic: /IMG_2658.png
 carousel:
   - image: /bg1.jpg
   - image: /bg2.png
