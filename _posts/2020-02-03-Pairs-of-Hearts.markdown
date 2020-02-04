@@ -3,7 +3,7 @@ title: Game Jam
 title2: Global Game Jame #title shown in first line
 date:   2020-02-03 20:40:23 -0400 #date this page is written
 
-categories: projects 2019 fall #project folder, beginning year and season
+categories: projects 2020 spring #project folder, beginning year and season
 tags:  Game_Design All
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
 
