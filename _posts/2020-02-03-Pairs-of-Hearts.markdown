@@ -1,6 +1,6 @@
 ---
 title: Game Jam
-title2: Global Game Jame #title shown in first line
+title2: Global Game Jam #title shown in first line
 date:   2020-02-03 20:40:23 -0400 #date this page is written
 
 categories: projects 2020 spring #project folder, beginning year and season
