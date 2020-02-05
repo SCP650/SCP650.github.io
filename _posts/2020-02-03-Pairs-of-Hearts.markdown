@@ -16,6 +16,7 @@ carousel:
 
 ---
 Developed in 2020 Global Game Jam in 30 Hours
+
 Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)
 
 Received Best Diversity Award.
