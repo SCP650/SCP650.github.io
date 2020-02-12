@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-04T09:42:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 Hours
-Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-02-11T20:50:12-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 Hours&lt;/p&gt;
 
-&lt;p&gt;Received Best Diversity Award.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">Developed in 2020 Global Game Jam in 30 Hours Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)</summary></entry><entry><title type="html">PuttPlot</title><link href="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR" rel="alternate" type="text/html" title="PuttPlot" /><published>2019-09-21T20:40:23-04:00</published><updated>2019-09-21T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR">&lt;p&gt;Published on Oct 29, 2019.&lt;/p&gt;
+&lt;p&gt;Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)&lt;/p&gt;
+
+&lt;p&gt;Received Best Diversity Award.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">Developed in 2020 Global Game Jam in 30 Hours</summary></entry><entry><title type="html">PuttPlot</title><link href="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR" rel="alternate" type="text/html" title="PuttPlot" /><published>2019-09-21T20:40:23-04:00</published><updated>2019-09-21T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/PuttPlot-UnityVR">&lt;p&gt;Published on Oct 29, 2019.&lt;/p&gt;
 
 &lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
 
@@ -653,59 +654,7 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 &lt;h2 id=&quot;areas-for-improvement&quot;&gt;Areas for Improvement&lt;/h2&gt;
 
-&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry><entry><title type="html">XYSSDC</title><link href="http://localhost:4000/projects/2015/fall/XYSSDC" rel="alternate" type="text/html" title="XYSSDC" /><published>2019-08-11T13:37:52-04:00</published><updated>2019-08-11T13:37:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/XYSSDC</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/XYSSDC">&lt;p&gt;I founded the &lt;a href=&quot;https://yukaiyang.com/projects/2015/fall/SSDCXI&quot;&gt;Space Settlement Design Club in Xiamen No.1 High School&lt;/a&gt; with the aspiration to bring all the students who enjoy STEM field together to do some great things.&lt;/p&gt;
-
-&lt;p&gt;最开始的想法非常简单：聚集一群有意思的人去做一件有意思的事情。但最后我们成功举办了一场来自3个城市60位学生参加，为期5天的研发者大会。&lt;/p&gt;
-
-&lt;p&gt;这是我们的故事
-&lt;!--break--&gt;&lt;/p&gt;
-
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-1-the-motivation&quot; id=&quot;markdown-toc-chapter-1-the-motivation&quot;&gt;Chapter 1: The Motivation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-2-遇到问题解决问题&quot; id=&quot;markdown-toc-chapter-2-遇到问题解决问题&quot;&gt;Chapter 2: 遇到问题，解决问题&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#event-planning&quot; id=&quot;markdown-toc-event-planning&quot;&gt;Event Planning&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#sponsorship-negotiation&quot; id=&quot;markdown-toc-sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#marketing&quot; id=&quot;markdown-toc-marketing&quot;&gt;Marketing&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-3-the-grande-opening&quot; id=&quot;markdown-toc-chapter-3-the-grande-opening&quot;&gt;Chapter 3: The Grande Opening&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-4-business-a-force-for-good&quot; id=&quot;markdown-toc-chapter-4-business-a-force-for-good&quot;&gt;Chapter 4: Business: A Force For Good&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#chapter-5-the-future&quot; id=&quot;markdown-toc-chapter-5-the-future&quot;&gt;Chapter 5: The Future&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;chapter-1-the-motivation&quot;&gt;Chapter 1: The Motivation&lt;/h2&gt;
-&lt;p&gt;从我建立太空城市设计社起，我就有想做研发者大会的想法。因为我的社团最初只有12个人，但是我们却是整个学校唯一的几个工程类社团，我不相信一个近3千位学生在的学校只有12个人对工程感兴趣。但是大部分学生因为学业压力，无法探索自己的课外兴趣。所以我想搭建一个平台，让对工程感兴趣的同学可以相互认识，一起做一件有意思的事情。这就是研发者大会最初的想法。&lt;/p&gt;
-
-&lt;p&gt;除此之外，我不想让我的社员只会工程。从我们社团领回来的一累累奖牌中，我知道我的社员们都有很强的动手和设计能力，但是我希望我的社员同时也有组织策划的能力，而这种软实力是很多理科生有所欠缺的。而我自己之前在&lt;a href=&quot;https://yukaiyang.com/projects/2016/spring/AYES&quot;&gt;实践部&lt;/a&gt;带领团队、策划了很多活动。我希望在我的带领下，训练我的社员的策划、沟通能力，一起策划出一个5天冬令营。&lt;/p&gt;
-
-&lt;p&gt;最后，每年我们社团基本都会进入中国区决赛，而路途中耗费的机票、酒店钱都需要社员们自己承担。因为研发者大会算是我们自负盈亏的活动，所以我们也希望借此可以获得一些盈余，来减轻学生家庭的经济压力。&lt;/p&gt;
-&lt;h2 id=&quot;chapter-2-遇到问题解决问题&quot;&gt;Chapter 2: 遇到问题，解决问题&lt;/h2&gt;
-&lt;p&gt;我希望做出没人做过的事情。&lt;/p&gt;
-
-&lt;p&gt;我第一次对社员提出研发者大会的想法是在一次暑假社团聚餐的时候，我和下一届的社长谢彦童聊得兴起。我记得当时我掏出了一张草稿纸，在上面画出了五天的行程。我记得当时大家都是半信半疑的心情，因为从来没有人在厦门做过这个活动 ———— 一个面对高中生的工程类授课+黑客马拉松冬令营。这种全新的活动没有名声赞助不好谈、没有品牌招人也不好招、而且社团成员也没有策划经验。&lt;/p&gt;
-
-&lt;p&gt;但是我坚信我们可以做到。&lt;/p&gt;
-&lt;h3 id=&quot;event-planning&quot;&gt;Event Planning&lt;/h3&gt;
-&lt;p&gt;我们的社员对太空城的设计非常了解，但是策划能力有所欠缺。但是实践部里的部员有很强的策划能力，但是对工程没有太大了解。而跨部门合作，取长补短，正是我最擅长的事情之一。介于之前我成功的协助校动物保护协会和实践部&lt;a href=&quot;https://yukaiyang.com/projects/2016/spring/AYES#apa-x-ayes&quot;&gt;合作&lt;/a&gt;，我对实践部和太空城合作很有信心。&lt;/p&gt;
-
-&lt;p&gt;在几次跨部门的会议后，初步策划马上就成型了。在策划里，太空城的社员负责宣传、授课、赞助，而实践部的部员负责所有的后勤和具体落地事宜。&lt;/p&gt;
-&lt;h3 id=&quot;sponsorship-negotiation&quot;&gt;Sponsorship Negotiation&lt;/h3&gt;
-
-&lt;h3 id=&quot;marketing&quot;&gt;Marketing&lt;/h3&gt;
-&lt;p&gt;作为一个新的活动，宣传永远是最难的，尤其是我们希望可以筛选出真正想参加的学生参加，所以申请者要填写一份笔试，我们审核通过后才能才加，这就意味着我们需要更大范围的宣传，才能保证最后到场的人数在60人左右。&lt;/p&gt;
-
-&lt;p&gt;首先，我们设计了海报，联系的厦门市内和周边城市近10所高中，在所有这些高中的宣传栏粘贴了海报。这时候我为社团搭建的&lt;a href=&quot;http://localhost:4000/projects/2015/fall/SSDCXI#web-design&quot;&gt;社团官网&lt;/a&gt;就派上了很大的用处，它作为了一个中转站，让那些所有看到我们的宣传但是还不确定是否参与的人了解到这个活动。&lt;/p&gt;
-
-&lt;p&gt;其次，我们通过社交媒体平台进行了地毯式宣传，联系了各个微信公众号帮忙转发。从各校官方账号到厦门科技馆，从所有的社员到学校学生的家长们，我们成功的让很多人自发的转发我们的宣传文案。&lt;/p&gt;
-
-&lt;p&gt;最后，为了让这个活动更有意思，我剪辑了一段宣传视频。这是在我设计社团纳新宣传片后的第二次主导视频设计剪辑。你可以在此观看：&lt;/p&gt;
-
-&lt;h2 id=&quot;chapter-3-the-grande-opening&quot;&gt;Chapter 3: The Grande Opening&lt;/h2&gt;
-&lt;p&gt;Winning or losing one match is normal, but what’s hard is how to transfer the knowledge we learned and make SSDCXI a bigger and better club. So here is what I did to expand my club from 12 members to 40 members in two years.&lt;/p&gt;
-&lt;h2 id=&quot;chapter-4-business-a-force-for-good&quot;&gt;Chapter 4: Business: A Force For Good&lt;/h2&gt;
-&lt;h2 id=&quot;chapter-5-the-future&quot;&gt;Chapter 5: The Future&lt;/h2&gt;</content><author><name></name></author><category term="All" /><category term="Event_Planning" /><category term="Product_Project_Management" /><category term="Marketing" /><category term="Negotiation" /><summary type="html">I founded the Space Settlement Design Club in Xiamen No.1 High School with the aspiration to bring all the students who enjoy STEM field together to do some great things.</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
+&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
 
 &lt;p&gt;This got me thinking. Wouldn’t it be so nice if every time people need translation, somebody can just magically show up and help them?&lt;/p&gt;
 
