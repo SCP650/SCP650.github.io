@@ -15,10 +15,10 @@ carousel:
   - image: /ggj16sticker.png
 
 ---
-Developed in 2020 Global Game Jam in one and a half day
+Developed in 2020 Global Game Jam in 30 hours
+
+Received Best Diversity Theme Award.
 
 Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)
-
-Received Best Diversity Award.
 
 Available on [Google Play](https://play.google.com/store/apps/details?id=com.SebLab.PairsOfHearts)

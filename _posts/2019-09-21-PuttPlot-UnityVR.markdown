@@ -1,6 +1,6 @@
 ---
-title: PuttPlot
-title2: PuttPlot #title shown in first line
+title: PuttPlot VR
+title2: PuttPlot Unity VR #title shown in first line
 date:   2019-09-21 20:40:23 -0400 #date this page is written
 
 categories: projects 2019 fall #project folder, beginning year and season
