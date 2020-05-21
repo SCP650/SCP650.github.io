@@ -18,7 +18,7 @@ carousel:
 
 This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.
 
-In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game --- as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, besides the person in VR, the entire class spontaneously started dancing to the game.
+In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game --- as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, not only the person in VR is dancing, but the entire class spontaneously started dancing to the game.
 
 In this 6-week project, I was the programmer in the team. We will go through 6 iterations for the game, developing a prototype for each week and presenting a demo on every Friday.
 
