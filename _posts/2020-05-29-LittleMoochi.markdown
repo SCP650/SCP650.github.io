@@ -8,7 +8,7 @@ tags: Game_Design All
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
 
 start-season: "2020 Spring"
-unity_dir: Little Moochi Mkt WebGL
+unity_dir: te WebGL
 assetLoco: /images/projects/LittleMoochi
 coverPic: /icon.png
 carousel:
