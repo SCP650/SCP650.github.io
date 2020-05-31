@@ -9,6 +9,7 @@ tags: Game_Design All
 
 start-season: "2020 Spring"
 unity_dir: te
+#this is a bad practice
 assetLoco: /images/projects/LittleMoochi
 coverPic: /icon.png
 carousel:
