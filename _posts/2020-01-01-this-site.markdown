@@ -1,0 +1,39 @@
+---
+title: This Website
+date: 2020-01-01 20:40:23 -0400 #date this page is written
+
+categories: projects 2019 spring #project folder, beginning year and season
+tags: All Web_Design
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2019 Spring"
+
+assetLoco: /images/projects/thissite
+coverPic: /cover.png
+carousel:
+  - image: /cover.png
+---
+
+This is website is entirely designed and developed by me. It went through three iteration and rountine updates to add more posts. This post tells the story behind the website: what's the purpose of this website, how it is developed, and my future plans for it.
+
+## Table of Contents
+
+{:.no_toc}
+
+- Table of Contents
+  {:toc}
+
+## Motivation
+
+Website is a great and interactive way to tell a story. When I'm reading a resume, I can only see a list of attributes as if I'm choosing a video game character by looking at his or her stats. But when I visit somebody's website, I see a living human being with stories to tell.
+
+tell stories
+archive stuff i've done
+
+## First Iteration
+
+## Second Iteration
+
+## Third Iteration
+
+## Future Plans
