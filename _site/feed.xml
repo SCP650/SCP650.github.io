@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-14T13:02:43-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-21T15:09:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
 
 &lt;p&gt;To download the full game: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.LittleMoochi.LittleMoochi.Beta&amp;amp;hl=en&quot;&gt;Google Play&lt;/a&gt; or &lt;a href=&quot;https://apps.apple.com/us/app/littlemoochi/id1489071692&quot;&gt;Apple App Store&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This is the testing environment for Little Moochi’s marketing campaign mini game.</summary></entry><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 hours&lt;/p&gt;
 
@@ -6,7 +6,7 @@
 
 &lt;p&gt;Developed by: Grace Liu, Jan Orlowski, Jess Cao, Joseph Perrino, Sebastian Yang. (alphabetical order)&lt;/p&gt;
 
-&lt;p&gt;Available on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.SebLab.PairsOfHearts&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">Developed in 2020 Global Game Jam in 30 hours</summary></entry><entry><title type="html">This Website</title><link href="http://localhost:4000/projects/2019/spring/this-site" rel="alternate" type="text/html" title="This Website" /><published>2020-01-01T19:40:23-05:00</published><updated>2020-01-01T19:40:23-05:00</updated><id>http://localhost:4000/projects/2019/spring/this-site</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/this-site">&lt;p&gt;This is website is entirely designed and developed by me. It went through three iteration and rountine updates to add more posts. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my future plans for it.&lt;/p&gt;
+&lt;p&gt;Available on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.SebLab.PairsOfHearts&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">Developed in 2020 Global Game Jam in 30 hours</summary></entry><entry><title type="html">This Website</title><link href="http://localhost:4000/projects/2019/spring/this-site" rel="alternate" type="text/html" title="This Website" /><published>2020-01-01T19:40:23-05:00</published><updated>2020-01-01T19:40:23-05:00</updated><id>http://localhost:4000/projects/2019/spring/this-site</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/this-site">&lt;p&gt;This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.&lt;/p&gt;
 
 &lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 
@@ -16,18 +16,71 @@
 
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 
-&lt;p&gt;Website is a great and interactive way to tell a story. When I’m reading a resume, I can only see a list of attributes as if I’m choosing a video game character by looking at his or her stats. But when I visit somebody’s website, I see a living human being with stories to tell.&lt;/p&gt;
+&lt;p&gt;If you are only interested in the technical portion, feel free to skip this part. : )&lt;/p&gt;
 
-&lt;p&gt;tell stories
-archive stuff i’ve done&lt;/p&gt;
+&lt;p&gt;Websites are a great and interactive way to tell a story. When I’m reading a resume, I can only see a list of attributes as if I’m choosing a video game character by looking at his or her traits. But when I visit somebody’s website, I see a living human being with stories to tell. Hence, I want to present a more picture of myself to anyway who is interested.&lt;/p&gt;
+
+&lt;p&gt;Besides that, I also want to have a place to record the interesting projects I’ve worked on. This idea came to me when during my high school graduation ceremony, a friend started talking about a research project we spent a few months working on in freshman year. I was confused because I don’t remember ever working on a research project with him. It wasn’t until that night did things starting to come back to me – it turned out we not only spent a few months on the project but also won a prize by doing a presentation on it but I totally forgot about it.&lt;/p&gt;
+
+&lt;p&gt;In 10 or 20 years, it would be a shame if I forget about these interesting projects and the cool people I worked with. Even though I understand visitors are not going to read all the posts I wrote, these posts also serve as a personal archive for me to remind myself of the people and the stuff we achieve together.&lt;/p&gt;
+
+&lt;p&gt;Now let’s dive in to the development of this site.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h2&gt;
 
+&lt;p&gt;The first iteration was developped in CMU67-250: The Information Systems Milieux. I developed a extremly simple website for an homework assignment.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/thissite/v18.3.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/thissite/v18.3.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The First Iteration&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;This first version is written in HTML, CSS and JS. But as you can see, it looks very bad. If I hope to design a archive for my projects, I need it to look much better and more interactive.&lt;/p&gt;
+
+&lt;p&gt;Hence, the second iteration.&lt;/p&gt;
+
+&lt;p&gt;(Fun Fact: you can still visit this version of the site &lt;a href=&quot;/v18.3&quot;&gt;here&lt;/a&gt;)&lt;/p&gt;
+
 &lt;h2 id=&quot;second-iteration&quot;&gt;Second Iteration&lt;/h2&gt;
+
+&lt;p&gt;The design of the first iteration was unsalvageable. So I started redeisnging the site from the ground up. I want the site to feel modern and interactive, while being familir to the user and can leave a strong impression.&lt;/p&gt;
+
+&lt;p&gt;For a about a week, every night after I finished my homework at around 10pm, I would head to the Hunt Library. I spent one hour every night designing and developping this site. This version of the site look pretty much the same as the one you see right now. The authetic and UI design you see right now are all designed and developped during that week. The only visual differences are that it had way less posts and there isn’t a &lt;a href=&quot;/games.html&quot;&gt;video game section&lt;/a&gt;.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/thissite/english.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/thissite/english.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The Second Iteration&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;The site was also fully responsive on mobile devices because I used Bootstrap CSS framework and tested responsivness every step during development. I then deployed the site on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In total, it took my about 10 hours across 7 days to finish and deploy this site. In hintsight, I was really surprise becuase I had almost no web design experience back then, especially with code. But I guess when you are passionate about something, nothing can stop you.&lt;/p&gt;
 
 &lt;h2 id=&quot;third-iteration&quot;&gt;Third Iteration&lt;/h2&gt;
 
-&lt;h2 id=&quot;future-plans&quot;&gt;Future Plans&lt;/h2&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><summary type="html">This is website is entirely designed and developed by me. It went through three iteration and rountine updates to add more posts. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my future plans for it.</summary></entry><entry><title type="html">Boogieman VR</title><link href="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR" rel="alternate" type="text/html" title="Boogieman VR" /><published>2019-09-22T20:40:23-04:00</published><updated>2019-09-22T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/Boogieman-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR">&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
+&lt;h2 id=&quot;future-plans&quot;&gt;Future Plans&lt;/h2&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><summary type="html">This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.</summary></entry><entry><title type="html">Boogieman VR</title><link href="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR" rel="alternate" type="text/html" title="Boogieman VR" /><published>2019-09-22T20:40:23-04:00</published><updated>2019-09-22T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/Boogieman-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR">&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
 
 &lt;p&gt;In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game — as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, not only the person in VR is dancing, but the entire class spontaneously started dancing to the game.&lt;/p&gt;
 
