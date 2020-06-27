@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-21T15:09:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-06-27T10:29:23-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
 
 &lt;p&gt;To download the full game: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.LittleMoochi.LittleMoochi.Beta&amp;amp;hl=en&quot;&gt;Google Play&lt;/a&gt; or &lt;a href=&quot;https://apps.apple.com/us/app/littlemoochi/id1489071692&quot;&gt;Apple App Store&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This is the testing environment for Little Moochi’s marketing campaign mini game.</summary></entry><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 hours&lt;/p&gt;
 
@@ -8,12 +8,18 @@
 
 &lt;p&gt;Available on &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.SebLab.PairsOfHearts&quot;&gt;Google Play&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">Developed in 2020 Global Game Jam in 30 hours</summary></entry><entry><title type="html">This Website</title><link href="http://localhost:4000/projects/2019/spring/this-site" rel="alternate" type="text/html" title="This Website" /><published>2020-01-01T19:40:23-05:00</published><updated>2020-01-01T19:40:23-05:00</updated><id>http://localhost:4000/projects/2019/spring/this-site</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/this-site">&lt;p&gt;This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.&lt;/p&gt;
 
-&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 
-&lt;ul class=&quot;no_toc&quot;&gt;
-  &lt;li&gt;Table of Contents&lt;/li&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#motivation&quot; id=&quot;markdown-toc-motivation&quot;&gt;Motivation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#first-iteration&quot; id=&quot;markdown-toc-first-iteration&quot;&gt;First Iteration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#second-iteration&quot; id=&quot;markdown-toc-second-iteration&quot;&gt;Second Iteration&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#two-point-five-iteration&quot; id=&quot;markdown-toc-two-point-five-iteration&quot;&gt;Two Point Five Iteration&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#third-iteration&quot; id=&quot;markdown-toc-third-iteration&quot;&gt;Third Iteration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#future-plans&quot; id=&quot;markdown-toc-future-plans&quot;&gt;Future Plans&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&quot;motivation&quot;&gt;Motivation&lt;/h2&gt;
 
 &lt;p&gt;If you are only interested in the technical portion, feel free to skip this part. : )&lt;/p&gt;
@@ -24,11 +30,11 @@
 
 &lt;p&gt;In 10 or 20 years, it would be a shame if I forget about these interesting projects and the cool people I worked with. Even though I understand visitors are not going to read all the posts I wrote, these posts also serve as a personal archive for me to remind myself of the people and the stuff we achieve together.&lt;/p&gt;
 
-&lt;p&gt;Now let’s dive in to the development of this site.&lt;/p&gt;
+&lt;p&gt;Now let’s dive into the development of this site.&lt;/p&gt;
 
 &lt;h2 id=&quot;first-iteration&quot;&gt;First Iteration&lt;/h2&gt;
 
-&lt;p&gt;The first iteration was developped in CMU67-250: The Information Systems Milieux. I developed a extremly simple website for an homework assignment.
+&lt;p&gt;The first iteration was developed in CMU67-250: The Information Systems Milieux. I developed an very simple website for a homework assignment.
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
@@ -46,17 +52,15 @@
 
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
-&lt;p&gt;This first version is written in HTML, CSS and JS. But as you can see, it looks very bad. If I hope to design a archive for my projects, I need it to look much better and more interactive.&lt;/p&gt;
-
-&lt;p&gt;Hence, the second iteration.&lt;/p&gt;
+&lt;p&gt;This first version is written in HTML, CSS, and JS. But as you can see, it looks very bad. If I hope to design an archive for my projects, I need it to look much better and more interactive.&lt;/p&gt;
 
 &lt;p&gt;(Fun Fact: you can still visit this version of the site &lt;a href=&quot;/v18.3&quot;&gt;here&lt;/a&gt;)&lt;/p&gt;
 
 &lt;h2 id=&quot;second-iteration&quot;&gt;Second Iteration&lt;/h2&gt;
 
-&lt;p&gt;The design of the first iteration was unsalvageable. So I started redeisnging the site from the ground up. I want the site to feel modern and interactive, while being familir to the user and can leave a strong impression.&lt;/p&gt;
+&lt;p&gt;The design of the first iteration was unsalvageable. So I started redesigning the site from the ground up. I want the site to feel modern and interactive while being familiar to the user and can leave a strong impression.&lt;/p&gt;
 
-&lt;p&gt;For a about a week, every night after I finished my homework at around 10pm, I would head to the Hunt Library. I spent one hour every night designing and developping this site. This version of the site look pretty much the same as the one you see right now. The authetic and UI design you see right now are all designed and developped during that week. The only visual differences are that it had way less posts and there isn’t a &lt;a href=&quot;/games.html&quot;&gt;video game section&lt;/a&gt;.
+&lt;p&gt;For about a week, every night after I finished my homework at around 10 pm, I would head to the Hunt Library. I spent one hour every night designing and developing this site. This version of the site looked pretty much the same as the one you see right now. The aesthetic and UI design you see right now are all designed and developed during that week. The only visual differences are that it had way fewer posts and there isn’t a &lt;a href=&quot;/games.html&quot;&gt;video game section&lt;/a&gt;.
 &lt;br /&gt;&lt;/p&gt;
 &lt;div class=&quot;image-wrapper&quot;&gt;
     
@@ -74,13 +78,79 @@
 
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
-&lt;p&gt;The site was also fully responsive on mobile devices because I used Bootstrap CSS framework and tested responsivness every step during development. I then deployed the site on &lt;a href=&quot;https://pages.github.com/&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The site was also fully responsive on mobile devices because I used the Bootstrap CSS framework and tested responsiveness every step during development. I then deployed the site on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;In total, it took my about 10 hours across 7 days to finish and deploy this site. In hintsight, I was really surprise becuase I had almost no web design experience back then, especially with code. But I guess when you are passionate about something, nothing can stop you.&lt;/p&gt;
+&lt;p&gt;In total, it took me about 10 hours across 7 days to finish and deploy this site. In hindsight, I was surprised because I had almost no web design experience back then, especially with code. But I guess when you are passionate about something, nothing can stop you.&lt;/p&gt;
+
+&lt;h3 id=&quot;two-point-five-iteration&quot;&gt;Two Point Five Iteration&lt;/h3&gt;
+
+&lt;p&gt;About a month after the second iteration, I translated the site to Chinese and bought a new domain name. I essentially deployed the same site to a new GitHub account, but the texts are all in Chinese.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/thissite/chinese.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/thissite/chinese.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;The Chinese Site&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;This is when I ran into some trouble: whenever I want to add a new post, I need to edit the HTML code and working with &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;text&amp;lt;/p&amp;gt;&lt;/code&gt; a lot. And add &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt; whenever I want a new line. This is super slow and frustrating, especially when I have a lot of text.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/thissite/html.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/thissite/html.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Working with HTML&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 id=&quot;third-iteration&quot;&gt;Third Iteration&lt;/h2&gt;
 
-&lt;h2 id=&quot;future-plans&quot;&gt;Future Plans&lt;/h2&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><summary type="html">This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.</summary></entry><entry><title type="html">Boogieman VR</title><link href="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR" rel="alternate" type="text/html" title="Boogieman VR" /><published>2019-09-22T20:40:23-04:00</published><updated>2019-09-22T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/Boogieman-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR">&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
+&lt;p&gt;Three months after the Chinese site went online, I used &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; to rebuild the site from the ground up. Jekyll is a static site generator. This means after I set up the framework for all the posts, I can just write the content in &lt;a href=&quot;https://www.markdownguide.org/&quot;&gt;Markdown&lt;/a&gt;, which is very similar to writing text in a txt file.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also allows me to translate between Chinese and English sites seamlessly. Right now no matter which post you are reading, if you click the Chinese button, you will be taken to the Chinese translation of that site instead of the home page.&lt;/p&gt;
+
+&lt;p&gt;If you are developing a personal blog or portfolio site, I would highly recommend using Jekyll. It’s easy to learn, fun to use, and allows you to focus on the content.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-plans&quot;&gt;Future Plans&lt;/h2&gt;
+
+&lt;p&gt;I see this site as a hub for all my projects. I will continue to update the site with my latest projects. It may come a little late as I’m only available during Summer or winter breaks. But I’m looking forward to adding more projects.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/thissite/jekyll.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/thissite/jekyll.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Working with Markdown&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;I may also consider rebuilding the site again with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;. This will allow me to make the site more interactive.&lt;/p&gt;
+
+&lt;p&gt;Earlier this year, I also added a new &lt;a href=&quot;/games.html&quot;&gt;Video Games&lt;/a&gt; section. But during my internship at Tencent Games and ByteDance Games, I played so many more games that I didn’t have time to update them all. I’m looking for a streamlined way to keep track of all the games I’ve played. I’m currently developing a full-stack website that will be my personal archive of games and books. The site should be able to export the database to a CSV file so that I can later do data analysis on the games I’ve played and books I’ve read.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><summary type="html">This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.</summary></entry><entry><title type="html">Boogieman VR</title><link href="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR" rel="alternate" type="text/html" title="Boogieman VR" /><published>2019-09-22T20:40:23-04:00</published><updated>2019-09-22T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/Boogieman-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR">&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
 
 &lt;p&gt;In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game — as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, not only the person in VR is dancing, but the entire class spontaneously started dancing to the game.&lt;/p&gt;
 

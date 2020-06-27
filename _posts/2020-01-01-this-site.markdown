@@ -1,0 +1,79 @@
+---
+title: This Website
+date: 2020-01-01 20:40:23 -0400 #date this page is written
+
+categories: projects 2019 spring #project folder, beginning year and season
+tags: All Web_Design
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2019 Spring"
+
+assetLoco: /images/projects/thissite
+coverPic: /cover.png
+carousel:
+  - image: /cover.png
+---
+
+This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it's routinely updated. This post tells the story behind the website: what's the purpose of this website, how it is developed, and my plans for it.
+
+## Table of Contents
+{:.no_toc}
+
+* Table of Contents
+{:toc}
+## Motivation
+
+If you are only interested in the technical portion, feel free to skip this part. : )
+
+Websites are a great and interactive way to tell a story. When I'm reading a resume, I can only see a list of attributes as if I'm choosing a video game character by looking at his or her traits. But when I visit somebody's website, I see a living human being with stories to tell. Hence, I want to present a more picture of myself to anyway who is interested.
+
+Besides that, I also want to have a place to record the interesting projects I've worked on. This idea came to me when during my high school graduation ceremony, a friend started talking about a research project we spent a few months working on in freshman year. I was confused because I don't remember ever working on a research project with him. It wasn't until that night did things starting to come back to me -- it turned out we not only spent a few months on the project but also won a prize by doing a presentation on it but I totally forgot about it.
+
+In 10 or 20 years, it would be a shame if I forget about these interesting projects and the cool people I worked with. Even though I understand visitors are not going to read all the posts I wrote, these posts also serve as a personal archive for me to remind myself of the people and the stuff we achieve together.
+
+Now let's dive into the development of this site.
+
+## First Iteration
+
+The first iteration was developed in CMU67-250: The Information Systems Milieux. I developed an very simple website for a homework assignment.
+{% include image.html img="v18.3.png" caption="The First Iteration"%}
+
+This first version is written in HTML, CSS, and JS. But as you can see, it looks very bad. If I hope to design an archive for my projects, I need it to look much better and more interactive.
+
+(Fun Fact: you can still visit this version of the site [here](/v18.3))
+
+## Second Iteration
+
+The design of the first iteration was unsalvageable. So I started redesigning the site from the ground up. I want the site to feel modern and interactive while being familiar to the user and can leave a strong impression.
+
+For about a week, every night after I finished my homework at around 10 pm, I would head to the Hunt Library. I spent one hour every night designing and developing this site. This version of the site looked pretty much the same as the one you see right now. The aesthetic and UI design you see right now are all designed and developed during that week. The only visual differences are that it had way fewer posts and there isn’t a [video game section](/games.html).
+{% include image.html img="english.png" caption="The Second Iteration"%}
+
+The site was also fully responsive on mobile devices because I used the Bootstrap CSS framework and tested responsiveness every step during development. I then deployed the site on [GitHub](https://pages.github.com/).
+
+In total, it took me about 10 hours across 7 days to finish and deploy this site. In hindsight, I was surprised because I had almost no web design experience back then, especially with code. But I guess when you are passionate about something, nothing can stop you.
+
+### Two Point Five Iteration
+
+About a month after the second iteration, I translated the site to Chinese and bought a new domain name. I essentially deployed the same site to a new GitHub account, but the texts are all in Chinese.
+{% include image.html img="chinese.png" caption="The Chinese Site"%}
+
+This is when I ran into some trouble: whenever I want to add a new post, I need to edit the HTML code and working with `<p>text</p>` a lot. And add `<br>` whenever I want a new line. This is super slow and frustrating, especially when I have a lot of text.
+{% include image.html img="html.png" caption="Working with HTML"%}
+
+## Third Iteration
+
+Three months after the Chinese site went online, I used [Jekyll](https://jekyllrb.com/) to rebuild the site from the ground up. Jekyll is a static site generator. This means after I set up the framework for all the posts, I can just write the content in [Markdown](https://www.markdownguide.org/), which is very similar to writing text in a txt file.
+
+Jekyll also allows me to translate between Chinese and English sites seamlessly. Right now no matter which post you are reading, if you click the Chinese button, you will be taken to the Chinese translation of that site instead of the home page.
+
+If you are developing a personal blog or portfolio site, I would highly recommend using Jekyll. It's easy to learn, fun to use, and allows you to focus on the content.
+
+## Future Plans
+
+I see this site as a hub for all my projects. I will continue to update the site with my latest projects. It may come a little late as I'm only available during Summer or winter breaks. But I'm looking forward to adding more projects.
+{% include image.html img="jekyll.png" caption="Working with Markdown"%}
+
+I may also consider rebuilding the site again with [React](https://reactjs.org/). This will allow me to make the site more interactive.
+
+Earlier this year, I also added a new [Video Games](/games.html) section. But during my internship at Tencent Games and ByteDance Games, I played so many more games that I didn't have time to update them all. I'm looking for a streamlined way to keep track of all the games I've played. I'm currently developing a full-stack website that will be my personal archive of games and books. The site should be able to export the database to a CSV file so that I can later do data analysis on the games I've played and books I've read.
