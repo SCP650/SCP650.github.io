@@ -1,14 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-18T20:36:18-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">What2Yum Mobile App</title><link href="http://localhost:4000/projects/2020/fall/What2Yum" rel="alternate" type="text/html" title="What2Yum Mobile App" /><published>2020-12-15T19:40:23-05:00</published><updated>2020-12-15T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/What2Yum</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/What2Yum">&lt;p&gt;Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-18T20:56:46-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">What2Yum Mobile App</title><link href="http://localhost:4000/projects/2020/fall/What2Yum" rel="alternate" type="text/html" title="What2Yum Mobile App" /><published>2020-12-15T19:40:23-05:00</published><updated>2020-12-15T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/What2Yum</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/What2Yum">&lt;p&gt;Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.&lt;/p&gt;
 
 &lt;p&gt;What2Yum allows you to swipe yes or no on a set of restaurant cards. You can send a link to your group chat. After your friends finish swiping. We will combine your preferences with your friends to help you guys make the final decision.&lt;/p&gt;
 
 &lt;p&gt;Try it now!&lt;/p&gt;
 
-&lt;p&gt;To download the full app: &lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot;&gt;Apple App Store&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;To download the full app &lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot;&gt;Apple App Store&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/what2yum/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
-&lt;h2 id=&quot;developers-note&quot;&gt;Developers Note&lt;/h2&gt;
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
+    
 
-&lt;p&gt;This app is developed by Eileen Chen, Kevin Wang, and Sebastian Yang.&lt;/p&gt;
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;developers-notes&quot;&gt;Developers Notes&lt;/h2&gt;
+
+&lt;p&gt;This app is developed by Eileen Chen, Kevin Wang, and Sebastian Yang. We used SwiftUI for frontend and Google Firebase for backend.&lt;/p&gt;
 
 &lt;p&gt;In this project, we went through 7 iterations and we did detailed documentation.&lt;/p&gt;
 
@@ -19,69 +35,8 @@
   &lt;li&gt;&lt;a href=&quot;/images/projects/what2yum/Sprint4.pdf&quot;&gt;Sprint 4: Version 1 of the app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/images/projects/what2yum/Sprint5.pdf&quot;&gt;Sprint 5: User testing of app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/images/projects/what2yum/Sprint6.pdf&quot;&gt;Sprint 6: User testing of app&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Sprint 7: Ship!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;privacy-policy&quot;&gt;Privacy Policy&lt;/h2&gt;
-
-&lt;p&gt;Yukai Yang built the What2Yum app as a Free app. This SERVICE is provided by Yukai Yang at no cost and is intended for use as is.&lt;/p&gt;
-
-&lt;p&gt;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&lt;/p&gt;
-
-&lt;p&gt;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.&lt;/p&gt;
-
-&lt;p&gt;The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at What2Yum unless otherwise defined in this Privacy Policy.&lt;/p&gt;
-
-&lt;h3 id=&quot;information-collection-and-use&quot;&gt;Information Collection and Use&lt;/h3&gt;
-
-&lt;p&gt;For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to device longitude and latitude to fetch the restaurants near you. The information that I request will be retained on your device and is not collected by me in any way.&lt;/p&gt;
-
-&lt;h3 id=&quot;log-data&quot;&gt;Log Data&lt;/h3&gt;
-
-&lt;p&gt;I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.&lt;/p&gt;
-
-&lt;h3 id=&quot;cookies&quot;&gt;Cookies&lt;/h3&gt;
-
-&lt;p&gt;Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory.&lt;/p&gt;
-
-&lt;p&gt;This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.&lt;/p&gt;
-
-&lt;h3 id=&quot;service-providers&quot;&gt;Service Providers&lt;/h3&gt;
-
-&lt;p&gt;I may employ third-party companies and individuals due to the following reasons:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;To facilitate our Service;&lt;/li&gt;
-  &lt;li&gt;To provide the Service on our behalf;&lt;/li&gt;
-  &lt;li&gt;To perform Service-related services; or&lt;/li&gt;
-  &lt;li&gt;To assist us in analyzing how our Service is used.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.&lt;/p&gt;
-
-&lt;h3 id=&quot;security&quot;&gt;Security&lt;/h3&gt;
-
-&lt;p&gt;I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.&lt;/p&gt;
-
-&lt;h3 id=&quot;links-to-other-sites&quot;&gt;Links to Other Sites&lt;/h3&gt;
-
-&lt;p&gt;This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.&lt;/p&gt;
-
-&lt;h3 id=&quot;childrens-privacy&quot;&gt;Children’s Privacy&lt;/h3&gt;
-
-&lt;p&gt;These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do necessary actions.&lt;/p&gt;
-
-&lt;h3 id=&quot;changes-to-this-privacy-policy&quot;&gt;Changes to This Privacy Policy&lt;/h3&gt;
-
-&lt;p&gt;I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.&lt;/p&gt;
-
-&lt;p&gt;This policy is effective as of 2020-12-16&lt;/p&gt;
-
-&lt;h3 id=&quot;contact-us&quot;&gt;Contact Us&lt;/h3&gt;
-
-&lt;p&gt;If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at sebastianyang@outlook.com.&lt;/p&gt;
-
-&lt;p&gt;This privacy policy page was created at privacypolicytemplate.net and modified/generated by App Privacy Policy Generator&lt;/p&gt;</content><author><name></name></author><category term="Software_Engineer" /><summary type="html">Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.</summary></entry><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
+  &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot;&gt;Sprint 7: Ship!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.</summary></entry><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;This is the testing environment for Little Moochi’s marketing campaign mini game.&lt;/p&gt;
 
 &lt;p&gt;To download the full game: &lt;a href=&quot;https://play.google.com/store/apps/details?id=com.LittleMoochi.LittleMoochi.Beta&amp;amp;hl=en&quot;&gt;Google Play&lt;/a&gt; or &lt;a href=&quot;https://apps.apple.com/us/app/littlemoochi/id1489071692&quot;&gt;Apple App Store&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="Game_Design" /><category term="All" /><summary type="html">This is the testing environment for Little Moochi’s marketing campaign mini game.</summary></entry><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 hours&lt;/p&gt;
 
