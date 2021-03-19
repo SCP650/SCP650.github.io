@@ -4,7 +4,7 @@ title2: Little Moochi Testing Environment #title shown in first line
 date: 2020-05-29 20:40:23 -0400 #date this page is written
 
 categories: projects 2020 spring #project folder, beginning year and season
-tags: Game_Development All Software_Engineer
+tags: Game_Development All
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Development Marketing Negotiation  Web_Design
 
 start-season: "2020 Spring"

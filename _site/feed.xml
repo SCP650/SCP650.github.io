@@ -1,4 +1,51 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-19T10:10:38-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-19T10:27:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
+
+&lt;p&gt;How does it work?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create an activity and share it with your friends&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tap ”Sync” if you are in the mood&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If ONLY you tap, your friends would never know&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;But if your friends are also in the mood, they will also tap “Sync” on their phones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then both of you will be notified!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using our app, one party won’t feel discouraged if another party refuses. Because if one taps the “Sync” button, the other party won’t know it unless the other party also taps the button within the specified time-frame. You can even create as many syncs as you like for different purposes: “Friday Happy Hours”, ”Sex”, “Eat out tonight”, etc!&lt;/p&gt;
+
+&lt;p&gt;To download the full app &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot;&gt;Apple App Store&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/anysync/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;developers-notes&quot;&gt;Developers Notes&lt;/h2&gt;
+&lt;p&gt;Built with Swift, Google Firebase, and ReactJS.&lt;/p&gt;
+
+&lt;p&gt;Developed in CMU TartanHack 2021 under 40 hours&lt;/p&gt;
+
+&lt;p&gt;App Developed by Karl Xiao, Kevin Wang, and Sebastian Yang&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.</summary></entry><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
 
 &lt;p&gt;This is one of the most challenging and exciting project I’ve worked on. I was the Product Manager/Programmer of the game and worked with 8 people across three different timezones to develop this game.&lt;/p&gt;
 
@@ -64,7 +111,7 @@
   &lt;li&gt;&lt;a href=&quot;/images/projects/what2yum/Sprint5.pdf&quot;&gt;Sprint 5: User testing of app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/images/projects/what2yum/Sprint6.pdf&quot;&gt;Sprint 6: User testing of app&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot;&gt;Sprint 7: Ship!&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.</summary></entry><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;LittleMoochi is an app to help kids develop healthy earting habits by raising their own AI-powered digital pets!&lt;/p&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="Highlights" /><summary type="html">Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.</summary></entry><entry><title type="html">Little Moochi Mobile Game</title><link href="http://localhost:4000/projects/2020/spring/LittleMoochi" rel="alternate" type="text/html" title="Little Moochi Mobile Game" /><published>2020-05-29T20:40:23-04:00</published><updated>2020-05-29T20:40:23-04:00</updated><id>http://localhost:4000/projects/2020/spring/LittleMoochi</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/LittleMoochi">&lt;p&gt;LittleMoochi is an app to help kids develop healthy earting habits by raising their own AI-powered digital pets!&lt;/p&gt;
 
 &lt;p&gt;Simply take a picture of your food to feed Moochi. The more balanced the food, the happier Moochi, and the family are. And… don’t forget the cool prizes for helping Moochi grow!&lt;/p&gt;
 
@@ -87,7 +134,7 @@
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
 
 &lt;h2 id=&quot;testing-environment&quot;&gt;Testing Environment&lt;/h2&gt;
-&lt;p&gt;This is the testing environment for LittleMoochi’s marketing campaign mini game.&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><category term="Software_Engineer" /><summary type="html">LittleMoochi is an app to help kids develop healthy earting habits by raising their own AI-powered digital pets!</summary></entry><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 hours&lt;/p&gt;
+&lt;p&gt;This is the testing environment for LittleMoochi’s marketing campaign mini game.&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><summary type="html">LittleMoochi is an app to help kids develop healthy earting habits by raising their own AI-powered digital pets!</summary></entry><entry><title type="html">Game Jam</title><link href="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts" rel="alternate" type="text/html" title="Game Jam" /><published>2020-02-03T19:40:23-05:00</published><updated>2020-02-03T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/spring/Pairs-of-Hearts</id><content type="html" xml:base="http://localhost:4000/projects/2020/spring/Pairs-of-Hearts">&lt;p&gt;Developed in 2020 Global Game Jam in 30 hours&lt;/p&gt;
 
 &lt;p&gt;Received Best Diversity Theme Award.&lt;/p&gt;
 
@@ -901,179 +948,4 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 &lt;h2 id=&quot;areas-for-improvement&quot;&gt;Areas for Improvement&lt;/h2&gt;
 
-&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry><entry><title type="html">Transease</title><link href="http://localhost:4000/projects/2018/spring/Transease" rel="alternate" type="text/html" title="Transease" /><published>2019-08-10T14:37:52-04:00</published><updated>2019-08-10T14:37:52-04:00</updated><id>http://localhost:4000/projects/2018/spring/Transease</id><content type="html" xml:base="http://localhost:4000/projects/2018/spring/Transease">&lt;p&gt;In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.&lt;/p&gt;
-
-&lt;p&gt;This got me thinking. Wouldn’t it be so nice if every time people need translation, somebody can just magically show up and help them?&lt;/p&gt;
-
-&lt;p&gt;Being inspired by Uber, I come up with a real-time human translation app that can achieve just that at a low price. By working with my friends Tony Lian and Yujie Wang, we came up with a prototype and won the world top 50 in the 2018 Microsoft Imagine Cup Big Idea Challenge. We are also the only team from mainland China that receive such prize in 2018.&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/award.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/award.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Don't ask my why they put my last name first. I have no idea.&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#problem&quot; id=&quot;markdown-toc-problem&quot;&gt;Problem&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#solution&quot; id=&quot;markdown-toc-solution&quot;&gt;Solution&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#one-user-story&quot; id=&quot;markdown-toc-one-user-story&quot;&gt;One User Story&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#prototype&quot; id=&quot;markdown-toc-prototype&quot;&gt;Prototype&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#potential-development&quot; id=&quot;markdown-toc-potential-development&quot;&gt;Potential Development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#credits&quot; id=&quot;markdown-toc-credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
-
-&lt;p&gt;I have been to 17 different countries, but I can only speak two languages. Hence, trying to communicate across different languages have always been a problem I wanted to solve. Currently, people tend to use free online translation apps like Google translate or hire an expensive translator. The problem is these translation apps are inaccurate. Here is one example. Even though the Chinese “能穿多少穿多少” is the same, it actually has totally different meanings in different settings. In the following case, it actually means “It’s hot, wear as little clothes as you can.”
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/Translation_Error.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/Translation_Error.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Translation Error&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;As for hiring translators, well, it’s way too expensive. So, I want to see if there is a middle ground that can make a translation by human affordable.&lt;/p&gt;
-&lt;h2 id=&quot;solution&quot;&gt;Solution&lt;/h2&gt;
-
-&lt;p&gt;Uber fascinates me because its core idea is so simple, yet it solves a huge problem in our society. If Uber can connect available drivers with people who need rides, why couldn’t we connect available translators with people who need translation service?&lt;/p&gt;
-
-&lt;h3 id=&quot;one-user-story&quot;&gt;One User Story&lt;/h3&gt;
-
-&lt;p&gt;Jieke is a Chinese traveler visiting the US. He wanted to talk to a local shop owner for about 10 minutes about their business, but he cannot speak English. So, he opens our app Transease in his phone and clicks “Translate”.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our system will search for whoever is available and connect them with Jieke&lt;/p&gt;
-
-&lt;p&gt;Let’s say on the other side of the globe, an American exchange student Jack just finishes his class in a Chinese university. He can speak English and Chinese and have about 10 minutes available. He can open our app and click “start receiving jobs”.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/2.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/2.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Our system will then connect Jack with Jieke, and let Jack translate for Jieke via voice call. After the service, Jack will receive a small fee from Jieke. And , Jieke can rate his experience with Jack and continue his travel until he needs translation service again.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/3.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/3.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;prototype&quot;&gt;Prototype&lt;/h3&gt;
-
-&lt;p&gt;To make sure this will actually work, I came up with an MVP. I asked 6 friends who can speak Chinese and English to help out. I put their contact info in a table showing their available timeslots. I also recruited two foreign teachers who cannot speak Chinese very well to be our test subjects. Basically, in the MVP, whenever the subjects need translation service, he or she can look up the table and call the number that is available during that timeslot. The person who is available will translate for them via the phone call.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/Call_Table.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/Call_Table.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Call Table&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;
-This MVP is like a proof of concept to show translation over voice call actually works. We received many feedbacks. And we try to address most of the problem in our first prototype.&lt;/p&gt;
-
-&lt;p&gt;To avoid the high costs of developing apps for different platforms, our first prototype is a website that is optimized for mobile users. It has login and voice calling features. We added more features such as ratings and video chat as we went. This prototype helped us win the Big Idea Challenge In 2018 Microsoft Imagine Cup.&lt;/p&gt;
-
-&lt;h2 id=&quot;potential-development&quot;&gt;Potential Development&lt;/h2&gt;
-
-&lt;p&gt;In the middle stage of our project, I realize a more significant problem. Our app can easily be replaced if the translation algorithm is good enough. And since people are used to using free translation apps, how can we encourage them to spend a few more bucks to use a human translator?&lt;/p&gt;
-
-&lt;p&gt;If I have more time, these are the areas I would try to improve. First, I would like to hold another user testing this time asking people to actually pay for the service. Then, through more iterations, I would like to improve our app’s UI design and a better payment system. Moreover, in the future, if the app does work, we will have the recording of millions of minutes of translation. This amount of data may help us train an algorithm that can outperform most of the free translation service.&lt;/p&gt;
-
-&lt;p&gt;But sadly, we stop the project after we parted ways to different colleges.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/Transease/bg1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/Transease/bg1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-
-&lt;p&gt;The actual app development is all done by my friend Tony Lian and Yujie Wang. Tony is responsible for back end and Yujie for front end.&lt;/p&gt;
-
-&lt;p&gt;Other than coming up with the idea, my role in this project is providing feedbacks across iterations and making sure the scope of our project is working. I am also responsible for user testing, market research, surveys, and pitching the idea to Microsoft.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Entrepreneurship" /><category term="Product_Project_Management" /><category term="Marketing" /><summary type="html">In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.</summary></entry></feed>
+&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry></feed>
