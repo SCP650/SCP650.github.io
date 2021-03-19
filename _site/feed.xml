@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-19T09:21:21-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">What2Yum Mobile App</title><link href="http://localhost:4000/projects/2020/fall/What2Yum" rel="alternate" type="text/html" title="What2Yum Mobile App" /><published>2020-12-15T19:40:23-05:00</published><updated>2020-12-15T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/What2Yum</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/What2Yum">&lt;p&gt;Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-19T10:02:50-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
+
+&lt;p&gt;This is one of the most challenging and exciting project I’ve worked on. I was the Product Manager/Programmer of the game and worked with 8 people across three different timezones to develop this game.&lt;/p&gt;
+
+&lt;p&gt;I led the team to go through 12 sprints in 3 months. We achieved weekly builds, hit 3 release milestones and conducted 5 rounds of user testings.
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/whitesnake/level1.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/whitesnake/level1.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Level 1&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;p&gt;As always, we did detailed documentation.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uvh2umbgwb.feishu.cn/docs/doccnYVvyg3TdKp4Whnhz6424id&quot;&gt;Game Design Doc (Chinese)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note: Links to user testing notes, and discussion notes are included in the last page of the design doc.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Product/Project_Management" /><category term="Game_Development" /><summary type="html">This is a retell of the Chinese traditional folklore The Legend of the White Snake. The game is developed for Tencent Institute of Games and is available for download at Apple App Store or by searching “白蛇·纸伞”.</summary></entry><entry><title type="html">What2Yum Mobile App</title><link href="http://localhost:4000/projects/2020/fall/What2Yum" rel="alternate" type="text/html" title="What2Yum Mobile App" /><published>2020-12-15T19:40:23-05:00</published><updated>2020-12-15T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/What2Yum</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/What2Yum">&lt;p&gt;Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.&lt;/p&gt;
 
 &lt;p&gt;What2Yum allows you to swipe yes or no on a set of restaurant cards. You can send a link to your group chat. After your friends finish swiping. We will combine your preferences with your friends to help you guys make the final decision.&lt;/p&gt;
 
@@ -1048,106 +1076,4 @@ This MVP is like a proof of concept to show translation over voice call actually
 
 &lt;p&gt;The actual app development is all done by my friend Tony Lian and Yujie Wang. Tony is responsible for back end and Yujie for front end.&lt;/p&gt;
 
-&lt;p&gt;Other than coming up with the idea, my role in this project is providing feedbacks across iterations and making sure the scope of our project is working. I am also responsible for user testing, market research, surveys, and pitching the idea to Microsoft.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Entrepreneurship" /><category term="Product_Project_Management" /><category term="Marketing" /><summary type="html">In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.</summary></entry><entry><title type="html">APA</title><link href="http://localhost:4000/projects/2015/fall/APA" rel="alternate" type="text/html" title="APA" /><published>2019-08-10T13:57:52-04:00</published><updated>2019-08-10T13:57:52-04:00</updated><id>http://localhost:4000/projects/2015/fall/APA</id><content type="html" xml:base="http://localhost:4000/projects/2015/fall/APA">&lt;p&gt;From my perspective, animals should be treated ethically.&lt;br /&gt;&lt;br /&gt; Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.&lt;/p&gt;
-
-&lt;p&gt;Throughout our campaign, I organized charity sales and class presentations. At the peak of our campaign, we argued with local government representatives to stop school trips to a local animal circus and we held charity show at 5 different public areas in my city at the same time with over 120 student volunteers, donating all the money we raised to PETA Hong Kong.&lt;/p&gt;
-
-&lt;p&gt;This is our story:
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/APA/sign.JPG&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/APA/sign.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt; &quot;I promise I will never visit animal circuses.&quot; &lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#phase-1-in-classrooms&quot; id=&quot;markdown-toc-phase-1-in-classrooms&quot;&gt;Phase 1: In Classrooms&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#phase-2-on-campus&quot; id=&quot;markdown-toc-phase-2-on-campus&quot;&gt;Phase 2: On Campus&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#phase-3-in-society&quot; id=&quot;markdown-toc-phase-3-in-society&quot;&gt;Phase 3: In Society&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;phase-1-in-classrooms&quot;&gt;Phase 1: In Classrooms&lt;/h2&gt;
-&lt;p&gt;It is my firm belief that people’s joy should not be based on animals’ suffering. Thus, I was never fond of the idea of animal acrobatics. So I felt very uncomfortable when I learned my local government decided to invest about 100 million RMB (15 million USD) in building the largest animal circus in the world at my city, the “Ling Ling International Circus City” (厦门灵玲国际马戏城).&lt;/p&gt;
-
-&lt;p&gt;The decision has already been made by the government. Since demonstrations and appeals were not an option in my city, I focused on dissuading the public to visit. The easiest group of people I could reach was my schoolmates.&lt;/p&gt;
-
-&lt;p&gt;As a result, I wrote a speech and taught my teammates at the APA how to present. Then we talked to the school officials and presented our speed at each classroom. In the end, we received more than 100 signatures from students who vowed they would never visit animal circuses.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/APA/sign2.JPG&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/APA/sign2.JPG&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Signatures from students&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 id=&quot;phase-2-on-campus&quot;&gt;Phase 2: On Campus&lt;/h2&gt;
-&lt;p&gt;A few months after our initial campaign, our local government’s education department decided to make Ling Ling circus as the destination of many public schools’ school trip.&lt;/p&gt;
-
-&lt;p&gt;Saying we were not happy would be an understatement. We were furious.&lt;/p&gt;
-
-&lt;p&gt;I split my team into two groups. One group focus on reaching out to school and government officials to try to change the destination. But we knew the chances were slim since the local government was one of the investors of the circus. The other group focused on campus-wide charity sales to raise awareness.&lt;/p&gt;
-
-&lt;p&gt;We designed many merchandises and sold them at our on-campus charity sale. And we went back to the classroom again to pitch our idea and dissuade students from participating. But since there were only 2 school trips in our 3 years in high school, it was hard to dissuade students. Thus, I reframed the talk from “No Circus” to “My Last Trip to Circus”. We asked students to think what how do they feel if they were the animals and ask them to make this their first and final trip to animal circuses.&lt;/p&gt;
-
-&lt;div class=&quot;row text-center&quot;&gt;
-  &lt;div class=&quot;col-4&quot;&gt;
-    &lt;a href=&quot;/images/projects/APA/merch1.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch1.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
-    Designed by Us
-  &lt;/div&gt;
-  &lt;div class=&quot;col-4&quot;&gt;
-    &lt;a href=&quot;/images/projects/APA/merch2.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch2.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
-    Charity sale
-  &lt;/div&gt;
-  &lt;div class=&quot;col-4&quot;&gt;
-    &lt;a href=&quot;/images/projects/APA/merch3.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/merch3.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;
-    Yep, that's me
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;phase-3-in-society&quot;&gt;Phase 3: In Society&lt;/h2&gt;
-
-&lt;p&gt;Sadly, we did not manage to change the destination for our school trip. Many people, including myself, ended up going to the circus. This should be the end of our campaign, but, as you may have known, giving up is never an option for me. I wanted to raise more people’s awareness.&lt;/p&gt;
-
-&lt;p&gt;During that time, I was also one of the chief organizers of the 2017 Amoy Youth Elite Summit. Bridging the gap between different organizations have always been my thing. Thus, I wanted to motivate the participants of the Summit to help us with our campaign.&lt;/p&gt;
-
-&lt;p&gt;During the summit, I gave 50 RMB(7.4 USD) to each team as their initial fund. Each team has 3 days to plan out an executable plan to advocate for the rejecting animal circuses. And they would act out their plan on the fourth day. The participation was, of course, voluntary.&lt;/p&gt;
-
-&lt;p&gt;This was like a little experiment because I had no idea what they can come up within 3 days and how many people will even show up. But it turned out to be a great success. On the day of the event, about 120 students joined our event as organizers. We held charity sales and charity shows at two shopping districts (ZhongShang Road中山路, ShaPoWei沙坡尾), a shopping mall (SM), a public park (WuYi Squar五一广场) and our school at the same time.&lt;/p&gt;
-
-&lt;p&gt;In the end, we educated many pedestrians and received more than 500 signatures. We raised about 3600 RMB in four hours. And the budget for the whole event was only 550 RMB.&lt;/p&gt;
-
-&lt;table class=&quot;text-center&quot;&gt;
-&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/poster3.jpg&quot;&gt; &lt;img src=&quot;/images/projects/APA/poster3.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts1.PNG&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts1.PNG&quot; class=&quot;w-75&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/posts2.png&quot;&gt; &lt;img src=&quot;/images/projects/APA/posts2.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-&lt;tr&gt;&lt;td&gt;&lt;a href=&quot;/images/projects/APA/sales.JPG&quot;&gt; &lt;img src=&quot;/images/projects/APA/sales.JPG&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/cert.jpg&quot;&gt; &lt;img src=&quot;/images/projects/APA/cert.jpg&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-  &lt;td&gt;&lt;a href=&quot;/images/projects/APA/signitures.png&quot;&gt; &lt;img src=&quot;/images/projects/APA/signitures.png&quot; class=&quot;w-100&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-
-
-&lt;/table&gt;</content><author><name></name></author><category term="Event_Planning" /><category term="All" /><category term="Product_Project_Management" /><category term="Non_Profits" /><summary type="html">From my perspective, animals should be treated ethically. Not being an extreme activist, I focus my work on boycotting animal acrobatics. I was elected the president of our school’s Animal Protection Association in 2016. Then, I lead a team of 15 students to initiate the “Not Born to Perform” campaign to stop animal acrobatics in Xiamen.</summary></entry></feed>
+&lt;p&gt;Other than coming up with the idea, my role in this project is providing feedbacks across iterations and making sure the scope of our project is working. I am also responsible for user testing, market research, surveys, and pitching the idea to Microsoft.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Entrepreneurship" /><category term="Product_Project_Management" /><category term="Marketing" /><summary type="html">In my third year in high school, we have a new teacher named Mark coming from England. But the problem is that he cannot speak Chinese at all. So, when he needed to rent a house or talk to the locals, he needed us to help translate.</summary></entry></feed>
