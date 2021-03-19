@@ -4,8 +4,8 @@ title2: Global Game Jam #title shown in first line
 date: 2020-02-03 20:40:23 -0400 #date this page is written
 
 categories: projects 2020 spring #project folder, beginning year and season
-tags: Game_Design All
-#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
+tags: Game_Development All
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Development Marketing Negotiation  Web_Design
 
 start-season: "2020 Spring"
 unity_dir: Pairs Of Hearts WebGL

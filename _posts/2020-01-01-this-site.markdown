@@ -3,7 +3,7 @@ title: This Website
 date: 2020-01-01 20:40:23 -0400 #date this page is written
 
 categories: projects 2019 spring #project folder, beginning year and season
-tags: All Web_Design
+tags: All Web_Design Software_Engineer
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
 
 start-season: "2019 Spring"
