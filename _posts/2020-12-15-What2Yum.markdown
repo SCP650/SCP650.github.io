@@ -21,7 +21,7 @@ What2Yum allows you to swipe yes or no on a set of restaurant cards. You can sen
 Try it now!
 
 To download the full app [Apple App Store](https://apps.apple.com/us/app/what2yum/id1540868286)
-{% include image.html img="ScreenShot.png"  url = "https://apps.apple.com/us/app/what2yum/id1540868286" caption="Available on App Store"%}
+{% include image.html img="appstore.png"  url = "https://apps.apple.com/us/app/what2yum/id1540868286" caption="Available on App Store"%}
 
 ## Developers Notes
 
