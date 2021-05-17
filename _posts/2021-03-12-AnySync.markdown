@@ -31,7 +31,7 @@ How does it work?
 Using our app, one party won't feel discouraged if another party refuses. Because if one taps the "Sync" button, the other party won't know it unless the other party also taps the button within the specified time-frame. You can even create as many syncs as you like for different purposes: “Friday Happy Hours”, ”Sex”, “Eat out tonight”, etc!
 
 To download the full app [Apple App Store](https://apps.apple.com/us/app/anysync/id1556964175)
-{% include image.html img="screenshot.png"  url = "https://apps.apple.com/us/app/anysync/id1556964175" caption="Available on App Store"%}
+{% include image.html img="ScreenShot.png"  url = "https://apps.apple.com/us/app/anysync/id1556964175" caption="Available on App Store"%}
 
 ## Developers Notes
 Built with Swift, Google Firebase, and ReactJS.
