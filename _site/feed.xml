@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-03-19T10:27:41-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-18T08:29:08-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
 
 &lt;p&gt;How does it work?&lt;/p&gt;
 
@@ -28,7 +28,7 @@
     
     &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
       
-        &lt;img src=&quot; /images/projects/anysync/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+        &lt;img src=&quot; /images/projects/anysync/appstore.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
     
@@ -85,7 +85,7 @@
     
     &lt;a href=&quot;https://apps.apple.com/us/app/what2yum/id1540868286&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
       
-        &lt;img src=&quot; /images/projects/what2yum/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+        &lt;img src=&quot; /images/projects/what2yum/appstore.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
 
     &lt;/a&gt;
     
