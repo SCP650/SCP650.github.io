@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-20T09:08:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-20T10:05:17-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
 
 &lt;p&gt;How does it work?&lt;/p&gt;
 
@@ -45,7 +45,59 @@
 
 &lt;p&gt;Developed in CMU TartanHack 2021 under 40 hours&lt;/p&gt;
 
-&lt;p&gt;App Developed by Karl Xiao, Kevin Wang, and Sebastian Yang&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.</summary></entry><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
+&lt;p&gt;App Developed by Karl Xiao, Kevin Wang, and Sebastian Yang&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.</summary></entry><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+
+&lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
+
+&lt;p&gt;This app is currently available only in parts of certain cities. When the time is right, head out and see if it works in your area!&lt;/p&gt;
+
+&lt;p&gt;This app is developed by Sebastian Yang for fun.
+Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
+
+&lt;p&gt;To download the full app: &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot;&gt;Apple App Store&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/Artlas/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;This is my first AR app. I learned a lot of cool technical stuff using ARkit, but here are some of my main takeaways that might be helpful to anyone developing AR apps.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-user-guidance-and-showing-actionable-steps-in-ar-are-critical&quot;&gt;1. User Guidance and Showing Actionable Steps in AR are Critical&lt;/h3&gt;
+
+&lt;p&gt;Most apps only need to guide the user once at the beginning and most actionable steps are implicit and self-explanatory: you see the Wifi bar goes down, you will move closer to the WIFI.&lt;/p&gt;
+
+&lt;p&gt;But not in AR. In AR, we have to constantly guide and inform the user about the current state of the app such as tracking availability, accuracy, and actionable steps to improve it. In AR Geotracking, we also need to tell the user why the app fail to localize the user and how to solve it (trees blocking the view? Move too fast? No buildings in view? etc). A case in point is, in Artlas, if the user looks down, the app will explicitly prompt the user to look up.&lt;/p&gt;
+
+&lt;p&gt;These guidances are critical to ensure a smooth user experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-universal-icons-in-ar-is-an-area-for-exploration&quot;&gt;2. Universal Icons in AR is an Area for Exploration&lt;/h3&gt;
+
+&lt;p&gt;In the future, hopefully, there will be universal icons in AR, similar to the WiFi and battery icons, that represent different states and implicitly tells the user what to do, especially for common information like the tracking accuracy and actions like move the camera to scan the environment. If so, we won’t have to put an overlay text over the camera view every time we want to guide the user.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-be-thorough-in-reasons-for-using-sensitive-information&quot;&gt;3. Be Thorough in Reasons for Using Sensitive Information&lt;/h3&gt;
+
+&lt;p&gt;The first version of Artlas was actually rejected because when explaining the reasons for using the user location, I only mentioned I use it for finding nearby buildings but forgot to mention it is also being used for ARkit’s Geotracking.&lt;/p&gt;
+
+&lt;p&gt;Hence, being explicit and thorough in reasons for using sensitive information, is beneficial for both the user’s understanding and the developer’s shipping schedule.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;Artlas uses Apple ARKit’s Geotracking feature. It uses your GPS coordinates and the image stream captured from your camera to understand where you are in the real world. Then it searches for nearby places of interest using MapKit and finds the nearest one in the direction you are pointing towards when you hit the button. Then it will generate a 3D text object using RealityKit and place it at the location of the building.&lt;/p&gt;
+
+&lt;p&gt;We value privacy so we do not store any user information. Everything is done locally using Apple’s native APIs.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="AR_VR" /><summary type="html">Point your camera to a building, and Artlas will put its name in front of it!</summary></entry><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
 
 &lt;p&gt;This is one of the most challenging and exciting project I’ve worked on. I was the Product Manager/Programmer of the game and worked with 8 people across three different timezones to develop this game.&lt;/p&gt;
 
@@ -811,141 +863,4 @@
 
 &lt;p&gt;Throughout the two weeks of our term project, my role is sort of like the “product manger” in the team. I set up the overall goal and communicate with each individual about their design, provide them with feedback, make sure the production timeline is working and keep track of the scope of our term project.&lt;/p&gt;
 
-&lt;p&gt;Since the four of us cannot meet frequently, I coordinate the team to make sure we are all on the same page and the Executive summary, web prototype, ERD and our presentation are tightly integrated. On the other hand, my friend Christine, Megan and Jonathan are responsible for the actual work. Thank you for all the good work!&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Web_Design" /><category term="All" /><summary type="html">This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.</summary></entry><entry><title type="html">15112</title><link href="http://localhost:4000/projects/2018/fall/15112" rel="alternate" type="text/html" title="15112" /><published>2019-08-13T14:41:23-04:00</published><updated>2019-08-13T14:41:23-04:00</updated><id>http://localhost:4000/projects/2018/fall/15112</id><content type="html" xml:base="http://localhost:4000/projects/2018/fall/15112">&lt;p&gt;This project is dedicated to Scott Chen For being my “sametable” in high school&lt;/p&gt;
-
-&lt;p&gt;This is the term project for CMU 15-112: Fundamentals of Programming and Computer Science. This is the first video game I ever developed. It is programmed in Python with pygame package and is a recreation of the flash game Tank Trouble. I chose to recreate Tank Trouble because I used to play this game a lot with my friends in high school.&lt;/p&gt;
-
-&lt;p&gt;This page serves as a breakdown of the game so future 15112 students can refer to without going over the boring codes I wrote.&lt;/p&gt;
-
-&lt;p&gt;You can see a 3 mins snapshot of the game here:&lt;/p&gt;
-&lt;div class=&quot;iframe-container&quot;&gt; &lt;iframe width=&quot;866&quot; height=&quot;487&quot; src=&quot;https://www.youtube.com/embed/qkijJCenGDE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#overall-structure&quot; id=&quot;markdown-toc-overall-structure&quot;&gt;Overall Structure&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#multiplayer-mode&quot; id=&quot;markdown-toc-multiplayer-mode&quot;&gt;Multiplayer Mode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#game-ai-mode&quot; id=&quot;markdown-toc-game-ai-mode&quot;&gt;Game AI Mode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#easter-mode&quot; id=&quot;markdown-toc-easter-mode&quot;&gt;Easter Mode&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#areas-for-improvement&quot; id=&quot;markdown-toc-areas-for-improvement&quot;&gt;Areas for Improvement&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;overall-structure&quot;&gt;Overall Structure&lt;/h2&gt;
-
-&lt;p&gt;This game has 7 different scenes: StartScreen, SinglePlayerMode, TwoPlayerMode, ThreePlayerMode, InstructionsScreen, RankScreen, and EasterMode.&lt;/p&gt;
-
-&lt;p&gt;Because pygame doesn’t support scenes switching like the ones in Unity, I wrote some scene switching codes that basically calls to different redrawAll or timerFired when in a different mode. I think this method is covered in class as well so I will not elaborate further here. You can learn more here:&lt;a href=&quot;http://www.krivers.net/15112-s18/notes/notes-animations-demos.html&quot;&gt; Mode Demo &lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/15112/Mode_Demo.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/15112/Mode_Demo.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Mode Demo&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 id=&quot;multiplayer-mode&quot;&gt;Multiplayer Mode&lt;/h2&gt;
-
-&lt;p&gt;Local two-player multiplayer mode is the MVP for this game. The tricky part is how to check collision between tanks and the map as well as bullets and the map. The map is generated as a png image with walls as black pixels and passage as transparent background (zero alpha channel). The tank is just a sprite image of a cartoon tank.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/15112/Two_Player_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/15112/Two_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Two Player Mode&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;Many friends of mine, who are in spring 2019 112 class, try to use &lt;code class=&quot;highlighter-rouge&quot;&gt;
-pygame.sprite.collide(self,map)&lt;/code&gt;
-in their games. This may not work because sprite.collide treats the map as a sprite aka as a whole image. Since the map is below your game object (tanks in my case), your game object will always collide with the map.&lt;/p&gt;
-
-&lt;p&gt;Instead, there is a neat function called &lt;code class=&quot;highlighter-rouge&quot;&gt;pygame.sprite.collide_mask(self,map)&lt;/code&gt;. This would work properly because this function creates a “mask” for the map. Namely, it creates a new “image” with the pixels that are of non-zero alpha channels only. Hence, in my case, only the black walls will be considered for collision, but the transparent passage will not.&lt;/p&gt;
-
-&lt;p&gt;Another thing you might want to look out for in MVP is the frame rate. In my first prototype, the bullets speed per second is faster than the frame rate per second. Due to high speed, it can move to pass the width of the wall before the next collision check. Hence, the bouncy wall effect I wanted cannot be achieved. At first, I thought this was a programming problem, so I kept trying to tweak the collision method. So just beware that frame rate can mess with your collision test.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/15112/Three_Player_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/15112/Three_Player_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Three Player Mode&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;I finished one tank without AI in the first iteration. After finishing the two-player mode in the second iteration, I added a three-player mode in the third iteration. The third player will use a mouse to navigate and right click to shoot bullets. This is not very hard to implement once you got all the base code ready.&lt;/p&gt;
-
-&lt;h2 id=&quot;game-ai-mode&quot;&gt;Game AI Mode&lt;/h2&gt;
-
-&lt;p&gt;Oh boy, this is the hardest part of the game. I need to program an AI tank that can navigate, shoot and avoid bullets. Theoretically, if I have the map stored in a 2D list, I can just use a backtrack function and update AI’s path periodically. The algorithms would not be very hard to write. The problem, though, is that I did not store the map in a 2D list.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/15112/AI_Mode.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/15112/AI_Mode.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;AI Mode&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;In order to simplify my MVP, I initially used a photoshopped image of the map. During my second iteration, I cannot think of an efficient way to generate a map using backtracking. This is because I need to avoid close containment of any size so that the tanks will not be trapped in one area.&lt;/p&gt;
-
-&lt;p&gt;In order to keep the project moving, I chose to avoid this path. In my second iteration, I simply make the AI tank simple turn right every time it hits a wall. This will make the AI tank appears to be moving around. As you may have guessed, the downside is the tank sometimes will be trap in a circle.&lt;/p&gt;
-
-&lt;p&gt;In my third iteration, I write a “ray casting” function. Basically, I will send out 8 different bullets to 8 direction periodically. These bullets will not be drawn. This ray cast can let the tank know which direction has more space and which direction is a dead end. The tank can then make a decision about turning base on this information.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/15112/Ray_Casting.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/15112/Ray_Casting.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Ray Casting&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;After fine-tuning for a long time, the game AI works pretty well. I feel like you can always try to come up with creative ways to implement game AI.&lt;/p&gt;
-&lt;h2 id=&quot;easter-mode&quot;&gt;Easter Mode&lt;/h2&gt;
-
-&lt;p&gt;In the fourth iteration, I added some powerups that change tank size and speed, a ranking screen that stores past scores locally, as well as an Easter mode. You can trigger the Easter mode by messing around in the starter screen. Feel free to play around and try to break the game  :)&lt;/p&gt;
-
-&lt;h2 id=&quot;areas-for-improvement&quot;&gt;Areas for Improvement&lt;/h2&gt;
-
-&lt;p&gt;If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><summary type="html">This project is dedicated to Scott Chen For being my “sametable” in high school</summary></entry></feed>
+&lt;p&gt;Since the four of us cannot meet frequently, I coordinate the team to make sure we are all on the same page and the Executive summary, web prototype, ERD and our presentation are tightly integrated. On the other hand, my friend Christine, Megan and Jonathan are responsible for the actual work. Thank you for all the good work!&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Web_Design" /><category term="All" /><summary type="html">This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.</summary></entry></feed>

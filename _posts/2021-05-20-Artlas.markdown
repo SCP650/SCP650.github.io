@@ -1,0 +1,56 @@
+---
+title: Artlas Mobile AR App
+date: 2021-03-12 20:40:23 -0400 #date this page is written
+
+categories: projects 2021 spring #project folder, beginning year and season
+tags: All  Software_Engineer AR_VR
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2021 Spring"
+#this is a bad practice
+assetLoco: /images/projects/Artlas
+coverPic: /icon.png
+carousel:
+  - image: /icon.png
+---
+
+Point your camera to a building, and Artlas will put its name in front of it!
+
+The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!
+
+This app is currently available only in parts of certain cities. When the time is right, head out and see if it works in your area!
+
+This app is developed by Sebastian Yang for fun.
+Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation
+
+To download the full app: [Apple App Store](https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806)
+{% include image.html img="screenshot.png"  url = "https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806" caption="Available on App Store"%}
+
+## Main Takeaways 
+This is my first AR app. I learned a lot of cool technical stuff using ARkit, but here are some of my main takeaways that might be helpful to anyone developing AR apps. 
+
+### 1. User Guidance and Showing Actionable Steps in AR are Critical
+
+Most apps only need to guide the user once at the beginning and most actionable steps are implicit and self-explanatory: you see the Wifi bar goes down, you will move closer to the WIFI.
+
+But not in AR. In AR, we have to constantly guide and inform the user about the current state of the app such as tracking availability, accuracy, and actionable steps to improve it. In AR Geotracking, we also need to tell the user why the app fail to localize the user and how to solve it (trees blocking the view? Move too fast? No buildings in view? etc). A case in point is, in Artlas, if the user looks down, the app will explicitly prompt the user to look up. 
+
+These guidances are critical to ensure a smooth user experience. 
+
+### 2. Universal Icons in AR is an Area for Exploration
+
+In the future, hopefully, there will be universal icons in AR, similar to the WiFi and battery icons, that represent different states and implicitly tells the user what to do, especially for common information like the tracking accuracy and actions like move the camera to scan the environment. If so, we won't have to put an overlay text over the camera view every time we want to guide the user. 
+
+### 3. Be Thorough in Reasons for Using Sensitive Information 
+
+The first version of Artlas was actually rejected because when explaining the reasons for using the user location, I only mentioned I use it for finding nearby buildings but forgot to mention it is also being used for ARkit's Geotracking. 
+
+Hence, being explicit and thorough in reasons for using sensitive information, is beneficial for both the user's understanding and the developer's shipping schedule.
+
+
+## Under the Hood 
+ 
+Artlas uses Apple ARKit's Geotracking feature. It uses your GPS coordinates and the image stream captured from your camera to understand where you are in the real world. Then it searches for nearby places of interest using MapKit and finds the nearest one in the direction you are pointing towards when you hit the button. Then it will generate a 3D text object using RealityKit and place it at the location of the building.
+
+We value privacy so we do not store any user information. Everything is done locally using Apple's native APIs.
+
