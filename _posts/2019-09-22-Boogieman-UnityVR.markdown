@@ -4,7 +4,7 @@ title2: Boogieman Unity VR #title shown in first line
 date:   2019-09-22 20:40:23 -0400 #date this page is written
 
 categories: projects 2019 fall #project folder, beginning year and season
-tags: Game_Development All Highlights
+tags: Game_Development All Highlights AR_VR
 #tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Development Marketing Negotiation  Web_Design
 
 start-season: "2019 Fall"

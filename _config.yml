@@ -38,12 +38,13 @@ project_tags:
     "Highlights",
     "All",
     "Software_Engineer",
+    "AR_VR",
     "Product_Project_Management",
     "Game_Development",
     "Entrepreneurship",
     "Event_Planning",
     "Non_Profits",
-    "Marketing",
+    # "Marketing",
     "Web_Design",
   ]
 # Exclude from processing.
