@@ -24,6 +24,29 @@ In this 6-week project, I was the programmer in the team. We will go through 6 i
 
 <div class="iframe-container"><iframe src="https://www.youtube.com/embed/kXyuNnvKIBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
+## Main Takeaways
+
+This was a highly intense 6-week project. I learned a lot about developing in VR. Here are some of my main takeaways. 
+
+### 1. Never Seize the Camera in VR
+
+Our game takes under the bed of a kid's bedroom (the Bogeyman under the bed). In one of our iteration, we wanted to show the bedroom environment before going under the bed. So we added a "cut scene" where the camera will drop from above the bed to under the bed. 
+
+That...turned out to be a bad idea. Seizing the camera meant the play lost control of his or her own head. It's disorienting and dizzy. Not to mention the drop in height. 
+
+### 2. Use Visual Cues to Direct the Player's view
+
+Because we cannot seize the camera and add cut scenes, this means a player can have total control over the camera movement. This is also where VR stands out from flat-screen media: VR invites the player to discover the environment in a self-paced way. 
+
+That also means the player may miss key animations and moments in the game. For example, in our early iterations, the dance floor is a square. We noticed many players missed the Boogieman entrance animation completely and are not sure where they should face. We later change the dance floor to a long strip to guide the player to look at the Boogieman.
+
+### 3. If it seems interactive, it needs to be
+
+In this project, I saw many players feeling disappointed when they try to pick the toys in the environment up and failed. It made our game less immersive.
+
+The magic of VR is the feeling of presence in a virtual world. Hence, users will naturally apply the rules of the real world to the virtual world. If something looks like it can be picked up, pressed, or thrown, it better should be or else it will ruin the immersive experience. 
+
+We didn't have time to implement this in our 6-week production schedule but it's a good takeaway to keep in mind. 
 
 ## Credits
 This game is made by (in alphabetical order): Ann Maria, Connie Chau, Kalpa Anjur, Lisa Lo, Carter Williams, and me.

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-21T14:26:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-21T15:06:12-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
 
 &lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
 
@@ -410,6 +410,30 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/kXyuNnvKIBo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;p&gt;This was a highly intense 6-week project. I learned a lot about developing in VR. Here are some of my main takeaways.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-never-seize-the-camera-in-vr&quot;&gt;1. Never Seize the Camera in VR&lt;/h3&gt;
+
+&lt;p&gt;Our game takes under the bed of a kid’s bedroom (the Bogeyman under the bed). In one of our iteration, we wanted to show the bedroom environment before going under the bed. So we added a “cut scene” where the camera will drop from above the bed to under the bed.&lt;/p&gt;
+
+&lt;p&gt;That…turned out to be a bad idea. Seizing the camera meant the play lost control of his or her own head. It’s disorienting and dizzy. Not to mention the drop in height.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-use-visual-cues-to-direct-the-players-view&quot;&gt;2. Use Visual Cues to Direct the Player’s view&lt;/h3&gt;
+
+&lt;p&gt;Because we cannot seize the camera and add cut scenes, this means a player can have total control over the camera movement. This is also where VR stands out from flat-screen media: VR invites the player to discover the environment in a self-paced way.&lt;/p&gt;
+
+&lt;p&gt;That also means the player may miss key animations and moments in the game. For example, in our early iterations, the dance floor is a square. We noticed many players missed the Boogieman entrance animation completely and are not sure where they should face. We later change the dance floor to a long strip to guide the player to look at the Boogieman.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-if-it-seems-interactive-it-needs-to-be&quot;&gt;3. If it seems interactive, it needs to be&lt;/h3&gt;
+
+&lt;p&gt;In this project, I saw many players feeling disappointed when they try to pick the toys in the environment up and failed. It made our game less immersive.&lt;/p&gt;
+
+&lt;p&gt;The magic of VR is the feeling of presence in a virtual world. Hence, users will naturally apply the rules of the real world to the virtual world. If something looks like it can be picked up, pressed, or thrown, it better should be or else it will ruin the immersive experience.&lt;/p&gt;
+
+&lt;p&gt;We didn’t have time to implement this in our 6-week production schedule but it’s a good takeaway to keep in mind.&lt;/p&gt;
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
 &lt;p&gt;This game is made by (in alphabetical order): Ann Maria, Connie Chau, Kalpa Anjur, Lisa Lo, Carter Williams, and me.&lt;/p&gt;
