@@ -1,0 +1,80 @@
+---
+title: FitSaber VR
+date: 2021-05-19 20:40:23 -0400 #date this page is written
+
+categories: projects 2021 spring #project folder, beginning year and season
+tags: All  Game_Development  AR_VR Product_Project_Management 
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Development Marketing Negotiation  Web_Design
+
+start-season: "2021 Spring"
+#this is a bad practice
+assetLoco: /images/projects/FitSaber
+coverPic: /icon.png
+carousel:
+  - image: /screenshot.png
+---
+
+Promoting Cognitive Engagement and Physical Activity in Virtual Reality
+
+As technology use grows at an exponential rate and sedentary behavior increases in the wake of the global pandemic, evidence-based practices promoting both physical activity and cognitive engagement are needed. 
+
+This project is the development of the research-based "making" portion of an experimental study to examine the effects on cognitive skills in 18- to 23- year-olds from varying virtual reality (VR) conditions. This study uses a between-subject design with participants recruited through the university Psychology Subject Pool. 
+
+The conditions are experimentally modified VR rhythm games. Participants are presented a stream of approaching directional blocks and respond by moving their arms left, right, up, down, or diagonal depending on the direction of an arrow on the target block using a corresponding saber. There will be meticulous manipulations to the amount of physical activity and cognitive demands for each condition. Participants will be randomly assigned to one of four conditions: 
+* Exercise (Standard) Condition: high physical activity + low cognitive demands;
+* Combined (Standard + Rule Switch) Condition: high physical activity + high cognitive demands; 
+* Cognitive (Sedentary + Rule Switch) Condition: low physical activity + high cognitive demands; 
+* or Control (Sedentary Standard) Condition: low physical activity + low cognitive demands. 
+
+Participants in all conditions train for 45 minutes total (9 songs total) with 15 minutes of practice beforehand. Participants’ cognitive skills will be assessed at pretest and posttest before and after training using standard neurocognitive measures and questionnaires. This project shows the development of the conditions, game features, and outcome measures utilized to assess cognitive skills in young adults.
+
+The official testing will start in the fall of 2021.
+
+This project is sponsored by Facebook Reality Lab and CMU SURG Grant for VR equipment. Facebook and SURG did not participate in the design and implementation of the study. 
+
+<div class="iframe-container"><iframe  src="https://www.youtube.com/embed/hTGAXOeDxpU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+
+## Main Takeaways 
+In this project, I had the honor to be the VR Team Lead coordinating the development of the VR software that we used for research. Here are some of my takeaways from this project. 
+
+### 1. Be Comfortable with Ambiguity
+
+Psychology research in VR is an emerging field. There weren't a lot of precedents we can refer to. Hence, we spent an entire semester pilot testing. We tried many different conditions using the original Beat Saber game and our paper prototypes to narrow down to the aforementioned four conditions. 
+
+When conducting research, feeling comfortable embracing ambiguity and uncertainty is an essential skill, especially in the field of VR, where few researchers have ever set foot on. 
+
+### 2. Visualize the Work In Progress
+
+Kanban board is a great tool to visualize the work in progress. Unlike a production line, where the bottleneck can be identified easily by seeing stuff piling up, a software engineering team's work in progress is not visible. However, it is critical for the leader in the team to understand the current state of the project and where the bottleneck is.
+
+Hence, by using Kanban to show the work in progress and deadlines, I had a complete understanding of where we were and where we were going. We were able to build and ship the game with all the core functionalities within one semester. 
+
+### 3. Use Spatial Audio to Make VR Immersive
+
+Having every sound coming from an actual source is one of the keys to an immersive experience in VR. In our FitSaber, the satisfying slicing sound will come from the location where the block is sliced. VR has the ability to make the players completely believe in the world they are in, and the lack of positional audio will ruin the experience. 
+
+## Under the Hood 
+
+In this project, we re-created a commercially available virtual reality game called Beat Saber. We did it in Unity from scratch. 
+
+In our recreation, it not only read the beat maps from normal beat saber game but also includes many features like: 
+
+1. tutorials for new players,
+2. practice trails to get players familiar with the game,
+3. Auditory and visual feedback to reinforce the player's behavior 
+4. Multiple songs for participants to play
+5. And a scoring system to let the participants know how they are doing. 
+
+In addition, we developed a GUI that is only visible to the researcher and not visible to the participants in VR. The researcher can use the UI to manipulate the slice direction for our research study. 
+
+The game also will automatically save data about the player's accuracy. This is much more efficient and less error-prone than manually enter data. 
+
+We use C# to create this game, GitHub for version control, and we deployed an agile method to conduct weekly sprints. And use kanban to track our progress across each sprint. 
+
+
+## Credits 
+
+Researchers: Kalpa Anjur, Adrian Mester, Sebastian Yang, Matthew Komar, Adrian Ma, George Whitfield Jr, Suanna Moron
+
+Mentors: Cassondra Eng, Dr. Anna Fisher, Dr. Erik Thiessen

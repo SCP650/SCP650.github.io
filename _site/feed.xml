@@ -1,51 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-20T10:05:17-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
-
-&lt;p&gt;How does it work?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;Create an activity and share it with your friends&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Tap ”Sync” if you are in the mood&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;If ONLY you tap, your friends would never know&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;But if your friends are also in the mood, they will also tap “Sync” on their phones&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Then both of you will be notified!&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Using our app, one party won’t feel discouraged if another party refuses. Because if one taps the “Sync” button, the other party won’t know it unless the other party also taps the button within the specified time-frame. You can even create as many syncs as you like for different purposes: “Friday Happy Hours”, ”Sex”, “Eat out tonight”, etc!&lt;/p&gt;
-
-&lt;p&gt;To download the full app &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot;&gt;Apple App Store&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-    &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-      
-        &lt;img src=&quot; /images/projects/anysync/appstore.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 id=&quot;developers-notes&quot;&gt;Developers Notes&lt;/h2&gt;
-&lt;p&gt;Built with Swift, Google Firebase, and ReactJS.&lt;/p&gt;
-
-&lt;p&gt;Developed in CMU TartanHack 2021 under 40 hours&lt;/p&gt;
-
-&lt;p&gt;App Developed by Karl Xiao, Kevin Wang, and Sebastian Yang&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.</summary></entry><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-21T14:26:34-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
 
 &lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
 
@@ -97,7 +50,120 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;Artlas uses Apple ARKit’s Geotracking feature. It uses your GPS coordinates and the image stream captured from your camera to understand where you are in the real world. Then it searches for nearby places of interest using MapKit and finds the nearest one in the direction you are pointing towards when you hit the button. Then it will generate a 3D text object using RealityKit and place it at the location of the building.&lt;/p&gt;
 
-&lt;p&gt;We value privacy so we do not store any user information. Everything is done locally using Apple’s native APIs.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="AR_VR" /><summary type="html">Point your camera to a building, and Artlas will put its name in front of it!</summary></entry><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
+&lt;p&gt;We value privacy so we do not store any user information. Everything is done locally using Apple’s native APIs.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="AR_VR" /><summary type="html">Point your camera to a building, and Artlas will put its name in front of it!</summary></entry><entry><title type="html">FitSaber VR</title><link href="http://localhost:4000/projects/2021/spring/FitSaber" rel="alternate" type="text/html" title="FitSaber VR" /><published>2021-05-19T20:40:23-04:00</published><updated>2021-05-19T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/FitSaber</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/FitSaber">&lt;p&gt;Promoting Cognitive Engagement and Physical Activity in Virtual Reality&lt;/p&gt;
+
+&lt;p&gt;As technology use grows at an exponential rate and sedentary behavior increases in the wake of the global pandemic, evidence-based practices promoting both physical activity and cognitive engagement are needed.&lt;/p&gt;
+
+&lt;p&gt;This project is the development of the research-based “making” portion of an experimental study to examine the effects on cognitive skills in 18- to 23- year-olds from varying virtual reality (VR) conditions. This study uses a between-subject design with participants recruited through the university Psychology Subject Pool.&lt;/p&gt;
+
+&lt;p&gt;The conditions are experimentally modified VR rhythm games. Participants are presented a stream of approaching directional blocks and respond by moving their arms left, right, up, down, or diagonal depending on the direction of an arrow on the target block using a corresponding saber. There will be meticulous manipulations to the amount of physical activity and cognitive demands for each condition. Participants will be randomly assigned to one of four conditions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Exercise (Standard) Condition: high physical activity + low cognitive demands;&lt;/li&gt;
+  &lt;li&gt;Combined (Standard + Rule Switch) Condition: high physical activity + high cognitive demands;&lt;/li&gt;
+  &lt;li&gt;Cognitive (Sedentary + Rule Switch) Condition: low physical activity + high cognitive demands;&lt;/li&gt;
+  &lt;li&gt;or Control (Sedentary Standard) Condition: low physical activity + low cognitive demands.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Participants in all conditions train for 45 minutes total (9 songs total) with 15 minutes of practice beforehand. Participants’ cognitive skills will be assessed at pretest and posttest before and after training using standard neurocognitive measures and questionnaires. This project shows the development of the conditions, game features, and outcome measures utilized to assess cognitive skills in young adults.&lt;/p&gt;
+
+&lt;p&gt;The official testing will start in the fall of 2021.&lt;/p&gt;
+
+&lt;p&gt;This project is sponsored by Facebook Reality Lab and CMU SURG Grant for VR equipment. Facebook and SURG did not participate in the design and implementation of the study.&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/hTGAXOeDxpU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;In this project, I had the honor to be the VR Team Lead coordinating the development of the VR software that we used for research. Here are some of my takeaways from this project.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-be-comfortable-with-ambiguity&quot;&gt;1. Be Comfortable with Ambiguity&lt;/h3&gt;
+
+&lt;p&gt;Psychology research in VR is an emerging field. There weren’t a lot of precedents we can refer to. Hence, we spent an entire semester pilot testing. We tried many different conditions using the original Beat Saber game and our paper prototypes to narrow down to the aforementioned four conditions.&lt;/p&gt;
+
+&lt;p&gt;When conducting research, feeling comfortable embracing ambiguity and uncertainty is an essential skill, especially in the field of VR, where few researchers have ever set foot on.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-visualize-the-work-in-progress&quot;&gt;2. Visualize the Work In Progress&lt;/h3&gt;
+
+&lt;p&gt;Kanban board is a great tool to visualize the work in progress. Unlike a production line, where the bottleneck can be identified easily by seeing stuff piling up, a software engineering team’s work in progress is not visible. However, it is critical for the leader in the team to understand the current state of the project and where the bottleneck is.&lt;/p&gt;
+
+&lt;p&gt;Hence, by using Kanban to show the work in progress and deadlines, I had a complete understanding of where we were and where we were going. We were able to build and ship the game with all the core functionalities within one semester.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-use-spatial-audio-to-make-vr-immersive&quot;&gt;3. Use Spatial Audio to Make VR Immersive&lt;/h3&gt;
+
+&lt;p&gt;Having every sound coming from an actual source is one of the keys to an immersive experience in VR. In our FitSaber, the satisfying slicing sound will come from the location where the block is sliced. VR has the ability to make the players completely believe in the world they are in, and the lack of positional audio will ruin the experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;In this project, we re-created a commercially available virtual reality game called Beat Saber. We did it in Unity from scratch.&lt;/p&gt;
+
+&lt;p&gt;In our recreation, it not only read the beat maps from normal beat saber game but also includes many features like:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;tutorials for new players,&lt;/li&gt;
+  &lt;li&gt;practice trails to get players familiar with the game,&lt;/li&gt;
+  &lt;li&gt;Auditory and visual feedback to reinforce the player’s behavior&lt;/li&gt;
+  &lt;li&gt;Multiple songs for participants to play&lt;/li&gt;
+  &lt;li&gt;And a scoring system to let the participants know how they are doing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In addition, we developed a GUI that is only visible to the researcher and not visible to the participants in VR. The researcher can use the UI to manipulate the slice direction for our research study.&lt;/p&gt;
+
+&lt;p&gt;The game also will automatically save data about the player’s accuracy. This is much more efficient and less error-prone than manually enter data.&lt;/p&gt;
+
+&lt;p&gt;We use C# to create this game, GitHub for version control, and we deployed an agile method to conduct weekly sprints. And use kanban to track our progress across each sprint.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Researchers: Kalpa Anjur, Adrian Mester, Sebastian Yang, Matthew Komar, Adrian Ma, George Whitfield Jr, Suanna Moron&lt;/p&gt;
+
+&lt;p&gt;Mentors: Cassondra Eng, Dr. Anna Fisher, Dr. Erik Thiessen&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Game_Development" /><category term="AR_VR" /><category term="Product_Project_Management" /><summary type="html">Promoting Cognitive Engagement and Physical Activity in Virtual Reality</summary></entry><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
+
+&lt;p&gt;How does it work?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Create an activity and share it with your friends&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tap ”Sync” if you are in the mood&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If ONLY you tap, your friends would never know&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;But if your friends are also in the mood, they will also tap “Sync” on their phones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Then both of you will be notified!&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Using our app, one party won’t feel discouraged if another party refuses. Because if one taps the “Sync” button, the other party won’t know it unless the other party also taps the button within the specified time-frame. You can even create as many syncs as you like for different purposes: “Friday Happy Hours”, ”Sex”, “Eat out tonight”, etc!&lt;/p&gt;
+
+&lt;p&gt;To download the full app &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot;&gt;Apple App Store&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://apps.apple.com/us/app/anysync/id1556964175&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/anysync/appstore.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;developers-notes&quot;&gt;Developers Notes&lt;/h2&gt;
+&lt;p&gt;Built with Swift, Google Firebase, and ReactJS.&lt;/p&gt;
+
+&lt;p&gt;Developed in CMU TartanHack 2021 under 40 hours&lt;/p&gt;
+
+&lt;p&gt;App Developed by Karl Xiao, Kevin Wang, and Sebastian Yang&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><summary type="html">Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.</summary></entry><entry><title type="html">The Legend of the White Snake</title><link href="http://localhost:4000/projects/2020/fall/WhiteSnake" rel="alternate" type="text/html" title="The Legend of the White Snake" /><published>2020-12-20T19:40:23-05:00</published><updated>2020-12-20T19:40:23-05:00</updated><id>http://localhost:4000/projects/2020/fall/WhiteSnake</id><content type="html" xml:base="http://localhost:4000/projects/2020/fall/WhiteSnake">&lt;p&gt;This is a retell of the Chinese traditional folklore &lt;a href=&quot;https://en.wikipedia.org/wiki/Legend_of_the_White_Snake&quot;&gt;The Legend of the White Snake&lt;/a&gt;. The game is developed for Tencent Institute of Games and is available for download at &lt;a href=&quot;https://apps.apple.com/us/app/%E7%99%BD%E8%9B%87-%E7%BA%B8%E4%BC%9E/id1535362205&quot;&gt;Apple App Store&lt;/a&gt; or by searching “白蛇·纸伞”.&lt;/p&gt;
 
 &lt;p&gt;This is one of the most challenging and exciting project I’ve worked on. I was the Product Manager/Programmer of the game and worked with 8 people across three different timezones to develop this game.&lt;/p&gt;
 
@@ -660,207 +726,4 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-&lt;p&gt;This is my first time working on a game as producer. It is really a learning experience for me. I am very grateful to have a supportive team. I’d really like to give a shout-out to our programmer Carter Williams, our writer Gus Saalfeld and our artiest Angelina Shi. This game would not be possible without their’s and all our teammates contribution.&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Game_Development" /><category term="All" /><category term="AR_VR" /><summary type="html">Published on Oct 29, 2019.</summary></entry><entry><title type="html">BigSkinny</title><link href="http://localhost:4000/projects/2019/spring/BigSkinny" rel="alternate" type="text/html" title="BigSkinny" /><published>2019-08-13T16:00:23-04:00</published><updated>2019-08-13T16:00:23-04:00</updated><id>http://localhost:4000/projects/2019/spring/BigSkinny</id><content type="html" xml:base="http://localhost:4000/projects/2019/spring/BigSkinny">&lt;p&gt;This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.&lt;/p&gt;
-
-&lt;p&gt;After two weeks of work, my team not only received an A for our deliverables, we also received the 2019 ISM Award for Best Case Analysis.&lt;/p&gt;
-
-&lt;p&gt;It is worth noting that we were not formally employed by Big Skinny. All the information about Big Skinny in this article are public knowledge available on the internet.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/Ad.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/Ad.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Big Skinny's Ad&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#background&quot; id=&quot;markdown-toc-background&quot;&gt;Background&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#problems&quot; id=&quot;markdown-toc-problems&quot;&gt;Problems&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#our-proposal&quot; id=&quot;markdown-toc-our-proposal&quot;&gt;Our Proposal&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#marketing&quot; id=&quot;markdown-toc-marketing&quot;&gt;Marketing&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#new-website&quot; id=&quot;markdown-toc-new-website&quot;&gt;New website&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#interactive-wallet-selection-guide&quot; id=&quot;markdown-toc-interactive-wallet-selection-guide&quot;&gt;Interactive Wallet Selection Guide&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#a-user-story&quot; id=&quot;markdown-toc-a-user-story&quot;&gt;A User Story&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#credits&quot; id=&quot;markdown-toc-credits&quot;&gt;Credits&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;background&quot;&gt;Background&lt;/h2&gt;
-
-&lt;p&gt;Big Skinny is an e-commerce wallet company that sells thin wallets. Because of the unique material it uses, the company can produce surprisingly thin and lightweight wallets that are also water resistant and can be machine washed.&lt;/p&gt;
-
-&lt;p&gt;This seems like a great product, but in reality, this company is facing plummeting sales and its yelp page is filled with negative one-star reviews.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/Bad_Reviews.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/Bad_Reviews.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, what went wrong?&lt;/p&gt;
-&lt;h2 id=&quot;problems&quot;&gt;Problems&lt;/h2&gt;
-&lt;p&gt;Upon reviewing the company, my team and I concluded three major problems.&lt;/p&gt;
-
-&lt;p&gt;The first one is its bad website design. It’s hard to navigate and includes too much text and options. You can expereince it first-hand &lt;a href=&quot;https://www.bigskinny.net&quot;&gt;here&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-    &lt;a href=&quot;https://www.bigskinny.net&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-      
-        &lt;img src=&quot; /images/projects/BigSkinny/index.jpeg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p class=&quot;text-center&quot;&gt;Home Page of Big Skinny&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;This is their front page when we took over. As you can see, different components were not aligned, tags and buttons are confusing (what does “CARD CASES + $ CLIPS” even means??). I hate to say this but the whole site left me with an impression of a high school project done at the last minute. Because of the bad user interface design, the conversion rate for somebody redirected to this website through online ads is guaranteed to be low.&lt;/p&gt;
-
-&lt;p&gt;The second problem is its lack of a target customer group. In its website, it tries to target men, women, travelers, police officers, teenagers, businessmen, and women, as well as random customer group with products like “Paper watch” and “Stainless Steel Mesh Wallet Comb” that doesn’t make any sense for a wallet company to sell.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/page.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/page.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;Big Skinny is the textbook classic company that tries to fit all markets. By providing more than 40+ Wallets for people to choose and tons of unnecessary accessories, the company try to please everyone and got no one in the end.&lt;/p&gt;
-
-&lt;p&gt;The third one is poor database management. In the yelp page, many people left a negative review because of an incident in 2010. In this incident, more than 4000 people ordered wallets through Big Skinny’s website. But because of a “glitch in an online promotion” as Big Skinny CEO Kiril Alexandrov put it, most of the wallets were given for free. Technical difficulties with promotion coupons appeared multiple times ever since, as can be seen in 2013 and 2017. This can be attributed to bad database structure and management.&lt;/p&gt;
-
-&lt;h2 id=&quot;our-proposal&quot;&gt;Our Proposal&lt;/h2&gt;
-
-&lt;p&gt;To improve Big Skinny’s sales, we first need to rebrand the company. Thus, we identified a target customer group: young travelers. This is because big skinny’s waterproof thin wallet fit the need of travelers and hikers. Then, we identified three major problems with its current website: lengthy words, disorganized layout, too many choices to narrow down to one product. And by deploying online marketing campaigns directly targeting young travelers and redesigning our website to provide a youth-centered user experience that can attract and assist young travelers in buying and selecting wallets. Finally, we come up with a new database relationship system that can hopefully avoid further coupon problems.&lt;/p&gt;
-&lt;h3 id=&quot;marketing&quot;&gt;Marketing&lt;/h3&gt;
-&lt;p&gt;To target young gen Z travelers, we initiated the “Built for the Courageous” online marketing campaign. As a part of this campaign, Big Skinny will need at least one person dedicated solely to consistently creating new content and synthesizing customer testimonials for future advertisements. Part of this campaign will include new media for all platforms, such as a Facebook video ad to target and draw in the young traveler demographic.&lt;/p&gt;
-
-&lt;h3 id=&quot;new-website&quot;&gt;New website&lt;/h3&gt;
-&lt;p&gt;After we allured customer with ads to our website, we need to provide an easy-to-use user experience. Thus, we first re-designed the website by organizing its information architecture in a clean and easy to follow manner. We designed a clear navigation bar and cut down words in the index page from 200 words to around 50 words while keeping essential information. By accompanied them with images, we can make them more readable for the customer.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/New_Index.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/New_Index.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-&lt;h3 id=&quot;interactive-wallet-selection-guide&quot;&gt;Interactive Wallet Selection Guide&lt;/h3&gt;
-&lt;p&gt;Moreover, to help customers narrow their choices from 40+ wallet designs to one wallet, we designed an interactive wallet selection guide.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/Selection_Guide.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/Selection_Guide.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;a-user-story&quot;&gt;A User Story&lt;/h2&gt;
-
-&lt;p&gt;Say Jack is a 20-year-old college graduate, While browsing Facebook one day, he saw a short video about this amazingly slim wallet. This video is actually a Facebook ad we bought in the online marketing campaign. By the end of the video, he saw a line says “Build for the courageous”. As a traveler, he was inspired to click the link to go to our website.&lt;/p&gt;
-
-&lt;p&gt;Upon visiting our website, the first thing he saw is this inspiring image and as he scrolled down he saw all the advantages of Big Skinny wallets. Just as he was about to buy one, he saw the wallet selection guide and clicked it. There, he can select his preferences and the site will provide recommendations.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/question.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/question.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;p&gt;“Wow, these recommendations seem great. let me check out this wallet”&lt;/p&gt;
-
-&lt;p&gt;In the product info page, we simplified all the product information. So, customers can learn more about the wallet quickly and place an order quickly.
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/BigSkinny/recommand.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/BigSkinny/recommand.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
-
-    &lt;/a&gt;
-    
-    &lt;br /&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;
-“This looks great. I will take it!”&lt;/p&gt;
-
-&lt;p&gt;This is the end of one transaction, but not the end of our relationship with this customer. Using our database system, a week after Jack bought the first wallet, we will recommend a second category of wallet, such as a leather wallet different from the one customer originally purchased, and advertise it in an email saying, “One for outdoors and one for indoors.”&lt;/p&gt;
-
-&lt;p&gt;In conclusion, by integrating market research, database design, and website design, this solution will emphasize Big Skinny’s strengths and improved customer experience.&lt;/p&gt;
-
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-
-&lt;p&gt;Throughout the two weeks of our term project, my role is sort of like the “product manger” in the team. I set up the overall goal and communicate with each individual about their design, provide them with feedback, make sure the production timeline is working and keep track of the scope of our term project.&lt;/p&gt;
-
-&lt;p&gt;Since the four of us cannot meet frequently, I coordinate the team to make sure we are all on the same page and the Executive summary, web prototype, ERD and our presentation are tightly integrated. On the other hand, my friend Christine, Megan and Jonathan are responsible for the actual work. Thank you for all the good work!&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Web_Design" /><category term="All" /><summary type="html">This is the term project for CMU 67-250: The Information Systems Milieux. In this TP, we were the consulting team SQL Injection and tasked to rebrand the slim wallet company Big Skinny by analyzing its current UX and marketing strategy. Throughout the process, we redesigned Big Skinny’s website, outlined a new database structure and write out a detailed case analysis.</summary></entry></feed>
+&lt;p&gt;This is my first time working on a game as producer. It is really a learning experience for me. I am very grateful to have a supportive team. I’d really like to give a shout-out to our programmer Carter Williams, our writer Gus Saalfeld and our artiest Angelina Shi. This game would not be possible without their’s and all our teammates contribution.&lt;/p&gt;</content><author><name></name></author><category term="Product_Project_Management" /><category term="Game_Development" /><category term="All" /><category term="AR_VR" /><summary type="html">Published on Oct 29, 2019.</summary></entry></feed>
