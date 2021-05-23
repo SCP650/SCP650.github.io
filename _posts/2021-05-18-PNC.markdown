@@ -1,0 +1,68 @@
+---
+title: PNC Card-Linked Offers
+title2: An Adaptive Recommendation Engine for Card-Linked Offers
+date: 2021-05-18 20:40:23 -0400 #date this page is written
+
+categories: projects 2021 spring #project folder, beginning year and season
+tags: All  Data_Analysis
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design Data_Analysis
+
+start-season: "2021 Spring"
+#this is a bad practice
+assetLoco: /images/projects/pnc
+coverPic: /icon.png
+carousel:
+  - image: /icon.png
+---
+
+In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.
+
+Card Linked Offers (CLOs) are a version of digital coupons that are shown to the customer whenever they open the PNC mobile app. Once the user “activates” the offer, it becomes linked to their credit/debit card. Then, when they purchase at the brand using the linked card, the discount is seamlessly applied.
+
+We have access to a huge amount of anonymized data. There are more than 300 million anonymized accounts in our dataset. We have access to the everyday transaction, offer served, offer activation, and offer redemption data of each account on any given day from 2017 to 2020. Not to mention the data about offers, such as merchant name, discount amount, and duration. 
+
+In the end, we were able to improve the recommendation accuracy by 12% to achieve a total average accuracy of 77%. We define accuracy as the percentage of users that redeemed our recommendation in the test period. 
+
+
+## Main Takeaways 
+I was the de facto leader in this project. It gave me a rare opportunity to work with massive real-world data. Here are some of my main takeaways.
+
+### 1. Think Declaratively in SQL
+
+A dataset with over 300 million users is not something easy to query. Hence, it is critical to think declaratively and not programmatically. 
+
+In our early code, we saved a list of customers and loop through the list doing a SQL call for each user. That's clear programmatical thinking. It took us 14 minutes to get information about 100 users. Later I improved the code by doing a single SQL call with a lot of `where`, `join`, and `having`. I was able to get 200K users' info in the same time frame. 
+
+### 2. Divide and Conquer
+
+A tool that applies in almost all disciplines and scenarios is breaking a big problem into multiple smaller ones in a mutually exclusive and collectively exhaustive way. 
+
+In this project, we were initially befuddled by the huge and messy dataset that contained 11 tables. When conducting EDA, we were not sure where to start. Hence, I break all EDA into three subcategories: user information, offer information, and user-offer interaction. This really helped the team move forwards.
+
+The same idea was also applied in the recommendation step. We broke the task into three steps: segment the customer, recommend merchant, then recommend offers within a merchant. This makes big problems more approachable, and the team gains more confidence every time a smaller problem is tackled. 
+
+### 3. Normalized the Tables 
+
+One major obstacle is that the database is not normalized. The data is formatted by weekly and monthly snapshots. This led to a lot of duplicates in the data with no clear way to uniquely identify each row. 
+
+Most datasets we work with at school are often BCNF or 3NF. But in the real world, many datasets are not even in 1NF. In the future, I will always normalize the database if possible so that the data scientists can have an easier time.
+
+
+## Under the Hood 
+
+To tackle the problem, we set up a three-step approach. First, we conducted an exploratory data analysis (EDA) to understand the huge dataset we were given. Then, we conducted a customer segmentation by their spending behavior with an unsupervised machine learning algorithm. In doing so, we separate the customers into different spending habit groups (e.g. stay at home parent vs traveling salesperson). Lastly, we build a recommendation engine for each customer group. We noticed many users tend to redeem the same offer multiple times, so the engine is made of two parts: a memorizer with decaying memory and a recommender for the new offers.
+
+For segmentation, we used the k-means algorithm in a 30-dimensional feature space, each dimension represents a customer's spending behavior in an industry. We used 20 thousand users' spending behavior in two months as a training set
+
+For recommendation, we used an item-to-item similarity collaborative filter. Essentially, it calculated the cosine similarity between offers based on redemption data alone. e.g. if customers A and B both redeemed at Shop 1 and Shop 2. Then our algorithm will think Shop 1 and 2 are similar since they are been patronized by the same group of people. In the future, if a customer C redeemed at Shop 1, our engine will recommend Shop 2 to C. 
+
+We sampled 20 thousand users who redeemed in June, July, and August. We use June and July data as training sets and August data as a test set. 
+
+## Credits
+
+Developers: Sebastian Yang, Elena Chen, Lijing Yao, Elena Gong, Carl Yang
+
+Mentors: Rebecca Nugent, Peter Freeman
+
+Carnegie Mellon Statistics & Data Science Department
+

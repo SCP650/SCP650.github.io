@@ -1,0 +1,300 @@
+<!doctype html>
+<html lang="en" class="full-height">
+
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158698724-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-158698724-1');
+  </script>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	   <meta name="keywords" content="Sebastian Yang, CMU, Yukai, 杨毓恺">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Material Design Bootstrap -->
+	<link href="/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/my.css">
+
+  
+  <title>PNC Card-Linked Offers | Sebastian Yang</title>
+  
+
+  </head>
+
+	<body>
+
+    
+<!--nav bar -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-darklight fixed-top scrolling-navbar">
+<div class="container">
+
+<a class="navbar-brand" href="/index"><img src="/images/static/seb.png" width="80" height="30"  class="d-inline-block align-top" alt="">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/index">Home</a>
+          </li>
+          <li class="nav-item ">
+              <a class="nav-link" href="/about">About me</a>
+          </li>
+          <li class="nav-item dropdown  active ">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Portfolio
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dumbSeb">Boring Stuff</a>
+                  <a class="dropdown-item" href="/smartSeb">Interesting Stuff</a>
+              </div>
+          </li>
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/contact ">Contact</a>
+          </li>
+          <li class="nav-item">
+              <!-- <a class="nav-link" href="https://yangyukai.com/projects/2021/spring/PNC">中文</a> -->
+              <a class="nav-link" href="sad.html">中文</a>
+          </li>
+
+      </ul>
+</div>
+</div>
+</nav>
+
+    
+    <div>
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+<!--Indicators-->
+
+<!--/.Indicators-->
+<!--Slides-->
+
+<div class="carousel-inner" role="listbox">
+  
+ <div class="carousel-item   active ">
+    <div class="view">
+      <img class="d-block w-100"  src="/images/projects/pnc//icon.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
+      <div class="mask rgba-black-light"></div>
+    </div>
+  </div>
+  
+</div>
+<!--/.Slides-->
+
+<!--Controls-->
+
+<!--/.Controls-->
+
+</div>
+<!--/.Carousel Wrapper-->
+</div>
+
+    
+
+    <body class="bg-lighter ">
+<h1 class="text-center  mt-4 scroUp"> An Adaptive Recommendation Engine for Card-Linked Offers </h1>
+
+<div class="mainText">
+<div class="container w-75 mb-4">
+<h3>Overview</h3>
+<p>2021 Spring </p>
+   <p>In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</p>
+
+<p>Card Linked Offers (CLOs) are a version of digital coupons that are shown to the customer whenever they open the PNC mobile app. Once the user “activates” the offer, it becomes linked to their credit/debit card. Then, when they purchase at the brand using the linked card, the discount is seamlessly applied.</p>
+
+<p>We have access to a huge amount of anonymized data. There are more than 300 million anonymized accounts in our dataset. We have access to the everyday transaction, offer served, offer activation, and offer redemption data of each account on any given day from 2017 to 2020. Not to mention the data about offers, such as merchant name, discount amount, and duration.</p>
+
+<p>In the end, we were able to improve the recommendation accuracy by 12% to achieve a total average accuracy of 77%. We define accuracy as the percentage of users that redeemed our recommendation in the test period.</p>
+
+<h2 id="main-takeaways">Main Takeaways</h2>
+<p>I was the de facto leader in this project. It gave me a rare opportunity to work with massive real-world data. Here are some of my main takeaways.</p>
+
+<h3 id="1-think-declaratively-in-sql">1. Think Declaratively in SQL</h3>
+
+<p>A dataset with over 300 million users is not something easy to query. Hence, it is critical to think declaratively and not programmatically.</p>
+
+<p>In our early code, we saved a list of customers and loop through the list doing a SQL call for each user. That’s clear programmatical thinking. It took us 14 minutes to get information about 100 users. Later I improved the code by doing a single SQL call with a lot of <code class="highlighter-rouge">where</code>, <code class="highlighter-rouge">join</code>, and <code class="highlighter-rouge">having</code>. I was able to get 200K users’ info in the same time frame.</p>
+
+<h3 id="2-divide-and-conquer">2. Divide and Conquer</h3>
+
+<p>A tool that applies in almost all disciplines and scenarios is breaking a big problem into multiple smaller ones in a mutually exclusive and collectively exhaustive way.</p>
+
+<p>In this project, we were initially befuddled by the huge and messy dataset that contained 11 tables. When conducting EDA, we were not sure where to start. Hence, I break all EDA into three subcategories: user information, offer information, and user-offer interaction. This really helped the team move forwards.</p>
+
+<p>The same idea was also applied in the recommendation step. We broke the task into three steps: segment the customer, recommend merchant, then recommend offers within a merchant. This makes big problems more approachable, and the team gains more confidence every time a smaller problem is tackled.</p>
+
+<h3 id="3-normalized-the-tables">3. Normalized the Tables</h3>
+
+<p>One major obstacle is that the database is not normalized. The data is formatted by weekly and monthly snapshots. This led to a lot of duplicates in the data with no clear way to uniquely identify each row.</p>
+
+<p>Most datasets we work with at school are often BCNF or 3NF. But in the real world, many datasets are not even in 1NF. In the future, I will always normalize the database if possible so that the data scientists can have an easier time.</p>
+
+<h2 id="under-the-hood">Under the Hood</h2>
+
+<p>To tackle the problem, we set up a three-step approach. First, we conducted an exploratory data analysis (EDA) to understand the huge dataset we were given. Then, we conducted a customer segmentation by their spending behavior with an unsupervised machine learning algorithm. In doing so, we separate the customers into different spending habit groups (e.g. stay at home parent vs traveling salesperson). Lastly, we build a recommendation engine for each customer group. We noticed many users tend to redeem the same offer multiple times, so the engine is made of two parts: a memorizer with decaying memory and a recommender for the new offers.</p>
+
+<p>For segmentation, we used the k-means algorithm in a 30-dimensional feature space, each dimension represents a customer’s spending behavior in an industry. We used 20 thousand users’ spending behavior in two months as a training set</p>
+
+<p>For recommendation, we used an item-to-item similarity collaborative filter. Essentially, it calculated the cosine similarity between offers based on redemption data alone. e.g. if customers A and B both redeemed at Shop 1 and Shop 2. Then our algorithm will think Shop 1 and 2 are similar since they are been patronized by the same group of people. In the future, if a customer C redeemed at Shop 1, our engine will recommend Shop 2 to C.</p>
+
+<p>We sampled 20 thousand users who redeemed in June, July, and August. We use June and July data as training sets and August data as a test set.</p>
+
+<h2 id="credits">Credits</h2>
+
+<p>Developers: Sebastian Yang, Elena Chen, Lijing Yao, Elena Gong, Carl Yang</p>
+
+<p>Mentors: Rebecca Nugent, Peter Freeman</p>
+
+<p>Carnegie Mellon Statistics &amp; Data Science Department</p>
+
+
+   
+</div>
+
+<div class="mx-auto pb-3 text-center" style="width: 200px;">
+<a href="/contact" target="_blank" class="btn btn-rounded btn-dark">
+              <i class="fas fa-home"></i> Contact Me
+           </a>
+</div>
+
+</div>
+</body>
+
+
+    <footer class="page-footer font-small bg-dark" style="overflow: hidden;">
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left">
+		<div class="row"><p>  </p></div>
+      <!-- Grid row -->
+      <div class="row mt-5">
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Content -->
+          <h6 class="text-uppercase font-weight-bold">Mailing Address</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">Carnegie Mellon University<br><br>
+			 5032 Forbes Avenue <br><br>
+			 SMC 1005                 <br><br>
+			 Pittsburgh, PA 15289<br>
+			 </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-3 col-xl-3 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Contact</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">
+	        杨毓恺<br>
+            Sebastian Yang
+          </p>
+          <p class="text-white">
+            Email: SebastianYang@outlook.com
+          </p>
+          <p class="text-white">
+            Linkedin: <br>
+            <a href="https://www.linkedin.com/in/sebastian-yang/" target="_blank"> Please introduce yourself with a custom note</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="/index">Home</a>
+          </p>
+          <p>
+            <a href="/about">About Me</a>
+          </p>
+          <p>
+            <a href="/smartSeb">Portfolio</a>
+          </p>
+          <p>
+            <a href="/contact">Contact</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Wechat 公众号</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"><br>
+          <a href="/images/static/qr.JPG" target="_blank"><img src="/images/static/qr.JPG" class="w-75"/></a>
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center mt-2 py-3">© 2019 Copyright:
+      <a href="/index"> Sebastian Yang</a>
+      <p class="text-white"> Yukai Presents</p>
+
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+
+  </body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="/js/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+	<script type="/text/javascript" src="js/mdb.min.js"></script>
+    <script src="/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/js/scrollreveal.js"></script>
+	<!-- <script src="/js/my.js"></script> -->
+	<script>
+		var slideUp = {
+	    distance: '150%',
+	    origin: 'bottom',
+	    opacity: null,
+	    duration: 700,
+		};
+		ScrollReveal().reveal('.scroUp',slideUp);
+	</script>
+
+
+
+
+</html>
