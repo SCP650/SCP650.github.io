@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-23T14:04:49-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-23T14:09:01-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
 
 &lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
 
@@ -182,8 +182,6 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;However, these were only the symptoms. We made a business flow chart and identified the root cause was the information architecture of the website: 1) Because the website is not organized, our client felt free to add more functionalities to the website, causing an overblown tech stack and the need to streamline. 2) Because the website is not organized, the users didn’t know how to navigate and find useful information.&lt;/p&gt;
 
-&lt;p&gt;This useability problem is further confirmed with qualitative data from Google Analytics, we see only 30% of the traffic were returning users and 80% of the traffic from Google bounced off after the landing page.&lt;/p&gt;
-
 &lt;p&gt;Our client would not have been in a better place if we simply follow their requests. Because we will only be treating the symptoms and not the root cause.&lt;/p&gt;
 
 &lt;h3 id=&quot;2-take-ownership-and-make-data-driven-decision&quot;&gt;2. Take Ownership and Make Data-Driven Decision&lt;/h3&gt;
@@ -198,7 +196,7 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;Once we identified the root cause, I came up with a wireframe that completely reorganized the entire website. It reduced the 7 tabs in the navigation bar to just 3 by consolidating and redesigning some pages. Even though all our teammates thought this was the right approach, our client was not thrilled.&lt;/p&gt;
 
-&lt;p&gt;We think this is mostly because we haven’t build up trust and rapport with the client yet. They are understandably skeptical of the big changes we propose, especially on a website that they’ve invested so much time and energy on.&lt;/p&gt;
+&lt;p&gt;We think this was mostly because we hadn’t build up trust with the client yet. They were understandably skeptical of the big changes we proposed, especially on a website that they’ve invested so much time and energy on.&lt;/p&gt;
 
 &lt;p&gt;Hence, we switched courses and started to work on smaller fixes and improvements first (even though we knew some fixes will be obsolete once we implement the redesign). This really helped us build trust. We gradually move to redesign a single page, and then multiple pages. In the last two weeks, we finally redesigned the landing page and the navigation bar.&lt;/p&gt;
 
