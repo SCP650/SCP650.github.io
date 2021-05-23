@@ -1,13 +1,13 @@
 ---
-title: FitSaber VR
+title: FitSaber VR Research
 date: 2021-05-19 20:40:23 -0400 #date this page is written
-
+role: VR Team Lead
 categories: projects 2021 spring #project folder, beginning year and season
 tags: All  Game_Development  AR_VR Product_Project_Management 
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Development Marketing Negotiation  Web_Design
 
-start-season: "2021 Spring"
-#this is a bad practice
+start-season: "2019 Fall"
+end-season: "Present"
 assetLoco: /images/projects/FitSaber
 coverPic: /icon.png
 carousel:

@@ -2,7 +2,7 @@
 title: PNC Card-Linked Offers
 title2: An Adaptive Recommendation Engine for Card-Linked Offers
 date: 2021-05-18 20:40:23 -0400 #date this page is written
-
+role: Data Analyst + Software Engineer
 categories: projects 2021 spring #project folder, beginning year and season
 tags: All  Data_Analysis
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design Data_Analysis

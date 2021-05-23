@@ -1,7 +1,7 @@
 ---
 title: AnySync iOS App
 date: 2021-03-12 20:40:23 -0400 #date this page is written
-
+role: iOS Developer
 categories: projects 2021 spring #project folder, beginning year and season
 tags: All  Software_Engineer
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design

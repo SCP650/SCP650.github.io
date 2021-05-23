@@ -1,7 +1,7 @@
 ---
 title: Artlas Mobile AR App
 date: 2021-05-20 20:40:23 -0400 #date this page is written
-
+role: iOS AR Developer
 categories: projects 2021 spring #project folder, beginning year and season
 tags: All  Software_Engineer AR_VR
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design

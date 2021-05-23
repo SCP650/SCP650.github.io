@@ -1,7 +1,7 @@
 ---
 title: The Legend of the White Snake
 date: 2020-12-20 20:40:23 -0400 #date this page is written
-
+role: Lead Producer
 categories: projects 2020 fall #project folder, beginning year and season
 tags: All Product_Project_Management Game_Development
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design

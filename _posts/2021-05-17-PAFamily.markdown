@@ -2,7 +2,7 @@
 title: Consulting for PAFA
 title2: Technical Consulting for PA Family Alliance
 date: 2021-05-17 20:40:23 -0400 #date this page is written
-role: Project Manager
+role: Product Manager
 categories: projects 2021 spring #project folder, beginning year and season
 tags: All  
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
@@ -27,7 +27,6 @@ To address these goals, we set out to redesign key parts of the Family Alliance'
 To evaluate our progress, we conducted two rounds of user testing on a total of 18 users, asking them to complete five critical tasks before and after the redesign. The result showed our redesign reduced the proportion of users that failed to find resources on the website from 66% to 0% and reduced the average time spent on doing these tasks taken by 68.2% and as much as two minutes.
 
 ## Main Takeaways 
-I was the project manager in this project. Here are some of my takeaways.
 
 ### 1. Don't Treat the Symptoms, Find the Root Cause 
 
