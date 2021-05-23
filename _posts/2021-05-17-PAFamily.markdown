@@ -1,0 +1,69 @@
+---
+title: Consulting for PAFA
+title2: Technical Consulting for PA Family Alliance
+date: 2021-05-17 20:40:23 -0400 #date this page is written
+role: Project Manager
+categories: projects 2021 spring #project folder, beginning year and season
+tags: All  
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2021 Spring"
+#this is a bad practice
+assetLoco: /images/projects/familyalliance
+coverPic: /icon.png
+carousel:
+  - image: /icon.png
+---
+ 
+
+In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website. 
+
+The Family Alliance is a federally funded non-profit organization that provides support for parents whose children are experiencing social, emotional, behavioral, or mental health challenges.
+
+Upon evaluating their website analytics, we identified a major retention problem. Hence, we identified two goals: retaining new users coming to the website for the first time and retaining existing users through the value of the membership experience. 
+
+To address these goals, we set out to redesign key parts of the Family Alliance's website, as well as streamlining the new user onboarding process, and improving returning user's membership experience.
+
+To evaluate our progress, we conducted two rounds of user testing on a total of 18 users, asking them to complete five critical tasks before and after the redesign. The result showed our redesign reduced the proportion of users that failed to find resources on the website from 66% to 0% and reduced the average time spent on doing these tasks taken by 68.2% and as much as two minutes.
+
+## Main Takeaways 
+I was the project manager in this project. Here are some of my takeaways.
+
+### 1. Don't Treat the Symptoms, Find the Root Cause 
+
+When the client came to us, they were using 30 different apps to maintain their business and experiencing engagement issues with their members. They wanted us to "streamline the business process" by finding cheaper integrated alternatives and develop a new membership webpage. 
+
+However, these were only the symptoms. We made a business flow chart and identified the root cause was the information architecture of the website: 1) Because the website is not organized, our client felt free to add more functionalities to the website, causing an overblown tech stack and the need to streamline. 2) Because the website is not organized, the users didn't know how to navigate and find useful information. 
+
+This useability problem is further confirmed with qualitative data from Google Analytics, we see only 30% of the traffic were returning users and 80% of the traffic from Google bounced off after the landing page. 
+
+Our client would not have been in a better place if we simply follow their requests. Because we will only be treating the symptoms and not the root cause. 
+
+### 2. Take Ownership and Make Data-Driven Decision 
+
+It's very easy to turn a technical consulting job into an outsourcing job. Simply do what the client told you to do, and both the client and you will be happy but the root cause is still there.
+
+Instead, I thought of myself as a product manager for the Family Alliance with the goal of improving the user experience and the usability of the website. 
+
+I used both qualitative data from user testing and quantitative data such as heatmap to inform the redesign of the website. Base on web traffic data, I was also able to propose a non-technical solution using Slack for membership engagement instead of a membership page. The client was thrilled to see our final deliverables and even offered us to work with them over the summer. None of these would be possible had I not taken ownership. 
+
+### 3. Don't Rush the Process: Build Trust Gradually
+
+Once we identified the root cause, I came up with a wireframe that completely reorganized the entire website. It reduced the 7 tabs in the navigation bar to just 3 by consolidating and redesigning some pages. Even though all our teammates thought this was the right approach, our client was not thrilled. 
+
+We think this is mostly because we haven't build up trust and rapport with the client yet. They are understandably skeptical of the big changes we propose, especially on a website that they've invested so much time and energy on. 
+
+Hence, we switched courses and started to work on smaller fixes and improvements first (even though we knew some fixes will be obsolete once we implement the redesign). This really helped us build trust. We gradually move to redesign a single page, and then multiple pages. In the last two weeks, we finally redesigned the landing page and the navigation bar. 
+
+Hence, when working in client-facing roles, it's important to understand the client's reluctance and gradually build trust to overcome it. 
+
+## Credits
+ 
+Student Consulting Team:
+
+Sebastian Yang served as the project manager. He is a third-year student majoring in Information Systems with a dual degree in Statistics & Machine Learning. He will be interning as a project manager at Blizzard over the summer.
+
+Jonathan Monroe acted as the client relationship manager. He is a senior majoring in Information Systems with an additional major in Philosophy. He will be starting in a full-time software engineering role at the end of the summer.
+
+David Cheung served as technical lead. He is a senior majoring in Information Systems and interned at Microsoft over the previous summer. He will be starting in a full-time position as a software developer in August.
+

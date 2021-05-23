@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-22T21:33:53-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-05-23T14:04:49-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T20:40:23-04:00</published><updated>2021-05-20T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
 
 &lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
 
@@ -163,7 +163,56 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;Mentors: Rebecca Nugent, Peter Freeman&lt;/p&gt;
 
-&lt;p&gt;Carnegie Mellon Statistics &amp;amp; Data Science Department&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</summary></entry><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
+&lt;p&gt;Carnegie Mellon Statistics &amp;amp; Data Science Department&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</summary></entry><entry><title type="html">Consulting for PAFA</title><link href="http://localhost:4000/projects/2021/spring/PAFamily" rel="alternate" type="text/html" title="Consulting for PAFA" /><published>2021-05-17T20:40:23-04:00</published><updated>2021-05-17T20:40:23-04:00</updated><id>http://localhost:4000/projects/2021/spring/PAFamily</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/PAFamily">&lt;p&gt;In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.&lt;/p&gt;
+
+&lt;p&gt;The Family Alliance is a federally funded non-profit organization that provides support for parents whose children are experiencing social, emotional, behavioral, or mental health challenges.&lt;/p&gt;
+
+&lt;p&gt;Upon evaluating their website analytics, we identified a major retention problem. Hence, we identified two goals: retaining new users coming to the website for the first time and retaining existing users through the value of the membership experience.&lt;/p&gt;
+
+&lt;p&gt;To address these goals, we set out to redesign key parts of the Family Alliance’s website, as well as streamlining the new user onboarding process, and improving returning user’s membership experience.&lt;/p&gt;
+
+&lt;p&gt;To evaluate our progress, we conducted two rounds of user testing on a total of 18 users, asking them to complete five critical tasks before and after the redesign. The result showed our redesign reduced the proportion of users that failed to find resources on the website from 66% to 0% and reduced the average time spent on doing these tasks taken by 68.2% and as much as two minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;I was the project manager in this project. Here are some of my takeaways.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-dont-treat-the-symptoms-find-the-root-cause&quot;&gt;1. Don’t Treat the Symptoms, Find the Root Cause&lt;/h3&gt;
+
+&lt;p&gt;When the client came to us, they were using 30 different apps to maintain their business and experiencing engagement issues with their members. They wanted us to “streamline the business process” by finding cheaper integrated alternatives and develop a new membership webpage.&lt;/p&gt;
+
+&lt;p&gt;However, these were only the symptoms. We made a business flow chart and identified the root cause was the information architecture of the website: 1) Because the website is not organized, our client felt free to add more functionalities to the website, causing an overblown tech stack and the need to streamline. 2) Because the website is not organized, the users didn’t know how to navigate and find useful information.&lt;/p&gt;
+
+&lt;p&gt;This useability problem is further confirmed with qualitative data from Google Analytics, we see only 30% of the traffic were returning users and 80% of the traffic from Google bounced off after the landing page.&lt;/p&gt;
+
+&lt;p&gt;Our client would not have been in a better place if we simply follow their requests. Because we will only be treating the symptoms and not the root cause.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-take-ownership-and-make-data-driven-decision&quot;&gt;2. Take Ownership and Make Data-Driven Decision&lt;/h3&gt;
+
+&lt;p&gt;It’s very easy to turn a technical consulting job into an outsourcing job. Simply do what the client told you to do, and both the client and you will be happy but the root cause is still there.&lt;/p&gt;
+
+&lt;p&gt;Instead, I thought of myself as a product manager for the Family Alliance with the goal of improving the user experience and the usability of the website.&lt;/p&gt;
+
+&lt;p&gt;I used both qualitative data from user testing and quantitative data such as heatmap to inform the redesign of the website. Base on web traffic data, I was also able to propose a non-technical solution using Slack for membership engagement instead of a membership page. The client was thrilled to see our final deliverables and even offered us to work with them over the summer. None of these would be possible had I not taken ownership.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-dont-rush-the-process-build-trust-gradually&quot;&gt;3. Don’t Rush the Process: Build Trust Gradually&lt;/h3&gt;
+
+&lt;p&gt;Once we identified the root cause, I came up with a wireframe that completely reorganized the entire website. It reduced the 7 tabs in the navigation bar to just 3 by consolidating and redesigning some pages. Even though all our teammates thought this was the right approach, our client was not thrilled.&lt;/p&gt;
+
+&lt;p&gt;We think this is mostly because we haven’t build up trust and rapport with the client yet. They are understandably skeptical of the big changes we propose, especially on a website that they’ve invested so much time and energy on.&lt;/p&gt;
+
+&lt;p&gt;Hence, we switched courses and started to work on smaller fixes and improvements first (even though we knew some fixes will be obsolete once we implement the redesign). This really helped us build trust. We gradually move to redesign a single page, and then multiple pages. In the last two weeks, we finally redesigned the landing page and the navigation bar.&lt;/p&gt;
+
+&lt;p&gt;Hence, when working in client-facing roles, it’s important to understand the client’s reluctance and gradually build trust to overcome it.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Student Consulting Team:&lt;/p&gt;
+
+&lt;p&gt;Sebastian Yang served as the project manager. He is a third-year student majoring in Information Systems with a dual degree in Statistics &amp;amp; Machine Learning. He will be interning as a project manager at Blizzard over the summer.&lt;/p&gt;
+
+&lt;p&gt;Jonathan Monroe acted as the client relationship manager. He is a senior majoring in Information Systems with an additional major in Philosophy. He will be starting in a full-time software engineering role at the end of the summer.&lt;/p&gt;
+
+&lt;p&gt;David Cheung served as technical lead. He is a senior majoring in Information Systems and interned at Microsoft over the previous summer. He will be starting in a full-time position as a software developer in August.&lt;/p&gt;</content><author><name></name></author><category term="All" /><summary type="html">In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.</summary></entry><entry><title type="html">AnySync iOS App</title><link href="http://localhost:4000/projects/2021/spring/AnySync" rel="alternate" type="text/html" title="AnySync iOS App" /><published>2021-03-12T19:40:23-05:00</published><updated>2021-03-12T19:40:23-05:00</updated><id>http://localhost:4000/projects/2021/spring/AnySync</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/AnySync">&lt;p&gt;Have you ever wanted to do something with friends, but feared that your friends may turn you down? Even if your friends said yes, have you ever worried that they might have been pressured to say yes? This situation can happen when inviting friends to play video games or even in a couples’ sex life. Our app achieves true consent where both parties spontaneously say yes, but at different times.&lt;/p&gt;
 
 &lt;p&gt;How does it work?&lt;/p&gt;
 
@@ -449,40 +498,4 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;I may also consider rebuilding the site again with &lt;a href=&quot;https://reactjs.org/&quot;&gt;React&lt;/a&gt;. This will allow me to make the site more interactive.&lt;/p&gt;
 
-&lt;p&gt;Earlier this year, I also added a new &lt;a href=&quot;/games.html&quot;&gt;Video Games&lt;/a&gt; section. But during my internship at Tencent Games and ByteDance Games, I played so many more games that I didn’t have time to update them all. I’m looking for a streamlined way to keep track of all the games I’ve played. I’m currently developing a full-stack website that will be my personal archive of games and books. The site should be able to export the database to a CSV file so that I can later do data analysis with R on the games I’ve played and books I’ve read.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><category term="Software_Engineer" /><summary type="html">This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.</summary></entry><entry><title type="html">Boogieman VR</title><link href="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR" rel="alternate" type="text/html" title="Boogieman VR" /><published>2019-09-22T20:40:23-04:00</published><updated>2019-09-22T20:40:23-04:00</updated><id>http://localhost:4000/projects/2019/fall/Boogieman-UnityVR</id><content type="html" xml:base="http://localhost:4000/projects/2019/fall/Boogieman-UnityVR">&lt;p&gt;This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.&lt;/p&gt;
-
-&lt;p&gt;In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game — as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, not only the person in VR is dancing, but the entire class spontaneously started dancing to the game.&lt;/p&gt;
-
-&lt;p&gt;In this 6-week project, I was the programmer in the team. We will go through 6 iterations for the game, developing a prototype for each week and presenting a demo on every Friday.&lt;/p&gt;
-
-&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/kXyuNnvKIBo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
-
-&lt;p&gt;This was a highly intense 6-week project. I learned a lot about developing in VR. Here are some of my main takeaways.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-never-seize-the-camera-in-vr&quot;&gt;1. Never Seize the Camera in VR&lt;/h3&gt;
-
-&lt;p&gt;Our game takes under the bed of a kid’s bedroom (the Bogeyman under the bed). In one of our iteration, we wanted to show the bedroom environment before going under the bed. So we added a “cut scene” where the camera will drop from above the bed to under the bed.&lt;/p&gt;
-
-&lt;p&gt;That…turned out to be a bad idea. Seizing the camera meant the play lost control of his or her own head. It’s disorienting and dizzy. Not to mention the drop in height.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-use-visual-cues-to-direct-the-players-view&quot;&gt;2. Use Visual Cues to Direct the Player’s view&lt;/h3&gt;
-
-&lt;p&gt;Because we cannot seize the camera and add cut scenes, this means a player can have total control over the camera movement. This is also where VR stands out from flat-screen media: VR invites the player to discover the environment in a self-paced way.&lt;/p&gt;
-
-&lt;p&gt;That also means the player may miss key animations and moments in the game. For example, in our early iterations, the dance floor is a square. We noticed many players missed the Boogieman entrance animation completely and are not sure where they should face. We later change the dance floor to a long strip to guide the player to look at the Boogieman.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-if-it-seems-interactive-it-needs-to-be&quot;&gt;3. If it seems interactive, it needs to be&lt;/h3&gt;
-
-&lt;p&gt;In this project, I saw many players feeling disappointed when they try to pick the toys in the environment up and failed. It made our game less immersive.&lt;/p&gt;
-
-&lt;p&gt;The magic of VR is the feeling of presence in a virtual world. Hence, users will naturally apply the rules of the real world to the virtual world. If something looks like it can be picked up, pressed, or thrown, it better should be or else it will ruin the immersive experience.&lt;/p&gt;
-
-&lt;p&gt;We didn’t have time to implement this in our 6-week production schedule but it’s a good takeaway to keep in mind.&lt;/p&gt;
-
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-&lt;p&gt;This game is made by (in alphabetical order): Ann Maria, Connie Chau, Kalpa Anjur, Lisa Lo, Carter Williams, and me.&lt;/p&gt;
-
-&lt;p&gt;Thank you all for making this amazing dancing game a reality!!!&lt;/p&gt;</content><author><name></name></author><category term="Game_Development" /><category term="All" /><category term="Highlights" /><category term="AR_VR" /><summary type="html">This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.</summary></entry></feed>
+&lt;p&gt;Earlier this year, I also added a new &lt;a href=&quot;/games.html&quot;&gt;Video Games&lt;/a&gt; section. But during my internship at Tencent Games and ByteDance Games, I played so many more games that I didn’t have time to update them all. I’m looking for a streamlined way to keep track of all the games I’ve played. I’m currently developing a full-stack website that will be my personal archive of games and books. The site should be able to export the database to a CSV file so that I can later do data analysis with R on the games I’ve played and books I’ve read.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Web_Design" /><category term="Software_Engineer" /><summary type="html">This website is entirely designed and developed by me, Sebastian Yang, with HTML, CSS, and JS. The site is populated with Jekyll and deployed on Github. It went through three iterations and it’s routinely updated. This post tells the story behind the website: what’s the purpose of this website, how it is developed, and my plans for it.</summary></entry></feed>
