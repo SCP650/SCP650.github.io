@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-02-05T20:18:15-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Lightly Heavy</title><link href="http://localhost:4000/projects/2022/spring/Heavy" rel="alternate" type="text/html" title="Lightly Heavy" /><published>2022-02-04T16:40:23-08:00</published><updated>2022-02-04T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Heavy</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Heavy">&lt;p&gt;Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.&lt;/p&gt;
+
+&lt;p&gt;This app is built in 36 hours independently by Sebastian Yang with original music composed by William Ozeas. It is developed for HoyaHack and won &lt;strong&gt;the U.S. Space Force Award&lt;/strong&gt;. You can download it and try it out &lt;a href=&quot;https://github.com/SCP650/LightlyHeavy-UnityVR/releases&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/VyIAN2M-e8o&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-lock-rotations-and-lower-the-speed&quot;&gt;1. Lock Rotations and Lower the Speed!&lt;/h3&gt;
+
+&lt;p&gt;I always thought continuous movement and jumping up and down in VR are the dizziest. I was wrong. When I first develop the movement mechanics, I didn’t lock rotation meaning if the player used the booster on their right hand, instead of going straight forward, they will start spinning like crazy while moving forward.&lt;/p&gt;
+
+&lt;p&gt;The first few seconds were fun - as the speed is still slow. But afterward, the dizziness became unbearable. The takeaway here is to lower the speed to avoid dizziness, especially for beginners.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-prioritize-before-acting&quot;&gt;2. Prioritize Before Acting&lt;/h3&gt;
+
+&lt;p&gt;There are two major components to this project: the tutorial area (spaceship) and the combat zone (giant sphere). Most developers will probably start with the combat zone since it’s the bulk of the game. However, I decided to start with the tutorial area.&lt;/p&gt;
+
+&lt;p&gt;This is because the combat zone is essentially the tutorial areas with procedural generation – both shared the same movement systems and enemies. If I don’t have time to develop a good pro-gen system, the player could still learn how to play the game and explore a single level - the spaceship. However, if I started with the combat zone and the pro-gen is not working, the player would not know what to do and killed by enemies instantly.&lt;/p&gt;
+
+&lt;p&gt;Even though I managed to finish the pro-gen systems, this prioritization could’ve saved my project.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-its-dangerous-to-go-alone&quot;&gt;3. It’s Dangerous to Go Alone!&lt;/h3&gt;
+
+&lt;p&gt;I intentionally made this a solo project because I want to test my ability. Even though I was happy with the result, it was not fun to do everything by myself. I would prefer the collaboration and delegation I did in &lt;a href=&quot;http://localhost:4000/projects/2021/fall/Haunted&quot;&gt;Haunted&lt;/a&gt;. If possible, don’t go alone!&lt;/p&gt;
+
+&lt;h2 id=&quot;some-thoughts&quot;&gt;Some Thoughts…&lt;/h2&gt;
+
+&lt;p&gt;If I could only choose one project to represent my entire college life, this will be the one.&lt;/p&gt;
+
+&lt;p&gt;I’m very proud of this project, especially with the execution. In 36 hours, I managed to develop a movement mechanic in zero-g, an extendable enemy class system, and a procedural generation system for levels. I also managed to design a tutorial area with 3D assets, a combat zone in Blender, and multiple GUI components. And everything was done in a virtual reality setting.&lt;/p&gt;
+
+&lt;p&gt;This was by no means a perfect execution – the enemy AI needs a lot more work and there’s a lack of more enemy and weapon types. But I’m very pleased with what I ended up with - a replayable space combat VR game that is actually fun to play.&lt;/p&gt;
+
+&lt;p&gt;Moreover, it also (kinda) fulfilled my childhood dream - going to space. The Ender’s Game is one of my favorite novel series and movies. Seeing the fight in a giant sphere in space really inspired and motivated me. (heck I even applied to many top aerospace engineering programs during college applications). This project intersects my high school passion in space with my college passion in the metaverse. So I’m really glad I got to do this.&lt;/p&gt;
+
+&lt;p&gt;Finally, this project is also a testament to my growth. When I first started three years ago, I would’ve never thought I can pull something like this off. During the past three years, I’ve tried a lot, failed a lot, learned a lot, and kept repeating. It is truly pleasing to see oneself grow.&lt;/p&gt;
+
+&lt;p&gt;Now that my college life is over, a new journey awaits.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;This is made independently by me with &lt;a href=&quot;https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913&quot;&gt;free 3D assets&lt;/a&gt; from Asset Store, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine with Oculus Link.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.</summary></entry><entry><title type="html">Game Creation Society</title><link href="http://localhost:4000/projects/2021/fall/GCS" rel="alternate" type="text/html" title="Game Creation Society" /><published>2022-01-23T16:40:23-08:00</published><updated>2022-01-23T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/GCS</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/GCS">&lt;p&gt;The Game Creation Society is a student-led game development club at Carnegie Mellon. I’m honored to be elected as President of the Game Creation Society in 2020. In the fall semester alone, we have 100+ active members making 9 games in parallel.&lt;/p&gt;
+
+&lt;p&gt;I joined this club in my freshman year not knowing anything about game development. But my time at GCS has been exceptional, I learned so much, made so many games, and met so many cool people. Here are some notable accomplishments we achieved during my time as President.&lt;/p&gt;
+
+&lt;h2 id=&quot;accomplishments&quot;&gt;Accomplishments&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Attendence&lt;/strong&gt;:We had a record turnout this year. At the start of the semester, we started with 250+ people attending our info session and booth showing interest to join and end up with 100+ people actually attending. By the end of the semester, we successfully released 8 games at Hunt Library.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;VR&lt;/strong&gt;: We purchased our first VR headset as a club and made two VR games in the semester after.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Unreal + Unity Stuco&lt;/strong&gt;: We offered the first Unreal Engine course at Carnegie Mellon and continued our existing Unity student-taught course.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Developer Fund&lt;/strong&gt;: We started a fund with a  few hundred dollars to support our developers&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GCS Library&lt;/strong&gt;: We started a collection of assets that can be shared with all our members.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Discord&lt;/strong&gt;: Our Discord server continues to grow, now we have almost 600 members on the server.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Industry Talks&lt;/strong&gt;: We continued to host great industry talks.
+    &lt;ul&gt;
+      &lt;li&gt;We hosted an info session with &lt;em&gt;Epic Games&lt;/em&gt; for internship opportunity&lt;/li&gt;
+      &lt;li&gt;We have &lt;em&gt;Rockstar Games&lt;/em&gt; gave the opening speech at our Pitch Fair.&lt;/li&gt;
+      &lt;li&gt;We also invited alumni to join us, including the Tech Lead at &lt;em&gt;Unity&lt;/em&gt;, the Manager of Production at &lt;em&gt;PlayStation Studios&lt;/em&gt;, and the Lead Character Artist at &lt;em&gt;Heart Machine&lt;/em&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Personally, during my three years at GCS, I’ve made six games including PC, Mobile and VR games.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://www.gamecreation.org&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/GCS/website.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Game Creation Society Website&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;to-gcs-members&quot;&gt;To GCS Members&lt;/h2&gt;
+
+&lt;p&gt;I’m very honored to lead the club in the past year. I want to thank all the execs, team leads, alumni, and most of all, our members for giving me such a great experience.  I’ve no doubt the incoming execs will lead the club to the next great chapter, especially with the help of each and every one of you!&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">The Game Creation Society is a student-led game development club at Carnegie Mellon. I’m honored to be elected as President of the Game Creation Society in 2020. In the fall semester alone, we have 100+ active members making 9 games in parallel.</summary></entry><entry><title type="html">Bat and Monitors</title><link href="http://localhost:4000/projects/2022/spring/Monitors" rel="alternate" type="text/html" title="Bat and Monitors" /><published>2022-01-22T16:40:23-08:00</published><updated>2022-01-22T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Monitors</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Monitors">&lt;p&gt;Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.&lt;/p&gt;
+
+&lt;p&gt;This app is built in 23 hours independently by Sebastian Yang for µHacks and it is the &lt;strong&gt;2nd place winner&lt;/strong&gt;. You can download it &lt;a href=&quot;https://github.com/SCP650/RageRoom-UnityVR/releases&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/lErdRuNXWKY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-a-well-scoped-project-is-very-important-for-hackathons&quot;&gt;1. A Well-Scoped project is Very Important for Hackathons.&lt;/h3&gt;
+
+&lt;p&gt;In my previous hackathons, my team and I always over-scope and end up staying up late or not finishing all we wanted to do. This time I pick a very small scope, I ended finished the majority of the content on Saturday morning and have an entire afternoon to play with procedural generation.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-cheat-the-eyes-with-sound-effects&quot;&gt;2. Cheat the Eyes with Sound Effects&lt;/h3&gt;
+
+&lt;p&gt;To properly shatter an object, I’ll have to use Bender to cut up the meshes and textures into smaller pieces. That’s a lot of work considering the number of objects I have. Luckily, I notice that people care more about the moment they hit the object than the actual shattered pieces of objects – especially the pieces that are smaller.&lt;/p&gt;
+
+&lt;p&gt;So I ended up using particle systems to “fake” shattering for smaller objects like cups and pen holders. Coupled with a satisfying sound effect, it managed to fool people into thinking they actually shattered it. But if they look closer, they will notice all the pieces are just cubes&lt;/p&gt;
+
+&lt;h3 id=&quot;3-always-back-up&quot;&gt;3. Always Back Up&lt;/h3&gt;
+
+&lt;p&gt;I tend to use GitHub to do version control, however, committing assets from the Unity Assets Store is against the guideline. So I have to gitignore all those assets to keep my Github repo public. During my development, I made a lot of extensions based on store assets – creating new prefabs, extending code, etc. I even edited some assets directly. However, these edits are not tracked by GitHub.&lt;/p&gt;
+
+&lt;p&gt;I ended up accidentally deleting all the store assets when merging branches and staring at an empty scene halfway through development – luckily I recovered everything from the recycling bin and I have intermediate builds I could always submit.&lt;/p&gt;
+
+&lt;p&gt;However, in the future, if I have to gitignore important assets. I should not only make intermediate builds but also make a local copy of the entire project at each milestone.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;This is made independently by me with Unity’s free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.</summary></entry><entry><title type="html">Haunted VR</title><link href="http://localhost:4000/projects/2021/fall/Haunted" rel="alternate" type="text/html" title="Haunted VR" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Haunted</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Haunted">&lt;p&gt;Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.&lt;/p&gt;
+
+&lt;p&gt;You woke up in a completely dark house with only a candle in your hand. If you wave your hand too fast, the candle goes out, and game over. The game is consists of six rooms, each room has a unique set of mechanics that will be randomly activated. You need to reclaim three memory shards that are randomly scattered in some of the six rooms.&lt;/p&gt;
+
+&lt;p&gt;The Haunted development team is the largest GCS team with 37 members working on it. My friend Woody McCoy co-lead the game with me. I’m very honored to be able to work with this awesome team of programmers, artiests, sound designers and writers in my last semester at CMU!&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/gQKX-AO6mgU&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;inspiration&quot;&gt;Inspiration&lt;/h2&gt;
+
+&lt;p&gt;When I was in high school I organized a 5-day summer camp. One of the events we came up with required one team to be the ghosts and the other to be the adventurer. The ghosts will have 10 mins to prep the classroom and find places to hide. The adventurers will each hold a stick with a golf ball on top. The ghosts will try to scare the adventurers when they are exporing the classroom. If the ghosts successfully scared the adventurers and the adventurers dropped the ball, adventurers lose.&lt;/p&gt;
+
+&lt;p&gt;This VR game was inspired by this experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;art&quot;&gt;Art&lt;/h2&gt;
+&lt;p&gt;The game needs to be realistic. But it’s unrealistic for us to create all the assets since we are all full-time students. Instead, we utilized assets store models for most of the interior (walls, floors, etc). We are fortunate to have 10+ artists on our team. So we retextured and created many 2D and 3D assets including painting, doors, dolls, sketches, spider webs, rats, etc. Our artists also designed the rooms and layout of the house.&lt;/p&gt;
+
+&lt;h2 id=&quot;story&quot;&gt;Story&lt;/h2&gt;
+&lt;p&gt;The game needs to have a deeper meaning than just being scary. So we managed to recruit a team of 4 writers to join our project. Each time the player picks up a memory shard, we will play a voice line that tells a story that happened in that room.&lt;/p&gt;
+
+&lt;p&gt;The gist of the story is you are a victorian doctor that just found a miracle drug - Mercury. By giving it to and curing many patients, you became famous. But over time you realized people are dying from the drug, yet you are drowning in fame and money you kept selling it. The gameplay is the process of the doctor realizing what he had done. The game has a dark ending: to end the game, the player has to pick up the “miracle drug” and drink it themselves.&lt;/p&gt;
+
+&lt;p&gt;This is one of the few GCS games that has a complete storyline. Our writers wrote and recorded all the voice lines in the game. Kudos to them!&lt;/p&gt;
+
+&lt;h2 id=&quot;programming&quot;&gt;Programming&lt;/h2&gt;
+&lt;p&gt;The game needs to be able to scale up easily: more rooms can be added easily, and each room can add more mechanics easily. To achieve this, the high-level architecture of our game looks like this: there are GameEvent objects that implement mechanics such as jump scare, skeleton follow you, etc. And are Room objects that decided which subsets of GameEvents will be enabled in this playthrough. And there is an Oastrator object that decided which subsets of rooms will have shard in this playthrough.&lt;/p&gt;
+
+&lt;h2 id=&quot;sound&quot;&gt;Sound&lt;/h2&gt;
+
+&lt;p&gt;To create the most immersive experience, we included much spatial audio and dynamic sound effects. One example is as the player wave the candle, they will hear random piano notes to indicate the fire is going down. As they wave faster, the piano notes will increase in speed and volume. There are also a lot of original sound effects thanks to our one and only William Ozeas.&lt;/p&gt;
+
+&lt;h2 id=&quot;production&quot;&gt;Production&lt;/h2&gt;
+&lt;p&gt;This is an overscored project with a huge team working on it. Thus, good project management is critical to the success of the game. I divided the projects into three phases. 
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Haunted/timeline.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Haunted/timeline.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;phase-1-invest-in-internal-tools---3-weeks&quot;&gt;Phase 1: Invest in Internal Tools - 3 Weeks&lt;/h3&gt;
+
+&lt;p&gt;I’ve allocated three weeks for the first phase. The goal of this sprint is to create a library of tools for future use so we divided folks into teams by disciplines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tech Team: develop extendable systems and modular reusable mechanics; beginners get familiar with Unity!&lt;/li&gt;
+  &lt;li&gt;Art Team: make a demo room playable in VR&lt;/li&gt;
+  &lt;li&gt;Story Team: main storyline, mini-stories, and settings&lt;/li&gt;
+  &lt;li&gt;Audio Team: sample music and sound effects!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By the end of Phase 1, we finished the first room in the game - the Fourier. We showcased this room in the Game Creation Society Alpha.&lt;/p&gt;
+
+&lt;h3 id=&quot;phase-2-room-development---4-weeks&quot;&gt;Phase 2: Room Development - 4 Weeks&lt;/h3&gt;
+
+&lt;p&gt;In the second phase, we dive into developing the remaining rooms. I divided the teams into three “Room Teams” each team responsible for making a room (including art, programming, and story) in two weeks. The idea is people can use the mechanics developed in the previous sprint to make the rooms quickly.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Goal: 3 Teams, 2 Sprints, 6 Room&lt;/li&gt;
+  &lt;li&gt;Each team has 2-3 Programmer + 1 Artist + 1 Writer + 1 Musician&lt;/li&gt;
+  &lt;li&gt;Each team is responsible for a room every two week&lt;/li&gt;
+  &lt;li&gt;4th week will be used for integration&lt;/li&gt;
+  &lt;li&gt;Game should be playable and complete&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;By the end of Phase 2, we had 4 playable rooms (Library, Study, Kitchen, and Fourier). My original goal is to finish the game by the end of the second phase. However, I also understand that was a reach so I left plenty of time in phase 3 to polish the game.&lt;/p&gt;
+
+&lt;h3 id=&quot;phase-3-polish-debug-network---5-weeks&quot;&gt;Phase 3: Polish, Debug, Network - 5 Weeks&lt;/h3&gt;
+
+&lt;p&gt;In the last phase, we spend the majority of the time polishing levels and making up some unfinished work from the previous sprint (bedroom and bathroom). Unfortunately but also expectedly, we have to ax the networking feature that allows one player to be the ghost to scare the other player.&lt;/p&gt;
+
+&lt;p&gt;We wrapped up our game by the end of phase 3 and showcased our game at the GCS Release event.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;The game is made with Unity 3.17 LTS with Github as version control. It is developed with and for Oculus Quest 2.&lt;/p&gt;
+
+&lt;h2 id=&quot;future-plans&quot;&gt;Future Plans&lt;/h2&gt;
+
+&lt;p&gt;If time permits, we wanted to add multiplayer networking into the game. One player will be a “ghost” and can toggle between being invisible and not while the other player is exploring the room finding memory shards. We also would like the game to be more interactive by making most if not all the small objects in the game grabble and throwable. 
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/Haunted/team.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/Haunted/team.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Highlights" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.</summary></entry><entry><title type="html">Phight COVID</title><link href="http://localhost:4000/projects/2021/fall/Phight" rel="alternate" type="text/html" title="Phight COVID" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Phight</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Phight">&lt;p&gt;On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both &lt;a href=&quot;https://www.post-gazette.com/news/health/2021/12/12/Covid-mask-mandates-Pitt-CMU-research-delta/stories/202112080149&quot;&gt;Pittsburgh Post Gazette&lt;/a&gt; and &lt;a href=&quot;https://www.npr.org/sections/health-shots/2021/12/16/1064668750/state-mask-mandates-omicron&quot;&gt;NPR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h2&gt;
+&lt;p&gt;We explore a variety of research question, each about the effectiveness of mask mandates at the state-level in the United States.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How varied was mask mandate policy at the state-level?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How long does it take after a mask mandate intervention to see an impact on COVID cases?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does effectiveness of mask mandates vary by season?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mask Mandates in the Delta Wave&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Were mask mandates in the Delta Wave effective?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How does vaccination rate interact with mask mandate effectiveness?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;full-interactive-report&quot;&gt;Full Interactive Report&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.stat.cmu.edu/capstoneresearch/490files/poster6.html&quot;&gt;linkt to report&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4pJAN3VpOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-coorelation--causation&quot;&gt;1. Coorelation != Causation&lt;/h3&gt;
+
+&lt;p&gt;This may seem very obvious. However, the reality is we only have observational data but we want to draw a causal conclusion. What we end up doing is trying to account for confounding factors. One example is the graph my colleague Jimmy made where he compare the effectiveness of masks between states with similar vaccine rates. Even though we couldn’t account for every possible confound factor, we try to address the major and impactful ones.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-interactive-graphs-is-a-saver&quot;&gt;2. Interactive Graphs is a Saver&lt;/h3&gt;
+
+&lt;p&gt;Graphs are good ways to visualize data but if it contains too much information then it becomes overwhelming. Interactive graphs are a balance between the two – it allows the readers to easily get the gist but also open to inspect individual data points in depth.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-data-reports-are-subject-to-manipulation&quot;&gt;3. Data Reports are Subject to Manipulation&lt;/h3&gt;
+
+&lt;p&gt;In our research, we try out best to maintain objectivity. However, we can clearly see that it’s very easy for the researcher to manipulate the analysis so that they can see the results they want: e.g. using different success criteria, comparator, or calculation methods. In an academic research paper, this may be very apparent, but in a corporate setting where the people only skim the conclusion and the graph, it leaves a lot of room for manipulation. Hence, it’s advisable for PMs to understand how the data analysis is conducted to ensure it’s not intentionally or accidentally manipulated.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;We utilized R with various packages including tidyverse, ggplot2, and plotly.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both Pittsburgh Post Gazette and NPR.</summary></entry><entry><title type="html">Vinder</title><link href="http://localhost:4000/projects/2021/fall/Vinder" rel="alternate" type="text/html" title="Vinder" /><published>2021-10-04T17:40:23-07:00</published><updated>2021-10-04T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/fall/Vinder</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Vinder">&lt;p&gt;Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.&lt;/p&gt;
+
+&lt;p&gt;Why not have your first date in a safe and goofy environment, like in virtual reality? Our app Vinder envisions how dating will look like in the Metaverse. It’s a standalone app built for Oculus Quest. Using Vinder you can not only get matches but also have your first date in a fun interactive VR environment!&lt;/p&gt;
+
+&lt;p&gt;This app is built in 24 hours independently by Sebastian Yang and Arshin Jain for HackCMU. It was the winner of the &lt;strong&gt;Facebook Metaverse Award&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Sorry for the poor video quality — when we finished editing it and we only have like 10 mins before the deadline and we never got a chance to edit it.)&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/sAMN1Jqq2WM&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;This app is made in Unity with Oculus Quest 2. It uses Photon server to facilitate live virtual meetings between matches. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.</summary></entry><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T17:40:23-07:00</published><updated>2021-05-20T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
+
+&lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
+
+&lt;p&gt;This app is currently available only in parts of certain cities. When the time is right, head out and see if it works in your area!&lt;/p&gt;
+
+&lt;p&gt;This app is developed by Sebastian Yang for fun.
+Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
+
+&lt;p&gt;To download the full app: &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot;&gt;Apple App Store&lt;/a&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+    &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+      
+        &lt;img src=&quot; /images/projects/Artlas/screenshot.png&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Available on App Store&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;This is my first AR app. I learned a lot of cool technical stuff using ARkit, but here are some of my main takeaways that might be helpful to anyone developing AR apps.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-user-guidance-and-showing-actionable-steps-in-ar-are-critical&quot;&gt;1. User Guidance and Showing Actionable Steps in AR are Critical&lt;/h3&gt;
+
+&lt;p&gt;Most apps only need to guide the user once at the beginning and most actionable steps are implicit and self-explanatory: you see the Wifi bar goes down, you will move closer to the WIFI.&lt;/p&gt;
+
+&lt;p&gt;But not in AR. In AR, we have to constantly guide and inform the user about the current state of the app such as tracking availability, accuracy, and actionable steps to improve it. In AR Geotracking, we also need to tell the user why the app fail to localize the user and how to solve it (trees blocking the view? Move too fast? No buildings in view? etc). A case in point is, in Artlas, if the user looks down, the app will explicitly prompt the user to look up.&lt;/p&gt;
+
+&lt;p&gt;These guidances are critical to ensure a smooth user experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-universal-icons-in-ar-is-an-area-for-exploration&quot;&gt;2. Universal Icons in AR is an Area for Exploration&lt;/h3&gt;
+
+&lt;p&gt;In the future, hopefully, there will be universal icons in AR, similar to the WiFi and battery icons, that represent different states and implicitly tells the user what to do, especially for common information like the tracking accuracy and actions like move the camera to scan the environment. If so, we won’t have to put an overlay text over the camera view every time we want to guide the user.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-be-thorough-in-reasons-for-using-sensitive-information&quot;&gt;3. Be Thorough in Reasons for Using Sensitive Information&lt;/h3&gt;
+
+&lt;p&gt;The first version of Artlas was actually rejected because when explaining the reasons for using the user location, I only mentioned I use it for finding nearby buildings but forgot to mention it is also being used for ARkit’s Geotracking.&lt;/p&gt;
+
+&lt;p&gt;Hence, being explicit and thorough in reasons for using sensitive information, is beneficial for both the user’s understanding and the developer’s shipping schedule.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;Artlas uses Apple ARKit’s Geotracking feature. It uses your GPS coordinates and the image stream captured from your camera to understand where you are in the real world. Then it searches for nearby places of interest using MapKit and finds the nearest one in the direction you are pointing towards when you hit the button. Then it will generate a 3D text object using RealityKit and place it at the location of the building.&lt;/p&gt;
+
+&lt;p&gt;We value privacy so we do not store any user information. Everything is done locally using Apple’s native APIs.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="AR_VR" /><summary type="html">Point your camera to a building, and Artlas will put its name in front of it!</summary></entry><entry><title type="html">FitSaber VR Research</title><link href="http://localhost:4000/projects/2021/spring/FitSaber" rel="alternate" type="text/html" title="FitSaber VR Research" /><published>2021-05-19T17:40:23-07:00</published><updated>2021-05-19T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/FitSaber</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/FitSaber">&lt;p&gt;Promoting Cognitive Engagement and Physical Activity in Virtual Reality&lt;/p&gt;
+
+&lt;p&gt;As technology use grows at an exponential rate and sedentary behavior increases in the wake of the global pandemic, evidence-based practices promoting both physical activity and cognitive engagement are needed.&lt;/p&gt;
+
+&lt;p&gt;This project is the development of the research-based “making” portion of an experimental study to examine the effects on cognitive skills in 18- to 23- year-olds from varying virtual reality (VR) conditions. This study uses a between-subject design with participants recruited through the university Psychology Subject Pool.&lt;/p&gt;
+
+&lt;p&gt;The conditions are experimentally modified VR rhythm games. Participants are presented a stream of approaching directional blocks and respond by moving their arms left, right, up, down, or diagonal depending on the direction of an arrow on the target block using a corresponding saber. There will be meticulous manipulations to the amount of physical activity and cognitive demands for each condition. Participants will be randomly assigned to one of four conditions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Exercise (Standard) Condition: high physical activity + low cognitive demands;&lt;/li&gt;
+  &lt;li&gt;Combined (Standard + Rule Switch) Condition: high physical activity + high cognitive demands;&lt;/li&gt;
+  &lt;li&gt;Cognitive (Sedentary + Rule Switch) Condition: low physical activity + high cognitive demands;&lt;/li&gt;
+  &lt;li&gt;or Control (Sedentary Standard) Condition: low physical activity + low cognitive demands.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Participants in all conditions train for 45 minutes total (9 songs total) with 15 minutes of practice beforehand. Participants’ cognitive skills will be assessed at pretest and posttest before and after training using standard neurocognitive measures and questionnaires. This project shows the development of the conditions, game features, and outcome measures utilized to assess cognitive skills in young adults.&lt;/p&gt;
+
+&lt;p&gt;The official testing will start in the fall of 2021.&lt;/p&gt;
+
+&lt;p&gt;This project is sponsored by Facebook Reality Lab and CMU SURG Grant for VR equipment. Facebook and SURG did not participate in the design and implementation of the study.&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/hTGAXOeDxpU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;In this project, I had the honor to be the VR Team Lead coordinating the development of the VR software that we used for research. Here are some of my takeaways from this project.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-be-comfortable-with-ambiguity&quot;&gt;1. Be Comfortable with Ambiguity&lt;/h3&gt;
+
+&lt;p&gt;Psychology research in VR is an emerging field. There weren’t a lot of precedents we can refer to. Hence, we spent an entire semester pilot testing. We tried many different conditions using the original Beat Saber game and our paper prototypes to narrow down to the aforementioned four conditions.&lt;/p&gt;
+
+&lt;p&gt;When conducting research, feeling comfortable embracing ambiguity and uncertainty is an essential skill, especially in the field of VR, where few researchers have ever set foot on.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-visualize-the-work-in-progress&quot;&gt;2. Visualize the Work In Progress&lt;/h3&gt;
+
+&lt;p&gt;Kanban board is a great tool to visualize the work in progress. Unlike a production line, where the bottleneck can be identified easily by seeing stuff piling up, a software engineering team’s work in progress is not visible. However, it is critical for the leader in the team to understand the current state of the project and where the bottleneck is.&lt;/p&gt;
+
+&lt;p&gt;Hence, by using Kanban to show the work in progress and deadlines, I had a complete understanding of where we were and where we were going. We were able to build and ship the game with all the core functionalities within one semester.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-use-spatial-audio-to-make-vr-immersive&quot;&gt;3. Use Spatial Audio to Make VR Immersive&lt;/h3&gt;
+
+&lt;p&gt;Having every sound coming from an actual source is one of the keys to an immersive experience in VR. In our FitSaber, the satisfying slicing sound will come from the location where the block is sliced. VR has the ability to make the players completely believe in the world they are in, and the lack of positional audio will ruin the experience.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;In this project, we re-created a commercially available virtual reality game called Beat Saber. We did it in Unity from scratch.&lt;/p&gt;
+
+&lt;p&gt;In our recreation, it not only read the beat maps from normal beat saber game but also includes many features like:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;tutorials for new players,&lt;/li&gt;
+  &lt;li&gt;practice trails to get players familiar with the game,&lt;/li&gt;
+  &lt;li&gt;Auditory and visual feedback to reinforce the player’s behavior&lt;/li&gt;
+  &lt;li&gt;Multiple songs for participants to play&lt;/li&gt;
+  &lt;li&gt;And a scoring system to let the participants know how they are doing.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;In addition, we developed a GUI that is only visible to the researcher and not visible to the participants in VR. The researcher can use the UI to manipulate the slice direction for our research study.&lt;/p&gt;
+
+&lt;p&gt;The game also will automatically save data about the player’s accuracy. This is much more efficient and less error-prone than manually enter data.&lt;/p&gt;
+
+&lt;p&gt;We use C# to create this game, GitHub for version control, and we deployed an agile method to conduct weekly sprints. And use kanban to track our progress across each sprint.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Researchers: Kalpa Anjur, Adrian Mester, Sebastian Yang, Matthew Komar, Adrian Ma, George Whitfield Jr, Suanna Moron&lt;/p&gt;
+
+&lt;p&gt;Mentors: Cassondra Eng, Dr. Anna Fisher, Dr. Erik Thiessen&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Game_Development" /><category term="AR_VR" /><category term="Product_Project_Management" /><summary type="html">Promoting Cognitive Engagement and Physical Activity in Virtual Reality</summary></entry><entry><title type="html">PNC Card-Linked Offers</title><link href="http://localhost:4000/projects/2021/spring/PNC" rel="alternate" type="text/html" title="PNC Card-Linked Offers" /><published>2021-05-18T17:40:23-07:00</published><updated>2021-05-18T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/PNC</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/PNC">&lt;p&gt;In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.&lt;/p&gt;
+
+&lt;p&gt;Card Linked Offers (CLOs) are a version of digital coupons that are shown to the customer whenever they open the PNC mobile app. Once the user “activates” the offer, it becomes linked to their credit/debit card. Then, when they purchase at the brand using the linked card, the discount is seamlessly applied.&lt;/p&gt;
+
+&lt;p&gt;We have access to a huge amount of anonymized data. There are more than 300 million anonymized accounts in our dataset. We have access to the everyday transaction, offer served, offer activation, and offer redemption data of each account on any given day from 2017 to 2020. Not to mention the data about offers, such as merchant name, discount amount, and duration.&lt;/p&gt;
+
+&lt;p&gt;In the end, we were able to improve the recommendation accuracy by 12% to achieve a total average accuracy of 77%. We define accuracy as the percentage of users that redeemed our recommendation in the test period.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+&lt;p&gt;I was the de facto leader in this project. It gave me a rare opportunity to work with massive real-world data. Here are some of my main takeaways.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-think-declaratively-in-sql&quot;&gt;1. Think Declaratively in SQL&lt;/h3&gt;
+
+&lt;p&gt;A dataset with over 300 million users is not something easy to query. Hence, it is critical to think declaratively and not programmatically.&lt;/p&gt;
+
+&lt;p&gt;In our early code, we saved a list of customers and loop through the list doing a SQL call for each user. That’s clear programmatical thinking. It took us 14 minutes to get information about 100 users. Later I improved the code by doing a single SQL call with a lot of &lt;code class=&quot;highlighter-rouge&quot;&gt;where&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;join&lt;/code&gt;, and &lt;code class=&quot;highlighter-rouge&quot;&gt;having&lt;/code&gt;. I was able to get 200K users’ info in the same time frame.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-divide-and-conquer&quot;&gt;2. Divide and Conquer&lt;/h3&gt;
+
+&lt;p&gt;A tool that applies in almost all disciplines and scenarios is breaking a big problem into multiple smaller ones in a mutually exclusive and collectively exhaustive way.&lt;/p&gt;
+
+&lt;p&gt;In this project, we were initially befuddled by the huge and messy dataset that contained 11 tables. When conducting EDA, we were not sure where to start. Hence, I break all EDA into three subcategories: user information, offer information, and user-offer interaction. This really helped the team move forwards.&lt;/p&gt;
+
+&lt;p&gt;The same idea was also applied in the recommendation step. We broke the task into three steps: segment the customer, recommend merchant, then recommend offers within a merchant. This makes big problems more approachable, and the team gains more confidence every time a smaller problem is tackled.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-normalized-the-tables&quot;&gt;3. Normalized the Tables&lt;/h3&gt;
+
+&lt;p&gt;One major obstacle is that the database is not normalized. The data is formatted by weekly and monthly snapshots. This led to a lot of duplicates in the data with no clear way to uniquely identify each row.&lt;/p&gt;
+
+&lt;p&gt;Most datasets we work with at school are often BCNF or 3NF. But in the real world, many datasets are not even in 1NF. In the future, I will always normalize the database if possible so that the data scientists can have an easier time.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;To tackle the problem, we set up a three-step approach. First, we conducted an exploratory data analysis (EDA) to understand the huge dataset we were given. Then, we conducted a customer segmentation by their spending behavior with an unsupervised machine learning algorithm. In doing so, we separate the customers into different spending habit groups (e.g. stay at home parent vs traveling salesperson). Lastly, we build a recommendation engine for each customer group. We noticed many users tend to redeem the same offer multiple times, so the engine is made of two parts: a memorizer with decaying memory and a recommender for the new offers.&lt;/p&gt;
+
+&lt;p&gt;For segmentation, we used the k-means algorithm in a 30-dimensional feature space, each dimension represents a customer’s spending behavior in an industry. We used 20 thousand users’ spending behavior in two months as a training set&lt;/p&gt;
+
+&lt;p&gt;For recommendation, we used an item-to-item similarity collaborative filter. Essentially, it calculated the cosine similarity between offers based on redemption data alone. e.g. if customers A and B both redeemed at Shop 1 and Shop 2. Then our algorithm will think Shop 1 and 2 are similar since they are been patronized by the same group of people. In the future, if a customer C redeemed at Shop 1, our engine will recommend Shop 2 to C.&lt;/p&gt;
+
+&lt;p&gt;We sampled 20 thousand users who redeemed in June, July, and August. We use June and July data as training sets and August data as a test set.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Developers: Sebastian Yang, Elena Chen, Lijing Yao, Elena Gong, Carl Yang&lt;/p&gt;
+
+&lt;p&gt;Mentors: Rebecca Nugent, Peter Freeman&lt;/p&gt;
+
+&lt;p&gt;Carnegie Mellon Statistics &amp;amp; Data Science Department&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</summary></entry><entry><title type="html">Consulting for PAFA</title><link href="http://localhost:4000/projects/2021/spring/PAFamily" rel="alternate" type="text/html" title="Consulting for PAFA" /><published>2021-05-17T17:40:23-07:00</published><updated>2021-05-17T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/PAFamily</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/PAFamily">&lt;p&gt;In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.&lt;/p&gt;
+
+&lt;p&gt;The Family Alliance is a federally funded non-profit organization that provides support for parents whose children are experiencing social, emotional, behavioral, or mental health challenges.&lt;/p&gt;
+
+&lt;p&gt;Upon evaluating their website analytics, we identified a major retention problem. Hence, we identified two goals: retaining new users coming to the website for the first time and retaining existing users through the value of the membership experience.&lt;/p&gt;
+
+&lt;p&gt;To address these goals, we set out to redesign key parts of the Family Alliance’s website, as well as streamlining the new user onboarding process, and improving returning user’s membership experience.&lt;/p&gt;
+
+&lt;p&gt;To evaluate our progress, we conducted two rounds of user testing on a total of 18 users, asking them to complete five critical tasks before and after the redesign. The result showed our redesign reduced the proportion of users that failed to find resources on the website from 66% to 0% and reduced the average time spent on doing these tasks taken by 68.2% and as much as two minutes.&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-dont-treat-the-symptoms-find-the-root-cause&quot;&gt;1. Don’t Treat the Symptoms, Find the Root Cause&lt;/h3&gt;
+
+&lt;p&gt;When the client came to us, they were using 30 different apps to maintain their business and experiencing engagement issues with their members. They wanted us to “streamline the business process” by finding cheaper integrated alternatives and develop a new membership webpage.&lt;/p&gt;
+
+&lt;p&gt;However, these were only the symptoms. We made a business flow chart and identified the root cause was the information architecture of the website: 1) Because the website is not organized, our client felt free to add more functionalities to the website, causing an overblown tech stack and the need to streamline. 2) Because the website is not organized, the users didn’t know how to navigate and find useful information.&lt;/p&gt;
+
+&lt;p&gt;Our client would not have been in a better place if we simply follow their requests. Because we will only be treating the symptoms and not the root cause.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-take-ownership-and-make-data-driven-decision&quot;&gt;2. Take Ownership and Make Data-Driven Decision&lt;/h3&gt;
+
+&lt;p&gt;It’s very easy to turn a technical consulting job into an outsourcing job. Simply do what the client told you to do, and both the client and you will be happy but the root cause is still there.&lt;/p&gt;
+
+&lt;p&gt;Instead, I thought of myself as a product manager for the Family Alliance with the goal of improving the user experience and the usability of the website.&lt;/p&gt;
+
+&lt;p&gt;I used both qualitative data from user testing and quantitative data such as heatmap to inform the redesign of the website. Base on web traffic data, I was also able to propose a non-technical solution using Slack for membership engagement instead of a membership page. The client was thrilled to see our final deliverables and even offered us to work with them over the summer. None of these would be possible had I not taken ownership.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-dont-rush-the-process-build-trust-gradually&quot;&gt;3. Don’t Rush the Process: Build Trust Gradually&lt;/h3&gt;
+
+&lt;p&gt;Once we identified the root cause, I came up with a wireframe that completely reorganized the entire website. It reduced the 7 tabs in the navigation bar to just 3 by consolidating and redesigning some pages. Even though all our teammates thought this was the right approach, our client was not thrilled.&lt;/p&gt;
+
+&lt;p&gt;We think this was mostly because we hadn’t build up trust with the client yet. They were understandably skeptical of the big changes we proposed, especially on a website that they’ve invested so much time and energy on.&lt;/p&gt;
+
+&lt;p&gt;Hence, we switched courses and started to work on smaller fixes and improvements first (even though we knew some fixes will be obsolete once we implement the redesign). This really helped us build trust. We gradually move to redesign a single page, and then multiple pages. In the last two weeks, we finally redesigned the landing page and the navigation bar.&lt;/p&gt;
+
+&lt;p&gt;Hence, when working in client-facing roles, it’s important to understand the client’s reluctance and gradually build trust to overcome it.&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
+
+&lt;p&gt;Student Consulting Team:&lt;/p&gt;
+
+&lt;p&gt;Sebastian Yang served as the project manager. He is a third-year student majoring in Information Systems with a dual degree in Statistics &amp;amp; Machine Learning. He will be interning as a project manager at Blizzard over the summer.&lt;/p&gt;
+
+&lt;p&gt;Jonathan Monroe acted as the client relationship manager. He is a senior majoring in Information Systems with an additional major in Philosophy. He will be starting in a full-time software engineering role at the end of the summer.&lt;/p&gt;
+
+&lt;p&gt;David Cheung served as technical lead. He is a senior majoring in Information Systems and interned at Microsoft over the previous summer. He will be starting in a full-time position as a software developer in August.&lt;/p&gt;</content><author><name></name></author><category term="All" /><summary type="html">In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.</summary></entry></feed>

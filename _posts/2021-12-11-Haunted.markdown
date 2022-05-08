@@ -1,0 +1,96 @@
+---
+title: Haunted VR
+date: 2021-12-11 20:40:23 -0400 #date this page is written
+role: Lead Producer
+categories: projects 2021 fall #project folder, beginning year and season
+tags: All  AR_VR  Software_Engineer Highlights Game_Development Product_Project_Management
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2021 Fall"
+#this is a bad practice
+assetLoco: /images/projects/Haunted
+coverPic: /kidneys_a.png
+carousel:
+  - image: /kidneys.png
+  - image: /liver.png
+  - image: /stomach.png
+  - image: /kitchen.png
+  - image: /fourier.png
+  - image: /library.png
+---
+
+Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared. 
+
+You woke up in a completely dark house with only a candle in your hand. If you wave your hand too fast, the candle goes out, and game over. The game is consists of six rooms, each room has a unique set of mechanics that will be randomly activated. You need to reclaim three memory shards that are randomly scattered in some of the six rooms.  
+
+The Haunted development team is the largest GCS team with 37 members working on it. My friend Woody McCoy co-lead the game with me. I'm very honored to be able to work with this awesome team of programmers, artiests, sound designers and writers in my last semester at CMU!
+
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/gQKX-AO6mgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## Inspiration
+
+When I was in high school I organized a 5-day summer camp. One of the events we came up with required one team to be the ghosts and the other to be the adventurer. The ghosts will have 10 mins to prep the classroom and find places to hide. The adventurers will each hold a stick with a golf ball on top. The ghosts will try to scare the adventurers when they are exporing the classroom. If the ghosts successfully scared the adventurers and the adventurers dropped the ball, adventurers lose. 
+
+This VR game was inspired by this experience. 
+
+
+## Art
+The game needs to be realistic. But it's unrealistic for us to create all the assets since we are all full-time students. Instead, we utilized assets store models for most of the interior (walls, floors, etc). We are fortunate to have 10+ artists on our team. So we retextured and created many 2D and 3D assets including painting, doors, dolls, sketches, spider webs, rats, etc. Our artists also designed the rooms and layout of the house. 
+
+## Story
+The game needs to have a deeper meaning than just being scary. So we managed to recruit a team of 4 writers to join our project. Each time the player picks up a memory shard, we will play a voice line that tells a story that happened in that room. 
+
+The gist of the story is you are a victorian doctor that just found a miracle drug - Mercury. By giving it to and curing many patients, you became famous. But over time you realized people are dying from the drug, yet you are drowning in fame and money you kept selling it. The gameplay is the process of the doctor realizing what he had done. The game has a dark ending: to end the game, the player has to pick up the "miracle drug" and drink it themselves. 
+
+This is one of the few GCS games that has a complete storyline. Our writers wrote and recorded all the voice lines in the game. Kudos to them! 
+
+## Programming 
+The game needs to be able to scale up easily: more rooms can be added easily, and each room can add more mechanics easily. To achieve this, the high-level architecture of our game looks like this: there are GameEvent objects that implement mechanics such as jump scare, skeleton follow you, etc. And are Room objects that decided which subsets of GameEvents will be enabled in this playthrough. And there is an Oastrator object that decided which subsets of rooms will have shard in this playthrough. 
+
+## Sound
+
+To create the most immersive experience, we included much spatial audio and dynamic sound effects. One example is as the player wave the candle, they will hear random piano notes to indicate the fire is going down. As they wave faster, the piano notes will increase in speed and volume. There are also a lot of original sound effects thanks to our one and only William Ozeas. 
+
+## Production 
+This is an overscored project with a huge team working on it. Thus, good project management is critical to the success of the game. I divided the projects into three phases. 
+{% include image.html img="timeline.png"%}<br>
+
+### Phase 1: Invest in Internal Tools - 3 Weeks
+
+I've allocated three weeks for the first phase. The goal of this sprint is to create a library of tools for future use so we divided folks into teams by disciplines:
+
+- Tech Team: develop extendable systems and modular reusable mechanics; beginners get familiar with Unity!
+- Art Team: make a demo room playable in VR
+- Story Team: main storyline, mini-stories, and settings
+- Audio Team: sample music and sound effects! 
+
+By the end of Phase 1, we finished the first room in the game - the Fourier. We showcased this room in the Game Creation Society Alpha. 
+
+### Phase 2: Room Development - 4 Weeks 
+
+In the second phase, we dive into developing the remaining rooms. I divided the teams into three "Room Teams" each team responsible for making a room (including art, programming, and story) in two weeks. The idea is people can use the mechanics developed in the previous sprint to make the rooms quickly. 
+
+- Goal: 3 Teams, 2 Sprints, 6 Room 
+- Each team has 2-3 Programmer + 1 Artist + 1 Writer + 1 Musician 
+- Each team is responsible for a room every two week 
+- 4th week will be used for integration
+- Game should be playable and complete 
+
+By the end of Phase 2, we had 4 playable rooms (Library, Study, Kitchen, and Fourier). My original goal is to finish the game by the end of the second phase. However, I also understand that was a reach so I left plenty of time in phase 3 to polish the game. 
+
+### Phase 3: Polish, Debug, Network - 5 Weeks
+
+In the last phase, we spend the majority of the time polishing levels and making up some unfinished work from the previous sprint (bedroom and bathroom). Unfortunately but also expectedly, we have to ax the networking feature that allows one player to be the ghost to scare the other player.
+
+We wrapped up our game by the end of phase 3 and showcased our game at the GCS Release event. 
+
+
+## Under the Hood 
+ 
+The game is made with Unity 3.17 LTS with Github as version control. It is developed with and for Oculus Quest 2. 
+
+## Future Plans
+
+If time permits, we wanted to add multiplayer networking into the game. One player will be a "ghost" and can toggle between being invisible and not while the other player is exploring the room finding memory shards. We also would like the game to be more interactive by making most if not all the small objects in the game grabble and throwable. 
+{% include image.html img="team.png"%}<br>

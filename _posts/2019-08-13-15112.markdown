@@ -1,0 +1,76 @@
+---
+title:  "15112"
+title2: 15112 Crazy Tanks
+date:   2019-08-13 14:41:23 -0400 #date this page is written
+
+categories: projects 2018 fall #project folder, beginning year and season
+tags: Game_Development All
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Development Marketing Negotiation Video_Editing Web_Design
+
+start-season: "2018 Fall"
+
+assetLoco: /images/projects/15112
+coverPic: /Cover.png
+carousel:
+  - image: /Cover.png
+  - image: /Start_Screen.png
+
+
+---
+This project is dedicated to Scott Chen For being my “sametable” in high school
+
+This is the term project for CMU 15-112: Fundamentals of Programming and Computer Science. This is the first video game I ever developed. It is programmed in Python with pygame package and is a recreation of the flash game Tank Trouble. I chose to recreate Tank Trouble because I used to play this game a lot with my friends in high school.
+
+This page serves as a breakdown of the game so future 15112 students can refer to without going over the boring codes I wrote.
+
+You can see a 3 mins snapshot of the game here:
+<div class="iframe-container"> <iframe width="866" height="487" src="https://www.youtube.com/embed/qkijJCenGDE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## Table of Contents
+{:.no_toc}
+
+* Table of Contents
+{:toc}
+
+## Overall Structure
+
+This game has 7 different scenes: StartScreen, SinglePlayerMode, TwoPlayerMode, ThreePlayerMode, InstructionsScreen, RankScreen, and EasterMode.
+
+Because pygame doesn’t support scenes switching like the ones in Unity, I wrote some scene switching codes that basically calls to different redrawAll or timerFired when in a different mode. I think this method is covered in class as well so I will not elaborate further here. You can learn more here:[ Mode Demo ](http://www.krivers.net/15112-s18/notes/notes-animations-demos.html)
+{% include image.html img="Mode_Demo.png" caption="Mode Demo" %}
+
+## Multiplayer Mode
+
+Local two-player multiplayer mode is the MVP for this game. The tricky part is how to check collision between tanks and the map as well as bullets and the map. The map is generated as a png image with walls as black pixels and passage as transparent background (zero alpha channel). The tank is just a sprite image of a cartoon tank.
+{% include image.html img="Two_Player_Mode.png" caption="Two Player Mode"%}
+
+Many friends of mine, who are in spring 2019 112 class, try to use ``
+pygame.sprite.collide(self,map)``
+in their games. This may not work because sprite.collide treats the map as a sprite aka as a whole image. Since the map is below your game object (tanks in my case), your game object will always collide with the map.
+
+Instead, there is a neat function called ``pygame.sprite.collide_mask(self,map)``. This would work properly because this function creates a “mask” for the map. Namely, it creates a new “image” with the pixels that are of non-zero alpha channels only. Hence, in my case, only the black walls will be considered for collision, but the transparent passage will not.
+
+Another thing you might want to look out for in MVP is the frame rate. In my first prototype, the bullets speed per second is faster than the frame rate per second. Due to high speed, it can move to pass the width of the wall before the next collision check. Hence, the bouncy wall effect I wanted cannot be achieved. At first, I thought this was a programming problem, so I kept trying to tweak the collision method. So just beware that frame rate can mess with your collision test.
+{% include image.html img="Three_Player_Mode.png" caption="Three Player Mode" %}
+
+I finished one tank without AI in the first iteration. After finishing the two-player mode in the second iteration, I added a three-player mode in the third iteration. The third player will use a mouse to navigate and right click to shoot bullets. This is not very hard to implement once you got all the base code ready.
+
+## Game AI Mode
+
+Oh boy, this is the hardest part of the game. I need to program an AI tank that can navigate, shoot and avoid bullets. Theoretically, if I have the map stored in a 2D list, I can just use a backtrack function and update AI’s path periodically. The algorithms would not be very hard to write. The problem, though, is that I did not store the map in a 2D list.
+{% include image.html img="AI_Mode.png" caption="AI Mode"%}
+In order to simplify my MVP, I initially used a photoshopped image of the map. During my second iteration, I cannot think of an efficient way to generate a map using backtracking. This is because I need to avoid close containment of any size so that the tanks will not be trapped in one area.
+
+In order to keep the project moving, I chose to avoid this path. In my second iteration, I simply make the AI tank simple turn right every time it hits a wall. This will make the AI tank appears to be moving around. As you may have guessed, the downside is the tank sometimes will be trap in a circle.
+
+In my third iteration, I write a “ray casting” function. Basically, I will send out 8 different bullets to 8 direction periodically. These bullets will not be drawn. This ray cast can let the tank know which direction has more space and which direction is a dead end. The tank can then make a decision about turning base on this information.
+{% include image.html img="Ray_Casting.png" caption="Ray Casting"%}
+
+After fine-tuning for a long time, the game AI works pretty well. I feel like you can always try to come up with creative ways to implement game AI.
+## Easter Mode
+
+In the fourth iteration, I added some powerups that change tank size and speed, a ranking screen that stores past scores locally, as well as an Easter mode. You can trigger the Easter mode by messing around in the starter screen. Feel free to play around and try to break the game  :)
+
+## Areas for Improvement
+
+If I have more time, I would try to come up with a map generation algorithm. This will enable the game to have random maps and the game AI can also be more interesting. It would also be fun to add a mode where two AI tanks fight each other.

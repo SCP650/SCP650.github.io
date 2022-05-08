@@ -1,0 +1,42 @@
+---
+title: Game Creation Society
+date: 2022-01-23 20:40:23 -0400 #date this page is written
+role: President
+categories: projects 2021 fall #project folder, beginning year and season
+tags: All  Software_Engineer Game_Development Product_Project_Management
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2019 Spring"
+end-season: "2021 Winter"
+
+#this is a bad practice
+assetLoco: /images/projects/GCS
+coverPic:  /ScopeCreepIdle2.gif
+carousel:
+  - image: /group.jpg
+---
+
+The Game Creation Society is a student-led game development club at Carnegie Mellon. I'm honored to be elected as President of the Game Creation Society in 2020. In the fall semester alone, we have 100+ active members making 9 games in parallel. 
+
+I joined this club in my freshman year not knowing anything about game development. But my time at GCS has been exceptional, I learned so much, made so many games, and met so many cool people. Here are some notable accomplishments we achieved during my time as President. 
+
+
+## Accomplishments
+- **Attendence**:We had a record turnout this year. At the start of the semester, we started with 250+ people attending our info session and booth showing interest to join and end up with 100+ people actually attending. By the end of the semester, we successfully released 8 games at Hunt Library. 
+- **VR**: We purchased our first VR headset as a club and made two VR games in the semester after. 
+- **Unreal + Unity Stuco**: We offered the first Unreal Engine course at Carnegie Mellon and continued our existing Unity student-taught course. 
+- **Developer Fund**: We started a fund with a  few hundred dollars to support our developers
+- **GCS Library**: We started a collection of assets that can be shared with all our members.
+- **Discord**: Our Discord server continues to grow, now we have almost 600 members on the server. 
+- **Industry Talks**: We continued to host great industry talks. 
+  - We hosted an info session with *Epic Games* for internship opportunity 
+  - We have *Rockstar Games* gave the opening speech at our Pitch Fair.
+  - We also invited alumni to join us, including the Tech Lead at *Unity*, the Manager of Production at *PlayStation Studios*, and the Lead Character Artist at *Heart Machine*.
+- Personally, during my three years at GCS, I've made six games including PC, Mobile and VR games.
+
+ 
+{% include image.html img="website.png"  url = "https://www.gamecreation.org" caption="Game Creation Society Website"%}
+
+## To GCS Members
+
+I'm very honored to lead the club in the past year. I want to thank all the execs, team leads, alumni, and most of all, our members for giving me such a great experience.  I've no doubt the incoming execs will lead the club to the next great chapter, especially with the help of each and every one of you! 

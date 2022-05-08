@@ -1,0 +1,38 @@
+---
+title: What2Yum Mobile App
+date: 2020-12-15 20:40:23 -0400 #date this page is written
+role: iOS Developer
+categories: projects 2020 fall #project folder, beginning year and season
+tags: All Software_Engineer Highlights
+#tags options: Highlight Event_Planning Entrepreneurship Product/Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2020 Fall"
+#this is a bad practice
+assetLoco: /images/projects/what2yum
+coverPic: /icon.jpeg
+carousel:
+  - image: /icon.jpeg
+---
+
+Ever take hours, days, or even weeks to decide what to eat with your friends or significant other? No more back and forth texting or indecisiveness — What2Yum can help you and your friends make a decision within minutes.
+
+What2Yum allows you to swipe yes or no on a set of restaurant cards. You can send a link to your group chat. After your friends finish swiping. We will combine your preferences with your friends to help you guys make the final decision.
+
+Try it now!
+
+To download the full app [Apple App Store](https://apps.apple.com/us/app/what2yum/id1540868286)
+{% include image.html img="appstore.png"  url = "https://apps.apple.com/us/app/what2yum/id1540868286" caption="Available on App Store"%}
+
+## Developers Notes
+
+This app is developed by Eileen Chen, Kevin Wang, and Sebastian Yang. We used SwiftUI for frontend and Google Firebase for backend. 
+
+In this project, we went through 7 iterations and we did detailed documentation.
+
+- [Sprint 1: Ideation](/images/projects/what2yum/Sprint1.pdf)
+- [Sprint 2: User experience](/images/projects/what2yum/Sprint2.pdf)
+- [Sprint 3: API & Prototyping](/images/projects/what2yum/Sprint3.pdf)
+- [Sprint 4: Version 1 of the app](/images/projects/what2yum/Sprint4.pdf)
+- [Sprint 5: User testing of app](/images/projects/what2yum/Sprint5.pdf)
+- [Sprint 6: User testing of app](/images/projects/what2yum/Sprint6.pdf)
+- [Sprint 7: Ship!](https://apps.apple.com/us/app/what2yum/id1540868286)

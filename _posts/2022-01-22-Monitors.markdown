@@ -1,0 +1,51 @@
+---
+title: Bat and Monitors
+date: 2022-01-22 20:40:23 -0400 #date this page is written
+role: VR Developer 
+categories: projects 2022 spring #project folder, beginning year and season
+tags: All  AR_VR  Software_Engineer Game_Development
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2022 Spring"
+#this is a bad practice
+assetLoco: /images/projects/bat
+coverPic: /icon.png
+carousel:
+  - image: /game0.png
+  - image: /game1.png
+  - image: /game2.png
+  - image: /game3.png
+---
+
+Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors. 
+
+This app is built in 23 hours independently by Sebastian Yang for µHacks and it is the **2nd place winner**. You can download it [here](https://github.com/SCP650/RageRoom-UnityVR/releases)
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/lErdRuNXWKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## Main Takeaways 
+
+
+### 1. A Well-Scoped project is Very Important for Hackathons.
+
+In my previous hackathons, my team and I always over-scope and end up staying up late or not finishing all we wanted to do. This time I pick a very small scope, I ended finished the majority of the content on Saturday morning and have an entire afternoon to play with procedural generation.
+
+### 2. Cheat the Eyes with Sound Effects
+
+To properly shatter an object, I'll have to use Bender to cut up the meshes and textures into smaller pieces. That's a lot of work considering the number of objects I have. Luckily, I notice that people care more about the moment they hit the object than the actual shattered pieces of objects -- especially the pieces that are smaller. 
+
+So I ended up using particle systems to "fake" shattering for smaller objects like cups and pen holders. Coupled with a satisfying sound effect, it managed to fool people into thinking they actually shattered it. But if they look closer, they will notice all the pieces are just cubes
+
+### 3. Always Back Up
+
+I tend to use GitHub to do version control, however, committing assets from the Unity Assets Store is against the guideline. So I have to gitignore all those assets to keep my Github repo public. During my development, I made a lot of extensions based on store assets -- creating new prefabs, extending code, etc. I even edited some assets directly. However, these edits are not tracked by GitHub. 
+
+I ended up accidentally deleting all the store assets when merging branches and staring at an empty scene halfway through development -- luckily I recovered everything from the recycling bin and I have intermediate builds I could always submit. 
+
+However, in the future, if I have to gitignore important assets. I should not only make intermediate builds but also make a local copy of the entire project at each milestone. 
+
+
+## Under the Hood 
+ 
+This is made independently by me with Unity's free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.
+

@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en" class="full-height">
+
+  <head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-158698724-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-158698724-1');
+  </script>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+	   <meta name="keywords" content="Sebastian Yang, CMU, Yukai, 杨毓恺">
+     <meta name="description" content="A hub for all the cool projects I've worked on" />
+     <meta name="title" property="og:title" content="Sebastian's Website" />
+     <meta property="og:type" content="Website" />
+     <meta name="image" property="og:image" content="https://raw.githubusercontent.com/SCP650/SCP650.github.io/master/images/static/worldSpace.png" />
+     <meta name="description" property="og:description" content="A hub for all the cool projects I've worked on" />
+     <meta name="author" content="Sebastian Yang" />
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Material Design Bootstrap -->
+	<link href="/css/mdb.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/css/my.css">
+
+  
+  <title>Boogieman VR | Sebastian Yang</title>
+  
+
+  </head>
+
+	<body>
+
+    
+<!--nav bar -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-darklight fixed-top scrolling-navbar">
+<div class="container">
+
+<a class="navbar-brand" href="/index"><img src="/images/static/seb.png" width="80" height="30"  class="d-inline-block align-top" alt="">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/index">Home</a>
+          </li>
+          <li class="nav-item ">
+              <a class="nav-link" href="/about">About me</a>
+          </li>
+          <li class="nav-item dropdown  active ">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Portfolio
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dumbSeb">Boring Stuff</a>
+                  <a class="dropdown-item" href="/smartSeb">Interesting Stuff</a>
+              </div>
+          </li>
+
+          <li class="nav-item ">
+              <a class="nav-link" href="/contact ">Contact</a>
+          </li>
+          <li class="nav-item">
+              <!-- <a class="nav-link" href="https://yangyukai.com/projects/2019/fall/Boogieman-UnityVR">中文</a> -->
+              <a class="nav-link" href="/sad.html">中文</a>
+          </li>
+
+      </ul>
+</div>
+</div>
+</nav>
+
+    
+    <div>
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+<!--Indicators-->
+
+<!--/.Indicators-->
+<!--Slides-->
+
+<div class="carousel-inner" role="listbox">
+  
+ <div class="carousel-item   active ">
+    <div class="view">
+      <img class="d-block w-100"  src="/images/projects/Boogieman//cover.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
+      <div class="mask rgba-black-light"></div>
+    </div>
+  </div>
+  
+</div>
+<!--/.Slides-->
+
+<!--Controls-->
+
+<!--/.Controls-->
+
+</div>
+<!--/.Carousel Wrapper-->
+</div>
+
+    
+
+    <body class="bg-lighter ">
+<h1 class="text-center  mt-4 scroUp"> Boogieman Unity VR </h1>
+
+<div class="mainText">
+<div class="container w-75 mb-4">
+<h3>Overview</h3>
+<p>2019 Fall </p>
+   <p>This is a team project for CMU 53-451: Research Issues in Game Development: Designing for XR. This is a game-design/research class taught by Professor Tom Corbett where we work in teams to design video games in VR/AR.</p>
+
+<p>In this project, we designed a VR rhythm dancing game. Our original idea was to use ML and OpenCV so that the player can dance freely. Then we realized that is not gamey enough. The final result is a beat-saber-like node-hitting dancing game — as you hit the nodes, you begin to boogie. We knew we succeed when during the final demo, not only the person in VR is dancing, but the entire class spontaneously started dancing to the game.</p>
+
+<p>In this 6-week project, I was the programmer in the team. We will go through 6 iterations for the game, developing a prototype for each week and presenting a demo on every Friday.</p>
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/kXyuNnvKIBo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p><br /></p>
+
+<h2 id="main-takeaways">Main Takeaways</h2>
+
+<p>This was a highly intense 6-week project. I learned a lot about developing in VR. Here are some of my main takeaways.</p>
+
+<h3 id="1-never-seize-the-camera-in-vr">1. Never Seize the Camera in VR</h3>
+
+<p>Our game takes under the bed of a kid’s bedroom (the Bogeyman under the bed). In one of our iteration, we wanted to show the bedroom environment before going under the bed. So we added a “cut scene” where the camera will drop from above the bed to under the bed.</p>
+
+<p>That…turned out to be a bad idea. Seizing the camera meant the play lost control of his or her own head. It’s disorienting and dizzy. Not to mention the drop in height.</p>
+
+<h3 id="2-use-visual-cues-to-direct-the-players-view">2. Use Visual Cues to Direct the Player’s view</h3>
+
+<p>Because we cannot seize the camera and add cut scenes, this means a player can have total control over the camera movement. This is also where VR stands out from flat-screen media: VR invites the player to discover the environment in a self-paced way.</p>
+
+<p>That also means the player may miss key animations and moments in the game. For example, in our early iterations, the dance floor is a square. We noticed many players missed the Boogieman entrance animation completely and are not sure where they should face. We later change the dance floor to a long strip to guide the player to look at the Boogieman.</p>
+
+<h3 id="3-if-it-seems-interactive-it-needs-to-be">3. If it seems interactive, it needs to be</h3>
+
+<p>In this project, I saw many players feeling disappointed when they try to pick the toys in the environment up and failed. It made our game less immersive.</p>
+
+<p>The magic of VR is the feeling of presence in a virtual world. Hence, users will naturally apply the rules of the real world to the virtual world. If something looks like it can be picked up, pressed, or thrown, it better should be or else it will ruin the immersive experience.</p>
+
+<p>We didn’t have time to implement this in our 6-week production schedule but it’s a good takeaway to keep in mind.</p>
+
+<h2 id="credits">Credits</h2>
+<p>This game is made by (in alphabetical order): Ann Maria, Connie Chau, Kalpa Anjur, Lisa Lo, Carter Williams, and me.</p>
+
+<p>Thank you all for making this amazing dancing game a reality!!!</p>
+
+   
+</div>
+
+<div class="mx-auto pb-3 text-center" style="width: 200px;">
+<a href="/contact" target="_blank" class="btn btn-rounded btn-dark">
+              <i class="fas fa-home"></i> Contact Me
+           </a>
+</div>
+
+</div>
+</body>
+
+
+    <footer class="page-footer font-small bg-dark" style="overflow: hidden;">
+
+    <!-- Footer Links -->
+    <div class="container text-center text-md-left">
+		<div class="row"><p>  </p></div>
+      <!-- Grid row -->
+      <div class="row mt-5">
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Content -->
+          <h6 class="text-uppercase font-weight-bold">Mailing Address</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">Carnegie Mellon University<br><br>
+			 5032 Forbes Avenue <br><br>
+			 SMC 1005                 <br><br>
+			 Pittsburgh, PA 15289<br>
+			 </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-2 col-lg-3 col-xl-3 mx-auto mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Contact</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p class="text-white">
+	        杨毓恺<br>
+            Sebastian Yang
+          </p>
+          <p class="text-white">
+            Email: SebastianYang@outlook.com
+          </p>
+          <p class="text-white">
+            Linkedin: <br>
+            <a href="https://www.linkedin.com/in/sebastian-yang/" target="_blank"> Please introduce yourself with a custom note</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-4 d-none d-md-block">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Useful links</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="/index">Home</a>
+          </p>
+          <p>
+            <a href="/about">About Me</a>
+          </p>
+          <p>
+            <a href="/smartSeb">Portfolio</a>
+          </p>
+          <p>
+            <a href="/contact">Contact</a>
+          </p>
+
+        </div>
+        <!-- Grid column -->
+
+        <!-- Grid column -->
+        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
+
+          <!-- Links -->
+          <h6 class="text-uppercase font-weight-bold">Wechat 公众号</h6>
+          <hr class="blue accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"><br>
+          <a href="/images/static/qr.JPG" target="_blank"><img src="/images/static/qr.JPG" class="w-75"/></a>
+
+        </div>
+        <!-- Grid column -->
+
+      </div>
+      <!-- Grid row -->
+
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center mt-2 py-3">© 2019 Copyright:
+      <a href="/index"> Sebastian Yang</a>
+      <p class="text-white"> Yukai Presents</p>
+
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+
+
+  </body>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="/js/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="/js/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
+    <!-- MDB core JavaScript -->
+	<script type="/text/javascript" src="js/mdb.min.js"></script>
+    <script src="/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script src="/js/scrollreveal.js"></script>
+	<!-- <script src="/js/my.js"></script> -->
+	<script>
+		var slideUp = {
+	    distance: '150%',
+	    origin: 'bottom',
+	    opacity: null,
+	    duration: 700,
+		};
+		ScrollReveal().reveal('.scroUp',slideUp);
+	</script>
+
+
+
+
+</html>

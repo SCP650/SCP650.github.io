@@ -1,0 +1,44 @@
+
+<!--nav bar -->
+
+<nav class="navbar navbar-expand-lg navbar-dark bg-darklight fixed-top scrolling-navbar">
+<div class="container">
+
+<a class="navbar-brand" href="/index"><img src="/images/static/seb.png" width="80" height="30"  class="d-inline-block align-top" alt="">
+</a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+</button>
+
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+
+          <li class="nav-item {% if page.name == "index.html" %} active {% endif %}">
+              <a class="nav-link" href="/index">Home</a>
+          </li>
+          <li class="nav-item {% if page.name == "about.html" %} active {% endif %}">
+              <a class="nav-link" href="/about">About me</a>
+          </li>
+          <li class="nav-item dropdown {% if page.name != "index.html" and page.name != "about.html" and page.name != "contact.html"%} active {% endif %}">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  Portfolio
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/dumbSeb">Boring Stuff</a>
+                  <a class="dropdown-item" href="/smartSeb">Interesting Stuff</a>
+              </div>
+          </li>
+
+          <li class="nav-item {% if page.name == "contact.html" %} active  {% endif %}">
+              <a class="nav-link" href="/contact ">Contact</a>
+          </li>
+          <li class="nav-item">
+              <!-- <a class="nav-link" href="https://yangyukai.com{{ page.url }}">中文</a> -->
+              <a class="nav-link" href="/sad.html">中文</a>
+          </li>
+
+      </ul>
+</div>
+</div>
+</nav>

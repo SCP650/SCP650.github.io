@@ -1,0 +1,222 @@
+/*color template from https://color.adobe.com/little-boy-playing-ice-hockey-1-color-theme-11989769/edit/?copy=true&base=2&rule=Custom&selected=0&name=Copy%20of%20little%20boy%20playing%20ice%20hockey%201&mode=rgb&rgbvalues=0.023529411764705882,0.07450980392156863,0.1411764705882353,0.28627450980392155,0.45098039215686275,0.5490196078431373,0.6588235294117647,0.788235294117647,0.8549019607843137,0.8588235294117647,0.3411764705882353,0.33725490196078434,0.9450980392156862,0.9450980392156862,0.9450980392156862&swatchOrder=0,1,2,3,4 */
+
+/*061324, 49738C,A8C9DA,DB5756,F1F1F1*/
+
+body {
+	font-family: "Helvetica Neue", Helvetica, Arial, Sans-serif;
+	font-size: 100%;
+	line-height: 1.7em;
+	color: #061324;
+}
+.responsive{
+	max-width: 100%;
+	height: auto;
+}
+#container {
+	width: 70%;
+	margin: 10px auto;
+	/*border: 1px solid gray;*/
+}
+
+#top_row {
+	
+	border-bottom: 1px dotted #ccc;
+	padding:.5em .5em 3em .5em;
+	margin-bottom: -1.5em;
+}
+
+#top_row h1{
+	color: #061324;
+	font-family: "Comic Sans" ;
+	font-size: 3.75em;
+	letter-spacing: -2px;
+}
+#top_row h3 {
+	color: #49738C;
+	font-size: 1.125em;
+	font-weight: 500;
+}
+
+#top_row nav{
+	float:right;
+}
+
+#top_row nav a {
+	text-decoration: none;
+	font-size: 1.125em;
+	font-weight: 400;
+	padding:15px;
+	color:#061324;
+}
+
+#top_row nav a.selected {
+	background: #F6F6F6;
+	color: #DB5756;
+}
+ 
+#top_row nav a.selected:hover {
+	background: #F1F1F1;
+	color: #A8C9DA;
+}
+
+#top_row nav a:hover{
+	background: #F1F1F1;
+	color: #49738C;
+}
+
+#content{
+	float: left;
+	width: 70%;
+	margin: 0;
+	padding: 1em;
+	border-right: 1px dotted #ccc;
+}
+
+#content h3{
+	font-family: Georgia, serif;
+	font-size: 1.5em;
+	margin:30px 0 10px 0;
+	font-weight: normal;
+}
+
+#sidebar {
+	float: left;
+	padding: 1em;
+	font-size: 0.875em;
+}
+#sidebar a {
+	color: #061324;
+	 
+	text-decoration: none;
+}
+
+#sidebar a:hover{
+	color: #DB5756;
+	text-decoration: underline;
+}
+#sidebar h3{
+	font-size: 1.125em;
+	border-bottom: 1px dotted #ccc;
+}
+
+footer{
+	clear: both;
+	margin:0;
+	padding: 0.5em;
+	color:#333;
+	/*font-variant: small-caps;*/
+	font-size: 0.813em;
+	text-align: center;
+	
+}
+footer a {
+	color: #061324;
+	 
+	text-decoration: none;
+}
+
+footer a:hover{
+	color: #DB5756;
+	text-decoration: underline;
+}
+
+#content img {
+	float: left;
+	margin: 1em;
+}
+
+#bio {
+	
+	margin-left: 3em;
+	font-size: 0.875em;
+}
+#bio ul{
+	 
+}
+
+#bio a{
+	text-decoration: none;
+	border-bottom: 1px dotted #000;
+	color: #DB5756;
+}
+
+#bio a:hover{
+	color: #A8C9DA;
+	
+}
+
+/* In the Project Page*/
+
+#content table{
+	
+	width: 75%;
+	
+	border-width: 3px;
+	border-spacing: 3px;
+	border-collapse: collapse;
+	border-color: #A8C9DA;
+	border-style: solid;
+	margin-left:auto;
+	margin-right:auto;
+	text-align: center;
+	
+}
+
+#content th{
+	height: 40px;
+	text-decoration: bold;
+	
+	border-width: 1px;
+	border-style: solid;
+	border-color: #A8C9DA;
+	padding: 2px;
+}
+#content td{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #A8C9DA;
+	padding: 2px;
+}
+
+/*In Contact page */
+
+#content form{
+	width: 75%;
+	margin-left:auto;
+	margin-right:auto;
+	
+	border-style: solid;
+	border-collapse: collapse;
+	border-width: 1px;
+	border-color: #A8C9DA;
+}
+
+#content fieldset{
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	 
+}
+
+#content legend {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	text-decoration: bold;
+	color: #061324;
+}
+
+#content label{
+	text-decoration: bold;
+	text-align: center;
+}
+
+html{
+	overflow-y: scroll;
+}
+
+iframe {
+	display: block;
+	margin: auto;
+}

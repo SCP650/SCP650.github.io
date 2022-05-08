@@ -1,0 +1,62 @@
+---
+title: Lightly Heavy
+date: 2022-02-04 20:40:23 -0400 #date this page is written
+role: VR Developer 
+categories: projects 2022 spring #project folder, beginning year and season
+tags: All  AR_VR  Software_Engineer Game_Development
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2022 Spring"
+#this is a bad practice
+assetLoco: /images/projects/LightlyHeavy
+coverPic: /icon.png
+carousel:
+  - image: /game0.png
+  - image: /game1.png
+  - image: /game2.png
+  - image: /game3.png
+  - image: /game4.png
+---
+
+Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender's Game anytime and anywhere. 
+
+This app is built in 36 hours independently by Sebastian Yang with original music composed by William Ozeas. It is developed for HoyaHack and won **the U.S. Space Force Award**. You can download it and try it out [here](https://github.com/SCP650/LightlyHeavy-UnityVR/releases).
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/VyIAN2M-e8o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## Main Takeaways 
+
+### 1. Lock Rotations and Lower the Speed!
+
+I always thought continuous movement and jumping up and down in VR are the dizziest. I was wrong. When I first develop the movement mechanics, I didn't lock rotation meaning if the player used the booster on their right hand, instead of going straight forward, they will start spinning like crazy while moving forward. 
+
+The first few seconds were fun - as the speed is still slow. But afterward, the dizziness became unbearable. The takeaway here is to lower the speed to avoid dizziness, especially for beginners. 
+
+### 2. Prioritize Before Acting
+
+There are two major components to this project: the tutorial area (spaceship) and the combat zone (giant sphere). Most developers will probably start with the combat zone since it's the bulk of the game. However, I decided to start with the tutorial area. 
+
+This is because the combat zone is essentially the tutorial areas with procedural generation -- both shared the same movement systems and enemies. If I don't have time to develop a good pro-gen system, the player could still learn how to play the game and explore a single level - the spaceship. However, if I started with the combat zone and the pro-gen is not working, the player would not know what to do and killed by enemies instantly. 
+
+Even though I managed to finish the pro-gen systems, this prioritization could've saved my project. 
+
+### 3. It's Dangerous to Go Alone!
+
+I intentionally made this a solo project because I want to test my ability. Even though I was happy with the result, it was not fun to do everything by myself. I would prefer the collaboration and delegation I did in [Haunted](http://localhost:4000/projects/2021/fall/Haunted). If possible, don't go alone! 
+
+## Some Thoughts...
+
+I'm very proud of this project, especially with the execution. In 36 hours, I managed to develop a movement mechanic in zero-g, an extendable enemy class system, and a procedural generation system for levels. I also managed to design a tutorial area with 3D assets, a combat zone in Blender, and multiple GUI components. And everything was done in a virtual reality setting. 
+
+This was by no means a perfect execution -- the enemy AI needs a lot more work and there's a lack of more enemy and weapon types. But I'm very pleased with what I ended up with - a replayable space combat VR game that is actually fun to play. 
+
+Moreover, it also (kinda) fulfilled my childhood dream - going to space. The Ender's Game is one of my favorite novel series and movies. Seeing the fight in a giant sphere in space really inspired and motivated me. (heck I even applied to many top aerospace engineering programs during college applications). This project intersects my high school passion in space with my college passion in the metaverse. So I'm really glad I got to do this. 
+
+Finally, this project is also a testament to my growth. When I first started three years ago, I would've never thought I can pull something like this off. During the past three years, I've tried a lot, failed a lot, learned a lot, and kept repeating. It is truly pleasing to see oneself grow. 
+
+Now that my college life is over, a new journey awaits. 
+
+## Under the Hood 
+ 
+This is made independently by me with [free 3D assets](https://assetstore.unity.com/packages/3d/environments/sci-fi/sci-fi-styled-modular-pack-82913) from Asset Store, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine with Oculus Link.
+

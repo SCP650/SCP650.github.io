@@ -1,0 +1,31 @@
+---
+title: Vinder
+date: 2021-10-04 20:40:23 -0400 #date this page is written
+role: VR Developer 
+categories: projects 2021 Fall #project folder, beginning year and season
+tags: All  AR_VR  Software_Engineer 
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+
+start-season: "2021 Fall"
+#this is a bad practice
+assetLoco: /images/projects/Vinder
+coverPic: /icon.png
+carousel:
+  - image: /full_width.jpg
+---
+
+Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it. 
+
+Why not have your first date in a safe and goofy environment, like in virtual reality? Our app Vinder envisions how dating will look like in the Metaverse. It’s a standalone app built for Oculus Quest. Using Vinder you can not only get matches but also have your first date in a fun interactive VR environment!
+
+This app is built in 24 hours independently by Sebastian Yang and Arshin Jain for HackCMU. It was the winner of the **Facebook Metaverse Award**.
+
+(Sorry for the poor video quality --- when we finished editing it and we only have like 10 mins before the deadline and we never got a chance to edit it.)
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/sAMN1Jqq2WM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+
+## Under the Hood 
+
+This app is made in Unity with Oculus Quest 2. It uses Photon server to facilitate live virtual meetings between matches. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.
+
