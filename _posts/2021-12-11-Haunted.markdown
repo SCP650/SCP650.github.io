@@ -5,7 +5,7 @@ role: Lead Producer
 categories: projects 2021 fall #project folder, beginning year and season
 tags: All  AR_VR  Software_Engineer Highlights Game_Development Product_Project_Management
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
-
+description: A VR horror game where the only enemy is yourself.
 start-season: "2021 Fall"
 #this is a bad practice
 assetLoco: /images/projects/Haunted
