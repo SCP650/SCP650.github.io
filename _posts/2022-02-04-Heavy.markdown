@@ -5,7 +5,7 @@ role: VR Developer
 categories: projects 2022 spring #project folder, beginning year and season
 tags: All  AR_VR  Software_Engineer Game_Development
 #tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
-
+description: A virtual reality zero-gravity shooting game in space.
 start-season: "2022 Spring"
 #this is a bad practice
 assetLoco: /images/projects/LightlyHeavy
