@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-08T15:21:32-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Lightly Heavy</title><link href="http://localhost:4000/projects/2022/spring/Heavy" rel="alternate" type="text/html" title="Lightly Heavy" /><published>2022-02-04T16:40:23-08:00</published><updated>2022-02-04T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Heavy</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Heavy">&lt;p&gt;Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-12T13:48:09-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Siggraph 2022 Day 2</title><link href="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2" rel="alternate" type="text/html" title="Siggraph 2022 Day 2" /><published>2022-08-12T07:40:23-07:00</published><updated>2022-08-12T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2022/summer/Siggraph22_Part2</id><content type="html" xml:base="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2">&lt;p&gt;This is a test blog post!&lt;/p&gt;
+
+&lt;h2 id=&quot;some-thoughts&quot;&gt;Some Thoughts…&lt;/h2&gt;
+
+&lt;p&gt;This is a test blog post!&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a test blog post!</summary></entry><entry><title type="html">Lightly Heavy</title><link href="http://localhost:4000/projects/2022/spring/Heavy" rel="alternate" type="text/html" title="Lightly Heavy" /><published>2022-02-04T16:40:23-08:00</published><updated>2022-02-04T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Heavy</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Heavy">&lt;p&gt;Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.&lt;/p&gt;
 
 &lt;p&gt;This app is built in 36 hours independently by Sebastian Yang with original music composed by William Ozeas. It is developed for HoyaHack and won &lt;strong&gt;the U.S. Space Force Award&lt;/strong&gt;. You can download it and try it out &lt;a href=&quot;https://github.com/SCP650/LightlyHeavy-UnityVR/releases&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -109,7 +113,56 @@
 
 &lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
 
-&lt;p&gt;This is made independently by me with Unity’s free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.</summary></entry><entry><title type="html">Haunted VR</title><link href="http://localhost:4000/projects/2021/fall/Haunted" rel="alternate" type="text/html" title="Haunted VR" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Haunted</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Haunted">&lt;p&gt;Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.&lt;/p&gt;
+&lt;p&gt;This is made independently by me with Unity’s free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.</summary></entry><entry><title type="html">Phight COVID</title><link href="http://localhost:4000/projects/2021/fall/Phight" rel="alternate" type="text/html" title="Phight COVID" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Phight</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Phight">&lt;p&gt;On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both &lt;a href=&quot;https://www.post-gazette.com/news/health/2021/12/12/Covid-mask-mandates-Pitt-CMU-research-delta/stories/202112080149&quot;&gt;Pittsburgh Post Gazette&lt;/a&gt; and &lt;a href=&quot;https://www.npr.org/sections/health-shots/2021/12/16/1064668750/state-mask-mandates-omicron&quot;&gt;NPR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h2&gt;
+&lt;p&gt;We explore a variety of research question, each about the effectiveness of mask mandates at the state-level in the United States.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How varied was mask mandate policy at the state-level?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How long does it take after a mask mandate intervention to see an impact on COVID cases?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does effectiveness of mask mandates vary by season?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mask Mandates in the Delta Wave&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Were mask mandates in the Delta Wave effective?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How does vaccination rate interact with mask mandate effectiveness?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;full-interactive-report&quot;&gt;Full Interactive Report&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.stat.cmu.edu/capstoneresearch/490files/poster6.html&quot;&gt;linkt to report&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4pJAN3VpOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-coorelation--causation&quot;&gt;1. Coorelation != Causation&lt;/h3&gt;
+
+&lt;p&gt;This may seem very obvious. However, the reality is we only have observational data but we want to draw a causal conclusion. What we end up doing is trying to account for confounding factors. One example is the graph my colleague Jimmy made where he compare the effectiveness of masks between states with similar vaccine rates. Even though we couldn’t account for every possible confound factor, we try to address the major and impactful ones.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-interactive-graphs-is-a-saver&quot;&gt;2. Interactive Graphs is a Saver&lt;/h3&gt;
+
+&lt;p&gt;Graphs are good ways to visualize data but if it contains too much information then it becomes overwhelming. Interactive graphs are a balance between the two – it allows the readers to easily get the gist but also open to inspect individual data points in depth.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-data-reports-are-subject-to-manipulation&quot;&gt;3. Data Reports are Subject to Manipulation&lt;/h3&gt;
+
+&lt;p&gt;In our research, we try out best to maintain objectivity. However, we can clearly see that it’s very easy for the researcher to manipulate the analysis so that they can see the results they want: e.g. using different success criteria, comparator, or calculation methods. In an academic research paper, this may be very apparent, but in a corporate setting where the people only skim the conclusion and the graph, it leaves a lot of room for manipulation. Hence, it’s advisable for PMs to understand how the data analysis is conducted to ensure it’s not intentionally or accidentally manipulated.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;We utilized R with various packages including tidyverse, ggplot2, and plotly.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both Pittsburgh Post Gazette and NPR.</summary></entry><entry><title type="html">Haunted VR</title><link href="http://localhost:4000/projects/2021/fall/Haunted" rel="alternate" type="text/html" title="Haunted VR" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Haunted</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Haunted">&lt;p&gt;Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.&lt;/p&gt;
 
 &lt;p&gt;You woke up in a completely dark house with only a candle in your hand. If you wave your hand too fast, the candle goes out, and game over. The game is consists of six rooms, each room has a unique set of mechanics that will be randomly activated. You need to reclaim three memory shards that are randomly scattered in some of the six rooms.&lt;/p&gt;
 
@@ -217,56 +270,7 @@
 &lt;/div&gt;
 
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Highlights" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.</summary></entry><entry><title type="html">Phight COVID</title><link href="http://localhost:4000/projects/2021/fall/Phight" rel="alternate" type="text/html" title="Phight COVID" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Phight</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Phight">&lt;p&gt;On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both &lt;a href=&quot;https://www.post-gazette.com/news/health/2021/12/12/Covid-mask-mandates-Pitt-CMU-research-delta/stories/202112080149&quot;&gt;Pittsburgh Post Gazette&lt;/a&gt; and &lt;a href=&quot;https://www.npr.org/sections/health-shots/2021/12/16/1064668750/state-mask-mandates-omicron&quot;&gt;NPR&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h2&gt;
-&lt;p&gt;We explore a variety of research question, each about the effectiveness of mask mandates at the state-level in the United States.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;How varied was mask mandate policy at the state-level?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How long does it take after a mask mandate intervention to see an impact on COVID cases?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Does effectiveness of mask mandates vary by season?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mask Mandates in the Delta Wave&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Were mask mandates in the Delta Wave effective?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How does vaccination rate interact with mask mandate effectiveness?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;full-interactive-report&quot;&gt;Full Interactive Report&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.stat.cmu.edu/capstoneresearch/490files/poster6.html&quot;&gt;linkt to report&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4pJAN3VpOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-coorelation--causation&quot;&gt;1. Coorelation != Causation&lt;/h3&gt;
-
-&lt;p&gt;This may seem very obvious. However, the reality is we only have observational data but we want to draw a causal conclusion. What we end up doing is trying to account for confounding factors. One example is the graph my colleague Jimmy made where he compare the effectiveness of masks between states with similar vaccine rates. Even though we couldn’t account for every possible confound factor, we try to address the major and impactful ones.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-interactive-graphs-is-a-saver&quot;&gt;2. Interactive Graphs is a Saver&lt;/h3&gt;
-
-&lt;p&gt;Graphs are good ways to visualize data but if it contains too much information then it becomes overwhelming. Interactive graphs are a balance between the two – it allows the readers to easily get the gist but also open to inspect individual data points in depth.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-data-reports-are-subject-to-manipulation&quot;&gt;3. Data Reports are Subject to Manipulation&lt;/h3&gt;
-
-&lt;p&gt;In our research, we try out best to maintain objectivity. However, we can clearly see that it’s very easy for the researcher to manipulate the analysis so that they can see the results they want: e.g. using different success criteria, comparator, or calculation methods. In an academic research paper, this may be very apparent, but in a corporate setting where the people only skim the conclusion and the graph, it leaves a lot of room for manipulation. Hence, it’s advisable for PMs to understand how the data analysis is conducted to ensure it’s not intentionally or accidentally manipulated.&lt;/p&gt;
-
-&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
-
-&lt;p&gt;We utilized R with various packages including tidyverse, ggplot2, and plotly.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both Pittsburgh Post Gazette and NPR.</summary></entry><entry><title type="html">Vinder</title><link href="http://localhost:4000/projects/2021/fall/Vinder" rel="alternate" type="text/html" title="Vinder" /><published>2021-10-04T17:40:23-07:00</published><updated>2021-10-04T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/fall/Vinder</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Vinder">&lt;p&gt;Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Highlights" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.</summary></entry><entry><title type="html">Vinder</title><link href="http://localhost:4000/projects/2021/fall/Vinder" rel="alternate" type="text/html" title="Vinder" /><published>2021-10-04T17:40:23-07:00</published><updated>2021-10-04T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/fall/Vinder</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Vinder">&lt;p&gt;Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.&lt;/p&gt;
 
 &lt;p&gt;Why not have your first date in a safe and goofy environment, like in virtual reality? Our app Vinder envisions how dating will look like in the Metaverse. It’s a standalone app built for Oculus Quest. Using Vinder you can not only get matches but also have your first date in a fun interactive VR environment!&lt;/p&gt;
 
@@ -444,50 +448,4 @@ Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
 
 &lt;p&gt;Mentors: Rebecca Nugent, Peter Freeman&lt;/p&gt;
 
-&lt;p&gt;Carnegie Mellon Statistics &amp;amp; Data Science Department&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</summary></entry><entry><title type="html">Consulting for PAFA</title><link href="http://localhost:4000/projects/2021/spring/PAFamily" rel="alternate" type="text/html" title="Consulting for PAFA" /><published>2021-05-17T17:40:23-07:00</published><updated>2021-05-17T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/PAFamily</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/PAFamily">&lt;p&gt;In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.&lt;/p&gt;
-
-&lt;p&gt;The Family Alliance is a federally funded non-profit organization that provides support for parents whose children are experiencing social, emotional, behavioral, or mental health challenges.&lt;/p&gt;
-
-&lt;p&gt;Upon evaluating their website analytics, we identified a major retention problem. Hence, we identified two goals: retaining new users coming to the website for the first time and retaining existing users through the value of the membership experience.&lt;/p&gt;
-
-&lt;p&gt;To address these goals, we set out to redesign key parts of the Family Alliance’s website, as well as streamlining the new user onboarding process, and improving returning user’s membership experience.&lt;/p&gt;
-
-&lt;p&gt;To evaluate our progress, we conducted two rounds of user testing on a total of 18 users, asking them to complete five critical tasks before and after the redesign. The result showed our redesign reduced the proportion of users that failed to find resources on the website from 66% to 0% and reduced the average time spent on doing these tasks taken by 68.2% and as much as two minutes.&lt;/p&gt;
-
-&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-dont-treat-the-symptoms-find-the-root-cause&quot;&gt;1. Don’t Treat the Symptoms, Find the Root Cause&lt;/h3&gt;
-
-&lt;p&gt;When the client came to us, they were using 30 different apps to maintain their business and experiencing engagement issues with their members. They wanted us to “streamline the business process” by finding cheaper integrated alternatives and develop a new membership webpage.&lt;/p&gt;
-
-&lt;p&gt;However, these were only the symptoms. We made a business flow chart and identified the root cause was the information architecture of the website: 1) Because the website is not organized, our client felt free to add more functionalities to the website, causing an overblown tech stack and the need to streamline. 2) Because the website is not organized, the users didn’t know how to navigate and find useful information.&lt;/p&gt;
-
-&lt;p&gt;Our client would not have been in a better place if we simply follow their requests. Because we will only be treating the symptoms and not the root cause.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-take-ownership-and-make-data-driven-decision&quot;&gt;2. Take Ownership and Make Data-Driven Decision&lt;/h3&gt;
-
-&lt;p&gt;It’s very easy to turn a technical consulting job into an outsourcing job. Simply do what the client told you to do, and both the client and you will be happy but the root cause is still there.&lt;/p&gt;
-
-&lt;p&gt;Instead, I thought of myself as a product manager for the Family Alliance with the goal of improving the user experience and the usability of the website.&lt;/p&gt;
-
-&lt;p&gt;I used both qualitative data from user testing and quantitative data such as heatmap to inform the redesign of the website. Base on web traffic data, I was also able to propose a non-technical solution using Slack for membership engagement instead of a membership page. The client was thrilled to see our final deliverables and even offered us to work with them over the summer. None of these would be possible had I not taken ownership.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-dont-rush-the-process-build-trust-gradually&quot;&gt;3. Don’t Rush the Process: Build Trust Gradually&lt;/h3&gt;
-
-&lt;p&gt;Once we identified the root cause, I came up with a wireframe that completely reorganized the entire website. It reduced the 7 tabs in the navigation bar to just 3 by consolidating and redesigning some pages. Even though all our teammates thought this was the right approach, our client was not thrilled.&lt;/p&gt;
-
-&lt;p&gt;We think this was mostly because we hadn’t build up trust with the client yet. They were understandably skeptical of the big changes we proposed, especially on a website that they’ve invested so much time and energy on.&lt;/p&gt;
-
-&lt;p&gt;Hence, we switched courses and started to work on smaller fixes and improvements first (even though we knew some fixes will be obsolete once we implement the redesign). This really helped us build trust. We gradually move to redesign a single page, and then multiple pages. In the last two weeks, we finally redesigned the landing page and the navigation bar.&lt;/p&gt;
-
-&lt;p&gt;Hence, when working in client-facing roles, it’s important to understand the client’s reluctance and gradually build trust to overcome it.&lt;/p&gt;
-
-&lt;h2 id=&quot;credits&quot;&gt;Credits&lt;/h2&gt;
-
-&lt;p&gt;Student Consulting Team:&lt;/p&gt;
-
-&lt;p&gt;Sebastian Yang served as the project manager. He is a third-year student majoring in Information Systems with a dual degree in Statistics &amp;amp; Machine Learning. He will be interning as a project manager at Blizzard over the summer.&lt;/p&gt;
-
-&lt;p&gt;Jonathan Monroe acted as the client relationship manager. He is a senior majoring in Information Systems with an additional major in Philosophy. He will be starting in a full-time software engineering role at the end of the summer.&lt;/p&gt;
-
-&lt;p&gt;David Cheung served as technical lead. He is a senior majoring in Information Systems and interned at Microsoft over the previous summer. He will be starting in a full-time position as a software developer in August.&lt;/p&gt;</content><author><name></name></author><category term="All" /><summary type="html">In this project, we are helping PA Parent and Family Alliance to improve the information architecture of their website.</summary></entry></feed>
+&lt;p&gt;Carnegie Mellon Statistics &amp;amp; Data Science Department&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">In this project, we work with Numo, a fintech subsidiary of the PNC bank, to analyze data of PNC customers to improve the redemption rate of card-linked offers.</summary></entry></feed>

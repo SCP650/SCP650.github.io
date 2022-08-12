@@ -13,24 +13,16 @@ carousel:
         <div class="row">
             <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
               <div class="col-12 scroUp">
-               <h1 class="text-center  mt-4">Gallery</h1>
+               <h1 class="text-center  mt-4">Blog</h1>
                <hr class="w-25">
-               <p class="text-center mb-4 scroUp">The value added to the society</p>
+               <p class="text-center mb-4 scroUp">The hidden page that you are not suppose to see</p>
               </div>
 
             </div>
-            <!-- refer from https://www.bootply.com/L5H5B8zbqB -->
-            <div align="center">
-              {% for tag in site.project_tags %}
-              <button class="btn btn-elegant filter-button text-capitalize {% if tag =="All" %} active {% endif %}" data-filter="{{tag}}">{{tag | replace:"_"," "}}</button>
-                {% endfor %}
-            </div>
             <br>
 
-
-
-            {% for project in site.categories.projects %}
-            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6 filter {% for tag in project.tags%} {{tag}} {% endfor%}">
+            {% for project in site.categories.blogs %}
+            <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-6">
 
                 <div class="view overlay h-100 ">
                     <a href="{{project.url}}">
