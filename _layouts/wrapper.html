@@ -23,9 +23,9 @@
      <meta name="title" property="og:title" content="Sebastian's Website" />
      {% endif %}
      {% if page.description %}
-     <meta name="description" content= "{{ page.description }}"/>
+     <meta name="description" property="og:description" content= "{{ page.description }}"/>
      {% else %}
-     <meta name="description" content="A hub for all the cool projects I've worked on" />
+     <meta name="description" property="og:description" content="A hub for all the cool projects I've worked on" />
      {% endif %}
      <meta property="og:type" content="Website" />
      {% if page.coverPic %}
@@ -33,7 +33,6 @@
      {% else %}
      <meta name="image" property="og:image" content="https://raw.githubusercontent.com/SCP650/SCP650.github.io/master/images/static/worldSpace.png" />
      {% endif %}
-     <meta name="description" property="og:description" content="A hub for all the cool projects I've worked on" />
      <meta name="author" content="Sebastian Yang" />
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
