@@ -1,8 +1,108 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-12T14:21:01-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Siggraph 2022 Day 2</title><link href="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2" rel="alternate" type="text/html" title="Siggraph 2022 Day 2" /><published>2022-08-12T07:40:23-07:00</published><updated>2022-08-12T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2022/summer/Siggraph22_Part2</id><content type="html" xml:base="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2">&lt;p&gt;This is a test blog post!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-08-14T11:57:56-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Siggraph 2022 Day 2</title><link href="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2" rel="alternate" type="text/html" title="Siggraph 2022 Day 2" /><published>2022-08-12T07:40:23-07:00</published><updated>2022-08-12T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2022/summer/Siggraph22_Part2</id><content type="html" xml:base="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2">&lt;p&gt;Hi all, welcome to my Siggraph series where I post the TLDR of the most memorable stuff I see at the conference.&lt;/p&gt;
 
-&lt;h2 id=&quot;some-thoughts&quot;&gt;Some Thoughts…&lt;/h2&gt;
+&lt;p&gt;This started as some rambling notes I took during the conference, and I just cleaned it up a bit. It may not be the most accurate (especially the technical papers) but feel free to take a look!&lt;/p&gt;
 
-&lt;p&gt;This is a test blog post!&lt;/p&gt;</content><author><name></name></author><summary type="html">This is a test blog post!</summary></entry><entry><title type="html">Lightly Heavy</title><link href="http://localhost:4000/projects/2022/spring/Heavy" rel="alternate" type="text/html" title="Lightly Heavy" /><published>2022-02-04T16:40:23-08:00</published><updated>2022-02-04T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Heavy</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Heavy">&lt;p&gt;Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.&lt;/p&gt;
+&lt;h2 id=&quot;day-2-events-ive-attended&quot;&gt;Day 2 Events I’ve attended:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tech Papers: &lt;strong&gt;Ray Tracing &amp;amp; Monte Carlo Methods&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Expo: &lt;strong&gt;Emerging Technologies&lt;/strong&gt; + &lt;strong&gt;Immersive Pavilion&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Presentation: &lt;strong&gt;Advances in Real-Time Rendering in Games: Part II&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Expo: Companies&lt;/li&gt;
+  &lt;li&gt;Unreal Talk: &lt;strong&gt;Animating In-Engine - Real-Time Production Workflows&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;Expo: Appy Hour&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&quot;immersive-pavilion&quot;&gt;Immersive Pavilion&lt;/h2&gt;
+
+&lt;h3 id=&quot;a-vr-locomotion-method-that-kinda-solves-motion-sickness&quot;&gt;A VR Locomotion Method that (kinda) Solves Motion Sickness&lt;/h3&gt;
+
+&lt;p&gt;What is it: The demo is called “&lt;strong&gt;HyperJumping&lt;/strong&gt;” by Bernhard E. Riecke. It has two parts: lean based locomotion and hyperjump.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Lean-Based Locomotion&lt;/strong&gt;: instead of pushing a thumbstick, you have to physically lean forward to move forward. Since your body is actually leaning forward as your visual changes, it’s less dizzy.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hyperjump&lt;/strong&gt;: when the user reached a max speed, it will automatically teleport the user for a segment, and then the user will continue to travel at max speed.&lt;/p&gt;
+
+&lt;p&gt;Use case: if a person wants to travel long distances in VR, they don’t want to use smooth locomotion (which is dizzy) and don’t want to teleport (since they will miss the view), they will use lean-based movement + hyperjump.&lt;/p&gt;
+
+&lt;p&gt;Sebastian’s Review: conceptually this is a very interesting idea — combining physical movement with smooth locomotion and teleportation, but in practice, when I tried the demo the Hyperjump(teleportation) feels scary — I would suddenly teleport to another place without any warning. I really like the idea and think further exploration is required.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;expo-companies&quot;&gt;Expo: Companies&lt;/h2&gt;
+
+&lt;p&gt;I tried a ton of demos at the expo, these are the top most memorable three&lt;/p&gt;
+
+&lt;h3 id=&quot;omniverse&quot;&gt;Omniverse&lt;/h3&gt;
+
+&lt;p&gt;I was really really shocked when I saw a live demo of Nvidia’s Omniverse. The demo showcases a game development workflow of 3 people, using Maya, Unreal and Adobe Substance 3D respectively on their own laptops.&lt;/p&gt;
+
+&lt;p&gt;With Omniverse, everything is synced in real-time bi-directionally: if a new car is added in Unreal’s scene, it will be reflected in Maya and Substance 3D instantly. Then the artist in Substance 3D will pain the car, the texture will show up instantly in Unreal and Maya.&lt;/p&gt;
+
+&lt;p&gt;This workflow is very magical and can drastically increase a team’s collaboration efficiency. Under the hood, everything works because they are using Disney’s new and open Universal Scene Description (USD) format. 
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/siggraph22/omniverse.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/siggraph22/omniverse.jpg&quot; alt=&quot;&quot; class=&quot;w-100&quot; /&gt;
+
+    &lt;/a&gt;
+    
+        &lt;p class=&quot;text-center&quot;&gt;Omniverse Integarting 3 Different Workflow&lt;/p&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+
+&lt;h3 id=&quot;oppo-air-glass&quot;&gt;Oppo Air glass&lt;/h3&gt;
+
+&lt;p&gt;I tried Oppo’s Air glass, which is an extension screen you can attach to any glasses. It can display information like weather, messages and live translation.&lt;/p&gt;
+
+&lt;p&gt;In theory, it sounds very good, but when I tried it in practice, I need to constantly change my eye focus between the glass and the person I’m talking to in real life which result in fatigue very quickly. The major issue is that the info is not spatialized. Having a screen that constantly displays irrelevant info is also distracting. It’s a good tech demo but would need a lot more improvement to be consume-ready.&lt;/p&gt;
+
+&lt;h3 id=&quot;stretchsense-gloves&quot;&gt;StretchSense Gloves&lt;/h3&gt;
+
+&lt;p&gt;A current problem with optical hand tracking is that if the hand is obstructed, it can’t be tracked. StretchSense gloves managed to imbed a lot of senses in a normal looking glove, and send rotational information from each joint to their software, which will then convert the data to Unity/Unreal supported format.&lt;/p&gt;
+
+&lt;p&gt;On the update, the glove feels comfortable and does hand tracking very feel. But it comes at a hefty~$5k. It’s a good mocap solution and for research use, but probably not for consumer tech.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;animating-in-engine---real-time-production-workflows&quot;&gt;Animating In-Engine - Real-Time Production Workflows&lt;/h2&gt;
+
+&lt;p&gt;The folks at Epic Games showcased how you can create animations in-engineer without the need for professional software like Maya.&lt;/p&gt;
+
+&lt;p&gt;In the demo, the speaker is able to copy parts of one animation (jumping) and paste them to another animation (moving forward), the final result is a person hopping forward.&lt;/p&gt;
+
+&lt;p&gt;This is very impressive in that programmers can just download a few free mocap assets, and cut and paste different portions to combine to the desired motions. This makes prototyping ideas and making short video clips so much faster.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;tech-papers-ray-tracing--monte-carlo-methods&quot;&gt;Tech Papers: Ray Tracing &amp;amp; Monte Carlo Methods&lt;/h2&gt;
+
+&lt;h3 id=&quot;r2e2-low-latency-path-tracing-of-terabyte-scale-scenes-using-thousands-of-cloud-cpus&quot;&gt;R2E2: Low-latency Path Tracing of Terabyte-scale Scenes Using Thousands of Cloud CPUs&lt;/h3&gt;
+
+&lt;p&gt;Problem: if you need to render terabyte-scale scenes, and you don’t happen to own a super computer… you are out of luck&lt;/p&gt;
+
+&lt;p&gt;Solution: Why now rent thousands of CPUs to run at the same time? That’s what the author did, live, at the presentation — he rented thousands of AWS E3 instances and rendered a path-traced picture of a terabyte scene in ~1 mins.&lt;/p&gt;
+
+&lt;h3 id=&quot;generalized-resampled-importance-sampling-foundations-of-restir&quot;&gt;Generalized Resampled Importance Sampling: Foundations of ReSTIR&lt;/h3&gt;
+
+&lt;p&gt;Problem: Traditional ray tracing is very costly and slow, it also requires multiple passes to generate a good image.&lt;/p&gt;
+
+&lt;p&gt;Context: The ReSTIR approach - it reuses samples from previous frames to improve path distributions across frames (temporal reuse) and resample between this and nearby pixels (spatial reuse)&lt;/p&gt;
+
+&lt;p&gt;Solution: Through some cool math and magic that I don’t fully understand, the author generalized the ReSTIR approach to work on any domains without the need to know the exact PDF&lt;/p&gt;
+
+&lt;h3 id=&quot;regression-based-monte-carlo-integration&quot;&gt;Regression-based Monte Carlo Integration&lt;/h3&gt;
+
+&lt;p&gt;Problem: Solving integration is a hard but common problem in graphics, e.g. to light up one pixel properly, we need to calculate the integral of all the light paths connecting the pixel to the light source.&lt;/p&gt;
+
+&lt;p&gt;Context: Currently we mostly use Monte Carlo Integration, which randomly samples the function and averages those values to estimate the integral. However, this is only an estimate and has errors.&lt;/p&gt;
+
+&lt;p&gt;Solutions: the author proposes a new estimator using regression function + residual, this estimator is provable better than Monte Carlo. Because in the worst case, the regression will be a constant, which will produce the same result as Monte Carlo.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi all, welcome to my Siggraph series where I post the TLDR of the most memorable stuff I see at the conference.</summary></entry><entry><title type="html">Lightly Heavy</title><link href="http://localhost:4000/projects/2022/spring/Heavy" rel="alternate" type="text/html" title="Lightly Heavy" /><published>2022-02-04T16:40:23-08:00</published><updated>2022-02-04T16:40:23-08:00</updated><id>http://localhost:4000/projects/2022/spring/Heavy</id><content type="html" xml:base="http://localhost:4000/projects/2022/spring/Heavy">&lt;p&gt;Have you ever wondered what it feels like to fly in space? Well, now you can. This virtual reality game allows you to simulate space combat like in the Ender’s Game anytime and anywhere.&lt;/p&gt;
 
 &lt;p&gt;This app is built in 36 hours independently by Sebastian Yang with original music composed by William Ozeas. It is developed for HoyaHack and won &lt;strong&gt;the U.S. Space Force Award&lt;/strong&gt;. You can download it and try it out &lt;a href=&quot;https://github.com/SCP650/LightlyHeavy-UnityVR/releases&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 

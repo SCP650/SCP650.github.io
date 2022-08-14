@@ -21,11 +21,11 @@
      <meta name="title" property="og:title" content= "Siggraph 2022 Day 2 | Sebastian Yang" />
      
      
-     <meta name="description" property="og:description" content="A hub for all the cool projects I've worked on" />
+     <meta name="description" property="og:description" content= "A TLDR of the cool things I saw on Day 2 of Siggraph"/>
      
      <meta property="og:type" content="Website" />
      
-     <meta name="image" property="og:image" content="https://sebastianyang.com/images/projects/LightlyHeavy/icon.png" />
+     <meta name="image" property="og:image" content="https://sebastianyang.com/images/projects/siggraph22/icon.jpg" />
      
      <meta name="author" content="Sebastian Yang" />
     <!-- Bootstrap CSS -->
@@ -93,20 +93,6 @@
 <div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
 <!--Indicators-->
 
-<ol class="carousel-indicators">
-  
-  <li data-target="#carousel-example-2" data-slide-to="1"  class="active" ></li>
-  
-  <li data-target="#carousel-example-2" data-slide-to="2" ></li>
-  
-  <li data-target="#carousel-example-2" data-slide-to="3" ></li>
-  
-  <li data-target="#carousel-example-2" data-slide-to="4" ></li>
-  
-  <li data-target="#carousel-example-2" data-slide-to="5" ></li>
-  
-</ol>
-
 <!--/.Indicators-->
 <!--Slides-->
 
@@ -114,35 +100,7 @@
   
  <div class="carousel-item   active ">
     <div class="view">
-      <img class="d-block w-100"  src="/images/projects/LightlyHeavy//game0.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
-      <div class="mask rgba-black-light"></div>
-    </div>
-  </div>
-  
- <div class="carousel-item  ">
-    <div class="view">
-      <img class="d-block w-100"  src="/images/projects/LightlyHeavy//game1.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
-      <div class="mask rgba-black-light"></div>
-    </div>
-  </div>
-  
- <div class="carousel-item  ">
-    <div class="view">
-      <img class="d-block w-100"  src="/images/projects/LightlyHeavy//game2.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
-      <div class="mask rgba-black-light"></div>
-    </div>
-  </div>
-  
- <div class="carousel-item  ">
-    <div class="view">
-      <img class="d-block w-100"  src="/images/projects/LightlyHeavy//game3.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
-      <div class="mask rgba-black-light"></div>
-    </div>
-  </div>
-  
- <div class="carousel-item  ">
-    <div class="view">
-      <img class="d-block w-100"  src="/images/projects/LightlyHeavy//game4.png" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
+      <img class="d-block w-100"  src="/images/projects/siggraph22//p0.jpg" alt=" Image. But for some reason is not showing up. Either you just broke my website, or I made a typo. I think it's the latter. Lmk when you see this ">
       <div class="mask rgba-black-light"></div>
     </div>
   </div>
@@ -151,15 +109,6 @@
 <!--/.Slides-->
 
 <!--Controls-->
-
-<a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
-  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  <span class="sr-only">Previous</span>
-</a>
-<a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
-  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  <span class="sr-only">Next</span>
-</a>
 
 <!--/.Controls-->
 
@@ -176,11 +125,111 @@
 <div class="container w-75 mb-4">
 <h3>Overview</h3>
 <p>2022 Summer </p>
-   <p>This is a test blog post!</p>
+   <p>Hi all, welcome to my Siggraph series where I post the TLDR of the most memorable stuff I see at the conference.</p>
 
-<h2 id="some-thoughts">Some Thoughts…</h2>
+<p>This started as some rambling notes I took during the conference, and I just cleaned it up a bit. It may not be the most accurate (especially the technical papers) but feel free to take a look!</p>
 
-<p>This is a test blog post!</p>
+<h2 id="day-2-events-ive-attended">Day 2 Events I’ve attended:</h2>
+
+<ul>
+  <li>Tech Papers: <strong>Ray Tracing &amp; Monte Carlo Methods</strong></li>
+  <li>Expo: <strong>Emerging Technologies</strong> + <strong>Immersive Pavilion</strong></li>
+  <li>Presentation: <strong>Advances in Real-Time Rendering in Games: Part II</strong></li>
+  <li>Expo: Companies</li>
+  <li>Unreal Talk: <strong>Animating In-Engine - Real-Time Production Workflows</strong></li>
+  <li>Expo: Appy Hour</li>
+</ul>
+
+<h2 id="highlights">Highlights</h2>
+<hr />
+<h2 id="immersive-pavilion">Immersive Pavilion</h2>
+
+<h3 id="a-vr-locomotion-method-that-kinda-solves-motion-sickness">A VR Locomotion Method that (kinda) Solves Motion Sickness</h3>
+
+<p>What is it: The demo is called “<strong>HyperJumping</strong>” by Bernhard E. Riecke. It has two parts: lean based locomotion and hyperjump.</p>
+
+<p><strong>Lean-Based Locomotion</strong>: instead of pushing a thumbstick, you have to physically lean forward to move forward. Since your body is actually leaning forward as your visual changes, it’s less dizzy.</p>
+
+<p><strong>Hyperjump</strong>: when the user reached a max speed, it will automatically teleport the user for a segment, and then the user will continue to travel at max speed.</p>
+
+<p>Use case: if a person wants to travel long distances in VR, they don’t want to use smooth locomotion (which is dizzy) and don’t want to teleport (since they will miss the view), they will use lean-based movement + hyperjump.</p>
+
+<p>Sebastian’s Review: conceptually this is a very interesting idea — combining physical movement with smooth locomotion and teleportation, but in practice, when I tried the demo the Hyperjump(teleportation) feels scary — I would suddenly teleport to another place without any warning. I really like the idea and think further exploration is required.</p>
+
+<hr />
+<h2 id="expo-companies">Expo: Companies</h2>
+
+<p>I tried a ton of demos at the expo, these are the top most memorable three</p>
+
+<h3 id="omniverse">Omniverse</h3>
+
+<p>I was really really shocked when I saw a live demo of Nvidia’s Omniverse. The demo showcases a game development workflow of 3 people, using Maya, Unreal and Adobe Substance 3D respectively on their own laptops.</p>
+
+<p>With Omniverse, everything is synced in real-time bi-directionally: if a new car is added in Unreal’s scene, it will be reflected in Maya and Substance 3D instantly. Then the artist in Substance 3D will pain the car, the texture will show up instantly in Unreal and Maya.</p>
+
+<p>This workflow is very magical and can drastically increase a team’s collaboration efficiency. Under the hood, everything works because they are using Disney’s new and open Universal Scene Description (USD) format. 
+<br /></p>
+<div class="image-wrapper">
+    
+      <a href=" /images/projects/siggraph22/omniverse.jpg" title="" target="_blank">
+    
+        <img src=" /images/projects/siggraph22/omniverse.jpg" alt="" class="w-100" />
+
+    </a>
+    
+        <p class="text-center">Omniverse Integarting 3 Different Workflow</p>
+    
+
+
+</div>
+
+<!-- source from https://superdevresources.com/image-caption-jekyll/ -->
+
+<h3 id="oppo-air-glass">Oppo Air glass</h3>
+
+<p>I tried Oppo’s Air glass, which is an extension screen you can attach to any glasses. It can display information like weather, messages and live translation.</p>
+
+<p>In theory, it sounds very good, but when I tried it in practice, I need to constantly change my eye focus between the glass and the person I’m talking to in real life which result in fatigue very quickly. The major issue is that the info is not spatialized. Having a screen that constantly displays irrelevant info is also distracting. It’s a good tech demo but would need a lot more improvement to be consume-ready.</p>
+
+<h3 id="stretchsense-gloves">StretchSense Gloves</h3>
+
+<p>A current problem with optical hand tracking is that if the hand is obstructed, it can’t be tracked. StretchSense gloves managed to imbed a lot of senses in a normal looking glove, and send rotational information from each joint to their software, which will then convert the data to Unity/Unreal supported format.</p>
+
+<p>On the update, the glove feels comfortable and does hand tracking very feel. But it comes at a hefty~$5k. It’s a good mocap solution and for research use, but probably not for consumer tech.</p>
+
+<hr />
+<h2 id="animating-in-engine---real-time-production-workflows">Animating In-Engine - Real-Time Production Workflows</h2>
+
+<p>The folks at Epic Games showcased how you can create animations in-engineer without the need for professional software like Maya.</p>
+
+<p>In the demo, the speaker is able to copy parts of one animation (jumping) and paste them to another animation (moving forward), the final result is a person hopping forward.</p>
+
+<p>This is very impressive in that programmers can just download a few free mocap assets, and cut and paste different portions to combine to the desired motions. This makes prototyping ideas and making short video clips so much faster.</p>
+
+<hr />
+<h2 id="tech-papers-ray-tracing--monte-carlo-methods">Tech Papers: Ray Tracing &amp; Monte Carlo Methods</h2>
+
+<h3 id="r2e2-low-latency-path-tracing-of-terabyte-scale-scenes-using-thousands-of-cloud-cpus">R2E2: Low-latency Path Tracing of Terabyte-scale Scenes Using Thousands of Cloud CPUs</h3>
+
+<p>Problem: if you need to render terabyte-scale scenes, and you don’t happen to own a super computer… you are out of luck</p>
+
+<p>Solution: Why now rent thousands of CPUs to run at the same time? That’s what the author did, live, at the presentation — he rented thousands of AWS E3 instances and rendered a path-traced picture of a terabyte scene in ~1 mins.</p>
+
+<h3 id="generalized-resampled-importance-sampling-foundations-of-restir">Generalized Resampled Importance Sampling: Foundations of ReSTIR</h3>
+
+<p>Problem: Traditional ray tracing is very costly and slow, it also requires multiple passes to generate a good image.</p>
+
+<p>Context: The ReSTIR approach - it reuses samples from previous frames to improve path distributions across frames (temporal reuse) and resample between this and nearby pixels (spatial reuse)</p>
+
+<p>Solution: Through some cool math and magic that I don’t fully understand, the author generalized the ReSTIR approach to work on any domains without the need to know the exact PDF</p>
+
+<h3 id="regression-based-monte-carlo-integration">Regression-based Monte Carlo Integration</h3>
+
+<p>Problem: Solving integration is a hard but common problem in graphics, e.g. to light up one pixel properly, we need to calculate the integral of all the light paths connecting the pixel to the light source.</p>
+
+<p>Context: Currently we mostly use Monte Carlo Integration, which randomly samples the function and averages those values to estimate the integral. However, this is only an estimate and has errors.</p>
+
+<p>Solutions: the author proposes a new estimator using regression function + residual, this estimator is provable better than Monte Carlo. Because in the worst case, the regression will be a constant, which will produce the same result as Monte Carlo.</p>
 
    
 </div>
