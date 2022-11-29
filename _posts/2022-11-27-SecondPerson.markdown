@@ -26,7 +26,7 @@ In this game, there are two players and two guns on the table. The goal is very 
 
 What does that actually mean? In this clip, it may look like a normal first-person game but you are not controlling yourself -- if you raise your VR controller, the character in front of you will raise their hand, not the character you are in the perspective of. 
 
-Originally I thought this would be as if I'm controlling myself through a mirror, but in reality, it is much worst ...
+Originally I thought this would be as if I'm controlling myself through a mirror, but in reality, it is much worse ...
 
 You can try it out [here](https://github.com/SCP650/SecondPersonVRGame/releases/tag/v1)
 
@@ -38,9 +38,9 @@ You can try it out [here](https://github.com/SCP650/SecondPersonVRGame/releases/
 
 To make a true second-person game meant you cannot control the camera, since the camera is technically on the head of another character who you don't control -- you just happen to look out from their perspective.
 
-What that meant for VR is that when you move your head to look right, the view you are seeing is not moving, instead, you have to ask the other player to move their head to look right so that you can see what's on the right. 
+What that means for VR is that when you move your head to look right, the view you are seeing is not moving, instead, you have to ask the other player to move their head to look right so that you can see what's on the right. 
 
-This also meant if the other player moves their head randomly, their view is not going to be impacted (since your head is not moving), but your view will move randomly causing vertigo and dizziness. 
+This also means if the other player moves their head randomly, their view is not going to be impacted (since your head is not moving), but your view will move randomly causing vertigo and dizziness. 
 
 
 ### 2. A Compatitive Game Become Cooperative Quickly 
@@ -57,7 +57,7 @@ Hence we end up spending the majority of the play time telling the other party h
 
 One added difficulty I wasn't expecting before was that when A wants to look left, A will not only give instructions to B to look left but also instinctively move their head to the left -- this means it's also disrupting B's view.
 
-And then B's view is disrupted, B will instinctively move their head in the opposite direction, further disrupting A's view. This would create a compound effect what gets worst more and more...
+And then B's view is disrupted, B will instinctively move their head in the opposite direction, further disrupting A's view. This would create a compound effect what gets worse very quickly...
 
 ## Some Thoughts...
 
