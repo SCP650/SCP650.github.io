@@ -1,5 +1,5 @@
 ---
-title: Second Person VR Game
+title: A Second Person VR Game
 date: 2022-11-27 01:40:23 -0400 #date this page is written
 role: VR Developer 
 categories: projects 2022 fall  #project folder, beginning year and season
