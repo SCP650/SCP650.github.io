@@ -53,7 +53,7 @@ In the video, you can see we struggle to get our own character inside our view. 
 
 Hence we end up spending the majority of the play time telling the other party how to move their head -- "Can you look right?","Can you look left?" -- which I guess makes this a successful second-person game..? but not an enjoyable game. 
 
-### 3. Player Will Instincltively Move Their Head to Adjust the Camera 
+### 3. Player Will Instinctively Move Their Head to Adjust the Camera 
 
 One added difficulty I wasn't expecting before was that when A wants to look left, A will not only give instructions to B to look left but also instinctively move their head to the left -- this means it's also disrupting B's view.
 
