@@ -1,15 +1,15 @@
 <br>
-<div class="image-wrapper" >
+<div class="image-wrapper text-center" >
     {% if include.url %}
     <a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
       {% else %}
       <a href=" {{page.assetLoco}}/{{include.img }}"  title="{{ include.title }}" target="_blank">
     {% endif %}
-        <img src=" {{page.assetLoco}}/{{include.img }}" alt="{{ include.title }}" class="w-100"/>
+        <img src=" {{page.assetLoco}}/{{include.img }}" alt="{{ include.title }}" class="{% if include.size == 'small' %} w-75 text-center {%else%} w-100 {%endif%}"/>
 
     </a>
     {% if include.caption %}
-        <p class="text-center">{{ include.caption }}</p>
+        <p>{{ include.caption }}</p>
     {% else %}
     <br>
     {% endif %}

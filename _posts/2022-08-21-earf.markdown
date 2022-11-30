@@ -1,0 +1,43 @@
+---
+title: Earf
+date: 2022-08-21 01:40:23 -0400 #date this page is written
+role: AR Developer 
+categories: projects 2022 Summer  #project folder, beginning year and season
+tags: All  AR_VR  Software_Engineer
+#tags options: Highlight Event_Planning Entrepreneurship Product_Project_Management Game_Design Marketing Negotiation  Web_Design
+description: Generate Gorgeous Planets 
+start-season: "2022 Summer"
+#this is a bad practice
+assetLoco: /images/projects/earf
+coverPic: /icon.png
+carousel:
+  - image: /pic0.png
+  - image: /pic1.png
+  - image: /pic2.png
+---
+
+Enjoying pictures of Earth? Why not try Earf!
+
+- Tap on the screen to generate gorgeous planets
+- Move your device around to view them up close
+- Simulate physics to see planets collide!
+
+
+To download the full app: [Apple App Store](https://apps.apple.com/us/app/earf-ar-planets/id1641207075)
+
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/UuTJdkB-cac" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
+## Under the Hood 
+
+This app is made with Unity using AR Foundation. Each terrains is procedurally genearted using multiple layers of perlin noise. A custom shader is made to coloring the planets with random gradients based on the distance of each vertex to the center. It simulations physically (sorta) accurate gravitational force. And also has a random name generator to give your pet planets names!
+
+## How is it made?
+
+{% include image.html img="p1.png" caption="Starting with a blob" size = "small"%}
+{% include image.html img="p2.png" caption="Make it round" size = "small"%}
+{% include image.html img="p3.png" caption="Sprinkle some perlin noise" size = "small"%}
+{% include image.html img="p4.png" caption="Clamp the noise to make ocean surface" size = "small"%}
+{% include image.html img="p5.png" caption="Paint the mountains with a shader" size = "small"%}
+{% include image.html img="p6.png" caption="Paint the planet with a shader" size = "small"%}
+{% include image.html img="p7.png" caption="Paint the ocean depths with a shader" size = "small"%}
+{% include image.html img="p8.png" caption="Done!"%}

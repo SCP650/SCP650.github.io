@@ -175,15 +175,15 @@
 
 <p>Because pygame doesn’t support scenes switching like the ones in Unity, I wrote some scene switching codes that basically calls to different redrawAll or timerFired when in a different mode. I think this method is covered in class as well so I will not elaborate further here. You can learn more here:<a href="http://www.krivers.net/15112-s18/notes/notes-animations-demos.html"> Mode Demo </a>
 <br /></p>
-<div class="image-wrapper">
+<div class="image-wrapper text-center">
     
       <a href=" /images/projects/15112/Mode_Demo.png" title="" target="_blank">
     
-        <img src=" /images/projects/15112/Mode_Demo.png" alt="" class="w-100" />
+        <img src=" /images/projects/15112/Mode_Demo.png" alt="" class=" w-100 " />
 
     </a>
     
-        <p class="text-center">Mode Demo</p>
+        <p>Mode Demo</p>
     
 
 
@@ -195,15 +195,15 @@
 
 <p>Local two-player multiplayer mode is the MVP for this game. The tricky part is how to check collision between tanks and the map as well as bullets and the map. The map is generated as a png image with walls as black pixels and passage as transparent background (zero alpha channel). The tank is just a sprite image of a cartoon tank.
 <br /></p>
-<div class="image-wrapper">
+<div class="image-wrapper text-center">
     
       <a href=" /images/projects/15112/Two_Player_Mode.png" title="" target="_blank">
     
-        <img src=" /images/projects/15112/Two_Player_Mode.png" alt="" class="w-100" />
+        <img src=" /images/projects/15112/Two_Player_Mode.png" alt="" class=" w-100 " />
 
     </a>
     
-        <p class="text-center">Two Player Mode</p>
+        <p>Two Player Mode</p>
     
 
 
@@ -219,15 +219,15 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 <p>Another thing you might want to look out for in MVP is the frame rate. In my first prototype, the bullets speed per second is faster than the frame rate per second. Due to high speed, it can move to pass the width of the wall before the next collision check. Hence, the bouncy wall effect I wanted cannot be achieved. At first, I thought this was a programming problem, so I kept trying to tweak the collision method. So just beware that frame rate can mess with your collision test.
 <br /></p>
-<div class="image-wrapper">
+<div class="image-wrapper text-center">
     
       <a href=" /images/projects/15112/Three_Player_Mode.png" title="" target="_blank">
     
-        <img src=" /images/projects/15112/Three_Player_Mode.png" alt="" class="w-100" />
+        <img src=" /images/projects/15112/Three_Player_Mode.png" alt="" class=" w-100 " />
 
     </a>
     
-        <p class="text-center">Three Player Mode</p>
+        <p>Three Player Mode</p>
     
 
 
@@ -241,15 +241,15 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 <p>Oh boy, this is the hardest part of the game. I need to program an AI tank that can navigate, shoot and avoid bullets. Theoretically, if I have the map stored in a 2D list, I can just use a backtrack function and update AI’s path periodically. The algorithms would not be very hard to write. The problem, though, is that I did not store the map in a 2D list.
 <br /></p>
-<div class="image-wrapper">
+<div class="image-wrapper text-center">
     
       <a href=" /images/projects/15112/AI_Mode.png" title="" target="_blank">
     
-        <img src=" /images/projects/15112/AI_Mode.png" alt="" class="w-100" />
+        <img src=" /images/projects/15112/AI_Mode.png" alt="" class=" w-100 " />
 
     </a>
     
-        <p class="text-center">AI Mode</p>
+        <p>AI Mode</p>
     
 
 
@@ -263,15 +263,15 @@ in their games. This may not work because sprite.collide treats the map as a spr
 
 <p>In my third iteration, I write a “ray casting” function. Basically, I will send out 8 different bullets to 8 direction periodically. These bullets will not be drawn. This ray cast can let the tank know which direction has more space and which direction is a dead end. The tank can then make a decision about turning base on this information.
 <br /></p>
-<div class="image-wrapper">
+<div class="image-wrapper text-center">
     
       <a href=" /images/projects/15112/Ray_Casting.png" title="" target="_blank">
     
-        <img src=" /images/projects/15112/Ray_Casting.png" alt="" class="w-100" />
+        <img src=" /images/projects/15112/Ray_Casting.png" alt="" class=" w-100 " />
 
     </a>
     
-        <p class="text-center">Ray Casting</p>
+        <p>Ray Casting</p>
     
 
 
