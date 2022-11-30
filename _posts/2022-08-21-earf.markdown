@@ -11,12 +11,12 @@ start-season: "2022 Summer"
 assetLoco: /images/projects/earf
 coverPic: /icon.png
 carousel:
-  - image: /pic0.png
-  - image: /pic1.png
-  - image: /pic2.png
+  - image: /bg0.png
+  - image: /bg1.png
+  - image: /bg2.png
 ---
 
-Enjoying pictures of Earth? Why not try Earf!
+Enjoying pictures of Earth? Why not try Earf -- the AR Planet Generator!
 
 - Tap on the screen to generate gorgeous planets
 - Move your device around to view them up close
@@ -31,7 +31,7 @@ To download the full app: [Apple App Store](https://apps.apple.com/us/app/earf-a
 
 This app is made with Unity using AR Foundation. Each terrains is procedurally genearted using multiple layers of perlin noise. A custom shader is made to coloring the planets with random gradients based on the distance of each vertex to the center. It simulations physically (sorta) accurate gravitational force. And also has a random name generator to give your pet planets names!
 
-## How is it made?
+## How was it made?
 
 {% include image.html img="p1.png" caption="Starting with a blob" size = "small"%}
 {% include image.html img="p2.png" caption="Make it round" size = "small"%}
