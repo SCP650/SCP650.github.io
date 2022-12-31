@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-11-29T19:40:22-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">A Second Person VR Game</title><link href="http://localhost:4000/projects/2022/fall/SecondPerson" rel="alternate" type="text/html" title="A Second Person VR Game" /><published>2022-11-26T21:40:23-08:00</published><updated>2022-11-26T21:40:23-08:00</updated><id>http://localhost:4000/projects/2022/fall/SecondPerson</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/SecondPerson">&lt;p&gt;Have you ever played a second-person multiplayer VR shooting game? Me neither, so I made one over the Thanksgiving break.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-31T14:22:16-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Match-3 Siege</title><link href="http://localhost:4000/projects/2022/winter/Match3Shooter" rel="alternate" type="text/html" title="Match-3 Siege" /><published>2022-12-30T01:40:23-08:00</published><updated>2022-12-30T01:40:23-08:00</updated><id>http://localhost:4000/projects/2022/winter/Match3Shooter</id><content type="html" xml:base="http://localhost:4000/projects/2022/winter/Match3Shooter">&lt;p&gt;Match-3 games like Candy Crash are some of the most popular games on mobile, while shooter games like Call of Duty are some of the most popular games on PC.&lt;/p&gt;
+
+&lt;p&gt;What if we combine the two?&lt;/p&gt;
+
+&lt;p&gt;Introducing Match-3 Siege!&lt;/p&gt;
+
+&lt;h2 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h2&gt;
+
+&lt;p&gt;In this game, you’ll be part of either the attacking or defending team. The attackers must destroy all of the colored spheres on the field, while the defenders must protect them.&lt;/p&gt;
+
+&lt;p&gt;To destroy the spheres, attackers must shoot and match three or more of the same color, while countering defenders’ fire.&lt;/p&gt;
+
+&lt;p&gt;To defend the sphere, the defenders need to find and guard strategic positions to prevent match-3 to happen (e.g. blue blue red blue) while inserting a new sphere into the field every 30s to make it harder for the attackers. (e.g. blue yellow blue red blue)&lt;/p&gt;
+
+&lt;p&gt;If the attackers succeed in destroying all the spheres before time runs out, they win! But if there are any spheres remaining at the end of the game, the defenders win.&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/saNxsox4Wz8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The video above is a single-player demo I made for this idea. Even though it’s against AI, you can already feel the intense and fast-path adrenaline rush caused by constantly switching between playing match-3 while fighting against enemies.&lt;/p&gt;
+
+&lt;p&gt;I think this can be another game mode in addition to team deathmatch, search and destroy and battle royal. Let me know what you think!&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;This is made independently by me with Unreal Engine 5.1 and C++. This is my first time making Unreal games with C++ and it has been a great learning experience! I used free 3D and animation assets and implemented these:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;animation blending using blendspace&lt;/li&gt;
+  &lt;li&gt;input mapping for locomotion&lt;/li&gt;
+  &lt;li&gt;AI bahavior tree and blackboard for enemies&lt;/li&gt;
+  &lt;li&gt;hook up particles and sound for shooting&lt;/li&gt;
+  &lt;li&gt;lose and win conditions&lt;/li&gt;
+  &lt;li&gt;the match-3 systems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;PS: I created the icon of this page using text to image AI.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Game_Development" /><summary type="html">Match-3 games like Candy Crash are some of the most popular games on mobile, while shooter games like Call of Duty are some of the most popular games on PC.</summary></entry><entry><title type="html">A Second Person VR Game</title><link href="http://localhost:4000/projects/2022/fall/SecondPerson" rel="alternate" type="text/html" title="A Second Person VR Game" /><published>2022-11-26T21:40:23-08:00</published><updated>2022-11-26T21:40:23-08:00</updated><id>http://localhost:4000/projects/2022/fall/SecondPerson</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/SecondPerson">&lt;p&gt;Have you ever played a second-person multiplayer VR shooting game? Me neither, so I made one over the Thanksgiving break.&lt;/p&gt;
 
 &lt;p&gt;Well, we first need to figure out what is a second-person game.&lt;/p&gt;
 
@@ -425,7 +461,56 @@
 
 &lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
 
-&lt;p&gt;This is made independently by me with Unity’s free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.</summary></entry><entry><title type="html">Haunted VR</title><link href="http://localhost:4000/projects/2021/fall/Haunted" rel="alternate" type="text/html" title="Haunted VR" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Haunted</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Haunted">&lt;p&gt;Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.&lt;/p&gt;
+&lt;p&gt;This is made independently by me with Unity’s free 3D Snaps Prototype assets, free skyboxes, the Oculus Plugin and the BNG Interaction Framework. This app is made in Unity with Oculus Quest 2. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><summary type="html">Have you ever felt exhausted after a long day of work? Wanting to find a safe and private place to let it all out? Well, now you can. This application allows you to release all your stress and anger whenever you want and wherever you are. This is a rage room in virtual reality that gives you a baseball bat, and a lot of monitors.</summary></entry><entry><title type="html">Phight COVID</title><link href="http://localhost:4000/projects/2021/fall/Phight" rel="alternate" type="text/html" title="Phight COVID" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Phight</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Phight">&lt;p&gt;On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both &lt;a href=&quot;https://www.post-gazette.com/news/health/2021/12/12/Covid-mask-mandates-Pitt-CMU-research-delta/stories/202112080149&quot;&gt;Pittsburgh Post Gazette&lt;/a&gt; and &lt;a href=&quot;https://www.npr.org/sections/health-shots/2021/12/16/1064668750/state-mask-mandates-omicron&quot;&gt;NPR&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h2&gt;
+&lt;p&gt;We explore a variety of research question, each about the effectiveness of mask mandates at the state-level in the United States.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;How varied was mask mandate policy at the state-level?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How long does it take after a mask mandate intervention to see an impact on COVID cases?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Does effectiveness of mask mandates vary by season?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mask Mandates in the Delta Wave&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Were mask mandates in the Delta Wave effective?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;How does vaccination rate interact with mask mandate effectiveness?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;full-interactive-report&quot;&gt;Full Interactive Report&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.stat.cmu.edu/capstoneresearch/490files/poster6.html&quot;&gt;linkt to report&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4pJAN3VpOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-coorelation--causation&quot;&gt;1. Coorelation != Causation&lt;/h3&gt;
+
+&lt;p&gt;This may seem very obvious. However, the reality is we only have observational data but we want to draw a causal conclusion. What we end up doing is trying to account for confounding factors. One example is the graph my colleague Jimmy made where he compare the effectiveness of masks between states with similar vaccine rates. Even though we couldn’t account for every possible confound factor, we try to address the major and impactful ones.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-interactive-graphs-is-a-saver&quot;&gt;2. Interactive Graphs is a Saver&lt;/h3&gt;
+
+&lt;p&gt;Graphs are good ways to visualize data but if it contains too much information then it becomes overwhelming. Interactive graphs are a balance between the two – it allows the readers to easily get the gist but also open to inspect individual data points in depth.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-data-reports-are-subject-to-manipulation&quot;&gt;3. Data Reports are Subject to Manipulation&lt;/h3&gt;
+
+&lt;p&gt;In our research, we try out best to maintain objectivity. However, we can clearly see that it’s very easy for the researcher to manipulate the analysis so that they can see the results they want: e.g. using different success criteria, comparator, or calculation methods. In an academic research paper, this may be very apparent, but in a corporate setting where the people only skim the conclusion and the graph, it leaves a lot of room for manipulation. Hence, it’s advisable for PMs to understand how the data analysis is conducted to ensure it’s not intentionally or accidentally manipulated.&lt;/p&gt;
+
+&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
+
+&lt;p&gt;We utilized R with various packages including tidyverse, ggplot2, and plotly.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both Pittsburgh Post Gazette and NPR.</summary></entry><entry><title type="html">Haunted VR</title><link href="http://localhost:4000/projects/2021/fall/Haunted" rel="alternate" type="text/html" title="Haunted VR" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Haunted</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Haunted">&lt;p&gt;Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.&lt;/p&gt;
 
 &lt;p&gt;You woke up in a completely dark house with only a candle in your hand. If you wave your hand too fast, the candle goes out, and game over. The game is consists of six rooms, each room has a unique set of mechanics that will be randomly activated. You need to reclaim three memory shards that are randomly scattered in some of the six rooms.&lt;/p&gt;
 
@@ -533,56 +618,7 @@
 &lt;/div&gt;
 
 &lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Highlights" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.</summary></entry><entry><title type="html">Phight COVID</title><link href="http://localhost:4000/projects/2021/fall/Phight" rel="alternate" type="text/html" title="Phight COVID" /><published>2021-12-11T16:40:23-08:00</published><updated>2021-12-11T16:40:23-08:00</updated><id>http://localhost:4000/projects/2021/fall/Phight</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Phight">&lt;p&gt;On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both &lt;a href=&quot;https://www.post-gazette.com/news/health/2021/12/12/Covid-mask-mandates-Pitt-CMU-research-delta/stories/202112080149&quot;&gt;Pittsburgh Post Gazette&lt;/a&gt; and &lt;a href=&quot;https://www.npr.org/sections/health-shots/2021/12/16/1064668750/state-mask-mandates-omicron&quot;&gt;NPR&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;research-questions&quot;&gt;Research Questions&lt;/h2&gt;
-&lt;p&gt;We explore a variety of research question, each about the effectiveness of mask mandates at the state-level in the United States.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;How varied was mask mandate policy at the state-level?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How long does it take after a mask mandate intervention to see an impact on COVID cases?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Does effectiveness of mask mandates vary by season?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Mask Mandates in the Delta Wave&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Were mask mandates in the Delta Wave effective?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;How does vaccination rate interact with mask mandate effectiveness?&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;full-interactive-report&quot;&gt;Full Interactive Report&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.stat.cmu.edu/capstoneresearch/490files/poster6.html&quot;&gt;linkt to report&lt;/a&gt;&lt;/p&gt;
-
-&lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/4pJAN3VpOBE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
-
-&lt;h3 id=&quot;1-coorelation--causation&quot;&gt;1. Coorelation != Causation&lt;/h3&gt;
-
-&lt;p&gt;This may seem very obvious. However, the reality is we only have observational data but we want to draw a causal conclusion. What we end up doing is trying to account for confounding factors. One example is the graph my colleague Jimmy made where he compare the effectiveness of masks between states with similar vaccine rates. Even though we couldn’t account for every possible confound factor, we try to address the major and impactful ones.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-interactive-graphs-is-a-saver&quot;&gt;2. Interactive Graphs is a Saver&lt;/h3&gt;
-
-&lt;p&gt;Graphs are good ways to visualize data but if it contains too much information then it becomes overwhelming. Interactive graphs are a balance between the two – it allows the readers to easily get the gist but also open to inspect individual data points in depth.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-data-reports-are-subject-to-manipulation&quot;&gt;3. Data Reports are Subject to Manipulation&lt;/h3&gt;
-
-&lt;p&gt;In our research, we try out best to maintain objectivity. However, we can clearly see that it’s very easy for the researcher to manipulate the analysis so that they can see the results they want: e.g. using different success criteria, comparator, or calculation methods. In an academic research paper, this may be very apparent, but in a corporate setting where the people only skim the conclusion and the graph, it leaves a lot of room for manipulation. Hence, it’s advisable for PMs to understand how the data analysis is conducted to ensure it’s not intentionally or accidentally manipulated.&lt;/p&gt;
-
-&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
-
-&lt;p&gt;We utilized R with various packages including tidyverse, ggplot2, and plotly.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Data_Analysis" /><summary type="html">On March 11, 2020, the World Health Organization (WHO)’s declaration of COVID-19 as a pandemic caused widespread panic and alarm across the United States. One of the biggest shocks about the results of the pandemic was that the U.S. fared worse than other countries, “with more than 29 million cases and nearly 530,000 deaths” (Scientific American). As a result, there is an urgent need to understand the mistakes that were made which led to where we are today. This study is referenced on both Pittsburgh Post Gazette and NPR.</summary></entry><entry><title type="html">Vinder</title><link href="http://localhost:4000/projects/2021/fall/Vinder" rel="alternate" type="text/html" title="Vinder" /><published>2021-10-04T17:40:23-07:00</published><updated>2021-10-04T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/fall/Vinder</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Vinder">&lt;p&gt;Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Highlights" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Haunted is a VR horror game where the only enemy is yourself. In this game, there are no monsters or enemies that hurt you, instead, the only way to lose is if you got scared.</summary></entry><entry><title type="html">Vinder</title><link href="http://localhost:4000/projects/2021/fall/Vinder" rel="alternate" type="text/html" title="Vinder" /><published>2021-10-04T17:40:23-07:00</published><updated>2021-10-04T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/fall/Vinder</id><content type="html" xml:base="http://localhost:4000/projects/2021/fall/Vinder">&lt;p&gt;Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.&lt;/p&gt;
 
 &lt;p&gt;Why not have your first date in a safe and goofy environment, like in virtual reality? Our app Vinder envisions how dating will look like in the Metaverse. It’s a standalone app built for Oculus Quest. Using Vinder you can not only get matches but also have your first date in a fun interactive VR environment!&lt;/p&gt;
 
@@ -595,56 +631,4 @@
 
 &lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
 
-&lt;p&gt;This app is made in Unity with Oculus Quest 2. It uses Photon server to facilitate live virtual meetings between matches. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.</summary></entry><entry><title type="html">Artlas Mobile AR App</title><link href="http://localhost:4000/projects/2021/spring/Artlas" rel="alternate" type="text/html" title="Artlas Mobile AR App" /><published>2021-05-20T17:40:23-07:00</published><updated>2021-05-20T17:40:23-07:00</updated><id>http://localhost:4000/projects/2021/spring/Artlas</id><content type="html" xml:base="http://localhost:4000/projects/2021/spring/Artlas">&lt;p&gt;Point your camera to a building, and Artlas will put its name in front of it!&lt;/p&gt;
-
-&lt;p&gt;The next time when you want to find the name of a building, no need to circle all the way to the front to read its name or zoom in and out on your Maps app. Just point and click with Artlas!&lt;/p&gt;
-
-&lt;p&gt;This app is currently available only in parts of certain cities. When the time is right, head out and see if it works in your area!&lt;/p&gt;
-
-&lt;p&gt;This app is developed by Sebastian Yang for fun.
-Built with Swift, ARKit, RealityKit, MapKit, UIKit, and CoreLocation&lt;/p&gt;
-
-&lt;p&gt;To download the full app: &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot;&gt;Apple App Store&lt;/a&gt;
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper text-center&quot;&gt;
-    
-    &lt;a href=&quot;https://apps.apple.com/us/app/artlas-ar-building-names/id1567798806&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-      
-        &lt;img src=&quot; /images/projects/Artlas/screenshot.png&quot; alt=&quot;&quot; class=&quot; w-100 &quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p&gt;Available on App Store&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h2 id=&quot;main-takeaways&quot;&gt;Main Takeaways&lt;/h2&gt;
-&lt;p&gt;This is my first AR app. I learned a lot of cool technical stuff using ARkit, but here are some of my main takeaways that might be helpful to anyone developing AR apps.&lt;/p&gt;
-
-&lt;h3 id=&quot;1-user-guidance-and-showing-actionable-steps-in-ar-are-critical&quot;&gt;1. User Guidance and Showing Actionable Steps in AR are Critical&lt;/h3&gt;
-
-&lt;p&gt;Most apps only need to guide the user once at the beginning and most actionable steps are implicit and self-explanatory: you see the Wifi bar goes down, you will move closer to the WIFI.&lt;/p&gt;
-
-&lt;p&gt;But not in AR. In AR, we have to constantly guide and inform the user about the current state of the app such as tracking availability, accuracy, and actionable steps to improve it. In AR Geotracking, we also need to tell the user why the app fail to localize the user and how to solve it (trees blocking the view? Move too fast? No buildings in view? etc). A case in point is, in Artlas, if the user looks down, the app will explicitly prompt the user to look up.&lt;/p&gt;
-
-&lt;p&gt;These guidances are critical to ensure a smooth user experience.&lt;/p&gt;
-
-&lt;h3 id=&quot;2-universal-icons-in-ar-is-an-area-for-exploration&quot;&gt;2. Universal Icons in AR is an Area for Exploration&lt;/h3&gt;
-
-&lt;p&gt;In the future, hopefully, there will be universal icons in AR, similar to the WiFi and battery icons, that represent different states and implicitly tells the user what to do, especially for common information like the tracking accuracy and actions like move the camera to scan the environment. If so, we won’t have to put an overlay text over the camera view every time we want to guide the user.&lt;/p&gt;
-
-&lt;h3 id=&quot;3-be-thorough-in-reasons-for-using-sensitive-information&quot;&gt;3. Be Thorough in Reasons for Using Sensitive Information&lt;/h3&gt;
-
-&lt;p&gt;The first version of Artlas was actually rejected because when explaining the reasons for using the user location, I only mentioned I use it for finding nearby buildings but forgot to mention it is also being used for ARkit’s Geotracking.&lt;/p&gt;
-
-&lt;p&gt;Hence, being explicit and thorough in reasons for using sensitive information, is beneficial for both the user’s understanding and the developer’s shipping schedule.&lt;/p&gt;
-
-&lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
-
-&lt;p&gt;Artlas uses Apple ARKit’s Geotracking feature. It uses your GPS coordinates and the image stream captured from your camera to understand where you are in the real world. Then it searches for nearby places of interest using MapKit and finds the nearest one in the direction you are pointing towards when you hit the button. Then it will generate a 3D text object using RealityKit and place it at the location of the building.&lt;/p&gt;
-
-&lt;p&gt;We value privacy so we do not store any user information. Everything is done locally using Apple’s native APIs.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Software_Engineer" /><category term="AR_VR" /><summary type="html">Point your camera to a building, and Artlas will put its name in front of it!</summary></entry></feed>
+&lt;p&gt;This app is made in Unity with Oculus Quest 2. It uses Photon server to facilitate live virtual meetings between matches. It can run on a windows machine AND standalone in an Oculus Quest 2 headset without the need of a PC.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Have you ever felt anxious before a date? Fearing it’s going to be super awkward? Or have you ever felt unsafe since you are meeting a complete stranger in person? We want to fix it.</summary></entry></feed>
