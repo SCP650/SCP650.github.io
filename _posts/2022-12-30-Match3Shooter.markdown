@@ -15,9 +15,9 @@ carousel:
 ---
 What would Candy Crush + Call of Duty look like?
 
-Match-3 games are among the most popular games on mobile, while shooter games are among the most popular games on PC. What if we combined the two?
+Many innovations in video games come from blending genres -- what happens if we combine the most popular genre on mobile (match-3) with the most popular genre on PC (shooter)?
 
-Introducing Match-3 Siege!
+Introducing Match-3 Siege! You can download the demo [here](https://github.com/SCP650/Match3Shooter-Unreal5/releases/tag/v1)
 
 ## How does it work?
 

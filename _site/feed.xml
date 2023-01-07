@@ -1,40 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-12-31T14:29:47-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Match-3 Siege</title><link href="http://localhost:4000/projects/2022/winter/Match3Shooter" rel="alternate" type="text/html" title="Match-3 Siege" /><published>2022-12-30T01:40:23-08:00</published><updated>2022-12-30T01:40:23-08:00</updated><id>http://localhost:4000/projects/2022/winter/Match3Shooter</id><content type="html" xml:base="http://localhost:4000/projects/2022/winter/Match3Shooter">&lt;p&gt;Match-3 games like Candy Crash are some of the most popular games on mobile, while shooter games like Call of Duty are some of the most popular games on PC.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-07T10:25:34-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Match-3 Siege</title><link href="http://localhost:4000/projects/2022/winter/Match3Shooter" rel="alternate" type="text/html" title="Match-3 Siege" /><published>2022-12-30T01:40:23-08:00</published><updated>2022-12-30T01:40:23-08:00</updated><id>http://localhost:4000/projects/2022/winter/Match3Shooter</id><content type="html" xml:base="http://localhost:4000/projects/2022/winter/Match3Shooter">&lt;p&gt;What would Candy Crush + Call of Duty look like?&lt;/p&gt;
 
-&lt;p&gt;What if we combine the two?&lt;/p&gt;
+&lt;p&gt;Many innovations in video games come from blending genres – what happens if we combine the most popular genre on mobile (match-3) with the most popular genre on PC (shooter)?&lt;/p&gt;
 
-&lt;p&gt;Introducing Match-3 Siege!&lt;/p&gt;
+&lt;p&gt;Introducing Match-3 Siege! You can download the demo &lt;a href=&quot;https://github.com/SCP650/Match3Shooter-Unreal5/releases/tag/v1&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;how-does-it-work&quot;&gt;How does it work?&lt;/h2&gt;
 
 &lt;p&gt;In this game, you’ll be part of either the attacking or defending team. The attackers must destroy all of the colored spheres on the field, while the defenders must protect them.&lt;/p&gt;
 
-&lt;p&gt;To destroy the spheres, attackers must shoot and match three or more of the same color, while countering defenders’ fire.&lt;/p&gt;
+&lt;p&gt;To destroy the spheres, attackers must shoot and match three or more of the same color, while fighting against the defenders’ fire.&lt;/p&gt;
 
-&lt;p&gt;To defend the sphere, the defenders need to find and guard strategic positions to prevent match-3 to happen (e.g. blue blue red blue) while inserting a new sphere into the field every 30s to make it harder for the attackers. (e.g. blue yellow blue red blue)&lt;/p&gt;
+&lt;p&gt;To defend the spheres, the defenders need to find and guard strategic positions to prevent match-3 combinations from occurring (e.g. blue blue red blue) and insert new spheres into the field every 30 seconds to make it harder for the attackers (e.g. blue yellow blue red blue).&lt;/p&gt;
 
-&lt;p&gt;If the attackers succeed in destroying all the spheres before time runs out, they win! But if there are any spheres remaining at the end of the game, the defenders win.&lt;/p&gt;
+&lt;p&gt;If the attackers succeed in destroying all the spheres before time runs out, they win. If any spheres remain, the defenders win.&lt;/p&gt;
 
 &lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/saNxsox4Wz8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The video above is a single-player demo I made for this idea. Even though it’s against AI, you can already feel the intense and fast-path adrenaline rush caused by constantly switching between playing match-3 while fighting against enemies.&lt;/p&gt;
+&lt;p&gt;The video above is a single-player demo I made for this idea. Although it’s against AI, you can already feel the intense and fast-paced adrenaline rush caused by constantly switching between playing match-3 and fighting against enemies.&lt;/p&gt;
 
-&lt;p&gt;I think this can be another game mode in addition to team deathmatch, search and destroy and battle royal. Let me know what you think!&lt;/p&gt;
+&lt;p&gt;I think this game mode could be added alongside team deathmatch, search and destroy, and battle royal. Let me know what you think!&lt;/p&gt;
 
 &lt;h2 id=&quot;under-the-hood&quot;&gt;Under the Hood&lt;/h2&gt;
 
-&lt;p&gt;This is made independently by me with Unreal Engine 5.1 and C++. This is my first time making Unreal games with C++ and it has been a great learning experience! I used free 3D and animation assets and implemented these:&lt;/p&gt;
+&lt;p&gt;This game was made independently by me using Unreal Engine 5.1 and C++. It is my first time making Unreal games with C++ and it has been a great learning experience. I used free 3D and animation assets and implemented the following features:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;animation blending using blendspace&lt;/li&gt;
-  &lt;li&gt;input mapping for locomotion&lt;/li&gt;
-  &lt;li&gt;AI bahavior tree and blackboard for enemies&lt;/li&gt;
-  &lt;li&gt;hook up particles and sound for shooting&lt;/li&gt;
-  &lt;li&gt;lose and win conditions&lt;/li&gt;
-  &lt;li&gt;the match-3 systems&lt;/li&gt;
+  &lt;li&gt;Animation blending using blendspace&lt;/li&gt;
+  &lt;li&gt;Input mapping for locomotion&lt;/li&gt;
+  &lt;li&gt;AI behavior tree and blackboard for enemies&lt;/li&gt;
+  &lt;li&gt;Integration of particles and sound for shooting&lt;/li&gt;
+  &lt;li&gt;Lose and win conditions&lt;/li&gt;
+  &lt;li&gt;Match-3 system with chaos destruction.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;PS: I created the icon of this page using text to image AI.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Game_Development" /><summary type="html">Match-3 games like Candy Crash are some of the most popular games on mobile, while shooter games like Call of Duty are some of the most popular games on PC.</summary></entry><entry><title type="html">A Second Person VR Game</title><link href="http://localhost:4000/projects/2022/fall/SecondPerson" rel="alternate" type="text/html" title="A Second Person VR Game" /><published>2022-11-26T21:40:23-08:00</published><updated>2022-11-26T21:40:23-08:00</updated><id>http://localhost:4000/projects/2022/fall/SecondPerson</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/SecondPerson">&lt;p&gt;Have you ever played a second-person multiplayer VR shooting game? Me neither, so I made one over the Thanksgiving break.&lt;/p&gt;
+&lt;p&gt;PS: I created the icon of this page using Stable Diffusion and the text of this page using ChatGPT&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="Game_Development" /><summary type="html">What would Candy Crush + Call of Duty look like?</summary></entry><entry><title type="html">A Second Person VR Game</title><link href="http://localhost:4000/projects/2022/fall/SecondPerson" rel="alternate" type="text/html" title="A Second Person VR Game" /><published>2022-11-26T21:40:23-08:00</published><updated>2022-11-26T21:40:23-08:00</updated><id>http://localhost:4000/projects/2022/fall/SecondPerson</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/SecondPerson">&lt;p&gt;Have you ever played a second-person multiplayer VR shooting game? Me neither, so I made one over the Thanksgiving break.&lt;/p&gt;
 
 &lt;p&gt;Well, we first need to figure out what is a second-person game.&lt;/p&gt;
 
