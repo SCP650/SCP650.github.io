@@ -11,7 +11,12 @@ start-season: "2023 Spring"
 assetLoco: /images/projects/vrlingo
 coverPic: /icon.png
 carousel:
-  - image: /icon.png
+  - image: /p1.jpg
+  - image: /p2.jpg
+  - image: /p3.jpg
+  - image: /p4.jpg
+  - image: /p5.jpg
+
 ---
 
 Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. We want to empower everyone to practice speaking for free.
@@ -20,6 +25,7 @@ We are a language learning community to help you practice with other people in v
 
 You can try it out [here](https://github.com/SCP650/Vrlingo-New)
 
+<div class="iframe-container"><iframe src="https://www.youtube.com/embed/mgdhqsrxNBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
 ## Features
 
