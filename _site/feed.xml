@@ -1,27 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-15T13:50:30-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Vrlingo</title><link href="http://localhost:4000/projects/2022/fall/Vrlingo" rel="alternate" type="text/html" title="Vrlingo" /><published>2023-01-14T00:40:23-05:00</published><updated>2023-01-14T00:40:23-05:00</updated><id>http://localhost:4000/projects/2022/fall/Vrlingo</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/Vrlingo">&lt;p&gt;Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. We want to empower everyone to practice speaking for free.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-01-16T14:21:08-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Vrlingo</title><link href="http://localhost:4000/projects/2022/fall/Vrlingo" rel="alternate" type="text/html" title="Vrlingo" /><published>2023-01-14T00:40:23-05:00</published><updated>2023-01-14T00:40:23-05:00</updated><id>http://localhost:4000/projects/2022/fall/Vrlingo</id><content type="html" xml:base="http://localhost:4000/projects/2022/fall/Vrlingo">&lt;p&gt;Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. That’s why we’re dedicated to providing a platform for everyone to practice speaking new languages for free.&lt;/p&gt;
 
-&lt;p&gt;We are a language learning community to help you practice with other people in virtual worlds. We created a credit system, called TBucks, to make this ecosystem work: You can help others practice speaking in your native tongue to gain TBucks. And then spend TBucks to practice in a new language you want to learn.&lt;/p&gt;
+&lt;p&gt;We are a language learning community to help you practice with other people in virtual worlds. We have introduced a credit system, called TBucks, which allows you to gain credits by helping others practice speaking in your native language. You can then use those credits to practice a new language you want to learn.&lt;/p&gt;
 
 &lt;p&gt;You can try it out &lt;a href=&quot;https://github.com/SCP650/Vrlingo-New&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
 &lt;div class=&quot;iframe-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed/mgdhqsrxNBY&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;features&quot;&gt;Features&lt;/h2&gt;
+&lt;h2 id=&quot;free-language-practice&quot;&gt;Free Language Practice&lt;/h2&gt;
 
-&lt;h3 id=&quot;free-language-practice&quot;&gt;Free Language Practice&lt;/h3&gt;
+&lt;p&gt;We strive to create a community where each user not only learns a new language, but also acts as a teacher to assist others with their native language. After specifying the languages they know and wish to learn, we provide a live map of all current instances where those specified languages are being spoken. Users can then choose to join as a teacher to earn TBucks or as a student to spend them. This fosters a language learning community and allows for free practice opportunities for speaking.&lt;/p&gt;
 
-&lt;p&gt;We want to build a community where each user is not only a student learning a new language, but also a teacher who helps others with their native language. After the user specifies which languages they know and which they want to learn, we show a live map of all the current instances that are speaking those specified languages. Then the user can choose to join as a teacher to gain TBucks or as a student to spend TBucks . This will build a language learning community and enable users to practice speaking for free.&lt;/p&gt;
+&lt;h2 id=&quot;why-vr&quot;&gt;Why VR?&lt;/h2&gt;
 
-&lt;h3 id=&quot;situational&quot;&gt;Situational&lt;/h3&gt;
+&lt;p&gt;VR allows us to build situations and an immersive environment for role-playing.&lt;/p&gt;
 
-&lt;p&gt;Through our application, users can gain fluency by participating in different scenarios, such as eating at a restaurant, shopping at a store, or going to the park. These environments contain fully interactable props and allow for greater suspension of disbelief during roleplaying in a new language.&lt;/p&gt;
+&lt;p&gt;For example, we built a restaurant world with many interactive props. We noticed that many Mandarin learners will pretend to order food, talk about their favorite dishes, or try to rob the restaurant while speaking in Mandarin. This makes the language speaking fun and mimics real-life situations.&lt;/p&gt;
 
-&lt;h3 id=&quot;interactions&quot;&gt;Interactions&lt;/h3&gt;
+&lt;p&gt;To take it a step further, we made contextually-driven prompts that provide topics to talk about. For example, when the user picks up some money in the VR restaurant, they will see “Buy some food with money.” This invites a conversation between the user holding the money and other users in the VR restaurant.&lt;/p&gt;
 
-&lt;p&gt;Engage with contextually-driven prompts that help support multi-user conversations for learning a new language. For example, when the user picks up some money in the VR restaurant, they are prompted via a hovering interface a few different conversation starters based on the money object, such as “Buy some food with money.” This incites a conversation between the user holding the money and another user in the VR restaurant.&lt;/p&gt;
-
-&lt;h3 id=&quot;monetization&quot;&gt;Monetization&lt;/h3&gt;
+&lt;h2 id=&quot;monetization&quot;&gt;Monetization&lt;/h2&gt;
 
 &lt;p&gt;There are three ways we could monetize in the future.&lt;/p&gt;
 
@@ -41,7 +39,9 @@
 
 &lt;p&gt;We use Unity and XR Interaction Toolkit to create the app. The multiplayer networking, VOIP, synced variables and avatar sync are created using Normcore.&lt;/p&gt;
 
-&lt;p&gt;PS: We created the icon of this page using Stable Diffusion.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. We want to empower everyone to practice speaking for free.</summary></entry><entry><title type="html">Match-3 Siege</title><link href="http://localhost:4000/projects/2022/winter/Match3Shooter" rel="alternate" type="text/html" title="Match-3 Siege" /><published>2022-12-30T04:40:23-05:00</published><updated>2022-12-30T04:40:23-05:00</updated><id>http://localhost:4000/projects/2022/winter/Match3Shooter</id><content type="html" xml:base="http://localhost:4000/projects/2022/winter/Match3Shooter">&lt;p&gt;What would Candy Crush + Call of Duty look like?&lt;/p&gt;
+&lt;p&gt;We made this app in 2 days and won the Best Shared World Experience Award at MIT Reality Hack!&lt;/p&gt;
+
+&lt;p&gt;PS: We created the icon of this page using Stable Diffusion.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><category term="Game_Development" /><category term="Product_Project_Management" /><summary type="html">Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. That’s why we’re dedicated to providing a platform for everyone to practice speaking new languages for free.</summary></entry><entry><title type="html">Match-3 Siege</title><link href="http://localhost:4000/projects/2022/winter/Match3Shooter" rel="alternate" type="text/html" title="Match-3 Siege" /><published>2022-12-30T04:40:23-05:00</published><updated>2022-12-30T04:40:23-05:00</updated><id>http://localhost:4000/projects/2022/winter/Match3Shooter</id><content type="html" xml:base="http://localhost:4000/projects/2022/winter/Match3Shooter">&lt;p&gt;What would Candy Crush + Call of Duty look like?&lt;/p&gt;
 
 &lt;p&gt;Many innovations in video games come from blending genres – what happens if we combine the most popular genre on mobile (match-3) with the most popular genre on PC (shooter)?&lt;/p&gt;
 

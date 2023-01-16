@@ -19,30 +19,27 @@ carousel:
 
 ---
 
-Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. We want to empower everyone to practice speaking for free.
+Have you ever tried speaking a new language? It’s hard right? To make it worse, there’s few opportunities to practice. You need to find a fluent speaker to practice with or spend a lot of money to hire a tutor. That's why we're dedicated to providing a platform for everyone to practice speaking new languages for free.
 
-We are a language learning community to help you practice with other people in virtual worlds. We created a credit system, called TBucks, to make this ecosystem work: You can help others practice speaking in your native tongue to gain TBucks. And then spend TBucks to practice in a new language you want to learn.
+We are a language learning community to help you practice with other people in virtual worlds. We have introduced a credit system, called TBucks, which allows you to gain credits by helping others practice speaking in your native language. You can then use those credits to practice a new language you want to learn.
 
 You can try it out [here](https://github.com/SCP650/Vrlingo-New)
 
 <div class="iframe-container"><iframe src="https://www.youtube.com/embed/mgdhqsrxNBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
-## Features
+## Free Language Practice
 
-### Free Language Practice
+We strive to create a community where each user not only learns a new language, but also acts as a teacher to assist others with their native language. After specifying the languages they know and wish to learn, we provide a live map of all current instances where those specified languages are being spoken. Users can then choose to join as a teacher to earn TBucks or as a student to spend them. This fosters a language learning community and allows for free practice opportunities for speaking.
 
-We want to build a community where each user is not only a student learning a new language, but also a teacher who helps others with their native language. After the user specifies which languages they know and which they want to learn, we show a live map of all the current instances that are speaking those specified languages. Then the user can choose to join as a teacher to gain TBucks or as a student to spend TBucks . This will build a language learning community and enable users to practice speaking for free.
+## Why VR?
 
+VR allows us to build situations and an immersive environment for role-playing. 
 
-### Situational
+For example, we built a restaurant world with many interactive props. We noticed that many Mandarin learners will pretend to order food, talk about their favorite dishes, or try to rob the restaurant while speaking in Mandarin. This makes the language speaking fun and mimics real-life situations.
 
-Through our application, users can gain fluency by participating in different scenarios, such as eating at a restaurant, shopping at a store, or going to the park. These environments contain fully interactable props and allow for greater suspension of disbelief during roleplaying in a new language.
+To take it a step further, we made contextually-driven prompts that provide topics to talk about. For example, when the user picks up some money in the VR restaurant, they will see "Buy some food with money." This invites a conversation between the user holding the money and other users in the VR restaurant.
 
-### Interactions
-
-Engage with contextually-driven prompts that help support multi-user conversations for learning a new language. For example, when the user picks up some money in the VR restaurant, they are prompted via a hovering interface a few different conversation starters based on the money object, such as “Buy some food with money.” This incites a conversation between the user holding the money and another user in the VR restaurant.
-
-### Monetization
+## Monetization
 
 There are three ways we could monetize in the future.
 
@@ -55,5 +52,7 @@ There are three ways we could monetize in the future.
 ## Under the Hood 
  
 We use Unity and XR Interaction Toolkit to create the app. The multiplayer networking, VOIP, synced variables and avatar sync are created using Normcore.
+
+We made this app in 2 days and won the Best Shared World Experience Award at MIT Reality Hack!
 
 PS: We created the icon of this page using Stable Diffusion. 
