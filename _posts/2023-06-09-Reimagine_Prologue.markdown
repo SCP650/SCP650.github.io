@@ -19,11 +19,11 @@ Welcome to the "Reimagine" series. In this series, I will select applications fr
 
 We can make two basic assumptions about the future of technology:
 
-1. People desire more natural and realistic ways of interaction.
+- People desire more natural and realistic ways of interaction.
 
 Looking back over the past decade or so, it's clear to see that from the text messages and emails of the 2G era to the pictures and voice messages of the 3G era, and then to the short videos and live broadcasts of the 4G era, the carriers of information flow are becoming increasingly enriched, presenting in ways that are closer to the real world.
 
-2. As three-dimensional beings, humans naturally understand and accept three-dimensional content.
+- As three-dimensional beings, humans naturally understand and accept three-dimensional content.
 
 Our everyday lives take place in three-dimensional space. In other words, we are inherently accustomed to interacting in three dimensions, not confined to two-dimensional screens.
 
@@ -43,7 +43,7 @@ Under this premise, I'll select a series of killer apps from the app store based
 
 Then, I'll apply the following three-step analysis to these apps:
 
-1. Who is it solving what problem for?
+1. What problem is it solving? 
 2. Why can AR/VR solve this problem better?
 3. What will the specific user experience be like?
 

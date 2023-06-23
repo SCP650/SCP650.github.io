@@ -1,91 +1,98 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-21T22:51:00-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Tiktok in AR/VR</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok" rel="alternate" type="text/html" title="Tiktok in AR/VR" /><published>2023-06-10T07:40:23-07:00</published><updated>2023-06-10T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_TikTok</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok">&lt;h2 id=&quot;前言&quot;&gt;前言&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-06-22T21:20:30-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Tiktok in AR/VR</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok" rel="alternate" type="text/html" title="Tiktok in AR/VR" /><published>2023-06-10T07:40:23-07:00</published><updated>2023-06-10T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_TikTok</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
-&lt;p&gt;欢迎大家阅读「重定义」系列。在这个系列中，我将选择应用商店排名前100的手机软件，重新思考它们作为AR/VR软件在三维空间中的表现形式。&lt;/p&gt;
+&lt;p&gt;Welcome to the “Reimagine” series. In this series, I’ll pick from the Top 100 apps in the app stores and reimagine them as AR/VR apps in three-dimensional space.&lt;/p&gt;
 
-&lt;p&gt;本文我们讲探讨TikTok，最简单的方法就是把2D的tiktok界面，在AR眼镜里变成一个大屏幕给用户看。这样的应用在未来几年可能就会出现。但我希望打破二维空间的框架，从三维角度重新审视TikTok&lt;/p&gt;
+&lt;p&gt;This article will explore TikTok. The simplest approach would be to project the 2D TikTok interface into a big screen in AR glasses for the user. This kind of application might appear in the next few years. However, I hope to break away from the two-dimensional space and re-examine TikTok from a three-dimensional perspective.&lt;/p&gt;
 
-&lt;p&gt;设想我们已经拥有了一副理想化的AR眼镜，接下来我会从以下三个角度对此进行思考：&lt;/p&gt;
+&lt;p&gt;For this imaginative exercise, let’s assume we have the perfect pair of AR glasses at our disposal. Our exploration will delve into three parts:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;它解决了谁的什么问题？&lt;/li&gt;
-  &lt;li&gt;为什么AR/VR能更好地解决这个问题？&lt;/li&gt;
-  &lt;li&gt;具体的用户体验会是怎样的？&lt;/li&gt;
+  &lt;li&gt;What problem is it solving?&lt;/li&gt;
+  &lt;li&gt;Why can AR/VR solve this problem better?&lt;/li&gt;
+  &lt;li&gt;What would the 3D user experience be like?&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;它是为谁解决了什么问题&quot;&gt;它是为谁解决了什么问题？&lt;/h2&gt;
+&lt;h2 id=&quot;what-problem-is-it-solving&quot;&gt;What problem is it solving?&lt;/h2&gt;
 
-&lt;p&gt;我们可以将TikTok的用户大体划分为内容创作者和内容观看者两类。&lt;/p&gt;
+&lt;p&gt;We can broadly categorize TikTok users into content creators and content viewers.&lt;/p&gt;
 
-&lt;h3 id=&quot;观看者&quot;&gt;观看者&lt;/h3&gt;
-&lt;p&gt;解决的问题： 缓解无聊感
-解决方法： 通过提供短视频内容，用户能够轻松地发现和筛选他们感兴趣的内容，实现即时的娱乐和乐趣。&lt;/p&gt;
+&lt;h3 id=&quot;viewers&quot;&gt;Viewers&lt;/h3&gt;
+&lt;p&gt;Problem: Alleviating boredom&lt;/p&gt;
 
-&lt;p&gt;视使用场景的不同，我们可以将观看者进一步划分为碎片时间用户和专注时间用户。&lt;/p&gt;
+&lt;p&gt;Solution: By providing short video content, users can easily discover and filter content they are interested in for instant entertainment and enjoyment.&lt;/p&gt;
 
-&lt;p&gt;碎片时间用户： 这类用户会在生活中的小段空闲时间（如等待公交、排队等候等）中浏览TikTok。值得注意的是，在这种场景下，用户需要对周围环境保持敏感，例如留意公交车是否到站、是否需要前移等。&lt;/p&gt;
+&lt;p&gt;Depending on the use case, we can further divide viewers into fragmentary time users and focused time users.&lt;/p&gt;
 
-&lt;p&gt;专注时间用户： 这类用户会在一整块的空闲时间（如睡前、周末闲暇等）中浏览TikTok。这种场景下，用户通常在一个舒适的环境中，无需关注周围的环境变化，他们可以全心投入于消费TikTok内容。&lt;/p&gt;
+&lt;p&gt;Fragmentary time users: These users browse TikTok during short pockets of time in their life (like waiting for a bus, queuing, etc.). Notably, in these scenarios, users need to stay aware of their surroundings, for example, noticing when the bus arrives, whether they need to move forward, etc.&lt;/p&gt;
 
-&lt;h3 id=&quot;创作者&quot;&gt;创作者&lt;/h3&gt;
-&lt;p&gt;解决的问题： 制作长视频的成本较高，且内容被用户发现的可能性较低
-解决方法： 通过提供短视频格式，降低高质量视频的制作成本，同时采用特殊的排序算法以提升视频成为爆款的机会。&lt;/p&gt;
+&lt;p&gt;Focused time users: These users browse TikTok during large blocks of free time (like before sleep, leisurely weekends, etc.). In these scenarios, users are typically in a comfortable environment, without the need to pay attention to changes around them. They can fully invest in consuming TikTok content.&lt;/p&gt;
 
-&lt;p&gt;创作者可以进一步划分为UGC（用户生成内容）创作者和PGC（专业生成内容）创作者。&lt;/p&gt;
+&lt;h3 id=&quot;creators&quot;&gt;Creators&lt;/h3&gt;
+&lt;p&gt;Problem: High cost of making long videos and the content’s low likelihood of being discovered by users&lt;/p&gt;
 
-&lt;p&gt;UGC创作者： 这类创作者通常使用手机自带的相机记录生活、拍摄舞蹈、捕捉生动瞬间或使用滤镜创作有趣的内容。他们的主要需求是能够即时便捷地记录生活，并能简单快速地进行视频剪辑。&lt;/p&gt;
+&lt;p&gt;Solution: By adopting the short video format, the cost of producing high-quality videos is reduced, and a special ranking algorithm increases the chances of videos becoming viral.&lt;/p&gt;
 
-&lt;p&gt;PGC创作者： 他们通常使用专业的麦克风和摄像头，借助外部软件进行视频剪辑，设计脚本和配图。他们的主要需求是能更方便地制作出高质量的内容，并希望这些内容能通过平台有效地分发给用户。&lt;/p&gt;
+&lt;p&gt;Creators can be further divided into UGC (User Generated Content) creators and PGC (Professionally Generated Content) creators.&lt;/p&gt;
 
-&lt;p&gt;虽然TikTok还有很多细分的使用场景，如直播电商、品牌宣传、AI生成的内容等，但由于篇幅原因，我将主要关注上述四类使用场景。TikTok的一个强大之处在于其精确的推荐算法，但由于这是“隐形”的后台工作，并且与用户的直接体验无关，因此本文将重点关注推荐算法之外的方面。&lt;/p&gt;
+&lt;p&gt;UGC creators: These creators typically use the built-in camera on their phones to record everyday life, shoot dances, capture moments, or create interesting content with filters. Their main need is to be able to record life instantaneously and conveniently and to edit videos simply and quickly.&lt;/p&gt;
 
-&lt;h2 id=&quot;arvr-如何更好地解决现有问题&quot;&gt;AR/VR 如何更好地解决现有问题？&lt;/h2&gt;
+&lt;p&gt;PGC creators: They typically use professional microphones and cameras and may rely on external professional software for video editing, script design, and graphic design. Their main need is to produce high-quality content more conveniently and hope this content can be efficiently distributed to users through the platform.&lt;/p&gt;
 
-&lt;h3 id=&quot;满足沉浸式体验的需求&quot;&gt;满足沉浸式体验的需求&lt;/h3&gt;
-&lt;p&gt;在目前的2D社交媒体中，用户只能通过图片和视频来分享和体验内容。虽然这种方式能够有效地传达信息，但其在沉浸感和真实性上无法与3D体验相抗衡。然而，在空间计算的时代，我们可以展现三维模型、具备深度感知的三维图片和视频，甚至是可以完全替代用户现实环境的3D场景。这些新的媒体形式并不会取代旧的媒体，而是将与之共存，共同丰富我们的媒体生态。&lt;/p&gt;
+&lt;p&gt;While TikTok has many other uses, such as live streaming e-commerce, brand promotion, AI-generated content, etc., due to space limitations, I’ll mainly focus on the four use cases mentioned above. One of TikTok’s strengths is its accurate recommendation algorithm, but since it is “invisible” backend work and unrelated to the user’s direct experience, this article will focus on aspects other than the recommendation algorithm.&lt;/p&gt;
 
-&lt;h3 id=&quot;破除互动性的限制&quot;&gt;破除互动性的限制&lt;/h3&gt;
-&lt;p&gt;2D社交媒体的互动性主要表现为文字评论、点赞等较为单一的形式。然而，在3D的AR/VR环境中，用户可以通过更直观和丰富的方式来与内容和其他用户进行互动，比如直接在3D环境中移动、操控物体、进行手势交互等。&lt;/p&gt;
+&lt;h2 id=&quot;why-can-arvr-solve-these-problems-better&quot;&gt;Why can AR/VR solve these problems better?&lt;/h2&gt;
 
-&lt;h3 id=&quot;开拓创作空间的广阔&quot;&gt;开拓创作空间的广阔&lt;/h3&gt;
-&lt;p&gt;在2D环境中，创作者的表达方式被限制在一个二维的平面内。然而，在3D环境中，他们能够创造出更为丰富、更立体的内容。这意味着TikTok可能从一个“短视频”平台转变为一个“短体验（Short-form experiences）”平台。创作者们将不再受限于固定尺寸的屏幕，而是能够在一个三维空间内创作。他们可以选择在这个空间内只展示二维内容，或是进行二维与三维内容的混搭，或者是完全展示纯三维的场景。在纯三维场景中，创作者们还可以选择是否用虚拟内容完全替代用户的现实环境，或是将虚拟内容融入到用户的现实环境中。&lt;/p&gt;
+&lt;h3 id=&quot;meeting-the-demand-for-immersive-experiences&quot;&gt;Meeting the demand for immersive experiences&lt;/h3&gt;
+&lt;p&gt;In the current 2D social media, users can only consume content through text, images, and videos. While these methods can effectively convey information, it can’t compete with 3D experiences in terms of immersion and authenticity.&lt;/p&gt;
 
-&lt;p&gt;对于消费者来说，现有的TikTok通过将视频和音乐结合，已经能够为用户提供即时的乐趣。然而在未来，TikTok可以通过各种虚拟场景，将用户带入”短体验”中，为用户带来前所未有的多巴胺刺激。&lt;/p&gt;
+&lt;p&gt;In the era of spatial computing, we can display three-dimensional models, 3D images and videos with depth perception, and even 3D scenes that can completely replace a user’s reality. These new forms of media won’t replace the old ones but will coexist with them, enriching our media ecosystem.&lt;/p&gt;
 
-&lt;p&gt;对于创作者来说，这个三维创作空间将会吸引更多的游戏开发者和建模师参与其中。制作“短体验”的成本将远远低于开发一款完整的游戏，这无疑将引发更多的创新和创意涌现。&lt;/p&gt;
+&lt;h3 id=&quot;breaking-the-limitations-of-interactivity&quot;&gt;Breaking the limitations of interactivity&lt;/h3&gt;
+&lt;p&gt;The interactivity of 2D social media mainly takes the form of likes, repost, comments,  etc. However, in a 3D AR/VR environment, users can interact with content and other users in more intuitive and rich ways, such as moving directly in the 3D environment, manipulating objects, gesturing, etc.&lt;/p&gt;
 
-&lt;h2 id=&quot;具体的用户体验会是什么样的&quot;&gt;具体的用户体验会是什么样的？&lt;/h2&gt;
+&lt;h3 id=&quot;unlocking-the-space-for-creativity&quot;&gt;Unlocking the space for creativity&lt;/h3&gt;
+&lt;p&gt;In a 2D environment, creators are limited to expressing themselves within a two-dimensional plane. However, in a 3D environment, they can create richer, more dimensional content. &lt;strong&gt;This means that TikTok could transition from a “short video” platform to a “short-form experiences” platform.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;莱克独自坐在候机厅的长椅上，喧嚣的人群与他形成了鲜明的对比。他轻轻戴上AR眼镜，选择TikTok软件，立刻，TikTok以混合现实模式启动，仿佛打开了一个全新的世界的大门。&lt;/p&gt;
+&lt;p&gt;Creators will no longer be restricted to a fixed-size screen but will be able to create in a three-dimensional space. They can choose to only display 2D content in this space, mix 2D and 3D content, or completely showcase pure 3D scenes. In pure 3D scenes, creators can also choose whether to completely replace the user’s reality with virtual content or intertwine virtual content into the user’s reality.&lt;/p&gt;
 
-&lt;p&gt;一群虚拟的街头舞者出现在他面前狭窄的走道上，自由自地跳起最新的街舞挑战。在这个年代，拍摄3D视频和图片就如同曾经用手机拍摄2D视频一样简单，人人都可以做到。突然，其中一个男孩脚一滑、突然失去平衡，一头撞在坐在莱克对面的旅客身上，但那位旅客并未察觉，因为这些舞者只呈现在莱克的AR眼镜中。莱克微微一笑，虽然他对舞蹈没有太大的兴趣，但这种新鲜的体验仍然让他感到有趣。&lt;/p&gt;
+&lt;h3 id=&quot;in-conclusion&quot;&gt;In conclusion&lt;/h3&gt;
+&lt;p&gt;For content consumers, the existing TikTok already offers instant fun by combining video and music. However, in the future, TikTok can transport users into “short experiences” through various virtual scenes, providing unprecedented dopamine stimulation.&lt;/p&gt;
 
-&lt;p&gt;轻轻滑动手指，下一个体验已经浮现在他眼前。这是一条财经新闻，新闻主持人穿着蓝色西装，像是真人一样站在莱克的左前方。而莱特的右前方浮现出一个2D的股价图表，主持人正在报道某运动鞋公司股票暴跌的新闻。随后，股价图表立刻变为立体，一个新的坐标轴被加入其中——用户投诉数量。主持人一边旋转三维坐标，一边讲述近期的投诉情况。莱克可以清晰地看到随着时间的推移，用户投诉在逐步增加，而股价在持续下滑。在这个时代，制作这样的3D动画非常容易，入门级的3D场景设计软件如雨后春笋般崭露头角，这让许多创作者能够快速地制作3D内容。看到这，莱克心里庆幸自己并没有购买这家运动鞋公司的股票，然后他便继续向下划屏，进入下一个体验。&lt;/p&gt;
+&lt;p&gt;For content creators, this three-dimensional creative space will attract more game developers and modelers to participate. The cost of creating “short experiences” will be much lower than developing a full game, undoubtedly sparking more innovation and creativity.&lt;/p&gt;
 
-&lt;p&gt;此时，登机广播响起，莱克通过简单的手势，将TikTok的显示区域限定在他的右前方，然后起身向登机口走去。在排队等待登机的过程中，他可以一边观看右边的TikTok，一边关注前方队伍的动向。&lt;/p&gt;
+&lt;h2 id=&quot;what-would-the-user-experience-be-like&quot;&gt;What would the user experience be like?&lt;/h2&gt;
 
-&lt;p&gt;当莱克坐下，系上安全带后，他切换到了TikTok的沉浸模式。在这个模式下，他的周围的环境全部被替换成虚拟场景，就像是被传送到了另一个空间。他看到的第一件事是一只可爱的金毛在他前方的沙发上打滚。这是一个3D视频，莱克仿佛就坐在那个家庭的客厅里，仿佛可以伸手触摸到它毛茸茸的肚腩。如果是在混合现实模式下，TikTok将自动屏蔽客厅的背景，只把金毛放置在莱克现实的环境里。但是在沉浸模式下，莱克似乎被直接传送到了那个家庭的客厅，感受到他们和狗狗一起的快乐时光。&lt;/p&gt;
+&lt;p&gt;Riker sat alone in the airport terminal, like an island in a sea of bustling travelers. He casually put on his AR glasses, selected the TikTok app, plunging into its mixed reality mode. He could see his surrandings as before but he just stepped into a new universe.&lt;/p&gt;
 
-&lt;p&gt;下一个体验里，一个巨大的运动鞋出现在了莱克面前，在深黑的背景下，鞋子绚丽的旋转，犹如真实的在莱克眼前。伴随着一个铿锵有力的解说声音，鼓励莱克看向自己的脚，尝试AR试穿。原来这是一个3D广告，莱克觉得这双鞋看起来很眼熟，好像就是之前视频里滑倒的年轻人穿的那双。莱克并没有深思，而是继续滑屏进入下一个体验。&lt;/p&gt;
+&lt;p&gt;In the narrow terminal aisle in front of Riker, two vivid virtual hip-hop dancers appeared, performing the latest dancing challenge.They may have been captured as 3D video thousands of miles away, yet their movements and smiles were rendered as vividly as if they were dancing in front of him. In this modern age, creating 3D videos and photos with AR glasses was as straightforward as shooting 2D videos with a smartphone. As the dancers grooved, 3D heart emojis were floating upwards behind them. Suddenly, one dancer slipped, faltering towards a passenger sitting opposite Riker. But the passenger remained oblivious, for the spectacle unfolded solely within Riker’s AR glasses. Riker let out a slight chuckle. Although he wasn’t a dance enthusiast, this novel experience still intrigued him. He formed his hand to a thumbs-up gesture. It was instantly recognized by the AR glasses, and one more heart emoji rose slowly behind the dancers.&lt;/p&gt;
+
+&lt;p&gt;With a light swipe on his thigh, the next experience appeared before Riker’s eyes. It was a financial news segment. The news anchor, dressed in a blue suit, seemed to be standing in real life in front of Riker’s left side. To Riker’s right, a 2D stock price chart presented the falling shares of a sports shoe company, which later animated into a 3D chart that introduced a new parameter -— user complaint numbers. As the anchor narrated the company’s spiking complaint numbers, Riker was interacting with the 3D chart, exploring it from various angles.  At the end of the video, the chart morphed into the company’s logo, and a virtual basket of fresh tomatoes and a basket of roses appeared before Riker. The anchor encouraged viewers to vote whether they would continue to purchase the company’s sport shoes. Watching other tomatoes flying towards the company’s logo, Riker picked up a virtual tomato and threw it too. In this era, creating such 3D interactive experiences has become incredibly simple. A slew of entry-level 3D scene design software sprang up, allowing many creators to effortlessly make 3D interactive content.&lt;/p&gt;
+
+&lt;p&gt;The boarding announcement echoed through the terminal. With a swift gesture, Riker confined the TikTok app to a space in his immediate right before rising to join the boarding queue. Standing in line, he could enjoy TikTok on his right while keeping an eye on the movement of the queue ahead.&lt;/p&gt;
+
+&lt;p&gt;Having found his seat on the plane and fastened his seatbelt, Riker switched TikTok to immersive mode. In this mode, his surroundings were completely replaced by virtual environment, as if he had been teleported to another space. The first thing he saw was a cute golden retriever rolling on a sofa in front of him. This was a 3D video, and Riker felt as if he were sitting in that family’s living room, as if he could reach out and touch the fluffy belly of the dog. If this was in mixed reality mode, TikTok would automatically remove the living room background and only place the golden retriever in Riker’s real environment. But in immersive mode, Riker felt as if he had been transported directly into that family’s living room, totally immersed in their happy moments with the dog.&lt;/p&gt;
+
+&lt;p&gt;In the next experience, a huge pair of sports shoes appeared before Riker. Against the deep black background, the shoes were spinning elegantly like a prized exhibit. Accompanied by a powerful narrative voice, Riker was guided to look at his feet and try the shoes in AR – it was a 3D advertisement. Noticing Riker didn’t try the AR fitting, virtual gestures appeared on both sides of the shoes indicating it could be interacted with. Curiously, Riker pinched and drag the shoes to magnify them, revealing their stunningly detailed textures. Riker thought the shoe looked familiar, it seemed to be the same pair the dancers in the previous video was wearing when they slipped. Without thinking deeper, Riker swiped his finger lightly, moving on to the next experience.&lt;/p&gt;
 
 &lt;p&gt;…&lt;/p&gt;
 
-&lt;h2 id=&quot;最后想法&quot;&gt;最后想法&lt;/h2&gt;
+&lt;h2 id=&quot;final-thoughts&quot;&gt;Final thoughts&lt;/h2&gt;
 
-&lt;p&gt;值得一提的是，在今天的网络环境下，由于带宽的局限性，我们在实时下载大量的3D场景文件，来制作流畅的Feed时还面临着挑战。但随着5G时代的到来，一切都可能改变。在飞速的5G网络下，10-20MB的3D场景的实时下载将会变得游刃有余，就如同我们曾经无法想象在3G网络环境下TikTok能够流畅播放5-6MB的短视频一样。&lt;/p&gt;
+&lt;p&gt;It’s worth mentioning that in today’s internet environment, due to bandwidth limitations, real-time downloading of large 3D scene files to create a smooth feed still presents challenges. But with the advent of the 5G era, everything could change. Under the speedy 5G network, real-time downloads of 10-20MB or even larger 3D scenes will become a breeze, just as it was once unimaginable for TikTok to play 5-6MB short videos smoothly in a 3G network environment.&lt;/p&gt;
 
-&lt;p&gt;与此同时，3D模型和内容在未来会变得像今天的图片和视频一样寻常而易得。在未来，制作3D模型将变得与拍照一样简单 —— 事实上，现在我们就可以通过手机扫描物体来创建3D模型，这项技术在未来只会变得更加便捷和普及。&lt;/p&gt;
+&lt;p&gt;At the same time, 3D models and content will become as common and easy to obtain as pictures and videos today. In the future, creating a 3D model will be as simple as taking a photo - in fact, we can now create 3D models by scanning objects with a phone, a technology that will only become more convenient and popular in the future.&lt;/p&gt;
 
-&lt;p&gt;与此类似，制作3D体验也将像剪辑视频一样入门简单但上限很高。用户可以用编辑器，很轻松布局3D物品、动画、3D视频、2D图片或者视频，并通过调整时间线来控制播放顺序、空间位置以及大小变化。&lt;/p&gt;
+&lt;p&gt;Similarly, creating 3D experiences will be as easy to get started as video editing but with a high ceiling. Users can easily layout 3D items, animations, 3D videos, 2D pictures or videos with an editor, and control the order of play, spatial position, and size changes by adjusting the timeline.&lt;/p&gt;
 
-&lt;p&gt;再进一步，录制3D视频或拍摄3D照片也会像拍摄2D内容一样容易。一旦AR眼镜普及，任何人都可以用3D的方式轻松记录生活的精彩瞬间。这是一个充满无限可能和想象的新世界，我们期待着它的到来。&lt;/p&gt;
+&lt;p&gt;Going one step further, recording 3D videos or taking 3D photos will be as easy as creating 2D content. Once AR glasses become widespread, anyone can easily record life’s wonderful moments in 3D. It’s a new world filled with infinite possibilities and imagination, and we look forward to its arrival.&lt;/p&gt;
 
-&lt;h2 id=&quot;结语&quot;&gt;结语&lt;/h2&gt;
+&lt;h2 id=&quot;closing&quot;&gt;Closing&lt;/h2&gt;
 
-&lt;p&gt;我在这里分享的所有观点都是我个人的思考。这些思考并不代表我所在的公司或我的雇主的立场，也绝不包含任何机密信息。我的目的仅仅是为了激发大家对未来可能的AR/VR应用的想象力和热情，通过分享我个人的理解和观察，帮助大家更好地理解这个充满未知和可能性的新领域。&lt;/p&gt;
+&lt;p&gt;I want to reiterate that all the views I share here are my own. These thoughts do not represent the positions of my company or employer, nor do they contain any confidential information. My sole aim is to stimulate imagination and enthusiasm for potential AR/VR applications, helping everyone better understand this new field full of unknowns and possibilities through my personal insights and observations.&lt;/p&gt;
 
-&lt;p&gt;我完全意识到，尽管我尽力做出了深思熟虑的探索，但随着技术的发展和时间的推移，我所描绘的未来可能会被证明是错误的。站在未来往回看，我的很多观点或许会显得幼稚。但这并不影响我对这个探索过程的热爱和兴趣，我相信只有在试错中，我们才能发现新的可能性，创新出更好的解决方案。&lt;/p&gt;
+&lt;p&gt;I am fully aware that although I’ve made thoughtful explorations, with technological advancements and the passage of time, my depiction of the future might prove incorrect. Looking back from the future, many of my views may seem naive. But that won’t dampen my passion and interest in this exploration. I believe that only through trial and error can we discover new possibilities and innovate better solutions.&lt;/p&gt;
 
-&lt;p&gt;最后，我希望这个系列的文章能给你带来启发，同时也希望你能分享你的想法和观察。&lt;/p&gt;</content><author><name></name></author><summary type="html">前言</summary></entry><entry><title type="html">Reimagine Series Prologue</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_Prologue" rel="alternate" type="text/html" title="Reimagine Series Prologue" /><published>2023-06-09T07:40:23-07:00</published><updated>2023-06-09T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_Prologue</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_Prologue">&lt;h2 id=&quot;what-is-this-series-about&quot;&gt;What is this series about?&lt;/h2&gt;
+&lt;p&gt;Finally, I hope this series will inspire you, and I also look forward to your sharing of ideas and observations.&lt;/p&gt;</content><author><name></name></author><summary type="html">Introduction</summary></entry><entry><title type="html">Reimagine Series Prologue</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_Prologue" rel="alternate" type="text/html" title="Reimagine Series Prologue" /><published>2023-06-09T07:40:23-07:00</published><updated>2023-06-09T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_Prologue</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_Prologue">&lt;h2 id=&quot;what-is-this-series-about&quot;&gt;What is this series about?&lt;/h2&gt;
 
 &lt;p&gt;Welcome to the “Reimagine” series. In this series, I will select applications from the Top 100 in the app store and reimagine what they would be like in a three-dimensional space, as AR/VR software. We will no longer be confined to the two-dimensional interfaces of mobile phones and computers, but shift our focus towards the more tangible and realistic three-dimensional space provided by AR/VR.&lt;/p&gt;
 
@@ -93,15 +100,15 @@
 
 &lt;p&gt;We can make two basic assumptions about the future of technology:&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
   &lt;li&gt;People desire more natural and realistic ways of interaction.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Looking back over the past decade or so, it’s clear to see that from the text messages and emails of the 2G era to the pictures and voice messages of the 3G era, and then to the short videos and live broadcasts of the 4G era, the carriers of information flow are becoming increasingly enriched, presenting in ways that are closer to the real world.&lt;/p&gt;
 
-&lt;ol&gt;
+&lt;ul&gt;
   &lt;li&gt;As three-dimensional beings, humans naturally understand and accept three-dimensional content.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;Our everyday lives take place in three-dimensional space. In other words, we are inherently accustomed to interacting in three dimensions, not confined to two-dimensional screens.&lt;/p&gt;
 
@@ -122,7 +129,7 @@
 &lt;p&gt;Then, I’ll apply the following three-step analysis to these apps:&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;Who is it solving what problem for?&lt;/li&gt;
+  &lt;li&gt;What problem is it solving?&lt;/li&gt;
   &lt;li&gt;Why can AR/VR solve this problem better?&lt;/li&gt;
   &lt;li&gt;What will the specific user experience be like?&lt;/li&gt;
 &lt;/ol&gt;
