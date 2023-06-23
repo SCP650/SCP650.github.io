@@ -3,7 +3,7 @@ title: Tiktok in AR/VR
 date: 2023-06-10 10:40:23 -0400 #date this page is public
 categories: blogs 2023 summer #project folder, beginning year and season
 description: Reimagine what would TikTok look like as a AR/VR spatial app. 
-start-season: "2023 Summer"
+start-season: "2023"
 #this is a bad practice
 assetLoco: /images/blog/tiktok
 coverPic: /icon.jpg

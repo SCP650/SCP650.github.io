@@ -2,7 +2,7 @@
 title: Reimagine Series Prologue
 date: 2023-06-09 10:40:23 -0400 #date this page is public
 categories: blogs 2023 summer #project folder, beginning year and season
-description: An intro to my "Reimagine" Series, where I take killer apps and reenvision them as immersive AR/VR spatial apps.
+description: An intro to my Reimagine Series, where I take killer apps and reenvision them as immersive AR/VR spatial apps.
 start-season: "2023"
 #this is a bad practice
 assetLoco: /images/blog/prologue
