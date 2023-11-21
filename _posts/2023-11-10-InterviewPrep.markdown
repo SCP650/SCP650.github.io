@@ -10,9 +10,9 @@ description: From Couch to Candidate - Elevate Your Interview Skills in Mixed Re
 start-season: "2023 Fall"
 #this is a bad practice
 assetLoco: /images/projects/InterviewPrep
-coverPic: /icon.png
+coverPic: /roundedIcon.png
 carousel:
-  - image: /icon.png
+  - image: /roundedIcon.png
 ---
 
 Getting ready for job interviews can be really tough, especially if you're a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let's face it, your friends are probably just as new to this as you are.
