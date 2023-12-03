@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-11-25T10:53:31-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-02T21:36:17-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
 
 &lt;p&gt;Now, imagine if you could have a super experienced hiring manager right there in your living room to practice with. That’s the idea behind this innovative personal project. In this project, I wanted to learn how to merges the immersive experience of mixed reality with advanced AI technology to tackle real-life problems. If you’re curious to see how it works, feel free to check out the video below.&lt;/p&gt;
 
@@ -11,9 +11,25 @@
 
 &lt;p&gt;During the creation of our latest demo, I encountered a perplexing issue. In the Unity editor, everything functioned seamlessly, with every network request executing flawlessly. Yet, when making an Android build for the Quest 3, I was consistently thwarted by DNS resolution errors. Initially, I adopted an “exploitation” strategy: searching online for DNS resolution fixes, tweaking DNS servers, adjusting Android manifest network permissions, leveraging my accumulated knowledge to craft solutions based on available data. Nonetheless, this approach led me down a fruitless path, consuming an entire afternoon without resolving the issue.&lt;/p&gt;
 
-&lt;p&gt;On the verge of capitulation, I shifted to an “exploration” mindset. I started aimlessly clicking through random menus in the Unity’s project settings. That’s when I made an expected discovery:&lt;/p&gt;
+&lt;p&gt;On the verge of capitulation, I shifted to an “exploration” mindset. I started aimlessly clicking through random menus in the Unity’s project settings. That’s when I made an expected discovery: 
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper text-center&quot;&gt;
+    
+      &lt;a href=&quot; /images/projects/InterviewPrep/BadUnityBad.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/projects/InterviewPrep/BadUnityBad.png&quot; alt=&quot;&quot; class=&quot; w-100 &quot; /&gt;
 
-&lt;p&gt;Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;gt; OpenXR -&amp;gt; Android -&amp;gt; All Features -&amp;gt; Meta Quest Support -&amp;gt; Settings Icon), I found an additional network toggle, mysteriously disabled the network by default and undocumented. It’s inconceivable for any platform to embed such a critical toggle so obscurely - imagine developing an iPhone app, meticulously setting camera permissions, only to find Apple concealed a disabling switch deep within seven layers of its interface.&lt;/p&gt;
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;
+Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;gt; OpenXR -&amp;gt; Android -&amp;gt; All Features -&amp;gt; Meta Quest Support -&amp;gt; Settings Icon), I found an additional network toggle, mysteriously disabled the network by default and undocumented. It’s inconceivable for any platform to embed such a critical toggle so obscurely - imagine developing an iPhone app, meticulously setting camera permissions, only to find Apple concealed a disabling switch deep within seven layers of its interface.&lt;/p&gt;
 
 &lt;p&gt;I ended up wasting seven exhausting hours on this bug. In hindsight, this reminds me of the Epsilon-Greedy Strategy. When debugging, instead of only selects the best-known action (exploitation), I should also occasionally chooses a random action (exploration) as sanity checks.&lt;/p&gt;
 

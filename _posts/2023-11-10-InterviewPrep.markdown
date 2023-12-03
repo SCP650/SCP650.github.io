@@ -28,8 +28,7 @@ Now, imagine if you could have a super experienced hiring manager right there in
 During the creation of our latest demo, I encountered a perplexing issue. In the Unity editor, everything functioned seamlessly, with every network request executing flawlessly. Yet, when making an Android build for the Quest 3, I was consistently thwarted by DNS resolution errors. Initially, I adopted an "exploitation" strategy: searching online for DNS resolution fixes, tweaking DNS servers, adjusting Android manifest network permissions, leveraging my accumulated knowledge to craft solutions based on available data. Nonetheless, this approach led me down a fruitless path, consuming an entire afternoon without resolving the issue.
 
 On the verge of capitulation, I shifted to an "exploration" mindset. I started aimlessly clicking through random menus in the Unity's project settings. That's when I made an expected discovery: 
-
-
+{% include image.html img="BadUnityBad.png"%}<br>
 Buried within a labyrinth of menus (Project Setting -> XR Manager -> OpenXR -> Android -> All Features -> Meta Quest Support -> Settings Icon), I found an additional network toggle, mysteriously disabled the network by default and undocumented. It's inconceivable for any platform to embed such a critical toggle so obscurely - imagine developing an iPhone app, meticulously setting camera permissions, only to find Apple concealed a disabling switch deep within seven layers of its interface.
 
 I ended up wasting seven exhausting hours on this bug. In hindsight, this reminds me of the Epsilon-Greedy Strategy. When debugging, instead of only selects the best-known action (exploitation), I should also occasionally chooses a random action (exploration) as sanity checks.
