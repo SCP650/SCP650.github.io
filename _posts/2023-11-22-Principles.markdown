@@ -2,7 +2,7 @@
 title: Playing Reality
 title2: Playing Reality - Sebastian's Principles to Level Up in Life 
 date: 2023-09-22 10:40:23 -0400 #date this page is public
-categories: blogs 2023 summer #project folder, beginning year and season
+categories: blogs #project folder, beginning year and season
 description: Sebastian's Principles to Level Up in Life 
 start-season: "2023"
 assetLoco: /images/blog/PlayingReality
