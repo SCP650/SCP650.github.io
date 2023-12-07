@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-02T21:36:57-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-06T23:48:38-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
 
 &lt;p&gt;Now, imagine if you could have a super experienced hiring manager right there in your living room to practice with. That’s the idea behind this innovative personal project. In this project, I wanted to learn how to merges the immersive experience of mixed reality with advanced AI technology to tackle real-life problems. If you’re curious to see how it works, feel free to check out the video below.&lt;/p&gt;
 
@@ -117,7 +117,7 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
 &lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#1-every-action-or-inaction-is-an-investment&quot; id=&quot;markdown-toc-1-every-action-or-inaction-is-an-investment&quot;&gt;1. Every Action or Inaction is an Investment&lt;/a&gt;    &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#1-the-investment-mindset&quot; id=&quot;markdown-toc-1-the-investment-mindset&quot;&gt;1. The Investment Mindset&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#11-balancing-short-term-vs-long-term-positive-vs-negative-returns&quot; id=&quot;markdown-toc-11-balancing-short-term-vs-long-term-positive-vs-negative-returns&quot;&gt;1.1 Balancing Short-term vs Long-term, Positive vs Negative Returns&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#12-focus-on-investments-that-yield-long-term-dividends&quot; id=&quot;markdown-toc-12-focus-on-investments-that-yield-long-term-dividends&quot;&gt;1.2 Focus on Investments That Yield Long-term Dividends&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#13-embracing-protective-put-options&quot; id=&quot;markdown-toc-13-embracing-protective-put-options&quot;&gt;1.3 Embracing Protective Put Options&lt;/a&gt;&lt;/li&gt;
@@ -126,12 +126,21 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
       &lt;li&gt;&lt;a href=&quot;#16-weighing-opportunity-cost&quot; id=&quot;markdown-toc-16-weighing-opportunity-cost&quot;&gt;1.6 Weighing Opportunity Cost&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#2-design-gameplay-loop-to-motivate-yourself&quot; id=&quot;markdown-toc-2-design-gameplay-loop-to-motivate-yourself&quot;&gt;2. Design Gameplay Loop to Motivate Yourself&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#3-changing-the-game&quot; id=&quot;markdown-toc-3-changing-the-game&quot;&gt;3. Changing the game&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#2-the-game-design-mindset&quot; id=&quot;markdown-toc-2-the-game-design-mindset&quot;&gt;2. The Game Design Mindset&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#21-the-setting-of-personal-goals&quot; id=&quot;markdown-toc-21-the-setting-of-personal-goals&quot;&gt;2.1 The Setting of Personal Goals&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#22-the-power-of-instant-feedback&quot; id=&quot;markdown-toc-22-the-power-of-instant-feedback&quot;&gt;2.2 The Power of Instant Feedback&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#23-the-conviction-of-success&quot; id=&quot;markdown-toc-23-the-conviction-of-success&quot;&gt;2.3 The Conviction of Success&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#24-the-power-of-rewarding-progress&quot; id=&quot;markdown-toc-24-the-power-of-rewarding-progress&quot;&gt;2.4 The Power of Rewarding Progress&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#25-the-power-of-time-constraints&quot; id=&quot;markdown-toc-25-the-power-of-time-constraints&quot;&gt;2.5 The Power of Time Constraints&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#26-the-power-of-setting-rules&quot; id=&quot;markdown-toc-26-the-power-of-setting-rules&quot;&gt;2.6 The Power of Setting Rules&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#3-the-business-strategy-mindset&quot; id=&quot;markdown-toc-3-the-business-strategy-mindset&quot;&gt;3. The Business Strategy Mindset&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#4-changing-the-game&quot; id=&quot;markdown-toc-4-changing-the-game&quot;&gt;4. Changing the game&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;1-every-action-or-inaction-is-an-investment&quot;&gt;1. Every Action or Inaction is an Investment&lt;/h2&gt;
-&lt;p&gt;Remember, you have only two resources at your disposal: time and money. Both are finite. You have merely 24 hours a day and a budget that’s not endless. Each decision you make, each action you take, is essentially an investment of these resources, with the expectation of a return, be it positive or negative. Take, for instance, the simple decision of dining out with friends. What’s the return you’re seeking? Is it the relaxation from socializing, or the opportunity to learn something new? Weigh the investment of your time and money against the potential return.&lt;/p&gt;
+&lt;h2 id=&quot;1-the-investment-mindset&quot;&gt;1. The Investment Mindset&lt;/h2&gt;
+&lt;p&gt;Every Action or Inaction is an Investment. Remember, you have only two resources at your disposal: time and money. Both are finite. You have merely 24 hours a day and a budget that’s not endless. Each decision you make, each action you take, is essentially an investment of these resources, with the expectation of a return, be it positive or negative. Take, for instance, the simple decision of dining out with friends. What’s the return you’re seeking? Is it the relaxation from socializing, or the opportunity to learn something new? Weigh the investment of your time and money against the potential return.&lt;/p&gt;
 
 &lt;p&gt;This isn’t about forgoing fun; it’s about having a clear objective, even in choices as mundane as eating out. Avoid situations where you end up wasting resources —- like an expensive meal with an annoying friend who can’t stop talking about the new Tesla they leased. For every action you take, you should constantly ask yourself is this a worthy investment?&lt;/p&gt;
 
@@ -157,10 +166,115 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
 &lt;h3 id=&quot;16-weighing-opportunity-cost&quot;&gt;1.6 Weighing Opportunity Cost&lt;/h3&gt;
 &lt;p&gt;In a world of limited resources, every decision carries an opportunity cost. This cost is the road not taken, the choice you forgo when you decide one way. It’s crucial to weigh this carefully. In making a choice, ask yourself what you’re giving up and whether the trade-off is worth it. This mindset will guide you to make more informed, strategic decisions.&lt;/p&gt;
 
-&lt;h2 id=&quot;2-design-gameplay-loop-to-motivate-yourself&quot;&gt;2. Design Gameplay Loop to Motivate Yourself&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper text-center&quot;&gt;
+    
+      &lt;a href=&quot; /images/blog/PlayingReality/gamedesign.png&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/blog/PlayingReality/gamedesign.png&quot; alt=&quot;&quot; class=&quot; w-100 &quot; /&gt;
+
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;2-the-game-design-mindset&quot;&gt;2. The Game Design Mindset&lt;/h2&gt;
+
+&lt;p&gt;Why do we play video games? At first glance, they seem illogical. Games asks us to do the same actions over and over again, each time imbuing them with a slightly different significance. Gaming is a voluntary attempt to overcome unnecessary obstacles. You don’t find zombies lurking in your garden, yet you willingly tackle these unnecessary obstacles in ‘Plants vs Zombies’ wave after wave. You aren’t in a battlefield, yet many invest countless hours disarming virtual bombs in ‘CS:GO’. Meanwhile, our real life is filled with its own set of essential and necessary tasks, from completing assignments to fulfilling work responsibilities. Yet, often, we find ourselves prioritizing virtual, unnecessary tasks in a game over work in real-life. Why is that?&lt;/p&gt;
+
+&lt;p&gt;The answer lies in a simple truth – reality is boring.&lt;/p&gt;
+
+&lt;p&gt;The solution? Equally straightforward –- let’s redesign our reality to make it fun.&lt;/p&gt;
+
+&lt;h3 id=&quot;21-the-setting-of-personal-goals&quot;&gt;2.1 The Setting of Personal Goals&lt;/h3&gt;
+&lt;p&gt;In video games, objectives are crystal clear. Take ‘PUBG’ – the goal is to be the last one standing. The path? Eliminate other players. In ‘Plants vs. Zombies’, it’s about keeping zombies at bay, achieved through strategic planting. These games offer clear, attainable goals, and every player knows exactly what needs to be done to win.&lt;/p&gt;
+
+&lt;p&gt;But what about real life? Often, in the real world, goals are nebulous. Many wander without a clear direction, content in their current state, or lost in the ambiguity of their aspirations. In real life, unlike in games, we don’t have predefined goals or explicit instructions.&lt;/p&gt;
+
+&lt;p&gt;This is where setting a personal goal becomes crucial. It’s not just about setting any goal, but one that resonates with you, that ignites your passion. In gaming, some gamers focus on kill count over accuracy, while others do the opposite. Similarly, in life, your goal should be deeply personal, be it short-term, long-term, or a dream that seems beyond reach. What matters is that it holds significance for you.&lt;/p&gt;
+
+&lt;p&gt;Here’s a personal example: When I was preparing for the ACT in high school, I set my sights on scoring above 32. This wasn’t for my parents or to boost my college applications, but because a friend scored 32, and I wanted to beat him. That was my only motivation. But it was a goal that meant something to me. It was personal.&lt;/p&gt;
+
+&lt;p&gt;That’s the crux of setting goals. Make them personal, make them yours, make them something you care about.&lt;/p&gt;
+
+&lt;h3 id=&quot;22-the-power-of-instant-feedback&quot;&gt;2.2 The Power of Instant Feedback&lt;/h3&gt;
+&lt;p&gt;In gaming, each action is met with immediate feedback. Consider a battle royale game like PUBG: every successful shot, every enemy eliminated, brings you closer to victory. In Plants vs. Zombies, each strategic plant placement visibly defends your home. Even mistakes are instructive — seeing sunflowers devoured by zombies teaches a valuable lesson in strategy. This immediate feedback loop constantly informs you whether you’re on the right track.&lt;/p&gt;
+
+&lt;p&gt;But life doesn’t come with this built-in feedback system – we must create our own feedback mechanisms to gauge progress. Find the smallest action that will move you closer to you goal when done repeatedly, and create feedback mechanisms around it.&lt;/p&gt;
+
+&lt;p&gt;Take my own journey preparing for the ACT as an example. The traditional approach involves months of memorization and practice, with feedback only coming in the form of the final test score. In my case, I designed a daily feedback system. I dedicated four hours each day to mock tests, meticulously tracking scores to measure my progress. 
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;image-wrapper text-center&quot;&gt;
+    
+      &lt;a href=&quot; /images/blog/PlayingReality/act.jpeg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
+    
+        &lt;img src=&quot; /images/blog/PlayingReality/act.jpeg&quot; alt=&quot;&quot; class=&quot; w-100 &quot; /&gt;
+
+    &lt;/a&gt;
+    
+    &lt;br /&gt;
+    
+
+
+&lt;/div&gt;
+
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
+&lt;p&gt;&lt;br /&gt;
+Each day, I saw the fruits of my labor. If my score improved, it fueled my motivation. If it dipped, it drove me to work harder. This was my version of gaming — each day was a level to conquer, each improvement a victory in itself. While others might have spent their afternoons on leisure, I was steadfast in my pursuit, knowing that every step took me closer to my goal. It was akin to honing your skills in a game like CS:GO — repetitive, yes, but undeniably rewarding.&lt;/p&gt;
+
+&lt;p&gt;In the professional world, this might translate to seeking regular feedback from colleagues or benchmarking your weekly achievements. It’s about creating a system that continuously guides you towards your goals, just as in a game.&lt;/p&gt;
+
+&lt;h3 id=&quot;23-the-conviction-of-success&quot;&gt;2.3 The Conviction of Success&lt;/h3&gt;
+&lt;p&gt;In the gaming realm, success is not a matter of if, but when. This confidence stems not just from clear objectives or the consistent feedback, but from an underlying belief: game designers don’t craft unwinnable challenges. This inherent belief fuels the gamer’s confidence in eventual victory.&lt;/p&gt;
+
+&lt;p&gt;Contrast this with reality. Our aspirations — be it entering an Ivy League university or climbing the corporate ladder — often face uncertain outcomes. Life doesn’t assure us of success. This uncertainty can erode our belief in achieving our dreams.&lt;/p&gt;
+
+&lt;p&gt;Yet, consider why games captivate us, why we persist through repeated failures in level: it’s that unshakeable belief in eventual success. To translate this into reality, you must foster a similar belief. Under the feedback system you’ve established, every step, no matter how small, is progress towards your goals.&lt;/p&gt;
+
+&lt;p&gt;Take coding, for instance. It encapsulates this philosophy perfectly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Clear Goal: Designing a specific program.&lt;/li&gt;
+  &lt;li&gt;Feedback Mechanism: Every run of the program offers immediate insights into the impact of the latest code.&lt;/li&gt;
+  &lt;li&gt;Unwavering Belief: Success in programming is seen as a given; many have succeeded before, and so can you.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Achieving a coding milestone brings a rush akin to conquering a formidable boss in Dark Souls — a surge of pride and accomplishment. Yet, this triumph often leaves a void, propelling coders to seek out their next challenge. It’s this cycle of success and the pursuit of new goals that fuels what appears to be an addiction to coding.&lt;/p&gt;
+
+&lt;p&gt;The aforementioned three steps are the easist way to get started. Once you get the hang of it, you can also try the advanced features below.&lt;/p&gt;
+
+&lt;h3 id=&quot;24-the-power-of-rewarding-progress&quot;&gt;2.4 The Power of Rewarding Progress&lt;/h3&gt;
+&lt;p&gt;In the realm of video games, in addition to instant feedback for every small action, every significant milestone brings with it a significant reward. Whether it’s skill points gained upon leveling up, a treasure box discovered at the end of a dungeon, or a bounty of experience points earned from vanquishing a formidable boss, each of these moments is not just a reward but a testament to the player’s skill and progress.&lt;/p&gt;
+
+&lt;p&gt;Now, imagine applying this principle to our real lives. Break down your goals into tangible milestones and associate each with a meaningful reward. This could be anything from a relaxing weekend getaway to a luxurious celebration dinner. These rewards act as beacons, illuminating your journey and providing the motivation to strive for the next achievement.&lt;/p&gt;
+
+&lt;p&gt;This strategy of pairing immediate feedback with significant rewards for each milestone can streamline the pursuit of goals. It turns the journey into a series of victories, each step bringing its own sense of accomplishment and pleasure. By adopting this approach, reaching your goals becomes not just feasible but enjoyable.&lt;/p&gt;
+
+&lt;h3 id=&quot;25-the-power-of-time-constraints&quot;&gt;2.5 The Power of Time Constraints&lt;/h3&gt;
+&lt;p&gt;When designing games, the countdown is a powerful tool. It injects a sense of urgency and focus into the gameplay. Think of those critical moments in a Call of Duty campaign, where you have just one minute to evacuate before the bomb detonates or to stop a missile launcher. This ticking clock heightens the player’s concentration and effectiveness, turning each second into a precious resource.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s apply this principle to real life, where it can yield remarkable results, especially when combined with rewards. During my college years, I usually finish my assignments ahead of time. I use this simple yet powerful strategy: set a fixed period, say four hours, to complete an assignment. I realized the faster I finish, the more time I have for leisure, like playing video games. This approach turns work and fun into a zero-sum game, fueling motivation to complete tasks not only quickly but also with high quality — because redoing means less leisure time.&lt;/p&gt;
+
+&lt;p&gt;This method of using time constraints is about making efficiency a game, where the reward is your own time. It’s about transforming pressure into productivity, urgency into achievement.&lt;/p&gt;
+
+&lt;h3 id=&quot;26-the-power-of-setting-rules&quot;&gt;2.6 The Power of Setting Rules&lt;/h3&gt;
+&lt;p&gt;In video games, many rules may seem arbitrary yet are crucial — falling into water equals instant death, landing in a haystack from any height is safe, and invisible barriers confine players to a set area. However, these rules, sometimes born from development constraints, are essential in making the game functional and enjoyable.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s take this concept and apply it to our daily lives. Here, too, we can establish our own set of rules — ones that might seem unconventional to others but work perfectly for us. It’s about creating a personal code that guides and improves our daily lives. Envision these rules as invisible boundaries that, like in a game, you cannot breach.&lt;/p&gt;
+
+&lt;p&gt;One effective rule I’ve practiced is coupling a less desirable but necessary task with a more enjoyable, optional one. For example, I only allow myself gaming time after hitting the gym. Or doing a pushup every time I grab a snack. These self-imposed regulations create a system of checks and balances that promotes a healthier, more productive lifestyle.&lt;/p&gt;
+
+&lt;p&gt;The beauty of this approach is its flexibility. Your rules can be as unique as you are. Maybe it’s reading a few pages while waiting for code to compile, or making a new friend each week. The key is to craft rules that make sense to you, that help steer your actions towards your goals, just as game rules direct a player’s journey.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-the-business-strategy-mindset&quot;&gt;3. The Business Strategy Mindset&lt;/h2&gt;
 &lt;p&gt;TBA&lt;/p&gt;
 
-&lt;h2 id=&quot;3-changing-the-game&quot;&gt;3. Changing the game&lt;/h2&gt;
+&lt;h2 id=&quot;4-changing-the-game&quot;&gt;4. Changing the game&lt;/h2&gt;
 &lt;p&gt;TBA&lt;/p&gt;</content><author><name></name></author><summary type="html">In the journey of life, we often encounter wisdom that has the power to transform us. But it’s easy, too easy, to let these transformative insights slip away, simply because we fail to act upon them. So I began writing this guide as a personal side-quest to gather the lanterns of wisdom —- those enlightening insights from others that have illuminated my journey. And as life’s game unfolded, my own playthrough, though not without its trials, bore fruit. Friends, colleagues, even strangers began seeking these nuggets of wisdom. Their curiosity was the spark that turned this personal diary into a beacon for others.</summary></entry><entry><title type="html">Tiktok in AR/VR</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok" rel="alternate" type="text/html" title="Tiktok in AR/VR" /><published>2023-06-10T07:40:23-07:00</published><updated>2023-06-10T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_TikTok</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Welcome to the “Reimagine” series. In this series, I’ll pick from the Top 100 apps in the app stores and reimagine them as AR/VR apps in three-dimensional space.&lt;/p&gt;
