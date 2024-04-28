@@ -130,3 +130,9 @@ TBA
 
 ## 4. Changing the game
 TBA
+
+## 0. Misc
+- It's never too late to be what you might have been.
+- If you're the smartest person in the room, you're in the wrong room. 
+- If you're not the smartest person in the room, ask yourself how you can learn from them and become the smartest. Because in the game of life, being second is just being the first loser.
+- We suffer more in our imagianations than in reality. 
