@@ -132,7 +132,18 @@ TBA
 TBA
 
 ## 0. Misc
-- It's never too late to be what you might have been.
+- If you don't work to build your dream life, someone will hire you to build theirs. 
 - If you're the smartest person in the room, you're in the wrong room. 
-- If you're not the smartest person in the room, ask yourself how you can learn from them and become the smartest. Because in the game of life, being second is just being the first loser.
+- If you're not the smartest person in the room, ask yourself how you can learn from them, ask them for advice and become the smartest. Being second is just being the first loser.
+- 90% of life is just showing up. You'll never know what opportunities you are missing out on until you're there.
+- Life waits for nobody, get up everyday and keep pushing through, no matter what.
 - We suffer more in our imagianations than in reality. 
+- Don't regret your past, just learn from it, and move on. 
+- Yesterday is gone, tomorrow is not promised. This moment, that's all we have. Make the most of it. 
+- It's never too late to be what you might have been.
+- If you can't beat the fear, just do it scared. Nobody has life figured out, do your best and wing it like the rest of us.
+- Parent yourself the way your own parents never did.
+- Accept people as they are, but place them where they belong. You are the boss of your own life -- hire, fire and promote. 
+- Never allow others to control the direction of your life. 
+
+
