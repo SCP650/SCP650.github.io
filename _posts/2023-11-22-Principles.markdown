@@ -24,6 +24,22 @@ This is a guide I wrote for myself, but now, it's in your hands. Navigate wisely
 * Table of Contents
 {:toc}
 
+## 0. Principles
+- Strong opinions, weakly held. Embrace different ideas — challenge them, question them, and adopt them when they prove stronger than your own.
+- If you don't work to build your dream life, someone will hire you to build theirs. 
+- If you're the smartest person in the room, you're in the wrong room. 
+- If you're not the smartest person in the room, become the smartest. Ask yourself how you can learn from them, ask them for advice and become better than them. Being second is just being the first loser.
+- 90% of life is just showing up. You'll never know what opportunities you are missing out on until you're there.
+- Life waits for nobody, get up everyday and keep pushing through, no matter what.
+- We suffer more in our imagianations than in reality. 
+- Don't regret your past, just learn from it, and move on. 
+- Yesterday is gone, tomorrow is not promised. This moment, that's all we have. Make the most of it. 
+- It's never too late to be what you might have been.
+- If you can't beat the fear, just do it scared. Nobody has life figured out, do your best and wing it like the rest of us.
+- Parent yourself the way your own parents never did.
+- Accept people as they are, but place them where they belong. You are the boss of your own life -- hire, fire and promote. 
+- Never allow others to control the direction of your life. 
+
 ## 1. The Investment Mindset
 Every Action or Inaction is an Investment. Remember, you have only two resources at your disposal: time and money. Both are finite. You have merely 24 hours a day and a budget that's not endless. Each decision you make, each action you take, is essentially an investment of these resources, with the expectation of a return, be it positive or negative. Take, for instance, the simple decision of dining out with friends. What's the return you're seeking? Is it the relaxation from socializing, or the opportunity to learn something new? Weigh the investment of your time and money against the potential return. 
 
@@ -130,20 +146,3 @@ TBA
 
 ## 4. Changing the game
 TBA
-
-## 0. Misc
-- If you don't work to build your dream life, someone will hire you to build theirs. 
-- If you're the smartest person in the room, you're in the wrong room. 
-- If you're not the smartest person in the room, ask yourself how you can learn from them, ask them for advice and become the smartest. Being second is just being the first loser.
-- 90% of life is just showing up. You'll never know what opportunities you are missing out on until you're there.
-- Life waits for nobody, get up everyday and keep pushing through, no matter what.
-- We suffer more in our imagianations than in reality. 
-- Don't regret your past, just learn from it, and move on. 
-- Yesterday is gone, tomorrow is not promised. This moment, that's all we have. Make the most of it. 
-- It's never too late to be what you might have been.
-- If you can't beat the fear, just do it scared. Nobody has life figured out, do your best and wing it like the rest of us.
-- Parent yourself the way your own parents never did.
-- Accept people as they are, but place them where they belong. You are the boss of your own life -- hire, fire and promote. 
-- Never allow others to control the direction of your life. 
-
-
