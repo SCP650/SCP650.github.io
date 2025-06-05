@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-04-30T19:40:15-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-04T21:50:29-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sebastian Yang</title><subtitle>This is the personal website for Sebastian Yang aka 杨毓恺.</subtitle><entry><title type="html">The Human Edge</title><link href="http://localhost:4000/blogs/human" rel="alternate" type="text/html" title="The Human Edge" /><published>2025-06-03T07:40:23-07:00</published><updated>2025-06-03T07:40:23-07:00</updated><id>http://localhost:4000/blogs/human</id><content type="html" xml:base="http://localhost:4000/blogs/human">&lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
+
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-problem&quot; id=&quot;markdown-toc-the-problem&quot;&gt;The Problem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-human-edge&quot; id=&quot;markdown-toc-the-human-edge&quot;&gt;The Human Edge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#but-cant-ai-do-that-too&quot; id=&quot;markdown-toc-but-cant-ai-do-that-too&quot;&gt;But Can’t AI Do That Too?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#a-practical-guide-influence-before-authority&quot; id=&quot;markdown-toc-a-practical-guide-influence-before-authority&quot;&gt;A Practical Guide: Influence Before Authority&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-1-identify-decisions-that-energize-you&quot; id=&quot;markdown-toc-step-1-identify-decisions-that-energize-you&quot;&gt;Step 1: Identify Decisions That Energize You&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-2-find-your-models&quot; id=&quot;markdown-toc-step-2-find-your-models&quot;&gt;Step 2: Find Your Models&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-3-start-a-side-quest&quot; id=&quot;markdown-toc-step-3-start-a-side-quest&quot;&gt;Step 3: Start a Side Quest&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#step-4-be-strategic-not-obstructive&quot; id=&quot;markdown-toc-step-4-be-strategic-not-obstructive&quot;&gt;Step 4: Be Strategic, Not Obstructive&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#the-outcome&quot; id=&quot;markdown-toc-the-outcome&quot;&gt;The Outcome&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-problem&quot;&gt;The Problem&lt;/h2&gt;
+
+&lt;p&gt;Let’s start with a hard truth.&lt;/p&gt;
+
+&lt;p&gt;From an employer’s perspective, &lt;strong&gt;consciousness is irrelevant&lt;/strong&gt;. They don’t pay for your internal thoughts — they pay for your output.&lt;/p&gt;
+
+&lt;p&gt;So if an AI can code faster, cheaper, and with fewer bugs… why keep the human?&lt;/p&gt;
+
+&lt;p&gt;This is the uncomfortable reality: in a system optimized for efficiency, humans are at risk of being outcompeted. Not because we aren’t capable, but because we aren’t built to be tireless, emotionless productivity engines.&lt;/p&gt;
+
+&lt;p&gt;If you’re a software engineer and your role is confined to implementation (e.g. writing code, shipping tickets) you are already in a race you can’t win. Not because you’re not good. But because the work itself is becoming commoditized.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-human-edge&quot;&gt;The Human Edge&lt;/h2&gt;
+
+&lt;p&gt;But here’s where it gets interesting.&lt;/p&gt;
+
+&lt;p&gt;AI can produce work. But it cannot take &lt;strong&gt;responsibility&lt;/strong&gt; for it.&lt;/p&gt;
+
+&lt;p&gt;It can generate solutions, but it can’t stand up and say, “This is the right thing to do.” In other words: AI can process ambiguity. But it can’t &lt;strong&gt;resolve&lt;/strong&gt; it.&lt;/p&gt;
+
+&lt;p&gt;So maybe the real goal isn’t in doing what AI &lt;em&gt;can’t&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;but in doing what humans &lt;em&gt;must&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;especially when the path is ambiguous, and the stakes are real.&lt;/p&gt;
+
+&lt;p&gt;Ask Yourself:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Where do you see misalignment between what your team builds and what users actually need?&lt;/li&gt;
+  &lt;li&gt;Where do you notice ambiguity? when no one’s quite sure what success looks like, or why a decision feels “off”?&lt;/li&gt;
+  &lt;li&gt;Where do you feel the tension between speed and quality, or between what’s technically feasible and what’s meaningful?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When you start surfacing those tensions—when you frame them, ask better questions, propose thoughtful paths forward — you evolve. You’re no longer just a coder. You’re becoming a sensemaker. A decision maker.&lt;/p&gt;
+
+&lt;p&gt;Here’s the mental framework:&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;Low Ambiguity&lt;/strong&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;strong&gt;High Ambiguity&lt;/strong&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Low Responsibility&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Ticket execution (AI edge)&lt;/td&gt;
+      &lt;td&gt;Noise, misalignment, flailing teams&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;High Responsibility&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Reliable implementation&lt;/td&gt;
+      &lt;td&gt;&lt;strong&gt;Sensemaking, strategic leadership&lt;/strong&gt; (human edge)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;but-cant-ai-do-that-too&quot;&gt;But Can’t AI Do That Too?&lt;/h2&gt;
+
+&lt;p&gt;You might wonder: “Wait — can’t AI help with ambiguous decisions too?”&lt;/p&gt;
+
+&lt;p&gt;Absolutely. AI can simulate reasoning. It can generate competing arguments. It can even summarize stakeholder perspectives and propose options.&lt;/p&gt;
+
+&lt;p&gt;But here’s the difference:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AI can explore decisions. But it can’t &lt;em&gt;own&lt;/em&gt; them.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It can give you choices, but it can’t decide what &lt;strong&gt;matters most&lt;/strong&gt; and live with that choice.&lt;/p&gt;
+
+&lt;p&gt;It can offer scenarios. But it cannot care. And it cannot choose. It doesn’t have skin in the game.&lt;/p&gt;
+
+&lt;p&gt;In the real world, decisions are made in trade-offs, in tension, in relationships. And &lt;em&gt;someone&lt;/em&gt; has to say, “This is the path we’re taking.” That someone still needs to be human.&lt;/p&gt;
+
+&lt;p&gt;In a world where AI can simulate almost everything, your advantage lies in being the one others trust to &lt;strong&gt;make the call when it counts&lt;/strong&gt;, and take responsibility for it.&lt;/p&gt;
+
+&lt;p&gt;AI can say, “Here are three trade-offs for mass public facial recognition.”&lt;/p&gt;
+
+&lt;p&gt;But a human must say, “I will not build this. Even if it’s profitable.”&lt;/p&gt;
+
+&lt;p&gt;That line — between simulation and responsibility — is where the human edge lives.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-practical-guide-influence-before-authority&quot;&gt;A Practical Guide: Influence Before Authority&lt;/h2&gt;
+
+&lt;p&gt;You might be thinking: &lt;em&gt;“I’m just a mid-level engineer. I don’t own strategy. I’m not in the big rooms.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a trap many people fall into. You think: to act with authority, I must have it.&lt;/p&gt;
+
+&lt;p&gt;But the reverse is often more true in practice: &lt;strong&gt;You gain authority by behaving like someone who already has it.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;People start listening not because of your title, but because of your signal:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;You see things early.&lt;/li&gt;
+  &lt;li&gt;You ask sharper questions.&lt;/li&gt;
+  &lt;li&gt;You bring clarity where others bring noise.&lt;/li&gt;
+  &lt;li&gt;You move the team forward—not just fast.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is learnable. It’s not magic. It’s a trait.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-1-identify-decisions-that-energize-you&quot;&gt;Step 1: Identify Decisions That Energize You&lt;/h3&gt;
+
+&lt;p&gt;Not tasks — &lt;em&gt;decisions&lt;/em&gt;. Ask yourself:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What problems are worth solving?&lt;/li&gt;
+  &lt;li&gt;How should we balance user needs with technical constraints?&lt;/li&gt;
+  &lt;li&gt;How do we align vague business goals with technical implementation?&lt;/li&gt;
+  &lt;li&gt;When is “good enough” actually &lt;em&gt;not&lt;/em&gt; good enough?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Notice where you naturally care. That’s your edge.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-2-find-your-models&quot;&gt;Step 2: Find Your Models&lt;/h3&gt;
+
+&lt;p&gt;Who in your org gets to shape those decisions?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What meetings are they in?&lt;/li&gt;
+  &lt;li&gt;How do they speak? What language do they use to reframe priorities?&lt;/li&gt;
+  &lt;li&gt;How do they handle tension, between speed and quality, between product and engineering?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t copy them. &lt;em&gt;Translate&lt;/em&gt; their behavior into something you can practice from where you are.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-3-start-a-side-quest&quot;&gt;Step 3: Start a Side Quest&lt;/h3&gt;
+
+&lt;p&gt;You don’t need permission to lead. Start small, parallel efforts that let you think beyond your ticket queue:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Draft a doc that surfaces unspoken trade-offs in a project.&lt;/li&gt;
+  &lt;li&gt;Flag an unintended consequence early and suggest a mitigation.&lt;/li&gt;
+  &lt;li&gt;Kick off a conversation across functions to realign on goals.&lt;/li&gt;
+  &lt;li&gt;Bridge leadership’s priorities and build-level execution.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These artifacts aren’t busywork — they’re how you train your brain to operate at a higher level.&lt;/p&gt;
+
+&lt;h3 id=&quot;step-4-be-strategic-not-obstructive&quot;&gt;Step 4: Be Strategic, Not Obstructive&lt;/h3&gt;
+
+&lt;p&gt;This one’s critical.&lt;/p&gt;
+
+&lt;p&gt;If you raise &lt;em&gt;every&lt;/em&gt; red flag, people start tuning you out. You risk being seen as a blocker. But staying silent is worse.&lt;/p&gt;
+
+&lt;p&gt;So how do you raise hard truths without losing trust?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Here’s how:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Pick your battles:&lt;/strong&gt; Focus on decisions that affect users at scale, carry long-term risk, or violate core values. Don’t sweat the small stuff—go where it matters.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Frame with curiosity, not criticism:&lt;/strong&gt; Don’t say “This is wrong.” Try: “What’s the risk if this scales?” or “Do we think this aligns with the customer’s mental model?”&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pair critique with possibility:&lt;/strong&gt; If you surface a concern, offer a viable path forward. Even small, low-cost experiments can change minds.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Raise issues early:&lt;/strong&gt; The earlier you bring it up, the more collaborative it feels. Don’t wait until everyone’s neck-deep in code.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;The goal isn’t to block — it’s to reframe.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You want to be the person who says, “Hey, I think we care about this, right? Are we making the trade-off we think we are?”&lt;/p&gt;
+
+&lt;p&gt;When you do that well and consistently, your team starts seeing you differently. As someone who doesn’t just build things, but builds &lt;strong&gt;alignment&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-outcome&quot;&gt;The Outcome&lt;/h2&gt;
+
+&lt;p&gt;The goal isn’t to &lt;em&gt;get credit&lt;/em&gt;. It’s to build &lt;em&gt;credibility&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Do this well, and leaders will start inviting your voice in — not just because you’re loud, but because you bring clarity. Because you ask what no one else is asking.&lt;/p&gt;
+
+&lt;p&gt;You might still carry the title software engineer.&lt;/p&gt;
+
+&lt;p&gt;But the function of your role will have evolved.&lt;/p&gt;
+
+&lt;p&gt;You’ll be the one who not only ships features, but shapes direction. Who moves ambiguous problems toward clarity. Who makes decisions others trust — because you’ve already shown your signal is strong.&lt;/p&gt;
+
+&lt;p&gt;And that?&lt;/p&gt;
+
+&lt;p&gt;That’s a role no AI can automate.&lt;/p&gt;</content><author><name></name></author><summary type="html">Table of Contents</summary></entry><entry><title type="html">Silent Echo</title><link href="http://localhost:4000/projects/2023/fall/InterviewPrep" rel="alternate" type="text/html" title="Silent Echo" /><published>2023-11-09T21:40:23-08:00</published><updated>2023-11-09T21:40:23-08:00</updated><id>http://localhost:4000/projects/2023/fall/InterviewPrep</id><content type="html" xml:base="http://localhost:4000/projects/2023/fall/InterviewPrep">&lt;p&gt;Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.&lt;/p&gt;
 
 &lt;p&gt;Now, imagine if you could have a super experienced hiring manager right there in your living room to practice with. That’s the idea behind this innovative personal project. In this project, I wanted to learn how to merges the immersive experience of mixed reality with advanced AI technology to tackle real-life problems. If you’re curious to see how it works, feel free to check out the video below.&lt;/p&gt;
 
@@ -49,66 +241,7 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
 
 &lt;p&gt;THIS PROJECT, CREATED AND DEVELOPED SOLELY BY SEBASTIAN YANG, IS INTENDED EXCLUSIVELY FOR PERSONAL EDUCATIONAL PURPOSES. ALL DEVELOPMENT AND TESTING HAVE BEEN CONDUCTED ON SEBASTIAN’S OWN PERSONAL EQUIPMENT. UNDER NO CIRCUMSTANCES SHALL THE SOURCE CODE OR THE APPLICATION ITSELF BE DISTRIBUTED, PUBLISHED, OR SOLD IN ANY FORM OR MANNER.&lt;/p&gt;
 
-&lt;p&gt;NO ANIMALS HARMED IN THE MAKING OF THIS PROJECT.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.</summary></entry><entry><title type="html">TechCrunch Disrupt 2023</title><link href="http://localhost:4000/blogs/2023/summer/TCDisrupt" rel="alternate" type="text/html" title="TechCrunch Disrupt 2023" /><published>2023-09-22T07:40:23-07:00</published><updated>2023-09-22T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/TCDisrupt</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/TCDisrupt">&lt;p&gt;I recently attended the TechCrunch Disrupt event from September 19 to 21, 2023. During these days, I had the opportunity to engage with and glean insights from numerous startup founders. In this article, I’ll highlight some of the intriguing startups I came across.&lt;/p&gt;
-
-&lt;h2 id=&quot;yodayoda---live-street-view-data&quot;&gt;Yodayoda - Live Street View Data&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Street view data has significant value, particularly for industries like construction and tourism. However, data from sources like Google Maps can often be outdated. Currently, there’s no effective way to access the freshest street view data.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Yodayoda incentivizes drivers to affix their phones to their car windshields while driving. This setup allows the camera to capture real-time street views paired with precise GPS locations.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: I’m drawn to the concept of harnessing everyday vehicles to gather the most current data. However, I anticipate a few challenges:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Duplicates&lt;/strong&gt;: If multiple cars use this app and traverse the same route on a given day, Yodayoda would need to compensate all the drivers. This becomes costly if the subsequent data from other cars doesn’t offer new insights. If only the first driver gets paid, the compensation diminishes as the user base grows.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Phone Accessibility&lt;/strong&gt;: Many rely on their phones for navigation. Mounting it on the windshield might hinder easy access, especially for those without integrated systems like Apple CarPlay. A better strategy might be partnering with dash cam manufacturers to harvest data directly.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Demand&lt;/strong&gt;: The market for real-time street views, especially on an hourly basis, might be limited. A more realistic demand might revolve around weekly updates. This could further reduce the potential earnings for participating drivers.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;ilume---smart-dog-feeding&quot;&gt;ilume - Smart Dog Feeding&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: The quantity of food a dog requires varies greatly based on its breed and the amount of daily exercise it gets. Overfeeding can result in obesity, potentially reducing the dog’s lifespan.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: ilume offers a dual-component system: a step tracker that attaches to the dog’s collar and a bowl equipped with a weight sensor. Users input their dog’s food calorie density into an app. Daily, owners can view their pet’s activity levels. When feeding time arrives, the bowl signals when the right amount of food has been added.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: I’ve personally faced this dilemma. I own a sizable Labrador, and feeding him as per the recommendations on the dog food packaging (4 cups daily) resulted in noticeable weight gain within weeks. I adjusted his diet to roughly 3 cups daily, occasionally increasing the amount on particularly active days. This process involves a lot of guesswork, and I’m constantly uncertain if I’m overfeeding or underfeeding him.&lt;/p&gt;
-
-&lt;p&gt;Potential challenges include:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Scientific Backing&lt;/strong&gt;: The primary hurdle for ilume is establishing a credible ML model that correlates dog activity with caloric needs. Solid scientific evidence is essential to validate their methodology.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Diverse Feeding Styles&lt;/strong&gt;: Many dog owners occasionally treat their pets or feed them variable-calorie raw foods. Catering to this range of feeding habits could prove challenging.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;carrots--cake---learn-first-play-later&quot;&gt;Carrots &amp;amp; Cake - Learn First, Play Later&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: For numerous households, the iPad serves a dual purpose as both a learning and entertainment tool. But how can parents ensure their kids prioritize educational content over gaming?&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Carrots &amp;amp; Cake is a parental control app that empowers parents to set content categories. For instance, children might need to engage in 15 minutes of Duolingo before being granted 30 minutes on Call of Duty Mobile.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This app effectively identifies and addresses a specific user pain point.&lt;/p&gt;
-
-&lt;p&gt;Yet, it’s not without potential pitfalls:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;No Unique Selling Proposition&lt;/strong&gt;: The primary distinction for this app lies in its use of the Screen Time API, a feature unknown to many developers. However, during Apple’s WWDC 2021 session titled “Meet the Screen Time API”, they introduced a similar application called “Homework” that mirrors Carrots &amp;amp; Cake’s functionality. The session serves as a step-by-step tutorial on how to create it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Pricing Challenges&lt;/strong&gt;: The founders are considering a subscription-based model. This might be unfeasible. Given the simplicity in replicating such an app, competitors could easily introduce free versions to the market.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;pilot---collaborative-trip-planning&quot;&gt;Pilot - Collaborative Trip Planning&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Organizing a trip involving multiple participants often becomes cumbersome through group chats or even using platforms like Google Docs.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Pilot introduces a shared planning interface where users can intuitively drag and drop itinerary items, complemented by an adjacent map. Notably, it offers auto-generated itineraries and suggests top tourist spots for effortless incorporation into travel plans. Its partnership with Kayak further streamlines the process by allowing in-app bookings. Revenue is generated through affiliate link commissions.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This is an ingenious solution to a ubiquitous problem I’ve frequently faced. While I’ve yet to test the app, its success seems promising, given robust execution. The affiliate-based revenue model is both logical and scalable.&lt;/p&gt;
-
-&lt;p&gt;The potential challenge might arise if giants like Expedia decide to mimic these features. However, since Pilot isn’t in direct contention with booking platforms but rather complements them, this seems less probable. Moreover, replicating such an interactive, collaborative tool isn’t a straightforward endeavor. Capitalizing on their pioneer status, Pilot could establish a robust market presence, making it daunting for newcomers. The primary concern might be the user acquisition cost, given the infrequency of travel for most individuals. However, this is surmountable with the right marketing strategies.&lt;/p&gt;
-
-&lt;h2 id=&quot;hal51ai---3d-holograms-with-your-phone&quot;&gt;Hal51.ai - 3D Holograms with Your Phone&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: There’s a growing demand for affordable holographic displays.
-&lt;strong&gt;Solution&lt;/strong&gt;: Hal51.ai offers an innovative box wherein users place their phones. Utilizing reflection techniques, it projects the phone’s screen content within the box, all at a price point below $100.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This product was visually striking. At first glance, it genuinely appears as if a 3D entity is maneuvering inside the box. However, closer scrutiny reveals it’s merely a 2D projection. While its affordable price might make it a fun conversational piece for gatherings, its novelty is likely transient. Its long-term applicability seems limited, especially when compared to more advanced technologies like the looking glass.&lt;/p&gt;
-
-&lt;h2 id=&quot;chatgpt-wrappers&quot;&gt;ChatGPT Wrappers&lt;/h2&gt;
-&lt;p&gt;The event showcased an abundance of ChatGPT-wrapper startups, spanning domains from coding to cybersecurity, web development, legal assistance, HR, and more. While each had its nuances, a common thread was their low entry barrier. This could spell challenges, especially when established players begin embracing similar functionalities.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently attended the TechCrunch Disrupt event from September 19 to 21, 2023. During these days, I had the opportunity to engage with and glean insights from numerous startup founders. In this article, I’ll highlight some of the intriguing startups I came across.</summary></entry><entry><title type="html">Playing Reality</title><link href="http://localhost:4000/blogs/Principles" rel="alternate" type="text/html" title="Playing Reality" /><published>2023-09-22T07:40:23-07:00</published><updated>2023-09-22T07:40:23-07:00</updated><id>http://localhost:4000/blogs/Principles</id><content type="html" xml:base="http://localhost:4000/blogs/Principles">&lt;p&gt;In the journey of life, we often encounter wisdom that has the power to transform us. But it’s easy, too easy, to let these transformative insights slip away, simply because we fail to act upon them. So I began writing this guide as a personal side-quest to gather the lanterns of wisdom —- those enlightening insights from others that have illuminated my journey. And as life’s game unfolded, my own playthrough, though not without its trials, bore fruit. Friends, colleagues, even strangers began seeking these nuggets of wisdom. Their curiosity was the spark that turned this personal diary into a beacon for others.&lt;/p&gt;
+&lt;p&gt;NO ANIMALS HARMED IN THE MAKING OF THIS PROJECT.&lt;/p&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Getting ready for job interviews can be really tough, especially if you’re a college student. It usually means asking friends for help, digging up good questions, and practicing by taking turns being the interviewer and the interviewee. But even after all that effort, the feedback you get might not be of high quality because, let’s face it, your friends are probably just as new to this as you are.</summary></entry><entry><title type="html">Playing Reality</title><link href="http://localhost:4000/blogs/Principles" rel="alternate" type="text/html" title="Playing Reality" /><published>2023-09-22T07:40:23-07:00</published><updated>2023-09-22T07:40:23-07:00</updated><id>http://localhost:4000/blogs/Principles</id><content type="html" xml:base="http://localhost:4000/blogs/Principles">&lt;p&gt;In the journey of life, we often encounter wisdom that has the power to transform us. But it’s easy, too easy, to let these transformative insights slip away, simply because we fail to act upon them. So I began writing this guide as a personal side-quest to gather the lanterns of wisdom —- those enlightening insights from others that have illuminated my journey. And as life’s game unfolded, my own playthrough, though not without its trials, bore fruit. Friends, colleagues, even strangers began seeking these nuggets of wisdom. Their curiosity was the spark that turned this personal diary into a beacon for others.&lt;/p&gt;
 
 &lt;p&gt;But tread lightly. These pages were crafted for my eyes, my interpretation of the game of life. They are not universal cheat codes but rather a collection of strategies that worked for me, in my unique circumstances. Viewer discretion is not just advised, it’s essential. Forge your own path, use these principles as a compass, not a map.&lt;/p&gt;
 
@@ -117,6 +250,7 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
 &lt;h2 class=&quot;no_toc&quot; id=&quot;table-of-contents&quot;&gt;Table of Contents&lt;/h2&gt;
 
 &lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#0-principles&quot; id=&quot;markdown-toc-0-principles&quot;&gt;0. Principles&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#1-the-investment-mindset&quot; id=&quot;markdown-toc-1-the-investment-mindset&quot;&gt;1. The Investment Mindset&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#11-balancing-short-term-vs-long-term-positive-vs-negative-returns&quot; id=&quot;markdown-toc-11-balancing-short-term-vs-long-term-positive-vs-negative-returns&quot;&gt;1.1 Balancing Short-term vs Long-term, Positive vs Negative Returns&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;&lt;a href=&quot;#12-focus-on-investments-that-yield-long-term-dividends&quot; id=&quot;markdown-toc-12-focus-on-investments-that-yield-long-term-dividends&quot;&gt;1.2 Focus on Investments That Yield Long-term Dividends&lt;/a&gt;&lt;/li&gt;
@@ -137,7 +271,24 @@ Buried within a labyrinth of menus (Project Setting -&amp;gt; XR Manager -&amp;g
   &lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#3-the-business-strategy-mindset&quot; id=&quot;markdown-toc-3-the-business-strategy-mindset&quot;&gt;3. The Business Strategy Mindset&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#4-changing-the-game&quot; id=&quot;markdown-toc-4-changing-the-game&quot;&gt;4. Changing the game&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#0-misc&quot; id=&quot;markdown-toc-0-misc&quot;&gt;0. Misc&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;0-principles&quot;&gt;0. Principles&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Strong opinions, weakly held. Embrace different ideas — challenge them, question them, and adopt them when they prove stronger than your own.&lt;/li&gt;
+  &lt;li&gt;If you don’t work to build your dream life, someone will hire you to build theirs.&lt;/li&gt;
+  &lt;li&gt;If you’re the smartest person in the room, you’re in the wrong room.&lt;/li&gt;
+  &lt;li&gt;If you’re not the smartest person in the room, become the smartest. Ask yourself how you can learn from them, ask them for advice and become better than them. Being second is just being the first loser.&lt;/li&gt;
+  &lt;li&gt;90% of life is just showing up. You’ll never know what opportunities you are missing out on until you’re there.&lt;/li&gt;
+  &lt;li&gt;Life waits for nobody, get up everyday and keep pushing through, no matter what.&lt;/li&gt;
+  &lt;li&gt;We suffer more in our imagianations than in reality.&lt;/li&gt;
+  &lt;li&gt;Don’t regret your past, just learn from it, and move on.&lt;/li&gt;
+  &lt;li&gt;Yesterday is gone, tomorrow is not promised. This moment, that’s all we have. Make the most of it.&lt;/li&gt;
+  &lt;li&gt;It’s never too late to be what you might have been.&lt;/li&gt;
+  &lt;li&gt;If you can’t beat the fear, just do it scared. Nobody has life figured out, do your best and wing it like the rest of us.&lt;/li&gt;
+  &lt;li&gt;Parent yourself the way your own parents never did.&lt;/li&gt;
+  &lt;li&gt;Accept people as they are, but place them where they belong. You are the boss of your own life – hire, fire and promote.&lt;/li&gt;
+  &lt;li&gt;Never allow others to control the direction of your life.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;1-the-investment-mindset&quot;&gt;1. The Investment Mindset&lt;/h2&gt;
@@ -276,24 +427,66 @@ Each day, I saw the fruits of my labor. If my score improved, it fueled my motiv
 &lt;p&gt;TBA&lt;/p&gt;
 
 &lt;h2 id=&quot;4-changing-the-game&quot;&gt;4. Changing the game&lt;/h2&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;TBA&lt;/p&gt;</content><author><name></name></author><summary type="html">In the journey of life, we often encounter wisdom that has the power to transform us. But it’s easy, too easy, to let these transformative insights slip away, simply because we fail to act upon them. So I began writing this guide as a personal side-quest to gather the lanterns of wisdom —- those enlightening insights from others that have illuminated my journey. And as life’s game unfolded, my own playthrough, though not without its trials, bore fruit. Friends, colleagues, even strangers began seeking these nuggets of wisdom. Their curiosity was the spark that turned this personal diary into a beacon for others.</summary></entry><entry><title type="html">TechCrunch Disrupt 2023</title><link href="http://localhost:4000/blogs/2023/summer/TCDisrupt" rel="alternate" type="text/html" title="TechCrunch Disrupt 2023" /><published>2023-09-22T07:40:23-07:00</published><updated>2023-09-22T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/TCDisrupt</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/TCDisrupt">&lt;p&gt;I recently attended the TechCrunch Disrupt event from September 19 to 21, 2023. During these days, I had the opportunity to engage with and glean insights from numerous startup founders. In this article, I’ll highlight some of the intriguing startups I came across.&lt;/p&gt;
 
-&lt;h2 id=&quot;0-misc&quot;&gt;0. Misc&lt;/h2&gt;
-&lt;ul&gt;
-  &lt;li&gt;If you don’t work to build your dream life, someone will hire you to build theirs.&lt;/li&gt;
-  &lt;li&gt;If you’re the smartest person in the room, you’re in the wrong room.&lt;/li&gt;
-  &lt;li&gt;If you’re not the smartest person in the room, ask yourself how you can learn from them, ask them for advice and become the smartest. Being second is just being the first loser.&lt;/li&gt;
-  &lt;li&gt;90% of life is just showing up. You’ll never know what opportunities you are missing out on until you’re there.&lt;/li&gt;
-  &lt;li&gt;Life waits for nobody, get up everyday and keep pushing through, no matter what.&lt;/li&gt;
-  &lt;li&gt;We suffer more in our imagianations than in reality.&lt;/li&gt;
-  &lt;li&gt;Don’t regret your past, just learn from it, and move on.&lt;/li&gt;
-  &lt;li&gt;Yesterday is gone, tomorrow is not promised. This moment, that’s all we have. Make the most of it.&lt;/li&gt;
-  &lt;li&gt;It’s never too late to be what you might have been.&lt;/li&gt;
-  &lt;li&gt;If you can’t beat the fear, just do it scared. Nobody has life figured out, do your best and wing it like the rest of us.&lt;/li&gt;
-  &lt;li&gt;Parent yourself the way your own parents never did.&lt;/li&gt;
-  &lt;li&gt;Accept people as they are, but place them where they belong. You are the boss of your own life – hire, fire and promote.&lt;/li&gt;
-  &lt;li&gt;Never allow others to control the direction of your life.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">In the journey of life, we often encounter wisdom that has the power to transform us. But it’s easy, too easy, to let these transformative insights slip away, simply because we fail to act upon them. So I began writing this guide as a personal side-quest to gather the lanterns of wisdom —- those enlightening insights from others that have illuminated my journey. And as life’s game unfolded, my own playthrough, though not without its trials, bore fruit. Friends, colleagues, even strangers began seeking these nuggets of wisdom. Their curiosity was the spark that turned this personal diary into a beacon for others.</summary></entry><entry><title type="html">Tiktok in AR/VR</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok" rel="alternate" type="text/html" title="Tiktok in AR/VR" /><published>2023-06-10T07:40:23-07:00</published><updated>2023-06-10T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_TikTok</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;h2 id=&quot;yodayoda---live-street-view-data&quot;&gt;Yodayoda - Live Street View Data&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Street view data has significant value, particularly for industries like construction and tourism. However, data from sources like Google Maps can often be outdated. Currently, there’s no effective way to access the freshest street view data.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Yodayoda incentivizes drivers to affix their phones to their car windshields while driving. This setup allows the camera to capture real-time street views paired with precise GPS locations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: I’m drawn to the concept of harnessing everyday vehicles to gather the most current data. However, I anticipate a few challenges:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Duplicates&lt;/strong&gt;: If multiple cars use this app and traverse the same route on a given day, Yodayoda would need to compensate all the drivers. This becomes costly if the subsequent data from other cars doesn’t offer new insights. If only the first driver gets paid, the compensation diminishes as the user base grows.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Phone Accessibility&lt;/strong&gt;: Many rely on their phones for navigation. Mounting it on the windshield might hinder easy access, especially for those without integrated systems like Apple CarPlay. A better strategy might be partnering with dash cam manufacturers to harvest data directly.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Demand&lt;/strong&gt;: The market for real-time street views, especially on an hourly basis, might be limited. A more realistic demand might revolve around weekly updates. This could further reduce the potential earnings for participating drivers.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ilume---smart-dog-feeding&quot;&gt;ilume - Smart Dog Feeding&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: The quantity of food a dog requires varies greatly based on its breed and the amount of daily exercise it gets. Overfeeding can result in obesity, potentially reducing the dog’s lifespan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: ilume offers a dual-component system: a step tracker that attaches to the dog’s collar and a bowl equipped with a weight sensor. Users input their dog’s food calorie density into an app. Daily, owners can view their pet’s activity levels. When feeding time arrives, the bowl signals when the right amount of food has been added.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: I’ve personally faced this dilemma. I own a sizable Labrador, and feeding him as per the recommendations on the dog food packaging (4 cups daily) resulted in noticeable weight gain within weeks. I adjusted his diet to roughly 3 cups daily, occasionally increasing the amount on particularly active days. This process involves a lot of guesswork, and I’m constantly uncertain if I’m overfeeding or underfeeding him.&lt;/p&gt;
+
+&lt;p&gt;Potential challenges include:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Scientific Backing&lt;/strong&gt;: The primary hurdle for ilume is establishing a credible ML model that correlates dog activity with caloric needs. Solid scientific evidence is essential to validate their methodology.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Diverse Feeding Styles&lt;/strong&gt;: Many dog owners occasionally treat their pets or feed them variable-calorie raw foods. Catering to this range of feeding habits could prove challenging.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;carrots--cake---learn-first-play-later&quot;&gt;Carrots &amp;amp; Cake - Learn First, Play Later&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: For numerous households, the iPad serves a dual purpose as both a learning and entertainment tool. But how can parents ensure their kids prioritize educational content over gaming?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Carrots &amp;amp; Cake is a parental control app that empowers parents to set content categories. For instance, children might need to engage in 15 minutes of Duolingo before being granted 30 minutes on Call of Duty Mobile.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This app effectively identifies and addresses a specific user pain point.&lt;/p&gt;
+
+&lt;p&gt;Yet, it’s not without potential pitfalls:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;No Unique Selling Proposition&lt;/strong&gt;: The primary distinction for this app lies in its use of the Screen Time API, a feature unknown to many developers. However, during Apple’s WWDC 2021 session titled “Meet the Screen Time API”, they introduced a similar application called “Homework” that mirrors Carrots &amp;amp; Cake’s functionality. The session serves as a step-by-step tutorial on how to create it.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Pricing Challenges&lt;/strong&gt;: The founders are considering a subscription-based model. This might be unfeasible. Given the simplicity in replicating such an app, competitors could easily introduce free versions to the market.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;pilot---collaborative-trip-planning&quot;&gt;Pilot - Collaborative Trip Planning&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: Organizing a trip involving multiple participants often becomes cumbersome through group chats or even using platforms like Google Docs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Solution&lt;/strong&gt;: Pilot introduces a shared planning interface where users can intuitively drag and drop itinerary items, complemented by an adjacent map. Notably, it offers auto-generated itineraries and suggests top tourist spots for effortless incorporation into travel plans. Its partnership with Kayak further streamlines the process by allowing in-app bookings. Revenue is generated through affiliate link commissions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This is an ingenious solution to a ubiquitous problem I’ve frequently faced. While I’ve yet to test the app, its success seems promising, given robust execution. The affiliate-based revenue model is both logical and scalable.&lt;/p&gt;
+
+&lt;p&gt;The potential challenge might arise if giants like Expedia decide to mimic these features. However, since Pilot isn’t in direct contention with booking platforms but rather complements them, this seems less probable. Moreover, replicating such an interactive, collaborative tool isn’t a straightforward endeavor. Capitalizing on their pioneer status, Pilot could establish a robust market presence, making it daunting for newcomers. The primary concern might be the user acquisition cost, given the infrequency of travel for most individuals. However, this is surmountable with the right marketing strategies.&lt;/p&gt;
+
+&lt;h2 id=&quot;hal51ai---3d-holograms-with-your-phone&quot;&gt;Hal51.ai - 3D Holograms with Your Phone&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Problem&lt;/strong&gt;: There’s a growing demand for affordable holographic displays.
+&lt;strong&gt;Solution&lt;/strong&gt;: Hal51.ai offers an innovative box wherein users place their phones. Utilizing reflection techniques, it projects the phone’s screen content within the box, all at a price point below $100.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sebastian’s Thoughts&lt;/strong&gt;: This product was visually striking. At first glance, it genuinely appears as if a 3D entity is maneuvering inside the box. However, closer scrutiny reveals it’s merely a 2D projection. While its affordable price might make it a fun conversational piece for gatherings, its novelty is likely transient. Its long-term applicability seems limited, especially when compared to more advanced technologies like the looking glass.&lt;/p&gt;
+
+&lt;h2 id=&quot;chatgpt-wrappers&quot;&gt;ChatGPT Wrappers&lt;/h2&gt;
+&lt;p&gt;The event showcased an abundance of ChatGPT-wrapper startups, spanning domains from coding to cybersecurity, web development, legal assistance, HR, and more. While each had its nuances, a common thread was their low entry barrier. This could spell challenges, especially when established players begin embracing similar functionalities.&lt;/p&gt;</content><author><name></name></author><summary type="html">I recently attended the TechCrunch Disrupt event from September 19 to 21, 2023. During these days, I had the opportunity to engage with and glean insights from numerous startup founders. In this article, I’ll highlight some of the intriguing startups I came across.</summary></entry><entry><title type="html">Tiktok in AR/VR</title><link href="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok" rel="alternate" type="text/html" title="Tiktok in AR/VR" /><published>2023-06-10T07:40:23-07:00</published><updated>2023-06-10T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2023/summer/Reimagine_TikTok</id><content type="html" xml:base="http://localhost:4000/blogs/2023/summer/Reimagine_TikTok">&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
 
 &lt;p&gt;Welcome to the “Reimagine” series. In this series, I’ll pick from the Top 100 apps in the app stores and reimagine them as AR/VR apps in three-dimensional space.&lt;/p&gt;
 
@@ -728,108 +921,4 @@ Each day, I saw the fruits of my labor. If my score improved, it fueled my motiv
 
 &lt;/div&gt;
 
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Enjoying pictures of Earth? Why not try Earf – the AR Planet Generator!</summary></entry><entry><title type="html">Siggraph 2022 Day 2</title><link href="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2" rel="alternate" type="text/html" title="Siggraph 2022 Day 2" /><published>2022-08-12T07:40:23-07:00</published><updated>2022-08-12T07:40:23-07:00</updated><id>http://localhost:4000/blogs/2022/summer/Siggraph22_Part2</id><content type="html" xml:base="http://localhost:4000/blogs/2022/summer/Siggraph22_Part2">&lt;p&gt;Hi all, welcome to my Siggraph series where I post the TLDR of the most memorable stuff I see at the conference.&lt;/p&gt;
-
-&lt;p&gt;This started as some rambling notes I took during the conference, and I just cleaned it up a bit. It may not be the most accurate (especially the technical papers) but feel free to take a look!&lt;/p&gt;
-
-&lt;h2 id=&quot;day-2-events-ive-attended&quot;&gt;Day 2 Events I’ve attended:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Tech Papers: &lt;strong&gt;Ray Tracing &amp;amp; Monte Carlo Methods&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Expo: &lt;strong&gt;Emerging Technologies&lt;/strong&gt; + &lt;strong&gt;Immersive Pavilion&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Presentation: &lt;strong&gt;Advances in Real-Time Rendering in Games: Part II&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Expo: Companies&lt;/li&gt;
-  &lt;li&gt;Unreal Talk: &lt;strong&gt;Animating In-Engine - Real-Time Production Workflows&lt;/strong&gt;&lt;/li&gt;
-  &lt;li&gt;Expo: Appy Hour&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;highlights&quot;&gt;Highlights&lt;/h2&gt;
-&lt;hr /&gt;
-&lt;h2 id=&quot;immersive-pavilion&quot;&gt;Immersive Pavilion&lt;/h2&gt;
-
-&lt;h3 id=&quot;a-vr-locomotion-method-that-kinda-solves-motion-sickness&quot;&gt;A VR Locomotion Method that (kinda) Solves Motion Sickness&lt;/h3&gt;
-
-&lt;p&gt;What is it: The demo is called “&lt;strong&gt;HyperJumping&lt;/strong&gt;” by Bernhard E. Riecke. It has two parts: lean based locomotion and hyperjump.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Lean-Based Locomotion&lt;/strong&gt;: instead of pushing a thumbstick, you have to physically lean forward to move forward. Since your body is actually leaning forward as your visual changes, it’s less dizzy.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Hyperjump&lt;/strong&gt;: when the user reached a max speed, it will automatically teleport the user for a segment, and then the user will continue to travel at max speed.&lt;/p&gt;
-
-&lt;p&gt;Use case: if a person wants to travel long distances in VR, they don’t want to use smooth locomotion (which is dizzy) and don’t want to teleport (since they will miss the view), they will use lean-based movement + hyperjump.&lt;/p&gt;
-
-&lt;p&gt;Sebastian’s Review: conceptually this is a very interesting idea — combining physical movement with smooth locomotion and teleportation, but in practice, when I tried the demo the Hyperjump(teleportation) feels scary — I would suddenly teleport to another place without any warning. I really like the idea and think further exploration is required.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;expo-companies&quot;&gt;Expo: Companies&lt;/h2&gt;
-
-&lt;p&gt;I tried a ton of demos at the expo, these are the top most memorable three&lt;/p&gt;
-
-&lt;h3 id=&quot;omniverse&quot;&gt;Omniverse&lt;/h3&gt;
-
-&lt;p&gt;I was really really shocked when I saw a live demo of Nvidia’s Omniverse. The demo showcases a game development workflow of 3 people, using Maya, Unreal and Adobe Substance 3D respectively on their own laptops.&lt;/p&gt;
-
-&lt;p&gt;With Omniverse, everything is synced in real-time bi-directionally: if a new car is added in Unreal’s scene, it will be reflected in Maya and Substance 3D instantly. Then the artist in Substance 3D will pain the car, the texture will show up instantly in Unreal and Maya.&lt;/p&gt;
-
-&lt;p&gt;This workflow is very magical and can drastically increase a team’s collaboration efficiency. Under the hood, everything works because they are using Disney’s new and open Universal Scene Description (USD) format. 
-&lt;br /&gt;&lt;/p&gt;
-&lt;div class=&quot;image-wrapper text-center&quot;&gt;
-    
-      &lt;a href=&quot; /images/projects/siggraph22/omniverse.jpg&quot; title=&quot;&quot; target=&quot;_blank&quot;&gt;
-    
-        &lt;img src=&quot; /images/projects/siggraph22/omniverse.jpg&quot; alt=&quot;&quot; class=&quot; w-100 &quot; /&gt;
-
-    &lt;/a&gt;
-    
-        &lt;p&gt;Omniverse Integarting 3 Different Workflow&lt;/p&gt;
-    
-
-
-&lt;/div&gt;
-
-&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;
-
-&lt;h3 id=&quot;oppo-air-glass&quot;&gt;Oppo Air glass&lt;/h3&gt;
-
-&lt;p&gt;I tried Oppo’s Air glass, which is an extension screen you can attach to any glasses. It can display information like weather, messages and live translation.&lt;/p&gt;
-
-&lt;p&gt;In theory, it sounds very good, but when I tried it in practice, I need to constantly change my eye focus between the glass and the person I’m talking to in real life which result in fatigue very quickly. The major issue is that the info is not spatialized. Having a screen that constantly displays irrelevant info is also distracting. It’s a good tech demo but would need a lot more improvement to be consume-ready.&lt;/p&gt;
-
-&lt;h3 id=&quot;stretchsense-gloves&quot;&gt;StretchSense Gloves&lt;/h3&gt;
-
-&lt;p&gt;A current problem with optical hand tracking is that if the hand is obstructed, it can’t be tracked. StretchSense gloves managed to imbed a lot of senses in a normal looking glove, and send rotational information from each joint to their software, which will then convert the data to Unity/Unreal supported format.&lt;/p&gt;
-
-&lt;p&gt;On the update, the glove feels comfortable and does hand tracking very feel. But it comes at a hefty~$5k. It’s a good mocap solution and for research use, but probably not for consumer tech.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;animating-in-engine---real-time-production-workflows&quot;&gt;Animating In-Engine - Real-Time Production Workflows&lt;/h2&gt;
-
-&lt;p&gt;The folks at Epic Games showcased how you can create animations in-engineer without the need for professional software like Maya.&lt;/p&gt;
-
-&lt;p&gt;In the demo, the speaker is able to copy parts of one animation (jumping) and paste them to another animation (moving forward), the final result is a person hopping forward.&lt;/p&gt;
-
-&lt;p&gt;This is very impressive in that programmers can just download a few free mocap assets, and cut and paste different portions to combine to the desired motions. This makes prototyping ideas and making short video clips so much faster.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;h2 id=&quot;tech-papers-ray-tracing--monte-carlo-methods&quot;&gt;Tech Papers: Ray Tracing &amp;amp; Monte Carlo Methods&lt;/h2&gt;
-
-&lt;h3 id=&quot;r2e2-low-latency-path-tracing-of-terabyte-scale-scenes-using-thousands-of-cloud-cpus&quot;&gt;R2E2: Low-latency Path Tracing of Terabyte-scale Scenes Using Thousands of Cloud CPUs&lt;/h3&gt;
-
-&lt;p&gt;Problem: if you need to render terabyte-scale scenes, and you don’t happen to own a super computer… you are out of luck&lt;/p&gt;
-
-&lt;p&gt;Solution: Why now rent thousands of CPUs to run at the same time? That’s what the author did, live, at the presentation — he rented thousands of AWS E3 instances and rendered a path-traced picture of a terabyte scene in ~1 mins.&lt;/p&gt;
-
-&lt;h3 id=&quot;generalized-resampled-importance-sampling-foundations-of-restir&quot;&gt;Generalized Resampled Importance Sampling: Foundations of ReSTIR&lt;/h3&gt;
-
-&lt;p&gt;Problem: Traditional ray tracing is very costly and slow, it also requires multiple passes to generate a good image.&lt;/p&gt;
-
-&lt;p&gt;Context: The ReSTIR approach - it reuses samples from previous frames to improve path distributions across frames (temporal reuse) and resample between this and nearby pixels (spatial reuse)&lt;/p&gt;
-
-&lt;p&gt;Solution: Through some cool math and magic that I don’t fully understand, the author generalized the ReSTIR approach to work on any domains without the need to know the exact PDF&lt;/p&gt;
-
-&lt;h3 id=&quot;regression-based-monte-carlo-integration&quot;&gt;Regression-based Monte Carlo Integration&lt;/h3&gt;
-
-&lt;p&gt;Problem: Solving integration is a hard but common problem in graphics, e.g. to light up one pixel properly, we need to calculate the integral of all the light paths connecting the pixel to the light source.&lt;/p&gt;
-
-&lt;p&gt;Context: Currently we mostly use Monte Carlo Integration, which randomly samples the function and averages those values to estimate the integral. However, this is only an estimate and has errors.&lt;/p&gt;
-
-&lt;p&gt;Solutions: the author proposes a new estimator using regression function + residual, this estimator is provable better than Monte Carlo. Because in the worst case, the regression will be a constant, which will produce the same result as Monte Carlo.&lt;/p&gt;</content><author><name></name></author><summary type="html">Hi all, welcome to my Siggraph series where I post the TLDR of the most memorable stuff I see at the conference.</summary></entry></feed>
+&lt;!-- source from https://superdevresources.com/image-caption-jekyll/ --&gt;</content><author><name></name></author><category term="All" /><category term="AR_VR" /><category term="Software_Engineer" /><summary type="html">Enjoying pictures of Earth? Why not try Earf – the AR Planet Generator!</summary></entry></feed>
